@@ -984,6 +984,16 @@
   info: A version of the arcade game worm (sometimes called snake or nibbles).
   demo:
 
+- name: yahtzee
+  url: http://www.filewatcher.com/m/yahtzee-src.tar.Z.15889-0.html
+  info: A very nice yahtzee game where you can play against humans or against the computer (including several different opponents).
+  demo:
+
+- name: yahtzee-color
+  url: http://www.filewatcher.com/m/colour-yahtzee.tgz.36120-0.html
+  info: A very nice yahtzee game where you can play against humans or against the computer (including several different opponents).
+  demo:
+
 - name: yuxtapa
   url: http://freecode.com/projects/yuxtapa
   info: is a multiplayer real-time CLI game.
