@@ -9,7 +9,7 @@ those already in the database.
 Check `games.yaml` out. All information is inside, and you should more or less
 understand what's going on by reading it. Sorting is alphabetical.
 
-Simplest way to contribute: [edit games.yaml](/edit/master/games.yaml), and then
+Simplest way to contribute: [edit games.yaml](/master/games.yaml), and then
 your changes will be submitted as a pull request.
 
 Use this template:
