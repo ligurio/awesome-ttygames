@@ -1,10 +1,7 @@
 # https://ttygames.wordpress.com/
 # http://www.lgdb.org/
-# http://bronevichok.ru/games.html
 # http://ascii-games.org/index.cgi?games
-# DOS http://www.textmodegames.com/download
 # https://en.wikipedia.org/wiki/List_of_text-based_computer_games
-# http://packages.ubuntu.com/vivid/games-console
 
 - name: 0verkill
   url: http://artax.karlin.mff.cuni.cz/~brain/0verkill/
@@ -108,6 +105,11 @@
   info: A highly conceptual game in which you interact with abstract concepts and mathematical entities as if they were tangible.
   demo:
 
+- name: block
+  url: http://www.filewatcher.com/m/block-0.6.tgz.20110-0.html
+  info: A block-based puzzle game.
+  demo:
+
 - name: bluemoon
   url: http://www.catb.org/~esr/bluemoon/
   info: The Blue Moon card solitaire.
@@ -154,6 +156,11 @@
   info: a set of sliding-block puzzles.
   demo:
 
+- name: chroma
+  url: http://www.level7.org.uk/chroma/
+  info: A challenging puzzle game.
+  demo:
+
 - name: cmines
   url: http://www.muppetlabs.com/~breadbox/software/cgames.html
   info: minesweeper
@@ -193,6 +200,11 @@
 - name: connect4
   url: https://github.com/badescunicu/connect4
   info: The Connect4 game using ncurses C library.
+  demo:
+
+- name: GNU conquest
+  url: http://sourceforge.net/projects/gnu-conquest/
+  info: A multiplayer galactic game.
   demo:
 
 - name: conquest
@@ -371,6 +383,11 @@
   info: A puzzle game with numbers. You must remove as many numbers as you can according to the rules.
   demo:
 
+- name: Hack of Life
+  url: http://www.roguebasin.com/index.php?title=HackOfLife
+  info: The Hack of Life is a roguelike game based on Conway’s Game of Life.
+  demo:
+
 - name: hack (bsdgames)
   url:
   info: An old roguelike game, the ancestor of the famous game nethack.
@@ -411,6 +428,11 @@
   info: Hellband is a Rogue-like game in which you descend through the nine circles of Hell and find an even more dangerous Hell beyond the city of Dis.
   demo:
 
+- name: Hydra Slayer
+  url:
+  info: A nice and easy roguelike game.
+  demo:
+
 - name: portile
   url: http://www.increpare.com/2008/11/portile/
   info:
@@ -448,8 +470,8 @@
   demo:
 
 - name: matanza
-  url: https://packages.debian.org/jessie/games/matanza
-  info:
+  url: http://web.archive.org/web/20071226080243/http://bachue.com/matanza/
+  info: Space ascii war game.
   demo:
 
 - name: MAngband
@@ -477,9 +499,14 @@
   info: Another snake game.
   demo:
 
-- name: GNU minishogi
-  url:
-  info:
+- name: GNU Shogi
+  url: http://users.cms.caltech.edu/~mvanier/hacking/gnushogi/gnushogi.html
+  info: Japanese chess
+  demo:
+
+- name: GNU Pong
+  url: http://www.filewatcher.com/m/gnupong-0.14.tar.gz.32541-0.html
+  info: An old and very poor version of the old pong game.
   demo:
 
 - name: microsnake
@@ -553,6 +580,11 @@
   info: classic snake game on the terminal; made with C++ and ncurses
   demo:
 
+- name: nsuds
+  url: http://sourceforge.net/projects/nsuds/
+  info: A very elaborated sudoku game.
+  demo:
+
 - name: nSudoku
   url: https://www.tbmatuka.com/nsudoku/
   info: A Sudoku game for the console.
@@ -585,12 +617,12 @@
 
 - name: pacman
   url: http://slaout.linux62.org/pacman/index.html
-  info:
+  info: "It's a simple and ASCII version, so no fun (and IA is very stupid)..."
   demo:
 
 - name: pacman
   url: http://freecode.com/projects/asciipacman/
-  info:
+  info: ASCII Pacman is a simple clone of the Pacman game. It features color and animation using only the curses library.
   demo:
 
 - name: pacman
@@ -598,9 +630,20 @@
   info: Pacman for Console.
   demo:
 
+# ssh pacman@antimirov.net pacman/pacman
+- name: Pacman in python
+  url: http://antimirov.net/it/pacman/
+  info: A simple version of the famous pacman game written in python.
+  demo:
+
 - name: petris
   url:
   info: Another tetris clone.
+  demo:
+
+- name: phantasia (bsdgames)
+  url:
+  info: A turn-based role-playing game.
   demo:
 
 - name: Pyro
@@ -635,6 +678,11 @@
   info: Yet another zen simulation.
   demo:
 
+- name: seabattle
+  url: http://www.deater.net/weave/vmwprod/seabattle.html
+  info: A version of the classical battleships game.
+  demo:
+
 - name: seatris
   url: http://www.earth.li/projectpurple/progs/seatris.html
   info: Another clone of the tetris game.
@@ -665,9 +713,14 @@
   info: A hotdogging game, evade the deadly Yeti on your jet-powered skis.
   demo:
 
+- name: slider
+  url: http://www.filewatcher.com/m/slider-1.0.c.gz.1234-0.html
+  info: A slider game.
+  demo:
+
 - name: slashem
   url: http://slashem.sourceforge.net/
-  info:
+  info: Another variant of the roguelike nethack game.
   demo:
 
 # telnet or ssh on sdf.org
@@ -750,6 +803,11 @@
 - name: The Sewer Massacre
   url: https://common-lisp.net/project/lifp/sewers.htm
   info: A roguelike game written in Lisp.
+  demo:
+
+- name: tetris (bsdgames)
+  url:
+  info: A clone of the tetris game.
   demo:
 
 - name: tetris
@@ -863,6 +921,11 @@
   info: Zionist In Space, a text-mode (curses) multiplayer game like Konquest (a turn based strategy; you send ships from planet to planet to conquer them).
   demo:
 
+- name: zangband
+  url: http://www.zangband.org/
+  info: One of the best roguelike games for the console.
+  demo:
+
 - name: zapm
   url: http://zapm.org/
   info: Zapm is a science fiction roguelike game by Cyrus Dolph.
@@ -944,6 +1007,16 @@
 - name: umoria
   url: http://remarque.org/~grabiner/moria.html
   info: An old and easy to play roguelike game.
+  demo:
+
+- name: uLarn
+  url:
+  info: An easy to play roguelike game.
+  demo:
+
+- name: UltraRogue
+  url: http://rogue.rogueforge.net/ultrarogue-1-07/
+  info: Another variant of Rogue.
   demo:
 
 - name: Urban Warfare
