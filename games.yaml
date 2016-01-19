@@ -1,469 +1,537 @@
 # https://ttygames.wordpress.com/
 # http://www.lgdb.org/
 # http://bronevichok.ru/games.html
+# http://ascii-games.org/index.cgi?games
+# DOS http://www.textmodegames.com/download
+# https://en.wikipedia.org/wiki/List_of_text-based_computer_games
+# http://packages.ubuntu.com/vivid/games-console
 
 - name: 0verkill
-  clones:
-    - name: 0verkill
-      url: http://artax.karlin.mff.cuni.cz/~brain/0verkill/
+  url: http://artax.karlin.mff.cuni.cz/~brain/0verkill/
+  info: 0verkill is bloody 2D action deathmatch-like game in ASCII-ART.
 
-- name: aajm
-  clones:
-    - name: aajm
-      url: http://icculus.org/jugglemaster/aa/
+- name: Abura Tan
+  url: http://aburatan.sourceforge.net/
+  info: "A roguelike “game of Cowboy Knights and Lurking Horror”."
+  demo:
 
 - name: alienrl
-  clones:
-    - name: alienrl
-      url: http://alien.chaosforge.org/
-      info: AliensRL is a tactical roguelike game, created in 7 days, inspired by the "Aliens" movie and the "Alien Breed: Tower Assault" computer game.
+  url: http://alien.chaosforge.org/
+  info: AliensRL is a tactical roguelike game, inspired by the "Aliens" movie.
+  demo:
+
+- name: alienwave
+  url: http://www.alessandropira.org/alienwave/aw.html
+  info: another good variant of the space invaders game.
+  demo:
 
 - name: angband
-  clones:
-    - name: angband
-      url: http://rephial.org/
+  url: http://rephial.org/
+  info: Angband is a free, single-player dungeon exploration game.
+  demo:
 
 - name: adventure
-  clones:
-    - name: adventure
-      url: ftp://ftp.simtreas.ru/pub/download/add/adventur.tgz
+  url: ftp://ftp.simtreas.ru/pub/download/add/adventur.tgz
+  info:
+  demo:
 
 - name: adom
-  clones:
-    - name: adom
-      url: http://www.adom.de/
-      info: Typical rogua-like game.
+  url: http://www.adom.de/
+  info: Typical rogua-like game.
+  demo:
 
 - name: ascii portal
-  clones:
-    - name: ascii portal
-      url: http://cymonsgames.com/asciiportal/
+  url: http://cymonsgames.com/asciiportal/
+  info: ASCIIpOrtal is a text based puzzle game inspired by the popular video game.
+  demo:
+
+- name: astwar
+  url: https://savannah.nongnu.org/projects/astwar
+  info: Astwar is a ncurses based game that features two little ships on each side of the screen shooting each other.
+  demo:
 
 - name: asciisector
-  clones:
-    - name: asciisector
-      url: http://www.asciisector.net/
-      info: asciisector is a free space combat/exploration/trading game.
+  url: http://www.asciisector.net/
+  info: asciisector is a free space combat/exploration/trading game.
+  demo:
 
 - name: asciijump
-  clones:
-    - name: asciijump
-      url: http://asciijump.prv.pl/
+  url: http://asciijump.prv.pl/
+  info:
+  demo:
 
 - name: bastet
-  clones:
-    - name: bastet
-      url: http://fph.altervista.org/prog/bastet.html
+  url: http://fph.altervista.org/prog/bastet.html
+  info: Bastet (short for Bastard Tetris)
+  demo:
 
 - name: bombardier
-  clones:
-    - name: bombardier
-      url: http://packages.debian.org/ru/sid/i386/games/bombardier
+  url: http://packages.debian.org/ru/sid/i386/games/bombardier
+  info: This game is the same as the old Blitz16 game on Commodore 16/Plus 4, written by Simon Taylor.
+  demo:
 
+# FIXME
 - name: BSD games
-  clones:
-    - name: BSD games
-      url: https://packages.debian.org/stable/games/bsdgames
+  url: https://packages.debian.org/stable/games/bsdgames
+  info:
+  demo:
 
 - name: battleships
-  clones:
-    - name: battleships
-      url: http://www.catb.org/~esr/bs/
+  url: http://www.catb.org/~esr/bs/
+  info: Uses character-cell graphics with a visual point-and-shoot interface.
+  demo:
 
 - name: bluemoon
-  clones:
-    - name: bluemoon
-      url: http://www.catb.org/~esr/bluemoon/
+  url: http://www.catb.org/~esr/bluemoon/
+  info: The Blue Moon card solitaire.
+  demo:
 
 - name: brogue
-  clones:
-    - name: brogue
-      url: https://sites.google.com/site/broguegame/
+  url: https://sites.google.com/site/broguegame/
+  info: Brogue is a Roguelike game.
+  demo:
+
+# telnet or ssh on sdf.org
+- name: bj
+  url:
+  info: a black-jack card game.
+  demo:
 
 - name: cataclysm
-  clones:
-    - name: cataclysm
-      url: https://web.archive.org/web/20130212063150/http://whalesdev.com/wiki/index.php?title=Main_Page
+  url: https://web.archive.org/web/20130212063150/http://whalesdev.com/wiki/index.php?title=Main_Page
+  info: A Zombie Survival Roguelike.
+  demo:
+
+- name: cblocks
+  url: http://www.muppetlabs.com/~breadbox/software/cgames.html
+  info: a set of sliding-block puzzles.
+  demo:
+
+- name: cmines
+  url: http://www.muppetlabs.com/~breadbox/software/cgames.html
+  info: minesweeper
+  demo:
+
+- name: cmines
+  url: http://www.muppetlabs.com/~breadbox/software/cgames.html
+  info: sokoban
+  demo:
+
+- name: chess
+  url: https://github.com/bolknote/SedChess
+  info: Chess implemented in sed utility.
+  demo:
 
 - name: "cataclysm: dark days ahead"
-  clones:
-    - name: "cataclysm: dark days ahead"
-      url: http://en.cataclysmdda.com/
+  url: http://en.cataclysmdda.com/
+  info:
+  demo:
 
 - name: clines
-  clones:
-    - name: clines
-      url: http://manticore.2y.net/prj/clines-a.html
-      info: Clines is a standard "Lines" game, implemented as a curses application.
+  url: http://manticore.2y.net/prj/clines-a.html
+  info: Clines is a standard "Lines" game, implemented as a curses application.
+  demo:
 
-- name: cmail
-  clones:
-    - name: cmail
-      url: http://www.delorie.com/gnu/docs/xboard/cmail.man.html
-
+# FIXME
 - name: colossal cave adventure
-  clones:
-    - name: colossal cave adventure
-      url: http://en.wikipedia.org/wiki/Colossal_Cave_Adventure
+  url: http://en.wikipedia.org/wiki/Colossal_Cave_Adventure
+  info:
+  demo:
 
 - name: connect4
-  clones:
-    - name: connect4
-      url: http://openports.se/games/connect4
+  url: https://github.com/badescunicu/connect4
+  info: The Connect4 game using ncurses C library.
+  demo:
 
-- name: crawl
-  clones:
-    - name: crawl
-      url: http://crawl.develz.org/
-      info: Dungeon Crawl Stone Soup is an open-source, single-player, role-playing roguelike game of exploration and treasure-hunting in dungeons filled with dangerous and unfriendly monsters in a quest to rescue the mystifyingly fabulous Orb of Zot.
+- name: conquest
+  url: http://radscan.com/conquest.html
+  info: a real-time, multi-player space warfare game.
+  demo:
 
 - name: cryptrover
-  clones:
-    - name: cryptrover
-      url: https://code.google.com/p/cryptrover/
+  url: https://code.google.com/p/cryptrover/
+  info: Escape From The Crypt.
+  demo:
 
 - name: curse-of-war
-  clones:
-    - name: curse-of-war
-      url: http://a-nikolaev.github.io/curseofwar/
-      info: Curse of War is a fast-paced action strategy game for Linux implemented using C and ncurses.
+  url: http://a-nikolaev.github.io/curseofwar/
+  info: Curse of War is a fast-paced action strategy game for Linux originally implemented using ncurses user interface.
+  demo:
 
 - name: diablorl
-  clones:
-    - name: diablorl
-      url: http://diablo.chaosforge.org/
-      info: DiabloRL is a roguelike "unmake" of the popular Blizzard game Diablo.
+  url: http://diablo.chaosforge.org/
+  info: DiabloRL is a roguelike "unmake" of the popular Blizzard game Diablo.
+  demo:
 
 - name: doomrl
-  clones:
-    - name: doomrl
-      url: http://doom.chaosforge.org
+  url: http://doom.chaosforge.org
+  info: DoomRL (Doom, the Roguelike) is a fast and furious coffee-break Roguelike game, that is heavily inspired by the popular FPS game Doom by ID Software.
+  demo:
 
 - name: dopewars
-  clones:
-    - name: dopewars
-      url: http://dopewars.sourceforge.net/
+  url: http://dopewars.sourceforge.net/
+  info: "dopewars is a free rewrite of a game originally based on Drug Wars by John E. Dell."
+  demo:
 
 - name: dsol
-  clones:
-    - name: dsol
-      url: https://feld.me/pub/vga_cardgames-1.3.1.tgz
-      info: dSol is a command line solitaire card game.
+  url: https://feld.me/pub/vga_cardgames-1.3.1.tgz
+  info: dSol is a command line solitaire card game.
+  demo:
 
 - name: dungeon crawl
-  clones:
-    - name: dungeon crawl
-      url: http://www.dungeoncrawl.org/
-      info: Dungeon Crawl, a text-based roguelike game.
+  url: http://www.dungeoncrawl.org/
+  info: Dungeon Crawl, a text-based roguelike game.
+  demo:
 
 - name: Dwarf fortress
-  clones:
-    - name: Dwarf fortress
-      url: http://www.bay12games.com/dwarves/
-      info: Dwarf Fortress is a single-player fantasy game.
+  url: http://www.bay12games.com/dwarves/
+  info: Dwarf Fortress is a single-player fantasy game.
+  demo:
 
 - name: empire
-  clones:
-    - name: empire
-      url: http://packages.debian.org/lenny/empire
+  url: http://packages.debian.org/lenny/empire
+  info:
+  demo:
+
+- name: EyAngband
+  url: http://eyangband.sourceforge.net/
+  info: Another variant of Angband.
+  demo:
 
 - name: freecell
-  clones:
-    - name: freecell
-      url: http://www.linusakesson.net/software/freecell.php
+  url: http://www.linusakesson.net/software/freecell.php
+  info:
+  demo:
 
 - name: freesweep
-  clones:
-    - name: freesweep
-      url: http://www.upl.cs.wisc.edu/~hartmann/sweep/
+  url: http://www.upl.cs.wisc.edu/~hartmann/sweep/
+  info:
+  demo:
 
 - name: frotz
-  clones:
-    - name: frotz
-      url: http://frotz.sourceforge.net/
-      info: Frotz is an interpreter for Infocom games and other Z-machine games.
+  url: http://frotz.sourceforge.net/
+  info: Frotz is an interpreter for Infocom games and other Z-machine games.
+  demo:
+
+- name: Frozen Depths
+  url: http://frozendepths.net/
+  info: A very nice roguelike game with an entertaining atmosphere.
+  demo:
 
 - name: galaxis
-  clones:
-    - name: galaxis
-      url: http://freecode.com/projects/galaxis
+  url: http://freecode.com/projects/galaxis
+  info:
+  demo:
 
 - name: gnuchess
-  clones:
-    - name: gnuchess
-      url: http://www.gnu.org/software/chess/
-      info: GNU Chess is a chess-playing program.
+  url: http://www.gnu.org/software/chess/
+  info: GNU Chess is a chess-playing program.
+  demo:
 
 - name: gnugo
-  clones:
-    - name: gnugo
-      url: http://www.gnu.org/software/gnugo/
-      info: GNU Go is a free program that plays the game of Go.
+  url: http://www.gnu.org/software/gnugo/
+  info: GNU Go is a free program that plays the game of Go.
+  demo:
 
 - name: gearhead
-  clones:
-    - name: gearhead
-      url: http://gearhead.chaosforge.org/
-      info: GearHead is the first roguelike to explore the world of “mechas” (giant robots).
+  url: http://gearhead.chaosforge.org/
+  info: GearHead is the first roguelike to explore the world of “mechas” (giant robots).
+  demo:
 
 - name: goblin-hack
-  clones:
-    - name: goblin-hack
-      url: http://sourceforge.net/projects/goblinhack/
-      info: Goblin Hack is a roguelike opengl-based smooth-scrolling ASCII graphics game.
+  url: http://sourceforge.net/projects/goblinhack/
+  info: Goblin Hack is a roguelike opengl-based smooth-scrolling ASCII graphics game.
+  demo:
 
 - name: gpcslots2
-  clones:
-    - name: gpcslots2
-      url: http://sourceforge.net/projects/gpcslots2/
+  url: http://sourceforge.net/projects/gpcslots2/
+  info:
+  demo:
 
 - name: greed
-  clones:
-    - name: greed
-      url: http://www.catb.org/~esr/greed/
+  url: http://www.catb.org/~esr/greed/
+  info:
+  demo:
 
 - name: hrd
-  clones:
-    - name: hrd
-      url:
-      info: the puzzle game of HuaRongDao
+  url:
+  info: the puzzle game of HuaRongDao
+  demo:
 
 - name: portile
-  clones:
-    - name: portile
-      url: http://www.increpare.com/2008/11/portile/
+  url: http://www.increpare.com/2008/11/portile/
+  info:
+  demo:
 
 - name: invaders
-  clones:
-    - name: invaders
-      url: http://ninvaders.sourceforge.net/
-      info: nInvaders is a Space Invaders clone based on ncurses for ASCII output.
+  url: http://ninvaders.sourceforge.net/
+  info: nInvaders is a Space Invaders clone based on ncurses for ASCII output.
+  demo:
+
+- name: ascii-invaders
+  url: https://github.com/macdice/ascii-invaders
+  info: An ASCII-art game like Space Invaders
+  demo: https://asciinema.org/a/34018
 
 - name: intricacy
-  clones:
-    - name: intricacy
-      url: http://mbays.freeshell.org/intricacy/
+  url: http://mbays.freeshell.org/intricacy/
+  info:
+  demo:
 
 - name: mancala
-  clones:
-    - name: mancala
-      url: http://shh.thathost.com/pub-unix/#Mancala
+  url: http://shh.thathost.com/pub-unix/#Mancala
+  info:
+  demo:
+
+# telnet twenex.org
+- name: manhunt
+  url: 
+  info:
+  demo:
 
 - name: matanza
-  clones:
-    - name: matanza
-      url: https://packages.debian.org/jessie/games/matanza
+  url: https://packages.debian.org/jessie/games/matanza
+  info:
+  demo:
 
 - name: mgt
-  clones:
-    - name: mgt
-      url:
-      info: Go is an ancient oriental strategy game based on the capturing of territory.
+  url:
+  info: Go is an ancient oriental strategy game based on the capturing of territory.
+  demo:
 
 - name: microsnake
-  clones:
-    - name: microsnake
-      url: http://freshmeat.net/projects/micro-snake
-      info: Micro Snake is based on a simple snake game by Simon Huggins.
+  url: http://freshmeat.net/projects/micro-snake
+  info: Micro Snake is based on a simple snake game by Simon Huggins.
+  demo:
 
 - name: moria
-  clones:
-    - name: moria
-      url: http://www-math.bgsu.edu/~grabine/moria.html
-      info: The game is set in Moria and the goal is to kill off the balrog.
+  url: http://www-math.bgsu.edu/~grabine/moria.html
+  info: The game is set in Moria and the goal is to kill off the balrog.
+  demo:
+
+- name: monoUSA
+  url: http://www.filewatcher.com/m/monoUSA2.0.tgz.24322-0.html
+  info: A sort of monopoly game. At least two players are needed.
+  demo:
 
 - name: moon-buggy
-  clones:
-    - name: moon-buggy
-      url: http://seehuhn.de/pages/moon-buggy
-      info: "Moon-buggy is a simple character graphics game where you drive some kind of car across the moon's surface."
+  url: http://seehuhn.de/pages/moon-buggy
+  info: "Moon-buggy is a simple character graphics game where you drive some kind of car across the moon's surface."
+  demo: https://asciinema.org/a/34071
 
 - name: myman
-  clones:
-    - name: myman
-      url: http://myman.sourceforge.net/
-      info: "MyMan is a text-mode videogame inspired by Namco's Pac-Man."
+  url: http://myman.sourceforge.net/
+  info: "MyMan is a text-mode videogame inspired by Namco's Pac-Man."
+  demo:
 
 - name: nethack
-  clones:
-    - name: nethack
-      url: http://www.nethack.org/
-      demo: telnet nethack.alt.org
-      info: NetHack is a single player dungeon exploration game that runs on a wide variety of computer systems, with a variety of graphical and text interfaces all using the same game engine.
+  url: http://www.nethack.org/
+  info: NetHack is a single player dungeon exploration game that runs on a wide variety of computer systems, with a variety of graphical and text interfaces all using the same game engine. (telnet nethack.alt.org)
+  demo:
 
 - name: netris
-  clones:
-    - name: netris
-      url: http://openports.se/games/netris
-      info: This is netris, a networked version of t*tris. It allows head to head two player games via a network.
+  url: http://openports.se/games/netris
+  info: "This is netris, a networked version of t*tris. It allows head to head two player games via a network."
+  demo:
 
 - name: nettoe
-  clones:
-    - name: nettoe
-      url: http://nettoe.sourceforge.net/
-      info: netToe is a Tic Tac Toe-like game for the Unix consoles written in C using UNIX sockets.
+  url: http://nettoe.sourceforge.net/
+  info: netToe is a Tic Tac Toe-like game for the Unix consoles written in C using UNIX sockets.
+  demo:
+
+- name: nudoku
+  url: http://jubalh.github.io/nudoku/
+  info: ncurses based sudoku game
+  demo: https://asciinema.org/a/34070
 
 - name: omega
-  clones:
-    - name: omega
-      url: http://www.alcyone.com/max/projects/omega/
-      info: omega is a complex rogue-style game of dungeon exploration.
+  url: http://www.alcyone.com/max/projects/omega/
+  info: omega is a complex rogue-style game of dungeon exploration.
+  demo:
 
 - name: pacman
-  clones:
-    - name: pacman
-      url: http://slaout.linux62.org/pacman/index.html
+  url: http://slaout.linux62.org/pacman/index.html
+  info:
+  demo:
 
 - name: pacman
-  clones:
-    - name: pacman
-      url: http://freecode.com/projects/asciipacman/
+  url: http://freecode.com/projects/asciipacman/
+  info:
+  demo:
 
 - name: pacman
-  clones:
-    - name: pacman
-      url: https://sites.google.com/site/doctormike/pacman.html
+  url: https://sites.google.com/site/doctormike/pacman.html
+  info: Pacman for Console.
+  demo:
 
 - name: petris
-  clones:
-    - name: petris
-      url:
-      info: Another tetris clone.
+  url:
+  info: Another tetris clone.
+  demo:
 
 - name: pytris
-  clones:
-    - name: pytris
-      url: http://freshmeat.net/projects/pytris
-      info: pytris is a two-player networked console Tetris clone written in Python/Pyncurses.
+  url: http://freshmeat.net/projects/pytris
+  info: pytris is a two-player networked console Tetris clone written in Python/Pyncurses.
+  demo:
 
 - name: shogi
-  clones:
-    - name: shogi
-      url: http://www.gnu.org/software/gnushogi/
-      info: GNU Shogi is a computer program that plays the game of Shogi, also known as Japanese Chess.
+  url: http://www.gnu.org/software/gnushogi/
+  info: GNU Shogi is a computer program that plays the game of Shogi, also known as Japanese Chess.
+  demo:
 
 - name: ski
-  clones:
-    - name: ski
-      url: http://catb.org/~esr/ski/
+  url: http://catb.org/~esr/ski/
+  info: A hotdogging game, evade the deadly Yeti on your jet-powered skis.
+  demo:
 
 - name: slashem
-  clones:
-    - name: slashem
-      url: http://slashem.sourceforge.net/
+  url: http://slashem.sourceforge.net/
+  info:
+  demo:
 
 - name: snake
-  clones:
-    - name: snake
-      url: ftp://ftp.simtreas.ru/pub/my/snake.c.gz
+  url: ftp://ftp.simtreas.ru/pub/my/snake.c.gz
+  info: snake game
+  demo:
+
+- name: snake
+  url: https://github.com/begoon/stuff/blob/master/games/snake/c%2B%2B/snake.cpp
+  info: snake game
+  demo: https://asciinema.org/a/1715
 
 - name: soccer
-  clones:
-    - name: soccer
-      url: http://www.cs.cmu.edu/~trb/soccer/
-      info: ASCII Soccer is a tool for investigating how groups of simple agents interact while playing a soccer-like game.
+  url: http://www.cs.cmu.edu/~trb/soccer/
+  info: ASCII Soccer is a tool for investigating how groups of simple agents interact while playing a soccer-like game.
+  demo:
 
 - name: sokoban
-  clones:
-    - name: sokoban
-      url: ftp://ftp.simtreas.ru/pub/download/pusher.tar.gz
+  url: ftp://ftp.simtreas.ru/pub/download/pusher.tar.gz
+  info:
+  demo:
 
 - name: spacezero
-  clones:
-    - name: spacezero
-      url: http://spacezero.sourceforge.net/
-      info: SpaceZero is a Real Time Strategy 2D space combat game for two players over a network.
+  url: http://spacezero.sourceforge.net/
+  info: SpaceZero is a Real Time Strategy 2D space combat game for two players over a network.
+  demo:
+
+- name: sporkhack
+  url: http://www.sporkhack.com/
+  info: SporkHack, at sporkhack.com, is a variant of Nethack 3.4.3 by Derek Ray aimed at game balance.
+  demo:
 
 - name: starlanes
-  clones:
-    - name: starlanes
-      url: http://www.barnsdle.demon.co.uk/game/starlanes.html
+  url: http://www.barnsdle.demon.co.uk/game/starlanes.html
+  info: Starlanes is a game of interstellar commerce for 1 to 4 players.
+  demo:
 
 - name: startrek
-  clones:
-    - name: startrek
-      url: ftp://ftp.simtreas.ru/pub/download/add/TREK.tgz
+  url: ftp://ftp.simtreas.ru/pub/download/add/TREK.tgz
+  info:
+  demo:
 
 - name: steamband
-  clones:
-    - name: steamband
-      url: http://angband.oook.cz/steamband/steamband.html
-      info: Steamband is a Steampunk / Victorian / Pulp variant of Angband, A roguelike ASCII dungeon exploration simulation game.
-
-- name: sudoku
-  clones:
-    - name: sudoku
-      url: http://baaran.de/sudoku/index-en.shtml
-      info: Sudognu is a command line sudoku solver and creator. Sudognu can display the logical steps it uses to find the solution.
+  url: http://angband.oook.cz/steamband/steamband.html
+  info: Steamband is a roguelike ASCII dungeon exploration simulation game.
+  demo:
 
 - name: tetris
-  clones:
-    - name: tetris
-      url: http://www.michaelcw.com/projects_coding.html
+  url: http://www.michaelcw.com/projects_coding.html
+  info: ASCII Tetris
+  demo:
+
+- name: ascii-tetris
+  url: https://github.com/Gregwar/ASCII-Tetris
+  info: ASCII Tetris game written in C
+  demo:
 
 - name: tetrix
-  clones:
-    - name: tetrix
-      url: http://freecode.com/projects/tetrix
-      info: A UNIX-hosted, curses-based clone of Tetris.
+  url: http://freecode.com/projects/tetrix
+  info: A UNIX-hosted, curses-based clone of Tetris.
+  demo:
 
-- name: tetrinet
-  clones:
-    - name: tetrinet
-      url:
+- name: tty-solitaire
+  url: https://github.com/mpereira/tty-solitaire
+  info: ncurses-based klondike solitaire game.
+  demo: https://asciinema.org/a/6519
+
+- name: threes
+  url: https://github.com/harshjv/threes-c
+  info: Threes!
+  demo: https://asciinema.org/a/18135
 
 - name: tint
-  clones:
-    - name: tint
-      url:
+  url: http://oasis.frogfoot.net/code/tint/
+  info: Tint Is Not Tetris, a ncurses based clone of the original Tetris(tm) game.
+  demo:
+
+- name: tictactoe
+  url: http://www.filewatcher.com/m/tictac2-0.6.tgz.34988-0.html
+  info: Tic Tac Toe game
+  demo:
 
 - name: unnethack
-  clones:
-    - name: unnethack
-      url: http://sourceforge.net/projects/unnethack/
-      info: The first game in this roundup is UnNetHack, a fork of NetHack, originally based on the hugely popular roguelike game NetHack.
+  url: http://sourceforge.net/projects/unnethack/
+  info: The first game in this roundup is UnNetHack, a fork of NetHack, originally based on the hugely popular roguelike game NetHack.
+  demo:
 
 - name: vagabondo
-  clones:
-    - name: vagabondo
-      url: ftp://ftp.simtreas.ru/pub/my/vagabondo.c.gz
+  url: ftp://ftp.simtreas.ru/pub/my/vagabondo.c.gz
+  info:
+  demo:
 
 - name: vitetris
-  clones:
-    - name: vitetris
-      url: http://victornils.net/tetris/
-      info: vitetris is a terminal-based Tetris clone by Victor Nilsson. Gameplay is much like the early Tetris games by Nintendo.
+  url: http://victornils.net/tetris/
+  info: vitetris is a terminal-based Tetris clone by Victor Nilsson. Gameplay is much like the early Tetris games by Nintendo.
+  demo: https://asciinema.org/a/34069
 
 - name: vms-empire
-  clones:
-    - name: vms-empire
-      url: http://www.catb.org/~esr/vms-empire/
+  url: http://www.catb.org/~esr/vms-empire/
+  info: Empire is a simulation of a full-scale war between two emperors, the computer and you.
+  demo:
 
 - name: XorCurses
-  clones:
-    - name: XorCurses
-      url: http://www.jwm-art.net/dark.php?p=XorCurses
-      info: XorCurses is a puzzle game set inside a series of mazes.
+  url: http://www.jwm-art.net/dark.php?p=XorCurses
+  info: XorCurses is a puzzle game set inside a series of mazes.
+  demo: https://asciinema.org/a/34065
 
-- name: zivot
-  clones:
-    - name: zivot
-      url:
+- name: zis
+  url: http://sourceforge.net/projects/zis/
+  info: Zionist In Space, a text-mode (curses) multiplayer game like Konquest (a turn based strategy; you send ships from planet to planet to conquer them).
+  demo:
+
+- name: zapm
+  url: http://zapm.org/
+  info: Zapm is a science fiction roguelike game by Cyrus Dolph.
+  demo:
+
+- name: znake
+  url: http://sourceforge.net/projects/znake-ulven/
+  info: "Just a simple colorful clone of the famous game Snake but with an extraordinary feature. Do you know the Soviet Russia meme by Smirnoff? Try to imagine if you don't eat the food but the food eats you."
+  demo:
 
 - name: ztrack
-  clones:
-    - name: ztrack
-      url: http://openports.se/games/ztrack
-      info: Ztrack is a (very) simple curses-based pseudo-3D driving game.
+  url: http://openports.se/games/ztrack
+  info: Ztrack is a (very) simple curses-based pseudo-3D driving game.
+  demo:
 
+# telnet or ssh on sdf.org
+- name: zombies
+  url: http://www.thistledown.com.au/software/
+  info: Zombies is a simple curses-based game in the same style as robots.
+  demo:
+
+# telnet or ssh on sdf.org
 - name: wanderer
-  clones:
-    - name: wanderer
-      url: http://www.e271.net/~marina/wanderer.html
-      info: Wanderer is a game similar to Boulderdash, Repton, XOR and others.
+  url: http://www.e271.net/~marina/wanderer.html
+  info: Wanderer is a game similar to Boulderdash, Repton, XOR and others.
+  demo:
+
+- name: yuxtapa
+  url: http://freecode.com/projects/yuxtapa
+  info: is a multiplayer real-time CLI game.
+  demo:
 
 - name: 2048-cli
-  clones:
-    - name: 2048-cli
-      url: https://github.com/Tiehuis/2048-cli
-      info: A cli version of the game 2048 for your Linux terminal.
+  url: https://github.com/Tiehuis/2048-cli
+  info: A cli version of the game 2048 for your Linux terminal.
+  demo: https://asciinema.org/a/34067
