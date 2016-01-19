@@ -15,6 +15,16 @@
   info: "A roguelike “game of Cowboy Knights and Lurking Horror”."
   demo:
 
+- name: Ad Astra
+  url: https://code.google.com/p/ad-astra-game/
+  info: Ad Astra is a turn-based space strategy game written in Python that uses curses for its display.
+  demo:
+
+- name: Ambassador of Pain
+  url: http://raffi.at/view/code/aop
+  info: A very nice and challenging arcade game.
+  demo:
+
 - name: alienrl
   url: http://alien.chaosforge.org/
   info: AliensRL is a tactical roguelike game, inspired by the "Aliens" movie.
@@ -45,6 +55,11 @@
   info: ASCIIpOrtal is a text based puzzle game inspired by the popular video game.
   demo:
 
+- name: arithmetic (bsdgames)
+  url:
+  info: Arithmetic questions…
+  demo:
+
 - name: astwar
   url: https://savannah.nongnu.org/projects/astwar
   info: Astwar is a ncurses based game that features two little ships on each side of the screen shooting each other.
@@ -65,20 +80,32 @@
   info: Bastet (short for Bastard Tetris)
   demo:
 
+- name: beasts
+  url: http://peteg.org/beasts/other/
+  info: The game Beasts is a Linux version of the old DOS game called Beast.
+  demo:
+
 - name: bombardier
   url: http://packages.debian.org/ru/sid/i386/games/bombardier
   info: This game is the same as the old Blitz16 game on Commodore 16/Plus 4, written by Simon Taylor.
   demo:
 
-# FIXME
-- name: BSD games
-  url: https://packages.debian.org/stable/games/bsdgames
-  info:
-  demo:
+# FIXME: add bsd games
 
 - name: battleships
   url: http://www.catb.org/~esr/bs/
   info: Uses character-cell graphics with a visual point-and-shoot interface.
+  demo:
+
+- name: backgammon (bsdgames)
+  url:
+  info: A backgammon game; you can play against the computer.
+  demo:
+
+# telnet or ssh on sdf.org
+- name: Beyond the Tesseract
+  url: http://www.wurb.com/if/game/211
+  info: A highly conceptual game in which you interact with abstract concepts and mathematical entities as if they were tangible.
   demo:
 
 - name: bluemoon
@@ -91,6 +118,11 @@
   info: Brogue is a Roguelike game.
   demo:
 
+- name: BrainCurses
+  url: http://sourceforge.net/projects/braincurses/
+  info: A nice version of the mastermind game.
+  demo:
+
 # telnet or ssh on sdf.org
 - name: bj
   url:
@@ -100,6 +132,21 @@
 - name: cataclysm
   url: https://web.archive.org/web/20130212063150/http://whalesdev.com/wiki/index.php?title=Main_Page
   info: A Zombie Survival Roguelike.
+  demo:
+
+- name: canfield (bsdgame)
+  url:
+  info: This is a version of the patience game from the bsdgames collection.
+  demo:
+
+- name: chimaera
+  url: http://www.mipmip.org/C_games/
+  info: A highly unusual "infinite" adventure game written by Chris Newall.
+  demo:
+
+- name: CAVEZ of PHEAR
+  url:
+  info: CAVEZ of PHEAR is a boulder dash / digger like game for console using ncurses.
   demo:
 
 - name: cblocks
@@ -115,6 +162,11 @@
 - name: cmines
   url: http://www.muppetlabs.com/~breadbox/software/cgames.html
   info: sokoban
+  demo:
+
+- name: cNibbles
+  url: http://cnibbles.sourceforge.net
+  info: Another Nibbles game with good and smooth animations.
   demo:
 
 - name: chess
@@ -148,6 +200,36 @@
   info: a real-time, multi-player space warfare game.
   demo:
 
+- name: console othello
+  url: http://david.weekly.org/othello/index.php3
+  info: A console version of the othello game.
+  demo:
+
+- name: corewar
+  url: http://www.corewar.info/
+  info: Core War is a programming game created by D. G. Jones and A. K. Dewdney in which two or more battle programs (called “warriors”) compete for control of a virtual computer.
+  demo:
+
+- name: CPat
+  url: http://cpat.sourceforge.net/
+  info: CPat is probably the best card game for the Linux console; it is a collection of many solitaire/patience games from the most famous to less known games.
+  demo:
+
+- name: ctris
+  url: http://hackl.dhs.org/ctris/
+  info: Another version of the tetris game.
+  demo:
+
+- name: cursedmate
+  url: http://www.uberwall.org/~dash/
+  info: A game with a hacking atmosphere.
+  demo:
+
+- name: crawl
+  url: http://crawl.develz.org/wordpress/
+  info: One of the best games for the Linux console.
+  demo:
+
 - name: cryptrover
   url: https://code.google.com/p/cryptrover/
   info: Escape From The Crypt.
@@ -163,14 +245,20 @@
   info: DiabloRL is a roguelike "unmake" of the popular Blizzard game Diablo.
   demo:
 
+- name: Duel Commander
+  url: http://sourceforge.net/projects/duelcommander/
+  info: Duel Commander is a turn based command line fighting game for Windows and Unix-like systems.
+  demo:
+
 - name: doomrl
   url: http://doom.chaosforge.org
   info: DoomRL (Doom, the Roguelike) is a fast and furious coffee-break Roguelike game, that is heavily inspired by the popular FPS game Doom by ID Software.
   demo:
 
+# telnet or ssh on sdf.org
 - name: dopewars
   url: http://dopewars.sourceforge.net/
-  info: "dopewars is a free rewrite of a game originally based on Drug Wars by John E. Dell."
+  info: A funny game about trading drugs. Dopewars is a free rewrite of a game originally based on Drug Wars by John E. Dell.
   demo:
 
 - name: dsol
@@ -188,9 +276,9 @@
   info: Dwarf Fortress is a single-player fantasy game.
   demo:
 
-- name: empire
-  url: http://packages.debian.org/lenny/empire
-  info:
+- name: Enigma
+  url: http://www.chiark.greenend.org.uk/~sgtatham/enigma/
+  info: A puzzle game where items have to be collected in the right order.
   demo:
 
 - name: EyAngband
@@ -198,14 +286,29 @@
   info: Another variant of Angband.
   demo:
 
+- name: encircled
+  url: http://www.roguebasin.com/index.php?title=Encircled
+  info: Encircled is a roguelike game.
+  demo:
+
 - name: freecell
   url: http://www.linusakesson.net/software/freecell.php
-  info:
+  info: This is a console (ncurses) version of the popular and addictive solitaire game.
+  demo:
+
+- name: Fkmines
+  url: http://sourceforge.net/projects/fkmines/
+  info: Another minesweeper-style game.
+  demo:
+
+- name: freesweep
+  url: https://code.google.com/p/freesweep/
+  info: minesweeper game using curses
   demo:
 
 - name: freesweep
   url: http://www.upl.cs.wisc.edu/~hartmann/sweep/
-  info:
+  info: Freesweep is a console minesweeper-style game written in C for Unix-like systems.
   demo:
 
 - name: frotz
@@ -219,13 +322,18 @@
   demo:
 
 - name: galaxis
-  url: http://freecode.com/projects/galaxis
-  info:
+  url: http://www.catb.org/esr/galaxis/
+  info: Find the lost lifeboats from an interstellar liner.
   demo:
 
 - name: gnuchess
   url: http://www.gnu.org/software/chess/
   info: GNU Chess is a chess-playing program.
+  demo:
+
+- name: GNUSki
+  url: http://sourceforge.net/projects/gnuski/
+  info: GNUSki is an open source clone of Skifree, the old Windows game.
   demo:
 
 - name: gnugo
@@ -236,6 +344,16 @@
 - name: gearhead
   url: http://gearhead.chaosforge.org/
   info: GearHead is the first roguelike to explore the world of “mechas” (giant robots).
+  demo:
+
+- name: Gnake
+  url: http://lightless.org/gnake
+  info: Another variant of the snake game with a smooth movement.
+  demo:
+
+- name: gomoku (bsdgames)
+  url:
+  info: Gomoku is a two player game where the object is to get 5 in a row horizontally, vertically or diagonally on a 19 by 19 grid.
   demo:
 
 - name: goblin-hack
@@ -250,7 +368,22 @@
 
 - name: greed
   url: http://www.catb.org/~esr/greed/
-  info:
+  info: A puzzle game with numbers. You must remove as many numbers as you can according to the rules.
+  demo:
+
+- name: hack (bsdgames)
+  url:
+  info: An old roguelike game, the ancestor of the famous game nethack.
+  demo:
+
+- name: hunt the wumpus (bsdgames)
+  url:
+  info: A quick and funny game from the bsdgames collection.
+  demo:
+
+- name: hunt (bsdgames)
+  url:
+  info: The object of the game hunt is to kill off the other players. There are no rooms, no treasures, and no monsters. Instead, you wander around a maze, find grenades, trip mines, and shoot down walls and players.
   demo:
 
 - name: hrd
@@ -258,12 +391,32 @@
   info: the puzzle game of HuaRongDao
   demo:
 
+- name: hinversi
+  url: http://sourceforge.net/projects/hinversi/
+  info: Hinversi is a implementation of Reversi (a.k.a. Othello), a board game.
+  demo:
+
+- name: Hamurabi
+  url: https://github.com/blt/hamurabi
+  info:
+  demo:
+
+- name: Halls of Mist
+  url: http://www.mikkolehtinen.net/mist/
+  info: A nice roguelike game (variant of angband).
+  demo:
+
+- name: hellband
+  url: http://freecode.com/projects/hellband
+  info: Hellband is a Rogue-like game in which you descend through the nine circles of Hell and find an even more dangerous Hell beyond the city of Dis.
+  demo:
+
 - name: portile
   url: http://www.increpare.com/2008/11/portile/
   info:
   demo:
 
-- name: invaders
+- name: ninvaders
   url: http://ninvaders.sourceforge.net/
   info: nInvaders is a Space Invaders clone based on ncurses for ASCII output.
   demo:
@@ -278,6 +431,11 @@
   info:
   demo:
 
+- name: Liberal Crime Squad
+  url: http://lcs.wikidot.com/start
+  info: This is a very elaborated game where you have to fight with your friends against conservative laws.
+  demo:
+
 - name: mancala
   url: http://shh.thathost.com/pub-unix/#Mancala
   info:
@@ -285,7 +443,7 @@
 
 # telnet twenex.org
 - name: manhunt
-  url: 
+  url:
   info:
   demo:
 
@@ -294,9 +452,34 @@
   info:
   demo:
 
+- name: MAngband
+  url: http://www.mangband.org/
+  info: This is a multiplayer variant of angband.
+  demo:
+
+- name: mastermind-nc
+  url: http://sourceforge.net/projects/mastermind-nc/
+  info: A simple version of the Mastermind game.
+  demo:
+
+- name: dr. Mario
+  url: http://www.filewatcher.com/m/dr_mario.tar.Z.13249-0.html
+  info: This is a tetris-like game but not exactly a tetris clone.
+  demo:
+
 - name: mgt
   url:
   info: Go is an ancient oriental strategy game based on the capturing of territory.
+  demo:
+
+- name: msnake
+  url: http://freecode.com/projects/msnake
+  info: Another snake game.
+  demo:
+
+- name: GNU minishogi
+  url:
+  info:
   demo:
 
 - name: microsnake
@@ -304,9 +487,19 @@
   info: Micro Snake is based on a simple snake game by Simon Huggins.
   demo:
 
+- name: miscom
+  url: http://www.filewatcher.com/m/miscom.tar.gz.93995-0.html
+  info: A curses-based game where you must defend cities from missile attack. It’s essentially a clone of Atari’s “Missile Command” (with some minor enhancements) for terminals, and has colour and sound.
+  demo:
+
 - name: moria
   url: http://www-math.bgsu.edu/~grabine/moria.html
   info: The game is set in Moria and the goal is to kill off the balrog.
+  demo:
+
+- name: moo
+  url: http://www.mipmip.org/C_games/
+  info: Moo (a.k.a. Mastermind) supervisor and a very powerful Moo player.
   demo:
 
 - name: monoUSA
@@ -314,10 +507,16 @@
   info: A sort of monopoly game. At least two players are needed.
   demo:
 
+# telnet or ssh on sdf.org
 - name: moon-buggy
   url: http://seehuhn.de/pages/moon-buggy
   info: "Moon-buggy is a simple character graphics game where you drive some kind of car across the moon's surface."
   demo: https://asciinema.org/a/34071
+
+- name: Mutant Aliens!
+  url: http://www.roguebasin.com/index.php?title=Mutant_Aliens!
+  info: Mutant Aliens! sees a spaceship 'dock safely' into the forest of a hostile alien world.
+  demo:
 
 - name: myman
   url: http://myman.sourceforge.net/
@@ -339,6 +538,26 @@
   info: netToe is a Tic Tac Toe-like game for the Unix consoles written in C using UNIX sockets.
   demo:
 
+- name: Nibbles
+  url: http://www.earth.li/projectpurple/progs/nibbles.html
+  info: Nibbles is a remake of the classic Snake/Nibbles game in ncurses.
+  demo:
+
+- name: nPush
+  url: http://npush.sourceforge.net/
+  info: nPush is a logic game similar to Sokoban and Boulder Dash.
+  demo:
+
+- name: nsnake
+  url: http://sourceforge.net/projects/nsnake/
+  info: classic snake game on the terminal; made with C++ and ncurses
+  demo:
+
+- name: nSudoku
+  url: https://www.tbmatuka.com/nsudoku/
+  info: A Sudoku game for the console.
+  demo:
+
 - name: nudoku
   url: http://jubalh.github.io/nudoku/
   info: ncurses based sudoku game
@@ -347,6 +566,21 @@
 - name: omega
   url: http://www.alcyone.com/max/projects/omega/
   info: omega is a complex rogue-style game of dungeon exploration.
+  demo:
+
+- name: ox3d
+  url: http://www.mipmip.org/C_games/
+  info: "An aggressive 3D Noughts & Crosses player, developed in 1976. The player incorporates the knowledge of the three-in-a-plane forcing patterns and quite spontaneously discovered that plane-forks are deadlier than one would have thought. It can offer suggestions and can be made to play against itself."
+  demo:
+
+- name: okiworld
+  url: http://freecode.com/projects/okiworld
+  info: okiworld is a host-to-host console-based strategy game.
+  demo:
+
+- name: oldrunner
+  url: http://culot.org/public/Code/oldrunner.html
+  info: Oldrunner is a remake of Broderbund’s Loderunner which contains the 150 original game levels. It is written in C and has a text-based interface.
   demo:
 
 - name: pacman
@@ -369,14 +603,61 @@
   info: Another tetris clone.
   demo:
 
+- name: Pyro
+  url: http://pyrogue.sourceforge.net/
+  info: A roguelike written in Python; the display is smooth.
+  demo:
+
 - name: pytris
   url: http://freshmeat.net/projects/pytris
   info: pytris is a two-player networked console Tetris clone written in Python/Pyncurses.
   demo:
 
+- name: reversi
+  url: http://git.b9.com/?p=reversi.git;a=summary
+  info: A good version of the othello/reversi game written in the Lisp langugage.
+  demo:
+
+# telnet or ssh on sdf.org
+- name: Rogue
+  url: http://linux.softpedia.com/get/GAMES-ENTERTAINMENT/RPG/Rogue-30982.shtml
+  info: This is the very ancient and famous game.
+  demo:
+
+# telnet or ssh on sdf.org
+- name: robots (bsdgames)
+  url:
+  info: A game from the bsdgames collection. You have to avoid being killed by stupid robots.
+  demo:
+
+- name: robotfindskitten
+  url: http://robotfindskitten.org/
+  info: Yet another zen simulation.
+  demo:
+
+- name: seatris
+  url: http://www.earth.li/projectpurple/progs/seatris.html
+  info: Another clone of the tetris game.
+  demo:
+
+- name: Scrap
+  url: http://www.math.leidenuniv.nl/~mommen/scrap/
+  info: Scrap is an easy to play roguelike game.
+  demo:
+
 - name: shogi
   url: http://www.gnu.org/software/gnushogi/
   info: GNU Shogi is a computer program that plays the game of Shogi, also known as Japanese Chess.
+  demo:
+
+- name: Sil
+  url: http://www.amirrorclear.net/flowers/game/sil/
+  info: A good roguelike game.
+  demo:
+
+- name: stardork
+  url: http://stardork.sourceforge.net/
+  info: Stardork is a Linux terminal based maze game.
   demo:
 
 - name: ski
@@ -387,6 +668,12 @@
 - name: slashem
   url: http://slashem.sourceforge.net/
   info:
+  demo:
+
+# telnet or ssh on sdf.org
+- name: snake (bsdgames)
+  url: http://www.wurb.com/if/game/211
+  info: A quick and easy turn-based survival game; you have to move without being caught by a snake.
   demo:
 
 - name: snake
@@ -404,9 +691,20 @@
   info: ASCII Soccer is a tool for investigating how groups of simple agents interact while playing a soccer-like game.
   demo:
 
+- name: sst2k
+  url: http://sourceforge.net/projects/sst2k/
+  info: Super Star Trek — a classic computer game
+  demo:
+
 - name: sokoban
   url: ftp://ftp.simtreas.ru/pub/download/pusher.tar.gz
   info:
+  demo:
+
+# telnet or ssh on sdf.org
+- name: sokoban
+  url: http://www.filewatcher.com/m/sokoban-src.tar.gz.16287-0.html
+  info: A fully playable version of the sokoban game, but a little hacking has to be done.
   demo:
 
 - name: spacezero
@@ -434,9 +732,55 @@
   info: Steamband is a roguelike ASCII dungeon exploration simulation game.
   demo:
 
+- name: Sumeria
+  url: http://www.mipmip.org/C_games/
+  info: This is the good old “Govern Ancient Sumeria”, with a 1983 ecology re-write.
+  demo:
+
+- name: Taipan
+  url: http://www.ibiblio.org/pub/linux/games/textrpg
+  info: "Modern version of Art Canfil's classic, Taipan."
+  demo:
+
+- name: tictac4
+  url: http://www.filewatcher.com/m/tictac4-1.0.tar.gz.14413-0.html
+  info: A tic-tac-toe variant where you have to align four symbols (instead of three).
+  demo:
+
+- name: The Sewer Massacre
+  url: https://common-lisp.net/project/lifp/sewers.htm
+  info: A roguelike game written in Lisp.
+  demo:
+
 - name: tetris
   url: http://www.michaelcw.com/projects_coding.html
   info: ASCII Tetris
+  demo:
+
+- name: Tower of Mediocrity
+  url: http://www.cavein.org/~chris/code/tower/
+  info: A tower defense game. Unfortunately, the game is quite easy to win.
+  demo:
+
+- name: Tom Bombem
+  url: http://www.deater.net/weave/vmwprod/tb1/
+  info: An arcade game where you have to shoot on inanimate objects.
+  demo:
+
+# telnet or ssh on sdf.org
+- name: torus
+  url: http://www.filewatcher.com/m/torus-src.tar.gz.13425-0.html
+  info: A variant of the robots game.
+  demo:
+
+- name: tt
+  url: http://www.miketaylor.org.uk/tech/tt/#gsc.tab=0
+  info: Tetris for Terminals is another, very old, clone of tetris.
+  demo:
+
+- name: The Rougelike!
+  url: https://common-lisp.net/project/lifp/rouge.htm
+  info: "The Rougelike! is a roguelike game."
   demo:
 
 - name: ascii-tetris
@@ -454,6 +798,21 @@
   info: ncurses-based klondike solitaire game.
   demo: https://asciinema.org/a/6519
 
+- name: trek73
+  url: http://www.kermitmurray.com/trek73/
+  info: An old but rather elaborated game inspired by the Star Trek series.
+  demo:
+
+- name: trog
+  url: https://github.com/JohnAnthony/TROG
+  info: a roguelike game with simple commands.
+  demo:
+
+- name: Tornado
+  url: https://kiza.eu/software/tornado/
+  info: Tornado is the clone of a C64 game.
+  demo:
+
 - name: threes
   url: https://github.com/harshjv/threes-c
   info: Threes!
@@ -467,6 +826,11 @@
 - name: tictactoe
   url: http://www.filewatcher.com/m/tictac2-0.6.tgz.34988-0.html
   info: Tic Tac Toe game
+  demo:
+
+- name: tzar
+  url: http://freecode.com/projects/tzar
+  info: A roguelike game.
   demo:
 
 - name: unnethack
@@ -504,14 +868,25 @@
   info: Zapm is a science fiction roguelike game by Cyrus Dolph.
   demo:
 
+- name: Z-Day
+  url: http://sheep.art.pl/Z-Day
+  info: Z-Day is an easy to play roguelike game. You have to kill zombies in a supermarket.
+  demo:
+
 - name: znake
   url: http://sourceforge.net/projects/znake-ulven/
   info: "Just a simple colorful clone of the famous game Snake but with an extraordinary feature. Do you know the Soviet Russia meme by Smirnoff? Try to imagine if you don't eat the food but the food eats you."
   demo:
 
 - name: ztrack
-  url: http://openports.se/games/ztrack
+  url: http://ibiblio.org/pub/linux/games/arcade/
   info: Ztrack is a (very) simple curses-based pseudo-3D driving game.
+  demo:
+
+#  telnet on twenex.org 
+- name: Zork I, II, III
+  url: http://www.csd.uwo.ca/Infocom/games.html
+  info: An old game by Infocom.
   demo:
 
 # telnet or ssh on sdf.org
@@ -520,15 +895,60 @@
   info: Zombies is a simple curses-based game in the same style as robots.
   demo:
 
+- name: Zombies!
+  url: http://distractionandnonsense.com/zombies/
+  info: Zombies! is a roguelike written entirely from scratch, in one day, in Common Lisp.
+  demo:
+
 # telnet or ssh on sdf.org
 - name: wanderer
   url: http://www.e271.net/~marina/wanderer.html
   info: Wanderer is a game similar to Boulderdash, Repton, XOR and others.
   demo:
 
+- name: wallyplus
+  url: http://www.filewatcher.com/m/wallyplus-0.1.2.tar.gz.520621-0.html
+  info: A game for playing go.
+  demo:
+
+- name: wumpus & superhack
+  url: http://www.catb.org/esr/wumpus/
+  info: A version of the very old game called Hunt the Wumpus by Eric Raymond. A joke version called “superhack” is included in the archive.
+  demo:
+
+- name: worm (bsdgames)
+  url:
+  info: A version of the arcade game worm (sometimes called snake or nibbles).
+  demo:
+
 - name: yuxtapa
   url: http://freecode.com/projects/yuxtapa
   info: is a multiplayer real-time CLI game.
+  demo:
+
+- name: yetris
+  url: http://alexdantas.github.io/yetris/
+  info: yetris is a customizable Tetris(tm) clone for the console.
+  demo:
+
+- name: Vapors of Insanity
+  url: http://www.roguetemple.com/z/vapors/
+  info: Vapors of Insanity is a roguelike game set on a paradise island of Fortarica.
+  demo:
+
+- name: vadorz
+  url: https://code.google.com/p/vadorz/
+  info: Another space invaders game with simple graphics.
+  demo:
+
+- name: umoria
+  url: http://remarque.org/~grabiner/moria.html
+  info: An old and easy to play roguelike game.
+  demo:
+
+- name: Urban Warfare
+  url: https://common-lisp.net/project/lifp/sewers.htm
+  info: A roguelike game written in Lisp.
   demo:
 
 - name: 2048-cli
