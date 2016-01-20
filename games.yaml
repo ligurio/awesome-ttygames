@@ -376,7 +376,7 @@
 
 - name: gpcslots2
   url: http://sourceforge.net/projects/gpcslots2/
-  info:
+  info: An free/opensource casino text-console game with 5 slot machines, 3 roulette tables including russian roulette, 2 dice games, a bank and stock market.
   screencast:
 
 - name: greed
@@ -458,6 +458,11 @@
 - name: intricacy
   url: http://mbays.freeshell.org/intricacy/
   info:
+  screencast:
+
+- name: Imperium
+  url: https://empiredirectory.net/
+  info: Imperium is a game of intergalactic exploration, warfare, and economics. Imperium has no set goal, and fairly flexible rules about what you can do, thus, while a single player could run their own game just for the fun of exploration, they would be missing out on most of the aspects of the game with no one to compete against.
   screencast:
 
 - name: Liberal Crime Squad
