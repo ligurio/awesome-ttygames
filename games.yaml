@@ -1,7 +1,7 @@
 # https://ttygames.wordpress.com/
 # http://www.lgdb.org/
-# http://ascii-games.org/index.cgi?games
 # https://en.wikipedia.org/wiki/List_of_text-based_computer_games
+# http://osgameclones.com/
 
 - name: 0verkill
   url: http://artax.karlin.mff.cuni.cz/~brain/0verkill/
@@ -10,7 +10,7 @@
 
 - name: Abura Tan
   url: http://aburatan.sourceforge.net/
-  info: "A roguelike “game of Cowboy Knights and Lurking Horror”."
+  info: "A roguelike game of Cowboy Knights and Lurking Horror."
   screencast:
 
 - name: Ad Astra
@@ -383,6 +383,7 @@
   url: http://www.catb.org/~esr/greed/
   info: A puzzle game with numbers. You must remove as many numbers as you can according to the rules.
   screencast:
+  play: telnet or ssh on sdf.org
 
 - name: Hack of Life
   url: http://www.roguebasin.com/index.php?title=HackOfLife
@@ -393,16 +394,19 @@
   url:
   info: An old roguelike game, the ancestor of the famous game nethack.
   screencast:
+  play: telnet or ssh on sdf.org
 
 - name: hunt the wumpus (bsdgames)
   url:
   info: A quick and funny game from the bsdgames collection.
   screencast:
+  play: telnet or ssh on sdf.org
 
 - name: hunt (bsdgames)
   url:
   info: The object of the game hunt is to kill off the other players. There are no rooms, no treasures, and no monsters. Instead, you wander around a maze, find grenades, trip mines, and shoot down walls and players.
   screencast:
+  play: telnet or ssh on sdf.org
 
 - name: hrd
   url:
@@ -443,11 +447,13 @@
   url: http://ninvaders.sourceforge.net/
   info: nInvaders is a Space Invaders clone based on ncurses for ASCII output.
   screencast:
+  play: telnet or ssh on sdf.org
 
 - name: ascii-invaders
   url: https://github.com/macdice/ascii-invaders
   info: An ASCII-art game like Space Invaders
   screencast: https://asciinema.org/a/34018
+  play: telnet or ssh on sdf.org
 
 - name: intricacy
   url: http://mbays.freeshell.org/intricacy/
@@ -558,7 +564,7 @@
   play: telnet on nethack.alt.org
 
 - name: netris
-  url: https://web.archive.org/web/20080702150435/http://www.netris.org/
+  url: http://ftp.fr.openbsd.org/pub/OpenBSD/distfiles/
   info: "This is netris, a networked version of t*tris. It allows head to head two player games via a network."
   screencast:
 
@@ -735,6 +741,7 @@
   url: ftp://ftp.simtreas.ru/pub/my/snake.c.gz
   info: snake game
   screencast:
+  play: telnet or ssh on sdf.org
 
 - name: snake
   url: https://github.com/begoon/stuff/blob/master/games/snake/c%2B%2B/snake.cpp
@@ -755,6 +762,7 @@
   url: ftp://ftp.simtreas.ru/pub/download/pusher.tar.gz
   info:
   screencast:
+  play: telnet or ssh on sdf.org
 
 - name: sokoban
   url: http://www.filewatcher.com/m/sokoban-src.tar.gz.16287-0.html
@@ -952,7 +960,7 @@
   url: http://www.csd.uwo.ca/Infocom/games.html
   info: An old game by Infocom.
   screencast:
-  play: telnet on twenex.org
+  play: telnet or ssh on sdf.org
 
 - name: zombies
   url: http://www.thistledown.com.au/software/
@@ -985,6 +993,7 @@
   url:
   info: A version of the arcade game worm (sometimes called snake or nibbles).
   screencast:
+  play: telnet on twenex.org
 
 - name: yahtzee
   url: http://www.filewatcher.com/m/yahtzee-src.tar.Z.15889-0.html
