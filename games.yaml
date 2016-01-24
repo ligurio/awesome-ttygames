@@ -2,6 +2,14 @@
 # http://www.lgdb.org/
 # https://en.wikipedia.org/wiki/List_of_text-based_computer_games
 # http://osgameclones.com/
+# http://peyre.x10.mx/GWBASIC/index.htm
+# https://archive.org/details/gamesourcecode
+
+- name: Apple Trek
+  url: http://peyre.x10.mx/GWBASIC/index.htm#AppleTrek
+  info:
+  screencast:
+  wikipedia: https://en.wikipedia.org/wiki/Apple_Trek
 
 - name: 0verkill
   url: http://artax.karlin.mff.cuni.cz/~brain/0verkill/
@@ -43,9 +51,9 @@
   info:
   screencast:
 
-- name: adom
+- name: ADOM (Ancient Domains of Mystery)
   url: http://www.adom.de/
-  info: Typical rogua-like game.
+  info: ADOM is a roguelike game which means that it is a single-user game featuring the exploration of a dungeon complex (and in the case of ADOM a few other games of this genre: the exploration of a large wilderness area with villages and many special locations). You control a fictional character described by race, class, attributes, skills, and equipment. This fictional character is trying to achieve a specific goal (see below) and succeed in a difficult quest. To fulfill the quest, you have to explore previously undiscovered tunnels and dungeons, fight hideous monsters, uncover long forgotten secrets, and find treasures of all kind.
   screencast:
 
 - name: ascii portal
@@ -66,12 +74,8 @@
 - name: asciisector
   url: http://www.asciisector.net/
   info: asciisector is a free space combat/exploration/trading game.
-  screencast:
-
-- name: asciijump
-  url: http://asciijump.prv.pl/
-  info:
-  screencast:
+  screencast: http://www.youtube.com/watch?v=SouWUw78Bn0
+  play:
 
 - name: bastet
   url: http://fph.altervista.org/prog/bastet.html
@@ -82,11 +86,20 @@
   url: http://peteg.org/beasts/other/
   info: The game Beasts is a Linux version of the old DOS game called Beast.
   screencast:
+  play:
+  wikipedia: https://en.wikipedia.org/wiki/Beast_(video_game)
 
 - name: bombardier
   url: http://packages.debian.org/ru/sid/i386/games/bombardier
   info: This game is the same as the old Blitz16 game on Commodore 16/Plus 4, written by Simon Taylor.
   screencast:
+
+- name: Boulder dash
+  url: 
+  info: "A Boulder Dash game clone for your favorite terminal. You are trapped in the CAVEZ of PHEAR, your mission is to escape through all the caves and make it out alive. To escape through a cave you will have to find all the diamonds located in it. Once you've found all the diamonds, their powers combined will help you get to the next cave, one step closer to freedom."
+  screencast:
+  play:
+  wikipedia: https://en.wikipedia.org/wiki/Boulder_Dash
 
 # FIXME: add bsd games
 
@@ -184,7 +197,7 @@
 
 - name: "cataclysm: dark days ahead"
   url: http://en.cataclysmdda.com/
-  info:
+  info: Cataclysm: Dark Days Ahead is a roguelike set in a post-apocalyptic world. Surviving is difficult: you have been thrown, ill-equipped, into a landscape now riddled with monstrosities of which flesh eating zombies are neither the strangest nor the deadliest.
   screencast:
 
 - name: clines
@@ -267,6 +280,7 @@
   url: http://doom.chaosforge.org
   info: DoomRL (Doom, the Roguelike) is a fast and furious coffee-break Roguelike game, that is heavily inspired by the popular FPS game Doom by ID Software.
   screencast:
+  play: https://archive.org/details/msdos_Doom_-_The_Roguelike_2005
 
 - name: dopewars
   url: http://dopewars.sourceforge.net/
@@ -292,6 +306,11 @@
 - name: Enigma
   url: http://www.chiark.greenend.org.uk/~sgtatham/enigma/
   info: A puzzle game where items have to be collected in the right order.
+  screencast:
+
+- name: emacs
+  url: http://www.emacswiki.org/emacs/CategoryGames
+  info: Actually it is not a game, but text editor. It includes a bunch of text games like chess, sokoban, pong etc.
   screencast:
 
 - name: EyAngband
@@ -369,8 +388,8 @@
   info: Gomoku is a two player game where the object is to get 5 in a row horizontally, vertically or diagonally on a 19 by 19 grid.
   screencast:
 
-- name: goblin-hack
-  url: http://sourceforge.net/projects/goblinhack/
+- name: goblinhack
+  url: https://github.com/goblinhack/goblinhack
   info: Goblin Hack is a roguelike opengl-based smooth-scrolling ASCII graphics game.
   screencast:
 
@@ -420,8 +439,9 @@
 
 - name: Hamurabi
   url: https://github.com/blt/hamurabi
-  info:
+  info: Hamurabi is a 1969 text-based game of land and resource management and is one of the earliest computer games. Its name is a shortening of Hammurabi, reduced to fit an eight-character limit.
   screencast:
+  wikipedia: https://en.wikipedia.org/wiki/Hamurabi
 
 - name: Halls of Mist
   url: http://www.mikkolehtinen.net/mist/
@@ -440,7 +460,7 @@
 
 - name: portile
   url: http://www.increpare.com/2008/11/portile/
-  info:
+  info: Portile is a 2d, tile-based take on narbacular drop.
   screencast:
 
 - name: ninvaders
@@ -472,8 +492,9 @@
 
 - name: mancala
   url: http://shh.thathost.com/pub-unix/#Mancala
-  info:
+  info: Implementation of the simple board game called Mancala.
   screencast:
+  play:
 
 - name: manhunt
   url:
@@ -678,7 +699,7 @@
   url: http://linux.softpedia.com/get/GAMES-ENTERTAINMENT/RPG/Rogue-30982.shtml
   info: This is the very ancient and famous game.
   screencast:
-  play: telnet or ssh on sdf.org
+  play: telnet or ssh on sdf.org # https://archive.org/details/msdos_Rogue_1983
 
 - name: robots (bsdgames)
   url:
