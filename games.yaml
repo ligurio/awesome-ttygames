@@ -26,10 +26,10 @@
   info: Ad Astra is a turn-based space strategy game written in Python that uses curses for its display.
   screencast:
 
-- name: Ambassador of Pain
-  url: http://raffi.at/view/code/aop
+- name: Ambassador of Pain (aop)
+  url: http://aop.raffi.at/
   info: A very nice and challenging arcade game.
-  screencast:
+  screencast: https://asciinema.org/a/34678
 
 - name: alienrl
   url: http://alien.chaosforge.org/
@@ -51,9 +51,9 @@
   info:
   screencast:
 
-- name: ADOM (Ancient Domains of Mystery)
+- name: "ADOM (Ancient Domains of Mystery)"
   url: http://www.adom.de/
-  info: ADOM is a roguelike game which means that it is a single-user game featuring the exploration of a dungeon complex (and in the case of ADOM a few other games of this genre: the exploration of a large wilderness area with villages and many special locations). You control a fictional character described by race, class, attributes, skills, and equipment. This fictional character is trying to achieve a specific goal (see below) and succeed in a difficult quest. To fulfill the quest, you have to explore previously undiscovered tunnels and dungeons, fight hideous monsters, uncover long forgotten secrets, and find treasures of all kind.
+  info: "ADOM is a roguelike game which means that it is a single-user game featuring the exploration of a dungeon complex (and in the case of ADOM a few other games of this genre: the exploration of a large wilderness area with villages and many special locations). You control a fictional character described by race, class, attributes, skills, and equipment. This fictional character is trying to achieve a specific goal (see below) and succeed in a difficult quest. To fulfill the quest, you have to explore previously undiscovered tunnels and dungeons, fight hideous monsters, uncover long forgotten secrets, and find treasures of all kind."
   screencast:
 
 - name: ascii portal
@@ -74,7 +74,13 @@
 - name: asciisector
   url: http://www.asciisector.net/
   info: asciisector is a free space combat/exploration/trading game.
-  screencast: http://www.youtube.com/watch?v=SouWUw78Bn0
+  screencast:
+  play:
+
+- name: avanor
+  url:
+  info: Rogue-like game with easy ADOM-like user interface.
+  screencast:
   play:
 
 - name: bastet
@@ -95,7 +101,7 @@
   screencast:
 
 - name: Boulder dash
-  url: 
+  url:
   info: "A Boulder Dash game clone for your favorite terminal. You are trapped in the CAVEZ of PHEAR, your mission is to escape through all the caves and make it out alive. To escape through a cave you will have to find all the diamonds located in it. Once you've found all the diamonds, their powers combined will help you get to the next cave, one step closer to freedom."
   screencast:
   play:
@@ -119,7 +125,7 @@
   screencast:
   play: telnet or ssh on sdf.org
 
-- name: block
+- name: blocks
   url: http://www.filewatcher.com/m/block-0.6.tgz.20110-0.html
   info: A block-based puzzle game.
   screencast:
@@ -197,12 +203,17 @@
 
 - name: "cataclysm: dark days ahead"
   url: http://en.cataclysmdda.com/
-  info: Cataclysm: Dark Days Ahead is a roguelike set in a post-apocalyptic world. Surviving is difficult: you have been thrown, ill-equipped, into a landscape now riddled with monstrosities of which flesh eating zombies are neither the strangest nor the deadliest.
+  info: "Cataclysm: Dark Days Ahead is a roguelike set in a post-apocalyptic world. Surviving is difficult: you have been thrown, ill-equipped, into a landscape now riddled with monstrosities of which flesh eating zombies are neither the strangest nor the deadliest."
   screencast:
 
 - name: clines
   url: http://manticore.2y.net/prj/clines-a.html
   info: Clines is a standard "Lines" game, implemented as a curses application.
+  screencast:
+
+- name: clines
+  url: https://github.com/veselov/clines
+  info: Color Lines clone in console.
   screencast:
 
 # FIXME
@@ -280,7 +291,8 @@
   url: http://doom.chaosforge.org
   info: DoomRL (Doom, the Roguelike) is a fast and furious coffee-break Roguelike game, that is heavily inspired by the popular FPS game Doom by ID Software.
   screencast:
-  play: https://archive.org/details/msdos_Doom_-_The_Roguelike_2005
+  play:
+# https://archive.org/details/msdos_Doom_-_The_Roguelike_2005
 
 - name: dopewars
   url: http://dopewars.sourceforge.net/
@@ -335,7 +347,7 @@
 
 - name: freesweep
   url: https://code.google.com/p/freesweep/
-  info: minesweeper game using curses
+  info: minesweeper game using curses.
   screencast:
 
 - name: freesweep
@@ -463,6 +475,11 @@
   info: Portile is a 2d, tile-based take on narbacular drop.
   screencast:
 
+- name: plonx
+  url: http://bilious.homelinux.org/~paxed/plonx/
+  info: Small ASCII puzzle game.
+  screencast:
+
 - name: ninvaders
   url: http://ninvaders.sourceforge.net/
   info: nInvaders is a Space Invaders clone based on ncurses for ASCII output.
@@ -517,10 +534,11 @@
   info: A simple version of the Mastermind game.
   screencast:
 
-- name: dr. Mario
+- name: Dr. Mario
   url: http://www.filewatcher.com/m/dr_mario.tar.Z.13249-0.html
-  info: This is a tetris-like game but not exactly a tetris clone.
+  info: Dr. Mario or BUGS is a clone of Nentendo’s Dr. Mario, well sort of.
   screencast:
+  wikipedia: https://en.wikipedia.org/wiki/Dr._Mario
 
 - name: mgt
   url:
@@ -583,6 +601,11 @@
   info: "MyMan is a text-mode videogame inspired by Namco's Pac-Man."
   screencast:
 
+- name: nclife
+  url: https://github.com/mikepierce/ncLife
+  info: "Conway's Game of Life in C++ using ncurses."
+  screencast:
+
 - name: nethack
   url: http://www.nethack.org/
   info: NetHack is a single player dungeon exploration game that runs on a wide variety of computer systems, with a variety of graphical and text interfaces all using the same game engine.
@@ -599,7 +622,7 @@
   info: netToe is a Tic Tac Toe-like game for the Unix consoles written in C using UNIX sockets.
   screencast:
 
-- name: Nibbles
+- name: nibbles
   url: http://www.earth.li/projectpurple/progs/nibbles.html
   info: Nibbles is a remake of the classic Snake/Nibbles game in ncurses.
   screencast:
@@ -685,6 +708,11 @@
   info: A roguelike written in Python; the display is smooth.
   screencast:
 
+- name: pythrees
+  url: https://github.com/unyth/pythrees
+  info: Python curses homage to Threes!
+  screencast:
+
 - name: pytris
   url: http://freshmeat.net/projects/pytris
   info: pytris is a two-player networked console Tetris clone written in Python/Pyncurses.
@@ -715,7 +743,7 @@
 - name: seabattle
   url: http://www.deater.net/weave/vmwprod/seabattle.html
   info: A version of the classical battleships game.
-  screencast:
+  screencast: https://asciinema.org/a/34680
 
 - name: seatris
   url: http://www.earth.li/projectpurple/progs/seatris.html
@@ -786,7 +814,7 @@
 
 - name: sokoban
   url: ftp://ftp.simtreas.ru/pub/download/pusher.tar.gz
-  info:
+  info: Sokoban is a logical game, where U must solve problems with pushing packets in labirints. The problem is to push packets to saving positions by moving around and pushing only one packet at a time if possible.
   screencast:
   play: telnet or ssh on sdf.org
 
@@ -849,6 +877,11 @@
 - name: tetris
   url: http://www.michaelcw.com/projects_coding.html
   info: ASCII Tetris
+  screencast:
+
+- name: text2048
+  url: https://github.com/chtisgit/text2048
+  info: "This is an ncurses version of the game '2048'."
   screencast:
 
 - name: Tower of Mediocrity
