@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+
+<!-- _____ _____ __ __    _____ _____ _____ _____ _____ 
+	|_   _|_   _|  |  |  |   __|  _  |     |   __|   __|
+	  | |   | | |_   _|  |  |  |     | | | |   __|__   |
+	  |_|   |_|   |_|    |_____|__|__|_|_|_|_____|_____| -->
+
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="Sergey Bronnikov">
+  <meta name="keywords" content="open source, game, ascii, text, tty">
+  <meta name="description" content="List of open source tty games.">
+  <meta name="application-name" content="ASCII Games">
+  <link rel="stylesheet" href="main.css">
+  <title>Open Source Text Games</title>
+  <style>
+	#corners1 {
+		border-radius: 4px;
+		background: lightGrey;
+		padding: 3px; 
+		width: 40%;
+	}
+	#corners2 {
+		border-radius: 4px;
+		background: lightGrey;
+		padding: 3px; 
+		width: 7%;
+	}
+  </style>
+</head>
+
+<body>
+	<header><h1>Open Source Text Games</h1></header>
+
+  <article>
+    <p>
+	This site tries to gather of great old text mode games in one place. If
+	you think that something is missing in the list - please go to our <a
+	href="https://github.com/ligurio/ttygames">Github repository</a> and create an
+	issue or even a pull request!
+    </p>
+    <p>
+      Similar resources: check
+      out <a href="https://ttygames.wordpress.com/">TTY Games</a>, which
+      specializes on games in text mode, and <a href="http://www.lgdb.org/category/game_graphic/text_console">Linux Game Database</a>, contains a list of ASCII games.
+    </p>
+  </article>
+
+    <p>
+      Type "play" to find all games available on remote servers via telnet or ssh.
+      Type "screencast" to find all games with recorded screencasts.
+    </p>
+
+<div>
+	<input id="filter" type="text" placeholder="Type to filter by name or information">
+</div>
+
+<h2>List of text mode games</h2>
+
+<dl>
+	{{range .}}
+	<dt id="{{.Name}}" class="searchable">
+		<a href="{{.URL}}">{{.Name}}</a>
+		<a href="#{{.Name}}" class="hash">#</a>
+	</dt>
+
+	<dd class="searchable" data-index="{{.Name}} {{.Info}} {{if ne .Play ""}}demo{{end}} {{if ne .Screencast ""}}screencast</a>{{end}}">
+		{{if ne .Info ""}}{{.Info}}{{end}}
+		{{if ne .Screencast ""}}<p id="corners2"><a href="{{.Screencast}}">View</a></p>{{end}}
+		{{if ne .Play ""}}<p id="corners1">Play: <i>{{.Play}}</i></p>{{end}}
+	</dd>
+	{{end}}
+</dl>
+
+<style id="filter-style">
+</style>
+
+<footer>&#169; 2009-2016
+	<a href="https://twitter.com/estet">@estet</a>
+</footer>
+
+<script type="text/javascript">
+    // search handling
+    (function() {
+        // collect indexes on dt
+        var nodes = document.getElementsByTagName('dt');
+        for (var i = 0, l = nodes.length; i < l; i++) {
+            var el = nodes[i], next = el, index = [];
+            while ((next = next.nextElementSibling) && !next.id) {
+                if (next.tagName != 'DD')
+                    continue;
+                index.push(next.getAttribute('data-index'));
+            }
+            el.setAttribute('data-index', index.join(' '));
+        };
+        var getfilter = function(term) {
+            return !term ? "" :
+                '[data-index*="' + term.toLowerCase().replace('"', '') + '"]';
+        }
+        var style = document.getElementById('filter-style');
+        document.getElementById('filter').addEventListener('input', function() {
+            if (!this.value) {
+                style.innerHTML = "";
+                return;
+            }
+            style.innerHTML =
+                ".searchable {display: none} .searchable" +
+                this.value.split(' ').map(getfilter).join('') +
+                "{display: block}";
+        });
+    })();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47888478-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

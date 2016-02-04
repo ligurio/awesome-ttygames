@@ -186,11 +186,6 @@
   info: minesweeper
   screencast:
 
-- name: cmines
-  url: http://www.muppetlabs.com/~breadbox/software/cgames.html
-  info: sokoban
-  screencast:
-
 - name: cNibbles
   url: http://cnibbles.sourceforge.net
   info: Another Nibbles game with good and smooth animations.
@@ -609,7 +604,7 @@
 - name: nethack
   url: http://www.nethack.org/
   info: NetHack is a single player dungeon exploration game that runs on a wide variety of computer systems, with a variety of graphical and text interfaces all using the same game engine.
-  screencast:
+  screencast: https://asciinema.org/a/34687
   play: telnet on nethack.alt.org
 
 - name: netris
@@ -642,10 +637,10 @@
   info: A very elaborated sudoku game.
   screencast:
 
-- name: nSudoku
+- name: nsudoku
   url: https://www.tbmatuka.com/nsudoku/
   info: A Sudoku game for the console.
-  screencast:
+  screencast: https://asciinema.org/a/34688
 
 - name: nudoku
   url: http://jubalh.github.io/nudoku/
@@ -675,7 +670,7 @@
 - name: pacman
   url: http://slaout.linux62.org/pacman/index.html
   info: "It's a simple and ASCII version, so no fun (and IA is very stupid)..."
-  screencast:
+  screencast: https://asciinema.org/a/34686
 
 - name: pacman
   url: http://freecode.com/projects/asciipacman/
@@ -685,7 +680,7 @@
 - name: pacman
   url: https://sites.google.com/site/doctormike/pacman.html
   info: Pacman for Console.
-  screencast:
+  screencast: https://asciinema.org/a/34685
 
 # ssh pacman@antimirov.net pacman/pacman
 - name: Pacman in python
