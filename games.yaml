@@ -166,9 +166,9 @@
   info: A highly unusual "infinite" adventure game written by Chris Newall.
   screencast:
 
-- name: CAVEZ of PHEAR
+- name: cavez of phear
   url:
-  info: CAVEZ of PHEAR is a boulder dash / digger like game for console using ncurses.
+  info: cavez of phear is a boulder dash / digger like game for console using ncurses.
   screencast:
 
 - name: cblocks
@@ -186,7 +186,7 @@
   info: minesweeper
   screencast:
 
-- name: cNibbles
+- name: cnibbles
   url: http://cnibbles.sourceforge.net
   info: Another Nibbles game with good and smooth animations.
   screencast:
@@ -242,7 +242,7 @@
   info: Core War is a programming game created by D. G. Jones and A. K. Dewdney in which two or more battle programs (called “warriors”) compete for control of a virtual computer.
   screencast:
 
-- name: CPat
+- name: cpat
   url: http://cpat.sourceforge.net/
   info: CPat is probably the best card game for the Linux console; it is a collection of many solitaire/patience games from the most famous to less known games.
   screencast:
@@ -277,7 +277,7 @@
   info: DiabloRL is a roguelike "unmake" of the popular Blizzard game Diablo.
   screencast:
 
-- name: Duel Commander
+- name: duel commander
   url: http://sourceforge.net/projects/duelcommander/
   info: Duel Commander is a turn based command line fighting game for Windows and Unix-like systems.
   screencast:
@@ -305,12 +305,12 @@
   info: Dungeon Crawl, a text-based roguelike game.
   screencast:
 
-- name: Dwarf fortress
+- name: dwarf fortress
   url: http://www.bay12games.com/dwarves/
   info: Dwarf Fortress is a single-player fantasy game.
   screencast:
 
-- name: Enigma
+- name: enigma
   url: http://www.chiark.greenend.org.uk/~sgtatham/enigma/
   info: A puzzle game where items have to be collected in the right order.
   screencast:
@@ -320,7 +320,7 @@
   info: Actually it is not a game, but text editor. It includes a bunch of text games like chess, sokoban, pong etc.
   screencast:
 
-- name: EyAngband
+- name: eyangband
   url: http://eyangband.sourceforge.net/
   info: Another variant of Angband.
   screencast:
@@ -335,7 +335,7 @@
   info: This is a console (ncurses) version of the popular and addictive solitaire game.
   screencast:
 
-- name: Fkmines
+- name: fkmines
   url: http://sourceforge.net/projects/fkmines/
   info: Another minesweeper-style game.
   screencast:
@@ -355,7 +355,7 @@
   info: Frotz is an interpreter for Infocom games and other Z-machine games.
   screencast:
 
-- name: Frozen Depths
+- name: frozen depths
   url: http://frozendepths.net/
   info: A very nice roguelike game with an entertaining atmosphere.
   screencast:
@@ -385,7 +385,7 @@
   info: GearHead is the first roguelike to explore the world of “mechas” (giant robots).
   screencast:
 
-- name: Gnake
+- name: gnake
   url: http://lightless.org/gnake
   info: Another variant of the snake game with a smooth movement.
   screencast:
@@ -411,7 +411,7 @@
   screencast:
   play: telnet or ssh on sdf.org
 
-- name: Hack of Life
+- name: hack of life
   url: http://www.roguebasin.com/index.php?title=HackOfLife
   info: The Hack of Life is a roguelike game based on Conway’s Game of Life.
   screencast:
@@ -444,13 +444,13 @@
   info: Hinversi is a implementation of Reversi (a.k.a. Othello), a board game.
   screencast:
 
-- name: Hamurabi
+- name: hamurabi
   url: https://github.com/blt/hamurabi
   info: Hamurabi is a 1969 text-based game of land and resource management and is one of the earliest computer games. Its name is a shortening of Hammurabi, reduced to fit an eight-character limit.
   screencast:
   wikipedia: https://en.wikipedia.org/wiki/Hamurabi
 
-- name: Halls of Mist
+- name: halls of mist
   url: http://www.mikkolehtinen.net/mist/
   info: A nice roguelike game (variant of angband).
   screencast:
@@ -460,7 +460,7 @@
   info: Hellband is a Rogue-like game in which you descend through the nine circles of Hell and find an even more dangerous Hell beyond the city of Dis.
   screencast:
 
-- name: Hydra Slayer
+- name: hydra slayer
   url:
   info: A nice and easy roguelike game.
   screencast:
@@ -492,12 +492,12 @@
   info:
   screencast:
 
-- name: Imperium
+- name: imperium
   url: https://empiredirectory.net/
   info: Imperium is a game of intergalactic exploration, warfare, and economics. Imperium has no set goal, and fairly flexible rules about what you can do, thus, while a single player could run their own game just for the fun of exploration, they would be missing out on most of the aspects of the game with no one to compete against.
   screencast:
 
-- name: Liberal Crime Squad
+- name: liberal crime squad
   url: http://lcs.wikidot.com/start
   info: This is a very elaborated game where you have to fight with your friends against conservative laws.
   screencast:
@@ -519,7 +519,7 @@
   info: Space ascii war game.
   screencast:
 
-- name: MAngband
+- name: mangband
   url: http://www.mangband.org/
   info: This is a multiplayer variant of angband.
   screencast:
@@ -545,12 +545,12 @@
   info: Another snake game.
   screencast:
 
-- name: GNU Shogi
+- name: GNU shogi
   url: http://users.cms.caltech.edu/~mvanier/hacking/gnushogi/gnushogi.html
   info: Japanese chess
   screencast:
 
-- name: GNU Pong
+- name: GNU pong
   url: http://www.filewatcher.com/m/gnupong-0.14.tar.gz.32541-0.html
   info: An old and very poor version of the old pong game.
   screencast:
@@ -586,7 +586,7 @@
   screencast: https://asciinema.org/a/34071
   play: telnet or ssh on sdf.org
 
-- name: Mutant Aliens!
+- name: mutant aliens
   url: http://www.roguebasin.com/index.php?title=Mutant_Aliens!
   info: Mutant Aliens! sees a spaceship 'dock safely' into the forest of a hostile alien world.
   screencast:
@@ -622,7 +622,7 @@
   info: Nibbles is a remake of the classic Snake/Nibbles game in ncurses.
   screencast:
 
-- name: nPush
+- name: npush
   url: http://npush.sourceforge.net/
   info: nPush is a logic game similar to Sokoban and Boulder Dash.
   screencast:
@@ -683,7 +683,7 @@
   screencast: https://asciinema.org/a/34685
 
 # ssh pacman@antimirov.net pacman/pacman
-- name: Pacman in python
+- name: pacman
   url: http://antimirov.net/it/pacman/
   info: A simple version of the famous pacman game written in python.
   screencast:
@@ -698,7 +698,7 @@
   info: A turn-based role-playing game.
   screencast:
 
-- name: Pyro
+- name: pyro
   url: http://pyrogue.sourceforge.net/
   info: A roguelike written in Python; the display is smooth.
   screencast:
@@ -718,7 +718,7 @@
   info: A good version of the othello/reversi game written in the Lisp langugage.
   screencast:
 
-- name: Rogue
+- name: rogue
   url: http://linux.softpedia.com/get/GAMES-ENTERTAINMENT/RPG/Rogue-30982.shtml
   info: This is the very ancient and famous game.
   screencast:
@@ -745,7 +745,7 @@
   info: Another clone of the tetris game.
   screencast:
 
-- name: Scrap
+- name: scrap
   url: http://www.math.leidenuniv.nl/~mommen/scrap/
   info: Scrap is an easy to play roguelike game.
   screencast:
@@ -755,7 +755,7 @@
   info: GNU Shogi is a computer program that plays the game of Shogi, also known as Japanese Chess.
   screencast:
 
-- name: Sil
+- name: sil
   url: http://www.amirrorclear.net/flowers/game/sil/
   info: A good roguelike game.
   screencast:
@@ -844,12 +844,12 @@
   info: Steamband is a roguelike ASCII dungeon exploration simulation game.
   screencast:
 
-- name: Sumeria
+- name: sumeria
   url: http://www.mipmip.org/C_games/
   info: This is the good old “Govern Ancient Sumeria”, with a 1983 ecology re-write.
   screencast:
 
-- name: Taipan
+- name: taipan
   url: http://www.ibiblio.org/pub/linux/games/textrpg
   info: "Modern version of Art Canfil's classic, Taipan."
   screencast:
@@ -859,7 +859,7 @@
   info: A tic-tac-toe variant where you have to align four symbols (instead of three).
   screencast:
 
-- name: The Sewer Massacre
+- name: the sewer massacre
   url: https://common-lisp.net/project/lifp/sewers.htm
   info: A roguelike game written in Lisp.
   screencast:
@@ -879,12 +879,12 @@
   info: "This is an ncurses version of the game '2048'."
   screencast:
 
-- name: Tower of Mediocrity
+- name: tower of mediocrity
   url: http://www.cavein.org/~chris/code/tower/
   info: A tower defense game. Unfortunately, the game is quite easy to win.
   screencast:
 
-- name: Tom Bombem
+- name: tom bombem
   url: http://www.deater.net/weave/vmwprod/tb1/
   info: An arcade game where you have to shoot on inanimate objects.
   screencast:
@@ -900,7 +900,7 @@
   info: Tetris for Terminals is another, very old, clone of tetris.
   screencast:
 
-- name: The Rougelike!
+- name: the rougelike!
   url: https://common-lisp.net/project/lifp/rouge.htm
   info: "The Rougelike! is a roguelike game."
   screencast:
@@ -930,7 +930,7 @@
   info: a roguelike game with simple commands.
   screencast:
 
-- name: Tornado
+- name: tornado
   url: https://kiza.eu/software/tornado/
   info: Tornado is the clone of a C64 game.
   screencast:
@@ -975,7 +975,7 @@
   info: Empire is a simulation of a full-scale war between two emperors, the computer and you.
   screencast:
 
-- name: XorCurses
+- name: xorcurses
   url: http://www.jwm-art.net/dark.php?p=XorCurses
   info: XorCurses is a puzzle game set inside a series of mazes.
   screencast: https://asciinema.org/a/34065
@@ -995,7 +995,7 @@
   info: Zapm is a science fiction roguelike game by Cyrus Dolph.
   screencast:
 
-- name: Z-Day
+- name: z-day
   url: http://sheep.art.pl/Z-Day
   info: Z-Day is an easy to play roguelike game. You have to kill zombies in a supermarket.
   screencast:
@@ -1010,7 +1010,7 @@
   info: Ztrack is a (very) simple curses-based pseudo-3D driving game.
   screencast:
 
-- name: Zork I, II, III
+- name: zork I, II, III
   url: http://www.csd.uwo.ca/Infocom/games.html
   info: An old game by Infocom.
   screencast:
@@ -1022,7 +1022,7 @@
   screencast:
   play: telnet or ssh on sdf.org
 
-- name: Zombies!
+- name: zombies!
   url: http://distractionandnonsense.com/zombies/
   info: Zombies! is a roguelike written entirely from scratch, in one day, in Common Lisp.
   screencast:
@@ -1069,7 +1069,7 @@
   info: yetris is a customizable Tetris(tm) clone for the console.
   screencast:
 
-- name: Vapors of Insanity
+- name: vapors of insanity
   url: http://www.roguetemple.com/z/vapors/
   info: Vapors of Insanity is a roguelike game set on a paradise island of Fortarica.
   screencast:
@@ -1084,17 +1084,17 @@
   info: An old and easy to play roguelike game.
   screencast:
 
-- name: uLarn
+- name: ularn
   url:
   info: An easy to play roguelike game.
   screencast:
 
-- name: UltraRogue
+- name: ultrarogue
   url: http://rogue.rogueforge.net/ultrarogue-1-07/
   info: Another variant of Rogue.
   screencast:
 
-- name: Urban Warfare
+- name: urban warfare
   url: https://common-lisp.net/project/lifp/sewers.htm
   info: A roguelike game written in Lisp.
   screencast:
