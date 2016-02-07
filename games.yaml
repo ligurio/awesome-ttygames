@@ -466,7 +466,7 @@
 - name: hangman (bsdgames)
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/hangman.6?query=hangman
   info: computer version of the game hangman.
-  screencast:
+  screencast: https://asciinema.org/a/35801
   play:
 
 - name: hunt the wumpus (bsdgames)
@@ -536,7 +536,7 @@
 
 - name: intricacy
   url: http://mbays.freeshell.org/intricacy/
-  info:
+  info: A game of competitive puzzle-design.
   screencast:
 
 - name: imperium
@@ -780,11 +780,11 @@
   info: A good version of the othello/reversi game written in the Lisp langugage.
   screencast:
 
-- name: rogue
-  url: http://linux.softpedia.com/get/GAMES-ENTERTAINMENT/RPG/Rogue-30982.shtml
-  info: This is the very ancient and famous game.
-  screencast:
-  play: telnet or ssh on sdf.org # https://archive.org/details/msdos_Rogue_1983
+- name: rogue (bsdgames)
+  url: http://netbsd.gw.com/cgi-bin/man-cgi?rogue++NetBSD-current
+  info: exploring The Dungeons of Doom.
+  screencast: https://asciinema.org/a/35802
+  play: telnet or ssh on sdf.org
 
 - name: robots (bsdgames)
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/robots.6?query=robots
@@ -850,7 +850,7 @@
 - name: snake (bsdgames)
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/snake.6?query=snake
   info: A quick and easy turn-based survival game; you have to move without being caught by a snake.
-  screencast:
+  screencast: https://asciinema.org/a/35799
   play: telnet or ssh on sdf.org
 
 - name: snake
@@ -1124,7 +1124,7 @@
 - name: wump (bsdgames)
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/wump.6?query=wump
   info: hunt the wumpus in an underground cave.
-  screencast:
+  screencast: https://asciinema.org/a/35800
 
 - name: yahtzee
   url: http://www.filewatcher.com/m/yahtzee-src.tar.Z.15889-0.html
