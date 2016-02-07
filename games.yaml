@@ -6,6 +6,7 @@
 # https://archive.org/details/gamesourcecode
 # http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/games/
 # http://cvsweb.netbsd.org/bsdweb.cgi/src/games/
+# http://gitweb.dragonflybsd.org/dragonfly.git/tree/v3.0.0:/games
 # https://github.com/ctdk/bsdgames-osx
 
 - name: Apple Trek
@@ -49,7 +50,7 @@
   info: Angband is a free, single-player dungeon exploration game.
   screencast:
 
-#ftp://ftp.simtreas.ru/pub/download/add/adventur.tgz
+# ftp://ftp.simtreas.ru/pub/download/add/adventur.tgz
 - name: adventure (bsdgames)
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/adventure.6?query=adventure
   info: an exploration game.
@@ -300,6 +301,11 @@
 - name: curse-of-war
   url: http://a-nikolaev.github.io/curseofwar/
   info: Curse of War is a fast-paced action strategy game for Linux originally implemented using ncurses user interface.
+  screencast:
+
+- name: dab
+  url: http://netbsd.gw.com/cgi-bin/man-cgi?dab+6+NetBSD-6.0
+  info: Dots and Boxes game.
   screencast:
 
 - name: diablorl
@@ -608,7 +614,7 @@
 
 - name: mille (bsdgames)
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/mille.6?query=mille
-  info: play Mille Bornes.
+  info: a racing card game in BSD games based on the Parker Brothers game Mille Bornes.
   screencast:
 
 - name: miscom
