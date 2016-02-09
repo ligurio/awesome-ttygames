@@ -1,13 +1,28 @@
-# https://ttygames.wordpress.com/
-# http://www.lgdb.org/
-# https://en.wikipedia.org/wiki/List_of_text-based_computer_games
-# http://osgameclones.com/
-# http://peyre.x10.mx/GWBASIC/index.htm
-# https://archive.org/details/gamesourcecode
-# http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/games/
-# http://cvsweb.netbsd.org/bsdweb.cgi/src/games/
-# http://gitweb.dragonflybsd.org/dragonfly.git/tree/v3.0.0:/games
-# https://github.com/ctdk/bsdgames-osx
+# Sources:
+#     https://ttygames.wordpress.com/
+#     http://www.lgdb.org/
+#     https://en.wikipedia.org/wiki/List_of_text-based_computer_games
+#     http://osgameclones.com/
+#     http://peyre.x10.mx/GWBASIC/index.htm
+#     https://archive.org/details/gamesourcecode
+#     http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/games/
+#     http://cvsweb.netbsd.org/bsdweb.cgi/src/games/
+#     http://gitweb.dragonflybsd.org/dragonfly.git/tree/v3.0.0:/games
+#     https://github.com/ctdk/bsdgames-osx
+
+# TODO:
+#     http://freecode.com/projects/ladder
+#     http://sourceforge.net/projects/freakout/
+#     https://github.com/dpc/rhex
+#     http://freecode.com/projects/terminal-etch-n-sketch
+#     http://freecode.com/projects/vibora
+#     http://blog.yjl.im/search/label/space%20shooter%20game
+#     ftp://ftp.microsoft.com/services/technet/windows/msdos/RESKIT/SUPPDISK/GORILLA.BAS
+#     https://en.wikipedia.org/wiki/Nibbles_(video_game)
+#     https://en.wikipedia.org/wiki/DONKEY.BAS
+#     https://en.wikipedia.org/wiki/Gorillas_%28video_game%29
+#     https://github.com/szantaii/bash-gorillas
+#     http://sh.sidenote.hu/projects/bash-gorillas/
 
 - name: Apple Trek
   url: http://peyre.x10.mx/GWBASIC/index.htm#AppleTrek
@@ -30,9 +45,9 @@
   info: Ad Astra is a turn-based space strategy game written in Python that uses curses for its display.
   screencast:
 
-- name: ambassador of pain (aop)
+- name: aop
   url: http://aop.raffi.at/
-  info: A very nice and challenging arcade game.
+  info: Ambassador of Pain (aop). A very nice and challenging arcade game.
   screencast: https://asciinema.org/a/34678
 
 - name: alienrl
@@ -51,15 +66,20 @@
   screencast:
 
 # ftp://ftp.simtreas.ru/pub/download/add/adventur.tgz
-- name: adventure (bsdgames)
+- name: adventure
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/adventure.6?query=adventure
-  info: an exploration game.
+  info: "An exploration game. It's a BSD game."
   screencast:
 
 - name: "ADOM (Ancient Domains of Mystery)"
   url: http://www.adom.de/
   info: "ADOM is a roguelike game which means that it is a single-user game featuring the exploration of a dungeon complex (and in the case of ADOM a few other games of this genre: the exploration of a large wilderness area with villages and many special locations). You control a fictional character described by race, class, attributes, skills, and equipment. This fictional character is trying to achieve a specific goal (see below) and succeed in a difficult quest. To fulfill the quest, you have to explore previously undiscovered tunnels and dungeons, fight hideous monsters, uncover long forgotten secrets, and find treasures of all kind."
   screencast:
+
+- name: asciijump
+  url: http://freecode.com/projects/asciijump
+  info: asciijump is an ASCII art game about ski jumping.
+  screencast: https://asciinema.org/a/31340
 
 - name: ascii portal
   url: http://cymonsgames.com/asciiportal/
@@ -77,9 +97,9 @@
   screencast:
   play:
 
-- name: atc (bsdgames)
+- name: atc
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/atc.6?query=atc
-  info: air traffic controller game.
+  info: "air traffic controller game. It's a BSD game."
   screencast:
 
 - name: avanor
@@ -90,7 +110,7 @@
 
 - name: bastet
   url: http://fph.altervista.org/prog/bastet.html
-  info: Bastet (short for Bastard Tetris)
+  info: Bastet (short for Bastard Tetris).
   screencast:
 
 - name: beasts
@@ -105,7 +125,7 @@
   info: This game is the same as the old Blitz16 game on Commodore 16/Plus 4, written by Simon Taylor.
   screencast:
 
-- name: Boulder dash
+- name: boulder dash
   url:
   info: "A Boulder Dash game clone for your favorite terminal. You are trapped in the CAVEZ of PHEAR, your mission is to escape through all the caves and make it out alive. To escape through a cave you will have to find all the diamonds located in it. Once you've found all the diamonds, their powers combined will help you get to the next cave, one step closer to freedom."
   screencast:
@@ -117,12 +137,12 @@
   info: Uses character-cell graphics with a visual point-and-shoot interface.
   screencast:
 
-- name: backgammon (bsdgames)
+- name: backgammon
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/backgammon.6?query=backgammon
-  info: A backgammon game; you can play against the computer.
+  info: "A backgammon game; you can play against the computer. It's a BSD game."
   screencast:
 
-- name: Beyond the Tesseract
+- name: beyond the tesseract
   url: http://www.wurb.com/if/game/211
   info: A highly conceptual game in which you interact with abstract concepts and mathematical entities as if they were tangible.
   screencast:
@@ -143,14 +163,14 @@
   info: Brogue is a Roguelike game.
   screencast:
 
-- name: BrainCurses
+- name: braincurses
   url: http://sourceforge.net/projects/braincurses/
   info: A nice version of the mastermind game.
   screencast:
 
-- name: battlestar (bsdgames)
+- name: battlestar
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/battlestar.6?query=battlestar
-  info: a tropical adventure game.
+  info: "A tropical adventure game. It's a BSD game."
   screencast:
   play:
 
@@ -160,15 +180,15 @@
   screencast:
   play: telnet or ssh on sdf.org
 
-- name: boggle (bsdgames)
+- name: boggle
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/boggle.6?query=boggle
-  info: word search game.
+  info: "Word search game. It's a BSD game."
   screencast:
   play:
 
-- name: bs (bsdgames)
+- name: bs
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/bs.6?query=bs
-  info: battleships game.
+  info: "Battleships game. It's a BSD game."
   screencast:
   play:
 
@@ -177,14 +197,9 @@
   info: A Zombie Survival Roguelike.
   screencast:
 
-- name: canfield (bsdgames)
+- name: canfield
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/canfield.6?query=canfield
-  info: the solitaire card game canfield.
-  screencast:
-
-- name: canfield (bsdgame)
-  url:
-  info: This is a version of the patience game from the bsdgames collection.
+  info: "The solitaire card game canfield. It's a BSD game."
   screencast:
 
 - name: chimaera
@@ -202,6 +217,11 @@
   info: a set of sliding-block puzzles.
   screencast:
 
+- name: cbattleship
+  url: https://github.com/troopa/cBattleship
+  info: "A implementation of the classic Battleship game in C++. Includes a server program, and multiple different client programs. The server program wait's until two client program connected to start a game. The server dictates the rules of the game."
+  screencast:
+
 - name: chroma
   url: http://www.level7.org.uk/chroma/
   info: A challenging puzzle game.
@@ -209,7 +229,7 @@
 
 - name: cmines
   url: http://www.muppetlabs.com/~breadbox/software/cgames.html
-  info: minesweeper
+  info: minesweeper.
   screencast:
 
 - name: cnibbles
@@ -237,10 +257,9 @@
   info: Color Lines clone in console.
   screencast:
 
-# FIXME
-- name: colossal cave adventure
+- name: advent
   url: http://en.wikipedia.org/wiki/Colossal_Cave_Adventure
-  info:
+  info: Colossal Cave Adventure (also known as ADVENT, Colossal Cave, or Adventure) is one of the earliest computer adventure games and a precursor form of role playing video game. The original version was designed by Will Crowther, a programmer and caving enthusiast who based the layout on part of the Mammoth Cave system in Kentucky.
   screencast:
 
 - name: connect4
@@ -248,7 +267,7 @@
   info: The Connect4 game using ncurses C library.
   screencast:
 
-- name: GNU conquest
+- name: gnu-conquest
   url: http://sourceforge.net/projects/gnu-conquest/
   info: A multiplayer galactic game.
   screencast:
@@ -288,9 +307,9 @@
   info: One of the best games for the Linux console.
   screencast:
 
-- name: cribbage (bsdgames)
+- name: cribbage
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/cribbage.6?query=cribbage
-  info: the card game cribbage.
+  info: "The card game cribbage. It's a BSD game."
   screencast:
 
 - name: cryptrover
@@ -366,9 +385,9 @@
   info: Encircled is a roguelike game.
   screencast:
 
-- name: fish (bsdgames)
+- name: fish
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/fish.6?query=fish
-  info: play ``Go Fish''.
+  info: "Play ``Go Fish''. It's a BSD game."
   screencast:
 
 - name: freecell
@@ -411,7 +430,7 @@
   info: GNU Chess is a chess-playing program.
   screencast:
 
-- name: GNUSki
+- name: gnuski
   url: http://sourceforge.net/projects/gnuski/
   info: GNUSki is an open source clone of Skifree, the old Windows game.
   screencast:
@@ -431,9 +450,9 @@
   info: Another variant of the snake game with a smooth movement.
   screencast:
 
-- name: gomoku (bsdgames)
+- name: gomoku
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/gomoku.6?query=gomoku
-  info: Gomoku is a two player game where the object is to get 5 in a row horizontally, vertically or diagonally on a 19 by 19 grid.
+  info: "Gomoku is a two player game where the object is to get 5 in a row horizontally, vertically or diagonally on a 19 by 19 grid. It's a BSD game."
   screencast:
 
 - name: goblinhack
@@ -457,27 +476,21 @@
   info: The Hack of Life is a roguelike game based on Conway’s Game of Life.
   screencast:
 
-- name: hack (bsdgames)
+- name: hack
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/hack.6?query=hack
-  info: Exploring The Dungeons of Doom.
+  info: "Exploring The Dungeons of Doom. It's a BSD game."
   screencast:
   play: telnet or ssh on sdf.org
 
-- name: hangman (bsdgames)
+- name: hangman
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/hangman.6?query=hangman
-  info: computer version of the game hangman.
+  info: "Computer version of the game hangman. It's a BSD game."
   screencast: https://asciinema.org/a/35801
   play:
 
-- name: hunt the wumpus (bsdgames)
-  url:
-  info: A quick and funny game from the bsdgames collection.
-  screencast:
-  play: telnet or ssh on sdf.org
-
-- name: hunt (bsdgames)
+- name: hunt
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/hunt.6?query=hunt
-  info: The object of the game hunt is to kill off the other players. There are no rooms, no treasures, and no monsters. Instead, you wander around a maze, find grenades, trip mines, and shoot down walls and players.
+  info: "The object of the game hunt is to kill off the other players. There are no rooms, no treasures, and no monsters. Instead, you wander around a maze, find grenades, trip mines, and shoot down walls and players. It's a BSD game."
   screencast:
   play: telnet or ssh on sdf.org
 
@@ -512,16 +525,6 @@
   info: A nice and easy roguelike game.
   screencast:
 
-- name: portile
-  url: http://www.increpare.com/2008/11/portile/
-  info: Portile is a 2d, tile-based take on narbacular drop.
-  screencast:
-
-- name: plonx
-  url: http://bilious.homelinux.org/~paxed/plonx/
-  info: Small ASCII puzzle game.
-  screencast:
-
 - name: ninvaders
   url: http://ninvaders.sourceforge.net/
   info: nInvaders is a Space Invaders clone based on ncurses for ASCII output.
@@ -536,7 +539,7 @@
 
 - name: intricacy
   url: http://mbays.freeshell.org/intricacy/
-  info: A game of competitive puzzle-design.
+  info: A game of competitive puzzle-design. At its core, this is an abstract turn-based puzzle game in which you pick a lock by co-ordinating a pair of tools to manipulate its mechanism. The locks you pick are designed by other players; once you have figured out the secret of how to pick a lock, you must secure that secret behind a lock of your own devising.
   screencast:
 
 - name: imperium
@@ -544,15 +547,20 @@
   info: Imperium is a game of intergalactic exploration, warfare, and economics. Imperium has no set goal, and fairly flexible rules about what you can do, thus, while a single player could run their own game just for the fun of exploration, they would be missing out on most of the aspects of the game with no one to compete against.
   screencast:
 
-- name: larn (bsdgames)
+- name: larn
   url: http://netbsd.gw.com/cgi-bin/man-cgi/man?larn+6+NetBSD-current
-  info: exploring the caverns of Larn.
+  info: "Exploring the caverns of Larn. It's a BSD game."
   screencast:
 
 - name: liberal crime squad
   url: http://lcs.wikidot.com/start
   info: This is a very elaborated game where you have to fight with your friends against conservative laws.
   screencast:
+
+- name: lexter
+  url: http://www.kyne.com.au/~mark/software/lexter.php
+  info: Lexter is a real-time word puzzle for text terminals. Arrange the falling letters into words to score points.
+  screencast: https://asciinema.org/a/35970
 
 - name: mancala
   url: http://shh.thathost.com/pub-unix/#Mancala
@@ -593,28 +601,18 @@
   screencast:
 
 - name: msnake
-  url: http://freecode.com/projects/msnake
-  info: Another snake game.
-  screencast:
-
-- name: GNU shogi
-  url: http://users.cms.caltech.edu/~mvanier/hacking/gnushogi/gnushogi.html
-  info: Japanese chess
-  screencast:
-
-- name: GNU pong
-  url: http://www.filewatcher.com/m/gnupong-0.14.tar.gz.32541-0.html
-  info: An old and very poor version of the old pong game.
-  screencast:
+  url: https://github.com/mogria/msnake
+  info: A simple snake game written in C using the ncurses library.
+  screencast: https://asciinema.org/a/35971
 
 - name: microsnake
   url: http://freshmeat.net/projects/micro-snake
   info: Micro Snake is based on a simple snake game by Simon Huggins.
   screencast:
 
-- name: mille (bsdgames)
+- name: mille
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/mille.6?query=mille
-  info: a racing card game in BSD games based on the Parker Brothers game Mille Bornes.
+  info: "A racing card game in BSD games based on the Parker Brothers game Mille Bornes. It's a BSD game."
   screencast:
 
 - name: miscom
@@ -637,9 +635,9 @@
   info: A sort of monopoly game. At least two players are needed.
   screencast:
 
-- name: monop (bsdgames)
+- name: monop
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/monop.6?query=monop
-  info: Monopoly game.
+  info: "Monopoly game. It's a BSD game."
   screencast:
 
 - name: moon-buggy
@@ -655,8 +653,13 @@
 
 - name: myman
   url: http://myman.sourceforge.net/
-  info: "MyMan is a text-mode videogame inspired by Namco's Pac-Man."
+  info: "MyMan is a video game for color and monochrome text terminals in the genre of Namco's Pac-Man."
   screencast:
+
+- name: n2048
+  url: http://freecode.com/projects/n2048
+  info: "n2048 is a console-based game based on the highly addictive sliding puzzle 2048. Slide the tiles together to combine them, until you reach the highest one."
+  screencast: https://asciinema.org/a/35973
 
 - name: nclife
   url: https://github.com/mikepierce/ncLife
@@ -677,11 +680,16 @@
 - name: nettoe
   url: http://nettoe.sourceforge.net/
   info: netToe is a Tic Tac Toe-like game for the Unix consoles written in C using UNIX sockets.
-  screencast:
+  screencast: https://asciinema.org/a/35969
 
 - name: nibbles
   url: http://www.earth.li/projectpurple/progs/nibbles.html
   info: Nibbles is a remake of the classic Snake/Nibbles game in ncurses.
+  screencast:
+
+- name: nlarn
+  url: http://freecode.com/projects/nlarn
+  info: "NLarn is an enhanced and improved rewrite of the historic roguelike game Larn. It tries to maintain the atmosphere and story of the last version of Larn (12.3) while improving gameplay and the user experience."
   screencast:
 
 - name: npush
@@ -691,8 +699,8 @@
 
 - name: nsnake
   url: http://sourceforge.net/projects/nsnake/
-  info: classic snake game on the terminal; made with C++ and ncurses
-  screencast:
+  info: Classic snake game on the terminal.
+  screencast: https://asciinema.org/a/35976
 
 - name: nsuds
   url: http://sourceforge.net/projects/nsuds/
@@ -755,9 +763,29 @@
   info: Another tetris clone.
   screencast:
 
-- name: phantasia (bsdgames)
+- name: phantasia
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/phantasia.6?query=phantasia
-  info: an interterminal fantasy game.
+  info: "An interterminal fantasy game. It's a BSD game."
+  screencast:
+
+- name: plonx
+  url: http://bilious.homelinux.org/~paxed/plonx/
+  info: Small ASCII puzzle game.
+  screencast:
+
+- name: pong
+  url: http://www.filewatcher.com/m/gnupong-0.14.tar.gz.32541-0.html
+  info: An old and very poor version of the old pong game.
+  screencast:
+
+- name: portile
+  url: http://www.increpare.com/2008/11/portile/
+  info: Portile is a 2d, tile-based take on narbacular drop.
+  screencast:
+
+- name: shogi
+  url: http://users.cms.caltech.edu/~mvanier/hacking/gnushogi/gnushogi.html
+  info: Japanese chess.
   screencast:
 
 - name: pyro
@@ -780,15 +808,15 @@
   info: A good version of the othello/reversi game written in the Lisp langugage.
   screencast:
 
-- name: rogue (bsdgames)
+- name: rogue
   url: http://netbsd.gw.com/cgi-bin/man-cgi?rogue++NetBSD-current
-  info: exploring The Dungeons of Doom.
+  info: "Exploring The Dungeons of Doom. It's a BSD game."
   screencast: https://asciinema.org/a/35802
   play: telnet or ssh on sdf.org
 
-- name: robots (bsdgames)
+- name: robots
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/robots.6?query=robots
-  info: fight off villainous robots.
+  info: "Fight off villainous robots. It's a BSD game."
   screencast:
   play: telnet or ssh on sdf.org
 
@@ -797,9 +825,9 @@
   info: Yet another zen simulation.
   screencast:
 
-- name: sail (bsdgames)
+- name: sail
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/sail.6?query=sail
-  info: multi-user wooden ships and iron men.
+  info: "Multi-user wooden ships and iron men. It's a BSD game."
   screencast:
 
 - name: seabattle
@@ -847,9 +875,9 @@
   info: Another variant of the roguelike nethack game.
   screencast:
 
-- name: snake (bsdgames)
+- name: snake
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/snake.6?query=snake
-  info: A quick and easy turn-based survival game; you have to move without being caught by a snake.
+  info: "A quick and easy turn-based survival game; you have to move without being caught by a snake. It's a BSD game."
   screencast: https://asciinema.org/a/35799
   play: telnet or ssh on sdf.org
 
@@ -931,9 +959,9 @@
   info: A roguelike game written in Lisp.
   screencast:
 
-- name: tetris (bsdgames)
+- name: tetris
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/tetris.6?query=tetris
-  info: the game of tetris.
+  info: "The game of tetris. It's a BSD game."
   screencast:
 
 - name: tetris
@@ -992,9 +1020,9 @@
   info: An old but rather elaborated game inspired by the Star Trek series.
   screencast:
 
-- name: trek (bsdgames)
+- name: trek
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/trek.6?query=trek
-  info: trekkie game.
+  info: "Trekkie game. It's a BSD game."
   screencast:
 
 - name: trog
@@ -1099,6 +1127,11 @@
   info: Zombies! is a roguelike written entirely from scratch, in one day, in Common Lisp.
   screencast:
 
+- name: zracer
+  url: http://freecode.com/projects/zracer
+  info: "ZRacer is a console car racing game. It has a curses based semi-graphical interface, a random track generator, editable settings, and supports hotseat multiplayer. The rules are simple: the higher on the screen, the faster you ride. Don't crash into rocks, curbs, or your opponent, and be the first across the finish line."
+  screencast:
+
 - name: wanderer
   url: http://www.e271.net/~marina/wanderer.html
   info: Wanderer is a game similar to Boulderdash, Repton, XOR and others.
@@ -1115,15 +1148,15 @@
   info: A version of the very old game called Hunt the Wumpus by Eric Raymond. A joke version called “superhack” is included in the archive.
   screencast:
 
-- name: worm (bsdgames)
+- name: worm
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/worm.6?query=worm
-  info: A version of the arcade game worm (sometimes called snake or nibbles).
+  info: "A version of the arcade game worm (sometimes called snake or nibbles). It's a BSD game."
   screencast:
   play: telnet on twenex.org
 
-- name: wump (bsdgames)
+- name: wump
   url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/wump.6?query=wump
-  info: hunt the wumpus in an underground cave.
+  info: "Hunt the wumpus in an underground cave. It's a BSD game."
   screencast: https://asciinema.org/a/35800
 
 - name: yahtzee
