@@ -23,6 +23,20 @@
 #     https://en.wikipedia.org/wiki/Gorillas_%28video_game%29
 #     https://github.com/szantaii/bash-gorillas
 #     http://sh.sidenote.hu/projects/bash-gorillas/
+#     http://inventwithpython.com/pygcurse/
+#     http://ftp.ibiblio.org/pub/linux/games
+#     ftp://sunsite.unc.edu/pub/Linux/games
+#     telnet telehack.com
+#     telnet aardmud.org
+#     telnet zombiemud.org
+#     telnet 99.249.157.57 2528
+#     telnet achaea.com
+#     telnet mud.darkerrealms.org 2000
+#     telnet darkrealms.ca
+#     telnet miku.acm.uiuc.edu
+#     telnet rayne.divineright.org:6565
+#     http://www.telnet.org/htm/places.htm
+#     http://mewbies.com/acute_terminal_fun_telnet_public_servers_watch_star_wars_play_games_etc.htm
 
 - name: Apple Trek
   url: http://peyre.x10.mx/GWBASIC/index.htm#AppleTrek
@@ -429,6 +443,7 @@
   url: http://www.gnu.org/software/chess/
   info: GNU Chess is a chess-playing program.
   screencast:
+  play: telnet freechess.org 5000 (login guest)
 
 - name: gnuski
   url: http://sourceforge.net/projects/gnuski/
