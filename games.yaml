@@ -818,6 +818,11 @@
   info: pytris is a two-player networked console Tetris clone written in Python/Pyncurses.
   screencast:
 
+- name: rr
+  url: http://www.bpfh.net/sysadmin/man/rr-1.html
+  info: Russian roulette
+  screencast: https://asciinema.org/a/1586
+
 - name: reversi
   url: http://git.b9.com/?p=reversi.git;a=summary
   info: A good version of the othello/reversi game written in the Lisp langugage.
