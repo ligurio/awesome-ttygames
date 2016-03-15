@@ -1,0 +1,22 @@
+type: seq
+sequence:
+  - type: map
+    mapping:
+      name:
+        type: str
+        required: True
+      url:
+        type: str
+        required: False
+      info:
+        type: str
+        required: False
+      screencast:
+        type: str
+        required: False
+      play:
+        type: str
+        required: False
+      wikipedia:
+        type: str
+        required: False
