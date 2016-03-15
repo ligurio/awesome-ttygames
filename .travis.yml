@@ -10,7 +10,7 @@ install:
   - sudo pip install pykwalify
 
 script:
-  - pykwalify --data-file games.yml --schema-file schema.yaml
+  - pykwalify --data-file games.yaml --schema-file schema.yaml
 
 notifications:
   email: false
