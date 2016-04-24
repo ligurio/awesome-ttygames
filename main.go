@@ -2,23 +2,23 @@ package main
 
 import (
 	"fmt"
+	"gopkg.in/yaml.v2"
 	"html/template"
-	"os"
 	"io/ioutil"
 	"log"
+	"os"
 	"path/filepath"
-	"gopkg.in/yaml.v2"
 )
 
 type Game struct {
-	Name		string
-	Info		string
-	URL			string
-	Screencast	string
-	Play		string
+	Name       string
+	Info       string
+	URL        string
+	Screencast string
+	Play       string
 }
 
-func Read() ([]string) {
+func Read() []string {
 	a := []string{"tetris", "orange", "pear"}
 	return a
 }
