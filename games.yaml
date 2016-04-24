@@ -184,6 +184,11 @@
   url: http://man.openbsd.org/OpenBSD-current/man6/bs.6
   info: "Battleships game. It's a BSD game."
 
+- name: bowling
+  url: https://github.com/haliphax/pybowl
+  info: Python bowling game using the Blessed terminal library.
+  screencast: https://asciinema.org/a/41475
+
 - name: cataclysm
   url: https://web.archive.org/web/20130212063150/http://whalesdev.com/wiki/index.php?title=Main_Page
   info: A Zombie Survival Roguelike.
