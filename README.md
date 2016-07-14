@@ -1,6 +1,7 @@
 # Unix ASCII games
 
 [![Build Status](https://travis-ci.org/ligurio/ttygames.svg?branch=master)](https://travis-ci.org/ligurio/ttygames)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a source of [https://bronevichok.ru/ttygames/](https://bronevichok.ru/ttygames/).
 Feel free to submit pull requests to add new games and improve information about
