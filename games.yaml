@@ -705,6 +705,14 @@
   info: "Fight off villainous robots. It's a BSD game."
   play: telnet or ssh on sdf.org
 
+- name: gnu-robots
+  url: https://www.gnu.org/software/gnurobots/readme.html
+  info: "GNU Robots is a game/diversion where you construct a program for a
+little robot, then watch him explore a world. The world is filled with baddies
+that can hurt you, objects that you can bump into, and food that you can eat.
+The goal of the game is to collect as many prizes as possible before are killed
+by a baddie or you run out of energy."
+
 - name: robotfindskitten
   url: http://robotfindskitten.org/
   info: Yet another zen simulation.
