@@ -57,7 +57,7 @@
 - name: Anonymine
   url: https://oskog97.com/projects/anonymine/
   info: A curses mode minesweeper solvable without guessing, and the only with von Neumann neighbourhoods.
-  play: http://anonymine-demo.osko97.com:8080/ or over SSH as 'anonymine' with same password on port 2222
+  play: http://anonymine-demo.oskog97.com:8080/ or over SSH as 'anonymine' with same password on port 2222
 
 - name: aop
   url: http://aop.raffi.at/
