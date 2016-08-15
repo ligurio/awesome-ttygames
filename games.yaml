@@ -93,10 +93,15 @@
 - name: adventure
   url: http://man.openbsd.org/OpenBSD-current/man6/adventure.6
   info: "An exploration game. It's a BSD game."
+  wikipedia: https://en.wikipedia.org/wiki/Colossal_Cave_Adventure
 
 - name: "ADOM (Ancient Domains of Mystery)"
   url: http://www.adom.de/
   info: "ADOM is a roguelike game which means that it is a single-user game featuring the exploration of a dungeon complex (and in the case of ADOM a few other games of this genre: the exploration of a large wilderness area with villages and many special locations). You control a fictional character described by race, class, attributes, skills, and equipment. This fictional character is trying to achieve a specific goal (see below) and succeed in a difficult quest. To fulfill the quest, you have to explore previously undiscovered tunnels and dungeons, fight hideous monsters, uncover long forgotten secrets, and find treasures of all kind."
+
+- name: arithmetic
+  url: http://man.openbsd.org/arithmetic.6
+  info: quiz on simple arithmetic
 
 - name: asciijump
   url: http://freecode.com/projects/asciijump
@@ -126,6 +131,11 @@
   url: http://fph.altervista.org/prog/bastet.html
   info: Bastet (short for Bastard Tetris).
 
+- name: bcd
+  url: http://man.openbsd.org/bcd.6
+  wikipedia: https://en.wikipedia.org/wiki/Punched_card
+  info: punched card
+
 - name: beasts
   url: http://peteg.org/beasts/other/
   info: The game Beasts is a Linux version of the old DOS game called Beast.
@@ -146,6 +156,7 @@
 - name: backgammon
   url: http://man.openbsd.org/OpenBSD-current/man6/backgammon.6
   info: "A backgammon game; you can play against the computer. It's a BSD game."
+  wikipedia: https://en.wikipedia.org/wiki/Backgammon
 
 - name: beyond the tesseract
   url: http://www.wurb.com/if/game/211
@@ -179,15 +190,22 @@
 - name: boggle
   url: http://man.openbsd.org/OpenBSD-current/man6/boggle.6
   info: "Word search game. It's a BSD game."
+  wikipedia: https://en.wikipedia.org/wiki/Boggle
 
 - name: bs
   url: http://man.openbsd.org/OpenBSD-current/man6/bs.6
   info: "Battleships game. It's a BSD game."
+  wikipedia: https://en.wikipedia.org/wiki/Battleship_%28game%29
 
 - name: bowling
   url: https://github.com/haliphax/pybowl
   info: Python bowling game using the Blessed terminal library.
   screencast: https://asciinema.org/a/41475
+
+- name: caesar
+  info: decrypt caesar cyphers
+  url: http://man.openbsd.org/caesar.6
+  wikipedia: https://en.wikipedia.org/wiki/Caesar_cipher
 
 - name: cataclysm
   url: https://web.archive.org/web/20130212063150/http://whalesdev.com/wiki/index.php?title=Main_Page
@@ -196,6 +214,7 @@
 - name: canfield
   url: http://man.openbsd.org/OpenBSD-current/man6/canfield.6
   info: "The solitaire card game canfield. It's a BSD game."
+  wikipedia: https://en.wikipedia.org/wiki/Canfield_%28solitaire%29
 
 - name: chimaera
   url: http://www.mipmip.org/C_games/
@@ -283,6 +302,7 @@
 - name: cribbage
   url: http://man.openbsd.org/OpenBSD-current/man6/cribbage.6
   info: "The card game cribbage. It's a BSD game."
+  wikipedia: https://en.wikipedia.org/wiki/Cribbage
 
 - name: cryptrover
   url: https://code.google.com/p/cryptrover/
@@ -342,9 +362,20 @@
   url: http://www.roguebasin.com/index.php?title=Encircled
   info: Encircled is a roguelike game.
 
+- name: factor
+  url: http://man.openbsd.org/factor.6
+  info: factor a number, generate primes
+  wikipedia: https://en.wikipedia.org/wiki/Factorization
+
 - name: fish
   url: http://man.openbsd.org/OpenBSD-current/man6/fish.6
   info: "Play ``Go Fish''. It's a BSD game."
+  wikipedia: https://en.wikipedia.org/wiki/Go_Fish
+
+- name: fortune
+  wikipedia: https://en.wikipedia.org/wiki/Fortune_%28Unix%29
+  info: print a random, hopefully interesting, adage
+  url: http://man.openbsd.org/fortune.6
 
 - name: freecell
   url: http://www.linusakesson.net/software/freecell.php
@@ -398,6 +429,7 @@
 - name: gomoku
   url: http://man.openbsd.org/OpenBSD-current/man6/gomoku.6
   info: "Gomoku is a two player game where the object is to get 5 in a row horizontally, vertically or diagonally on a 19 by 19 grid. It's a BSD game."
+  wikipedia: https://en.wikipedia.org/wiki/Gomoku
 
 - name: goblinhack
   url: https://github.com/goblinhack/goblinhack
@@ -406,6 +438,10 @@
 - name: gpcslots2
   url: http://sourceforge.net/projects/gpcslots2/
   info: An free/opensource casino text-console game with 5 slot machines, 3 roulette tables including russian roulette, 2 dice games, a bank and stock market.
+
+- name: grdc
+  url: http://man.openbsd.org/grdc.6
+  info: grand digital clock (curses)
 
 - name: greed
   url: http://www.catb.org/~esr/greed/
@@ -704,6 +740,7 @@
   url: http://man.openbsd.org/OpenBSD-current/man6/robots.6
   info: "Fight off villainous robots. It's a BSD game."
   play: telnet or ssh on sdf.org
+  wikipedia: https://en.wikipedia.org/wiki/Robots_%28BSD_game%29
 
 - name: gnu-robots
   url: https://www.gnu.org/software/gnurobots/readme.html
@@ -720,6 +757,7 @@ by a baddie or you run out of energy."
 - name: sail
   url: http://man.openbsd.org/OpenBSD-current/man6/sail.6
   info: "Multi-user wooden ships and iron men. It's a BSD game."
+  wikipedia: https://en.wikipedia.org/wiki/Wooden_Ships_and_Iron_Men
 
 - name: seabattle
   url: http://www.deater.net/weave/vmwprod/seabattle.html
@@ -830,6 +868,7 @@ by a baddie or you run out of energy."
 - name: tetris
   url: http://man.openbsd.org/OpenBSD-current/man6/tetris.6
   info: "The game of tetris. It's a BSD game."
+  wikipedia: https://en.wikipedia.org/wiki/Tetris
 
 - name: tetris
   url: http://www.michaelcw.com/projects_coding.html
@@ -880,6 +919,7 @@ by a baddie or you run out of energy."
 - name: trek
   url: http://man.openbsd.org/OpenBSD-current/man6/trek.6
   info: "Trekkie game. It's a BSD game."
+  wikipedia: https://en.wikipedia.org/wiki/Star_Trek_%28text_game%29
 
 - name: trog
   url: https://github.com/JohnAnthony/TROG
@@ -969,6 +1009,10 @@ by a baddie or you run out of energy."
   url: http://freecode.com/projects/zracer
   info: "ZRacer is a console car racing game. It has a curses based semi-graphical interface, a random track generator, editable settings, and supports hotseat multiplayer. The rules are simple: the higher on the screen, the faster you ride. Don't crash into rocks, curbs, or your opponent, and be the first across the finish line."
 
+- name: wargames
+  wikipedia: https://en.wikipedia.org/wiki/WarGames
+  info: Would you like to play a game?
+
 - name: wanderer
   url: http://www.e271.net/~marina/wanderer.html
   info: Wanderer is a game similar to Boulderdash, Repton, XOR and others.
@@ -991,6 +1035,7 @@ by a baddie or you run out of energy."
   url: http://man.openbsd.org/OpenBSD-current/man6/wump.6
   info: "Hunt the wumpus in an underground cave. It's a BSD game."
   screencast: https://asciinema.org/a/35800
+  wikipedia: https://en.wikipedia.org/wiki/Hunt_the_Wumpus
 
 - name: yahtzee
   url: http://www.filewatcher.com/m/yahtzee-src.tar.Z.15889-0.html
