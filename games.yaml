@@ -101,6 +101,7 @@
   url: http://man.openbsd.org/OpenBSD-current/man6/adventure.6
   info: "An exploration game. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Colossal_Cave_Adventure
+  play: https://grack.com/demos/adventure/
 
 - name: "ADOM (Ancient Domains of Mystery)"
   url: http://www.adom.de/
