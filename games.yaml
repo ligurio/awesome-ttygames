@@ -26,6 +26,7 @@
 #     http://inventwithpython.com/pygcurse/
 #     http://ftp.ibiblio.org/pub/linux/games
 #     ftp://sunsite.unc.edu/pub/Linux/games
+#     https://bluerenga.wordpress.com/2015/03/19/lost-mainframe-games/
 #     telnet telehack.com
 #     telnet aardmud.org
 #     telnet zombiemud.org
@@ -1016,6 +1017,12 @@ by a baddie or you run out of energy."
 - name: zracer
   url: http://freecode.com/projects/zracer
   info: "ZRacer is a console car racing game. It has a curses based semi-graphical interface, a random track generator, editable settings, and supports hotseat multiplayer. The rules are simple: the higher on the screen, the faster you ride. Don't crash into rocks, curbs, or your opponent, and be the first across the finish line."
+
+# https://ahopeful.wordpress.com/2015/04/22/wander-1974-a-lost-mainframe-game-is-found/comment-page-1/
+- name: Wander
+  url: https://github.com/shmup/wander
+  info: Wander was probably the first computer game that is recognisable as what came to be known as a “text adventure”.
+  play: https://s3.amazonaws.com/wander1974/wander.html
 
 - name: wargames
   wikipedia: https://en.wikipedia.org/wiki/WarGames
