@@ -719,6 +719,11 @@
   url: http://users.cms.caltech.edu/~mvanier/hacking/gnushogi/gnushogi.html
   info: Japanese chess.
 
+- name: sshtron
+  url: http://sshtron.zachlatta.com/
+  info: SSHTron is a multiplayer lightcycle game that runs through SSH.
+  play: ssh sshtron.zachlatta.com
+
 - name: pyro
   url: http://pyrogue.sourceforge.net/
   info: A roguelike written in Python; the display is smooth.
