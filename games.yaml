@@ -522,6 +522,10 @@
   url: http://netbsd.gw.com/cgi-bin/man-cgi/man?larn+6+NetBSD-current
   info: "Exploring the caverns of Larn. It's a BSD game."
 
+- name: keeperrl
+  url: http://keeperrl.com/
+  info: Ambitious dungeon simulator with roguelike elements.
+
 - name: liberal crime squad
   url: http://lcs.wikidot.com/start
   info: This is a very elaborated game where you have to fight with your friends against conservative laws.
