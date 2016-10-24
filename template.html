@@ -1,39 +1,91 @@
 <!doctype html>
 <html lang="en">
-
-<!-- _____ _____ __ __    _____ _____ _____ _____ _____ 
-	|_   _|_   _|  |  |  |   __|  _  |     |   __|   __|
-	  | |   | | |_   _|  |  |  |     | | | |   __|__   |
-	  |_|   |_|   |_|    |_____|__|__|_|_|_|_____|_____| -->
-
 <head>
   <meta charset="utf-8">
   <meta name="author" content="Sergey Bronnikov">
   <meta name="keywords" content="open source, game, ascii, text, tty">
   <meta name="description" content="List of open source tty games.">
   <meta name="application-name" content="ASCII Games">
-  <link rel="stylesheet" href="main.css">
+  <!--<link rel="stylesheet" href="main.css">-->
   <title>Open Source Text Games</title>
   <style>
-	#corners1 {
-		border-radius: 4px;
-		background: lightGrey;
-		padding: 3px; 
-		width: 40%;
+	.name {
+		font-size: 2em;
 	}
-	#corners2 {
-		border-radius: 4px;
-		background: lightGrey;
-		padding: 3px; 
-		width: 7%;
+	.desc {
+		text-align: left;
+		margin-left: 2em;
 	}
+	.entity {
+		margin-top: 2em
+	}
+	.links {
+		margin-left: 2em;
+		margin-top: 10px;
+	}
+	.demo {
+		margin-left: 2em;
+		margin-top: 10px;
+	}
+	code.remote {
+		font-size: 1.3em;
+		margin-left: 2em;
+		margin-top: 10px;
+		border-radius: 10px;
+		background-color: white;
+		margin-right: 30px;
+		display: inline-block;
+	}
+
+	html { font-size: 100%; }
+	body {
+		font-family: sans-serif;
+		line-height: 1.5;
+		max-width: 70%;
+		margin: 0 auto;
+	}
+	h1, h2, h3, h4, h5 { font-family: 'Ubuntu', 'Trebuchet MS', sans-serif; }
+
+	p.similar {
+		font-size: 0.8em;
+	}
+
+	pre {
+		font-family: sans-serif;
+		white-space: pre-wrap;
+		line-height: 1.5;
+	}
+
+	ul, ol { margin-left: 10px; }
+	li  { margin-left:10px; padding-left:10px; }
+
+	h1 { font-size: 2em; }
+	h2 { font-size: 1.7em; }
+	h3 { font-size: 1.5em; }
+	h4 { font-size: 1.3em; }
+	h1 a, h2 a { text-decoration: none; }
+	h1, h2 { margin: 0.5em 0 0.5em 0; }
+	h5 { margin: 0; font-size: 1em; font-weight: normal; }
+	p { margin: 1em 0; line-height:1.4em; }
+
+	footer { text-align: center; margin-top: 2em; }
+
   </style>
   <script src="likely.js"></script>
   <link rel="stylesheet" href="likely.css">
 </head>
 
 <body>
-	<header><h1>Open Source Text Games</h1></header>
+	<header>
+	<h1 style="display:inline-block;">Open Source Text Games</h1>
+	<div style="float: right; display:inline-block;">
+	<pre style="font-family: monospace; font-weight: bold;">
+			 _____ _____ __ __    _____ _____ _____ _____ _____
+			|_   _|_   _|  |  |  |   __|  _  |     |   __|   __|
+			  | |   | | |_   _|  |  |  |     | | | |   __|__   |
+			  |_|   |_|   |_|    |_____|__|__|_|_|_|_____|_____|
+	</pre>
+	</div>
 	<p>
 		<div class="likely">
 		  <div class="twitter">Twitter</div>
@@ -41,6 +93,8 @@
 		  <div class="gplus">Google Plus</div>
 		</div>
 	</p>
+	</header>
+
   <article>
     <p>
 	This site tries to gather of great old text mode games in one place. If
@@ -48,75 +102,43 @@
 	href="https://github.com/ligurio/ttygames">Github repository</a> and create an
 	issue or even a pull request!
     </p>
-    <p>
-      <b>Similar resources:</b> check out <a href="https://ttygames.wordpress.com/">TTY Games</a>, which
-      specializes on games in text mode, <a href="http://www.lgdb.org/category/game_graphic/text_console">Linux Game Database</a>, contains a list of ASCII games, and <a href="http://osgameclones.com/">Open Source Game Clones</a>.
-    </p>
   </article>
 
-    <p>
-      Type "play" to find all games available on remote servers via telnet or ssh and run it via <a href="https://tools.bartlweb.net/webssh/">webssh</a>.
-      Type "screencast" to find all games with recorded screencasts.
-    </p>
-<div>
-	<input id="filter" type="text" placeholder="Type to filter by name or information">
-</div>
-
-<h2>List of text mode games</h2>
-
-<dl>
-	{{range .}}
-	<dt id="{{.Name}}" class="searchable">
-		<a href="{{.URL}}" rel="nofollow">{{.Name}}</a>
-		<a href="#{{.Name}}" class="hash">#</a>
-	</dt>
-
-	<dd class="searchable" data-index="{{.Name}} {{.Info}} {{if ne .Play ""}}demo{{end}} {{if ne .Screencast ""}}screencast</a>{{end}}">
-		{{if ne .Info ""}}{{.Info}}{{end}}
-		{{if ne .Screencast ""}}<p id="corners2"><a href="{{.Screencast}}">View</a></p>{{end}}
-		{{if ne .Play ""}}<p id="corners1">Play: <i>{{.Play}}</i></p>{{end}}
-	</dd>
+<section>
+{{range .}}
+<div class="entity">
+	<div id="{{.Name}}" class="name">{{.Name}}</div>
+	<div class="desc">
+	{{if ne .Info ""}}
+	<pre>
+{{.Info}}
+	</pre>
 	{{end}}
-</dl>
+	</div>
+	{{if ne .Play ""}}
+	<div class="demo">
+		Live play: <code class="remote">{{.Play}}</code>
+	</div>
+	{{end}}
+	<div class="links">
+		<a href="#{{.Name}}" class="hash">Permalink</a>
+		{{if ne .URL ""}}
+		&#183; <a href="{{.URL}}" rel="nofollow">Homepage</a>
+		{{end}}
+		{{if ne .Screencast ""}}
+		&#183; <a href="{{.Screencast}}">Screencast</a>
+		{{end}}
+	</div>
+</div>
+{{end}}
+</section>
 
-<style id="filter-style">
-</style>
-
-<footer>&#169; 2009-2016
-	<a href="https://twitter.com/estet">@estet</a>
+<footer>
+	<p>&#169; 2009-2016 <a href="https://bronevichok.ru/">Sergey Bronnikov</a> and <a href="https://github.com/ligurio/ttygames/graphs/contributors">contributors</a></p>
+    <p class="similar">
+      Similar resources: <a href="https://ttygames.wordpress.com/">TTY Games</a>, <a href="http://www.lgdb.org/category/game_graphic/text_console">Linux Game Database</a> and <a href="http://osgameclones.com/">Open Source Game Clones</a>.
+    </p>
 </footer>
-
-<script type="text/javascript">
-    // search handling
-    (function() {
-        // collect indexes on dt
-        var nodes = document.getElementsByTagName('dt');
-        for (var i = 0, l = nodes.length; i < l; i++) {
-            var el = nodes[i], next = el, index = [];
-            while ((next = next.nextElementSibling) && !next.id) {
-                if (next.tagName != 'DD')
-                    continue;
-                index.push(next.getAttribute('data-index'));
-            }
-            el.setAttribute('data-index', index.join(' '));
-        };
-        var getfilter = function(term) {
-            return !term ? "" :
-                '[data-index*="' + term.toLowerCase().replace('"', '') + '"]';
-        }
-        var style = document.getElementById('filter-style');
-        document.getElementById('filter').addEventListener('input', function() {
-            if (!this.value) {
-                style.innerHTML = "";
-                return;
-            }
-            style.innerHTML =
-                ".searchable {display: none} .searchable" +
-                this.value.split(' ').map(getfilter).join('') +
-                "{display: block}";
-        });
-    })();
-</script>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -128,6 +150,5 @@
   ga('send', 'pageview');
 
 </script>
-
 </body>
 </html>
