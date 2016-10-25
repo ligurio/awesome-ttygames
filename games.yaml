@@ -1,11 +1,7 @@
 # Sources:
-#     https://ttygames.wordpress.com/
-#     http://www.lgdb.org/
 #     https://en.wikipedia.org/wiki/List_of_text-based_computer_games
-#     http://osgameclones.com/
 #     http://peyre.x10.mx/GWBASIC/index.htm
 #     https://archive.org/details/gamesourcecode
-#     http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/games/
 #     http://cvsweb.netbsd.org/bsdweb.cgi/src/games/
 #     http://gitweb.dragonflybsd.org/dragonfly.git/tree/v3.0.0:/games
 #     https://github.com/ctdk/bsdgames-osx
@@ -14,7 +10,6 @@
 #     http://ascii.textfiles.com/
 #     http://freecode.com/projects/ladder
 #     http://sourceforge.net/projects/freakout/
-#     https://github.com/dpc/rhex
 #     http://freecode.com/projects/terminal-etch-n-sketch
 #     http://freecode.com/projects/vibora
 #     http://blog.yjl.im/search/label/space%20shooter%20game
@@ -24,19 +19,13 @@
 #     https://en.wikipedia.org/wiki/Gorillas_%28video_game%29
 #     https://github.com/szantaii/bash-gorillas
 #     http://sh.sidenote.hu/projects/bash-gorillas/
-#     http://inventwithpython.com/pygcurse/
 #     http://ftp.ibiblio.org/pub/linux/games
 #     ftp://sunsite.unc.edu/pub/Linux/games
 #     https://bluerenga.wordpress.com/2015/03/19/lost-mainframe-games/
-#     telnet telehack.com
 #     telnet aardmud.org
 #     telnet zombiemud.org
 #     telnet 99.249.157.57 2528
 #     telnet achaea.com
-#     telnet mud.darkerrealms.org 2000
-#     telnet darkrealms.ca
-#     telnet miku.acm.uiuc.edu
-#     telnet rayne.divineright.org:6565
 #     http://www.telnet.org/htm/places.htm
 #     http://mewbies.com/acute_terminal_fun_telnet_public_servers_watch_star_wars_play_games_etc.htm
 
@@ -195,11 +184,13 @@
 - name: bj
   info: a black-jack card game.
   play: telnet or ssh on sdf.org
+#play: telnet mud.darkerrealms.org 2000
 
 - name: boggle
   url: http://man.openbsd.org/OpenBSD-current/man6/boggle.6
   info: "Word search game. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Boggle
+  play: telnet mud.darkerrealms.org 2000
 
 - name: bs
   url: http://man.openbsd.org/OpenBSD-current/man6/bs.6
@@ -215,6 +206,11 @@
   info: decrypt caesar cyphers
   url: http://man.openbsd.org/caesar.6
   wikipedia: https://en.wikipedia.org/wiki/Caesar_cipher
+
+- name: Caribbean Stud
+  url:
+  info: a multi-player card game, written by Hero
+  play: telnet mud.darkerrealms.org 2000
 
 - name: cataclysm
   url: https://web.archive.org/web/20130212063150/http://whalesdev.com/wiki/index.php?title=Main_Page
@@ -272,6 +268,16 @@
   url: http://en.wikipedia.org/wiki/Colossal_Cave_Adventure
   info: Colossal Cave Adventure (also known as ADVENT, Colossal Cave, or Adventure) is one of the earliest computer adventure games and a precursor form of role playing video game. The original version was designed by Will Crowther, a programmer and caving enthusiast who based the layout on part of the Mammoth Cave system in Kentucky.
 
+- name: Checkers
+  url:
+  info: a two-player board game, written by Alexi
+  play: telnet mud.darkerrealms.org 2000
+
+- name: Connect Four
+  url:
+  info: a two-player slot game, written by Sarac
+  play: telnet mud.darkerrealms.org 2000
+
 - name: connect4
   url: https://github.com/badescunicu/connect4
   info: The Connect4 game using ncurses C library.
@@ -283,10 +289,12 @@
 - name: conquest
   url: http://radscan.com/conquest.html
   info: a real-time, multi-player space warfare game.
+  play: telnet mud.darkerrealms.org 2000
 
-- name: console othello
+- name: othello
   url: http://david.weekly.org/othello/index.php3
-  info: A console version of the othello game.
+  info: a two-player board game, written by Unk
+  play: telnet mud.darkerrealms.org 2000
 
 - name: corewar
   url: http://www.corewar.info/
@@ -389,6 +397,7 @@
 - name: freecell
   url: http://www.linusakesson.net/software/freecell.php
   info: This is a console (ncurses) version of the popular and addictive solitaire game.
+  play: telnet mud.darkerrealms.org 2000
 
 - name: fkmines
   url: http://sourceforge.net/projects/fkmines/
@@ -522,6 +531,12 @@
   url: http://netbsd.gw.com/cgi-bin/man-cgi/man?larn+6+NetBSD-current
   info: "Exploring the caverns of Larn. It's a BSD game."
 
+- name: Legend of the Red Dragon
+  url: http://lord.lordlegacy.com/
+  info: Legend of the Red Dragon (LORD) is a text-based online role-playing game.
+  wikipedia: https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon
+  play: telnet darkrealms.ca
+
 - name: keeperrl
   url: http://keeperrl.com/
   info: Ambitious dungeon simulator with roguelike elements.
@@ -529,6 +544,11 @@
 - name: liberal crime squad
   url: http://lcs.wikidot.com/start
   info: This is a very elaborated game where you have to fight with your friends against conservative laws.
+
+- name: Let it Ride
+  url:
+  info: a multi-player card game, written by Hero
+  play: telnet mud.darkerrealms.org 2000
 
 - name: lexter
   url: http://www.kyne.com.au/~mark/software/lexter.php
@@ -684,6 +704,7 @@
   url: http://slaout.linux62.org/pacman/index.html
   info: "It's a simple and ASCII version, so no fun (and IA is very stupid)..."
   screencast: https://asciinema.org/a/34686
+  play: https://www.google.com/doodles/30th-anniversary-of-pac-man
 
 - name: pacman
   url: http://freecode.com/projects/asciipacman/
@@ -694,10 +715,10 @@
   info: Pacman for Console.
   screencast: https://asciinema.org/a/34685
 
-# ssh pacman@antimirov.net pacman/pacman
 - name: pacman
   url: http://antimirov.net/it/pacman/
-  info: A simple version of the famous pacman game written in python.
+  info: A simple version of the famous pacman game written in Python.
+  play: ssh pacman:pacman@antimirov.net
 
 - name: petris
   info: Another tetris clone.
@@ -706,9 +727,19 @@
   url: http://man.openbsd.org/OpenBSD-current/man6/phantasia.6
   info: "An interterminal fantasy game. It's a BSD game."
 
+- name: pinochle
+  url:
+  info: a three-player card game, written by Sarac.
+  play: telnet mud.darkerrealms.org 2000
+
 - name: plonx
   url: http://bilious.homelinux.org/~paxed/plonx/
   info: Small ASCII puzzle game.
+
+- name: Poker
+  url:
+  info: a multi-player five-card draw, written by Lucifer
+  play: telnet mud.darkerrealms.org 2000
 
 - name: pong
   url: http://www.filewatcher.com/m/gnupong-0.14.tar.gz.32541-0.html
@@ -716,7 +747,17 @@
 
 - name: portile
   url: http://www.increpare.com/2008/11/portile/
-  info: Portile is a 2d, tile-based take on narbacular drop.
+  info: Portile is a 2D, tile-based take on narbacular drop.
+
+- name: Scrabble
+  url:
+  info: a two-to-four-player board game, written by Unk
+  play: telnet mud.darkerrealms.org 2000
+
+- name: Sgt. Major
+  url:
+  info: a four-player card game, written by Lucifer
+  play: telnet mud.darkerrealms.org 2000
 
 - name: shogi
   url: http://users.cms.caltech.edu/~mvanier/hacking/gnushogi/gnushogi.html
@@ -747,6 +788,12 @@
 - name: reversi
   url: http://git.b9.com/?p=reversi.git;a=summary
   info: A good version of the othello/reversi game written in the Lisp langugage.
+
+- name: rhex
+  url: https://github.com/dpc/rhex
+  info: Simple ASCII terminal hexagonal map roguelike written in Rust.
+  screencast: https://asciinema.org/a/34224
+  play: ssh rhex:rhex123@rhex.dpc.pw
 
 - name: rogue
   url: http://netbsd.gw.com/cgi-bin/man-cgi?rogue++NetBSD-current
@@ -929,6 +976,7 @@ by a baddie or you run out of energy."
   url: https://github.com/mpereira/tty-solitaire
   info: ncurses-based klondike solitaire game.
   screencast: https://asciinema.org/a/6519
+  play: telnet mud.darkerrealms.org 2000
 
 - name: trek73
   url: http://www.kermitmurray.com/trek73/
@@ -1022,6 +1070,12 @@ by a baddie or you run out of energy."
 - name: zombies!
   url: http://distractionandnonsense.com/zombies/
   info: Zombies! is a roguelike written entirely from scratch, in one day, in Common Lisp.
+
+- name: Z-Code games
+  url: http://telehack.com/telehack.html
+  info: z-code games
+  wikipedia: https://en.wikipedia.org/wiki/Z-machine
+  play: telnet telehack.com (or http://telehack.com/)
 
 - name: zracer
   url: http://freecode.com/projects/zracer
