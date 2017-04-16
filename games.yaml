@@ -1035,6 +1035,10 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: http://www.filewatcher.com/m/tictac2-0.6.tgz.34988-0.html
   info: Tic Tac Toe game
 
+- name: tsl
+  url: http://www.happyponyland.net/the-slimy-lichmummy
+  info: The Slimy Lichmummy is a difficult roguelike in a traditional style.
+
 - name: tzar
   url: http://freecode.com/projects/tzar
   info: A roguelike game.
