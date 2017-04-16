@@ -256,6 +256,11 @@
   url: http://en.cataclysmdda.com/
   info: "Cataclysm: Dark Days Ahead is a roguelike set in a post-apocalyptic world. Surviving is difficult: you have been thrown, ill-equipped, into a landscape now riddled with monstrosities of which flesh eating zombies are neither the strangest nor the deadliest."
 
+- name: ckhet
+  url: http://mbays.sdf.org/ckhet
+  info: Curses implementation of the laser board game Khet.
+  play: "ssh ckhet@sshgames.thegonz.net; password: ckhet"
+
 - name: clines
   url: http://manticore.2y.net/prj/clines-a.html
   info: Clines is a standard "Lines" game, implemented as a curses application.
@@ -485,6 +490,11 @@
   info: "The object of the game hunt is to kill off the other players. There are no rooms, no treasures, and no monsters. Instead, you wander around a maze, find grenades, trip mines, and shoot down walls and players. It's a BSD game."
   play: telnet or ssh on sdf.org
 
+- name: hunt-ng
+  url: http://mbays.sdf.org/hunt-ng/
+  info: "A fork of BSD hunt with colour and realtime processing"
+  play: "ssh hunt@sshgames.thegonz.net; password: kalte"
+
 - name: hrd
   info: the puzzle game of HuaRongDao
 
@@ -520,12 +530,18 @@
   play: telnet or ssh on sdf.org
 
 - name: intricacy
-  url: http://mbays.freeshell.org/intricacy/
+  url: http://mbays.sdf.org/intricacy/
   info: A game of competitive puzzle-design. At its core, this is an abstract turn-based puzzle game in which you pick a lock by co-ordinating a pair of tools to manipulate its mechanism. The locks you pick are designed by other players; once you have figured out the secret of how to pick a lock, you must secure that secret behind a lock of your own devising.
+  play: "ssh intricacy@sshgames.thegonz.net; password: intricacy"
 
 - name: imperium
   url: https://empiredirectory.net/
   info: Imperium is a game of intergalactic exploration, warfare, and economics. Imperium has no set goal, and fairly flexible rules about what you can do, thus, while a single player could run their own game just for the fun of exploration, they would be missing out on most of the aspects of the game with no one to compete against.
+
+- name: lagrogue
+  url: http://mbays.sdf.org/lagrogue/
+  info: "Roguelike in which your commands are enacted after a few turns' delay."
+  play: "ssh lagrogue@sshgames.thegonz.net; password: lag"
 
 - name: larn
   url: http://netbsd.gw.com/cgi-bin/man-cgi/man?larn+6+NetBSD-current
@@ -824,6 +840,12 @@ by a baddie or you run out of energy."
   info: "Multi-user wooden ships and iron men. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Wooden_Ships_and_Iron_Men
 
+- name: scroll
+  url: https://joeyh.name/code/scroll/
+  info: "You're a bookworm that's stuck on a scroll. You have to dodge between
+words and use spells to make your way down the page as the scroll is
+read. Go too slow and you'll get wound up in the scroll and crushed."
+
 - name: seabattle
   url: http://www.deater.net/weave/vmwprod/seabattle.html
   info: A version of the classical battleships game.
@@ -844,6 +866,11 @@ by a baddie or you run out of energy."
 - name: sil
   url: http://www.amirrorclear.net/flowers/game/sil/
   info: A good roguelike game.
+
+- name: simulchess
+  url: http://mbays.sdf.org/simulchess
+  info: Simultaneous-move chess.
+  play: "ssh simulchess@sshgames.thegonz.net; password: simulchess"
 
 - name: stardork
   url: http://stardork.sourceforge.net/
@@ -1007,6 +1034,10 @@ by a baddie or you run out of energy."
 - name: tictactoe
   url: http://www.filewatcher.com/m/tictac2-0.6.tgz.34988-0.html
   info: Tic Tac Toe game
+
+- name: tsl
+  url: http://www.happyponyland.net/the-slimy-lichmummy
+  info: The Slimy Lichmummy is a difficult roguelike in a traditional style.
 
 - name: tzar
   url: http://freecode.com/projects/tzar
