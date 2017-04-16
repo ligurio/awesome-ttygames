@@ -840,6 +840,12 @@ by a baddie or you run out of energy."
   info: "Multi-user wooden ships and iron men. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Wooden_Ships_and_Iron_Men
 
+- name: scroll
+  url: https://joeyh.name/code/scroll/
+  info: "You're a bookworm that's stuck on a scroll. You have to dodge between
+words and use spells to make your way down the page as the scroll is
+read. Go too slow and you'll get wound up in the scroll and crushed."
+
 - name: seabattle
   url: http://www.deater.net/weave/vmwprod/seabattle.html
   info: A version of the classical battleships game.
