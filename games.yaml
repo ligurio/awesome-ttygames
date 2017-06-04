@@ -269,8 +269,8 @@
   url: https://github.com/veselov/clines
   info: Color Lines clone in console.
 
-- name: advent
-  url: http://en.wikipedia.org/wiki/Colossal_Cave_Adventure
+- name: Open Adventure
+  url: https://gitlab.com/esr/open-adventure
   info: Colossal Cave Adventure (also known as ADVENT, Colossal Cave, or Adventure) is one of the earliest computer adventure games and a precursor form of role playing video game. The original version was designed by Will Crowther, a programmer and caving enthusiast who based the layout on part of the Mammoth Cave system in Kentucky.
 
 - name: Checkers
