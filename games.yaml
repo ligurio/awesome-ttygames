@@ -1189,3 +1189,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://github.com/Tiehuis/2048-cli
   info: A cli version of the game 2048 for your Linux terminal.
   screencast: https://asciinema.org/a/34067
+
+- name: Conquest
+  url: https://github.com/beejjorgensen/conquest
+  info: Port of the old Amiga Conquest text-based game
