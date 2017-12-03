@@ -1,6 +1,6 @@
 # Unix ASCII games
 
-[![Build Status](https://travis-ci.org/ligurio/ttygames.svg?branch=master)](https://travis-ci.org/ligurio/ttygames)
+[![Build Status](https://travis-ci.org/ligurio/awesome-ttygames.svg?branch=master)](https://travis-ci.org/ligurio/awesome-ttygames)
 
 Feel free to submit pull requests to add new games and improve information about
 those already in the database.
