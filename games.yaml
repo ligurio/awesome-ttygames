@@ -748,6 +748,11 @@
   info: a three-player card game, written by Sarac.
   play: telnet mud.darkerrealms.org 2000
 
+- name: piu-piu-SH
+  url: https://github.com/vaniacer/piu-piu-SH
+  info: Old School horizontal scroller 'Shoot Them All' game in bash
+  screencast: 
+
 - name: plonx
   url: http://bilious.homelinux.org/~paxed/plonx/
   info: Small ASCII puzzle game.
