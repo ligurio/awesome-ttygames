@@ -1,0 +1,6 @@
+#!/bin/sh
+
+http_domains=$(grep '^  url: http://' games.yaml | cut -d/ -f3 | sort | uniq)
+(for domain in $http_domains; do
+    curl -s -o /dev/null -w "%{http_code}: $domain\n" https://$domain/
+done) | tee /dev/stderr | grep '^200: ' >http-to-https
