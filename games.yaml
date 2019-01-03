@@ -58,19 +58,19 @@
 
 - name: arkanoid-bash
   url: https://github.com/bolknote/shellgames/blob/master/arcanoid.sh
-  info: Arkanoid (アルカノイド Arukanoido?) is an arcade game developed by Taito in 1986. Written on Bash.
+  info: Arkanoid (アルカノイド Arukanoido?) is an arcade game developed by Taito in 1986. Written in Bash.
   screencast: https://asciinema.org/a/36415
   wikipedia: https://en.wikipedia.org/wiki/Arkanoid
 
 - name: arkanoid.py
   url: http://blog.yjl.im/2015/12/arkanoid-example-from-pygamii-ascii.html
-  info: Arkanoid (アルカノイド Arukanoido?) is an arcade game developed by Taito in 1986. Written on Python.
+  info: Arkanoid (アルカノイド Arukanoido?) is an arcade game developed by Taito in 1986. Written in Python.
   wikipedia: https://en.wikipedia.org/wiki/Arkanoid
 
 
 - name: arkanoid-sed
   url: http://sed.sourceforge.net/local/games/arkanoid.sed.html
-  info: Arkanoid (アルカノイド Arukanoido?) is an arcade game developed by Taito in 1986. Written on Sed.
+  info: Arkanoid (アルカノイド Arukanoido?) is an arcade game developed by Taito in 1986. Written in Sed.
   wikipedia: https://en.wikipedia.org/wiki/Arkanoid
 
 
