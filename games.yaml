@@ -141,7 +141,7 @@
   wikipedia: https://en.wikipedia.org/wiki/Beast_(video_game)
 
 - name: bombardier
-  url: https://packages.debian.org/ru/sid/i386/games/bombardier
+  url: https://packages.debian.org/en/sid/i386/games/bombardier
   info: This game is the same as the old Blitz16 game on Commodore 16/Plus 4, written by Simon Taylor.
 
 # 3 Candidates:
