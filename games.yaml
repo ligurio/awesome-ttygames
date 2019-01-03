@@ -748,6 +748,7 @@
   play: ssh pacman:pacman@antimirov.net
 
 - name: petris
+  url: https://packages.debian.org/sid/games/petris
   info: Another tetris clone.
 
 - name: phantasia
@@ -755,26 +756,23 @@
   info: "An interterminal fantasy game. It's a BSD game."
 
 - name: pinochle
-  url:
   info: a three-player card game, written by Sarac.
   play: telnet mud.darkerrealms.org 2000
 
 - name: piu-piu-SH
   url: https://github.com/vaniacer/piu-piu-SH
   info: Old School horizontal scroller 'Shoot Them All' game in bash
-  screencast: 
 
 - name: plonx
-  url: http://bilious.homelinux.org/~paxed/plonx/
+  url: https://web.archive.org/web/20080704073046/http://bilious.homelinux.org/~paxed/plonx/
   info: Small ASCII puzzle game.
 
 - name: Poker
-  url:
   info: a multi-player five-card draw, written by Lucifer
   play: telnet mud.darkerrealms.org 2000
 
 - name: pong
-  url: http://www.filewatcher.com/m/gnupong-0.14.tar.gz.32541-0.html
+  url: https://web.archive.org/web/*/http://www.filewatcher.com/m/gnupong-0.14.tar.gz.32541-0.html
   info: An old and very poor version of the old pong game.
 
 - name: portile
@@ -782,12 +780,10 @@
   info: Portile is a 2D, tile-based take on narbacular drop.
 
 - name: Scrabble
-  url:
   info: a two-to-four-player board game, written by Unk
   play: telnet mud.darkerrealms.org 2000
 
 - name: Sgt. Major
-  url:
   info: a four-player card game, written by Lucifer
   play: telnet mud.darkerrealms.org 2000
 
@@ -813,12 +809,12 @@
   info: pytris is a two-player networked console Tetris clone written in Python/Pyncurses.
 
 - name: rr
-  url: http://www.bpfh.net/sysadmin/man/rr-1.html
+  url: https://web.archive.org/web/20151023175221/http://www.bpfh.net/sysadmin/man/rr-1.html
   info: Russian roulette
   screencast: https://asciinema.org/a/1586
 
+# http://git.b9.com/?p=reversi.git;a=summary is not found on archive.org
 - name: reversi
-  url: http://git.b9.com/?p=reversi.git;a=summary
   info: A good version of the othello/reversi game written in the Lisp langugage.
 
 - name: rhex
@@ -872,7 +868,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: Another clone of the tetris game.
 
 - name: scrap
-  url: http://www.math.leidenuniv.nl/~mommen/scrap/
+  url: https://web.archive.org/web/20130524032130/http://www.math.leidenuniv.nl/~mommen/scrap/
   info: Scrap is an easy to play roguelike game.
 
 - name: shogi
@@ -884,7 +880,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: A good roguelike game.
 
 - name: simulchess
-  url: http://mbays.sdf.org/simulchess
+  url: https://mbays.freeshell.org/simulchess/
   info: Simultaneous-move chess.
   play: "ssh simulchess@sshgames.thegonz.net; password: simulchess"
 
@@ -897,7 +893,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: A hotdogging game, evade the deadly Yeti on your jet-powered skis.
 
 - name: slider
-  url: http://www.filewatcher.com/m/slider-1.0.c.gz.1234-0.html
+  url: https://web.archive.org/web/20170806174225/http://www.filewatcher.com/m/slider-1.0.c.gz.1234-0.html
   info: A slider game.
 
 - name: slashem
@@ -934,7 +930,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   play: telnet or ssh on sdf.org
 
 - name: sokoban
-  url: http://www.filewatcher.com/m/sokoban-src.tar.gz.16287-0.html
+  url: https://web.archive.org/web/*/http://www.filewatcher.com/m/sokoban-src.tar.gz.16287-0.html
   info: A fully playable version of the sokoban game, but a little hacking has to be done.
   play: telnet or ssh on sdf.org
 
@@ -943,7 +939,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: SpaceZero is a Real Time Strategy 2D space combat game for two players over a network.
 
 - name: sporkhack
-  url: http://www.sporkhack.com/
+  url: https://web.archive.org/web/20150212195235/http://www.sporkhack.com/
   info: SporkHack, at sporkhack.com, is a variant of Nethack 3.4.3 by Derek Ray aimed at game balance.
 
 - name: starlanes
@@ -966,7 +962,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: "Modern version of Art Canfil's classic, Taipan."
 
 - name: tictac4
-  url: http://www.filewatcher.com/m/tictac4-1.0.tar.gz.14413-0.html
+  url: https://web.archive.org/web/*/http://www.filewatcher.com/m/tictac4-1.0.tar.gz.14413-0.html
   info: A tic-tac-toe variant where you have to align four symbols (instead of three).
 
 - name: the sewer massacre
@@ -979,15 +975,15 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   wikipedia: https://en.wikipedia.org/wiki/Tetris
 
 - name: tetris
-  url: http://www.michaelcw.com/projects_coding.html
+  url: https://web.archive.org/web/20170806174359/http://www.michaelcw.com/projects_coding.html
   info: ASCII Tetris
 
 - name: text2048
-  url: https://github.com/chtisgit/text2048
+  url: https://web.archive.org/web/20170806174901/https://github.com/chtisgit/text2048
   info: "This is an ncurses version of the game '2048'."
 
 - name: tower of mediocrity
-  url: http://www.cavein.org/~chris/code/tower/
+  url: https://web.archive.org/web/20131205100524/http://www.cavein.org/~chris/code/tower/
   info: A tower defense game. Unfortunately, the game is quite easy to win.
 
 - name: tom bombem
@@ -995,7 +991,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: An arcade game where you have to shoot on inanimate objects.
 
 - name: torus
-  url: http://www.filewatcher.com/m/torus-src.tar.gz.13425-0.html
+  url: https://web.archive.org/web/*/http://www.filewatcher.com/m/torus-src.tar.gz.13425-0.html
   info: A variant of the robots game.
   play: telnet or ssh on sdf.org
 
@@ -1035,7 +1031,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: a roguelike game with simple commands.
 
 - name: tornado
-  url: https://kiza.eu/software/tornado/
+  url: https://github.com/kouya/tornado
   info: Tornado is the clone of a C64 game.
 
 - name: threes
@@ -1044,11 +1040,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   screencast: https://asciinema.org/a/18135
 
 - name: tint
-  url: http://oasis.frogfoot.net/code/tint/
+  url: https://web.archive.org/web/20090912192119/http://oasis.frogfoot.net:80/code/tint/
   info: Tint Is Not Tetris, a ncurses based clone of the original Tetris(tm) game.
 
 - name: tictactoe
-  url: http://www.filewatcher.com/m/tictac2-0.6.tgz.34988-0.html
+  url: https://web.archive.org/web/*/http://www.filewatcher.com/m/tictac2-0.6.tgz.34988-0.html
   info: Tic Tac Toe game
 
 - name: tsl
@@ -1101,11 +1097,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: "Just a simple colorful clone of the famous game Snake but with an extraordinary feature. Do you know the Soviet Russia meme by Smirnoff? Try to imagine if you don't eat the food but the food eats you."
 
 - name: ztrack
-  url: http://ibiblio.org/pub/linux/games/arcade/
+  url: https://ibiblio.org/pub/linux/games/arcade/ztrack-1.0.tar.gz
   info: Ztrack is a (very) simple curses-based pseudo-3D driving game.
 
 - name: zork I, II, III
-  url: http://www.csd.uwo.ca/Infocom/games.html
+  url: https://web.archive.org/web/20130121064934/http://www.csd.uwo.ca/Infocom/games.html
   info: An old game by Infocom.
   play: telnet or ssh on sdf.org
 
@@ -1144,7 +1140,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   play: telnet or ssh on sdf.org
 
 - name: wallyplus
-  url: http://www.filewatcher.com/m/wallyplus-0.1.2.tar.gz.520621-0.html
+  url: https://web.archive.org/web/*/http://www.filewatcher.com/m/wallyplus-0.1.2.tar.gz.520621-0.html
   info: A game for playing go.
 
 - name: wumpus & superhack
@@ -1163,11 +1159,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   wikipedia: https://en.wikipedia.org/wiki/Hunt_the_Wumpus
 
 - name: yahtzee
-  url: http://www.filewatcher.com/m/yahtzee-src.tar.Z.15889-0.html
+  url: https://web.archive.org/web/*/http://www.filewatcher.com/m/yahtzee-src.tar.Z.15889-0.html
   info: A very nice yahtzee game where you can play against humans or against the computer (including several different opponents).
 
 - name: yahtzee-color
-  url: http://www.filewatcher.com/m/colour-yahtzee.tgz.36120-0.html
+  url: https://web.archive.org/web/*/http://www.filewatcher.com/m/colour-yahtzee.tgz.36120-0.html
   info: A very nice yahtzee game where you can play against humans or against the computer (including several different opponents).
 
 - name: yuxtapa
@@ -1193,8 +1189,10 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: ularn
   info: An easy to play roguelike game.
 
+# This site is no longer indexed in Google, so it has probably been down for
+# quite some time.
 - name: ultrarogue
-  url: http://rogue.rogueforge.net/ultrarogue-1-07/
+  url: https://web.archive.org/web/20180216113810/http://rogue.rogueforge.net/ultrarogue-1-07/
   info: Another variant of Rogue.
 
 - name: urban warfare
