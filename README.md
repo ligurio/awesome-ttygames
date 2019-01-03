@@ -29,7 +29,7 @@ A roguelike game of Cowboy Knights and Lurking Horror.
 Ad Astra is a turn-based space strategy game written in Python that uses curses for its display.
 
 
-### [ADOM (Ancient Domains of Mystery)](https://www.adom.de/) 
+### [ADOM (Ancient Domains of Mystery)](https://www.adom.de/home/index.html) 
 
 ADOM is a roguelike game which means that it is a single-user game featuring the exploration of a dungeon complex (and in the case of ADOM a few other games of this genre: the exploration of a large wilderness area with villages and many special locations). You control a fictional character described by race, class, attributes, skills, and equipment. This fictional character is trying to achieve a specific goal (see below) and succeed in a difficult quest. To fulfill the quest, you have to explore previously undiscovered tunnels and dungeons, fight hideous monsters, uncover long forgotten secrets, and find treasures of all kind.
 
