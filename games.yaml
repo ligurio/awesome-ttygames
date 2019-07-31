@@ -48,7 +48,7 @@
 - name: Anonymine
   url: https://oskog97.com/projects/anonymine/
   info: A curses mode minesweeper solvable without guessing, and the only with von Neumann neighbourhoods.
-  play: ssh play@anonymine-demo.oskog97.com -p 2222 #no password
+  play: ssh play@anonymine-demo.oskog97.com -p 2222 # no password
   screencast: https://asciinema.org/a/82455
 
 - name: aop
@@ -58,19 +58,19 @@
 
 - name: arkanoid-bash
   url: https://github.com/bolknote/shellgames/blob/master/arcanoid.sh
-  info: Arkanoid (アルカノイド Arukanoido?) is an arcade game developed by Taito in 1986. Written on Bash.
+  info: Arkanoid is an arcade game developed by Taito in 1986. Written on Bash.
   screencast: https://asciinema.org/a/36415
   wikipedia: https://en.wikipedia.org/wiki/Arkanoid
 
 - name: arkanoid.py
   url: http://blog.yjl.im/2015/12/arkanoid-example-from-pygamii-ascii.html
-  info: Arkanoid (アルカノイド Arukanoido?) is an arcade game developed by Taito in 1986. Written on Python.
+  info: Arkanoid is an arcade game developed by Taito in 1986. Written on Python.
   wikipedia: https://en.wikipedia.org/wiki/Arkanoid
 
 
 - name: arkanoid-sed
   url: http://sed.sourceforge.net/local/games/arkanoid.sed.html
-  info: Arkanoid (アルカノイド Arukanoido?) is an arcade game developed by Taito in 1986. Written on Sed.
+  info: Arkanoid is an arcade game developed by Taito in 1986. Written on Sed.
   wikipedia: https://en.wikipedia.org/wiki/Arkanoid
 
 
@@ -89,13 +89,13 @@
 # ftp://ftp.simtreas.ru/pub/download/add/adventur.tgz
 - name: adventure
   url: http://man.openbsd.org/OpenBSD-current/man6/adventure.6
-  info: "An exploration game. It's a BSD game."
+  info: An exploration game. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Colossal_Cave_Adventure
   play: https://grack.com/demos/adventure/
 
 - name: "ADOM (Ancient Domains of Mystery)"
   url: http://www.adom.de/
-  info: "ADOM is a roguelike game which means that it is a single-user game featuring the exploration of a dungeon complex (and in the case of ADOM a few other games of this genre: the exploration of a large wilderness area with villages and many special locations). You control a fictional character described by race, class, attributes, skills, and equipment. This fictional character is trying to achieve a specific goal (see below) and succeed in a difficult quest. To fulfill the quest, you have to explore previously undiscovered tunnels and dungeons, fight hideous monsters, uncover long forgotten secrets, and find treasures of all kind."
+  info: ADOM is a roguelike game which means that it is a single-user game featuring the exploration of a dungeon complex (and in the case of ADOM a few other games of this genre: the exploration of a large wilderness area with villages and many special locations). You control a fictional character described by race, class, attributes, skills, and equipment. This fictional character is trying to achieve a specific goal (see below) and succeed in a difficult quest. To fulfill the quest, you have to explore previously undiscovered tunnels and dungeons, fight hideous monsters, uncover long forgotten secrets, and find treasures of all kind.
 
 - name: arithmetic
   url: http://man.openbsd.org/arithmetic.6
@@ -120,7 +120,7 @@
 
 - name: atc
   url: http://man.openbsd.org/OpenBSD-current/man6/atc.6
-  info: "air traffic controller game. It's a BSD game."
+  info: air traffic controller game. It's a BSD game.
 
 - name: avanor
   info: Rogue-like game with easy ADOM-like user interface.
@@ -144,7 +144,7 @@
   info: This game is the same as the old Blitz16 game on Commodore 16/Plus 4, written by Simon Taylor.
 
 - name: boulder dash
-  info: "A Boulder Dash game clone for your favorite terminal. You are trapped in the CAVEZ of PHEAR, your mission is to escape through all the caves and make it out alive. To escape through a cave you will have to find all the diamonds located in it. Once you've found all the diamonds, their powers combined will help you get to the next cave, one step closer to freedom."
+  info: A Boulder Dash game clone for your favorite terminal. You are trapped in the CAVEZ of PHEAR, your mission is to escape through all the caves and make it out alive. To escape through a cave you will have to find all the diamonds located in it. Once you've found all the diamonds, their powers combined will help you get to the next cave, one step closer to freedom.
   wikipedia: https://en.wikipedia.org/wiki/Boulder_Dash
 
 - name: battleships
@@ -188,13 +188,13 @@
 
 - name: boggle
   url: http://man.openbsd.org/OpenBSD-current/man6/boggle.6
-  info: "Word search game. It's a BSD game."
+  info: Word search game. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Boggle
   play: telnet mud.darkerrealms.org 2000
 
 - name: bs
   url: http://man.openbsd.org/OpenBSD-current/man6/bs.6
-  info: "Battleships game. It's a BSD game."
+  info: Battleships game. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Battleship_%28game%29
 
 - name: bowling
