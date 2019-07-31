@@ -782,7 +782,7 @@ Implementation of the simple board game called Mancala.
 **Play**: ```telnet on twenex.org```
 
 
-### [matanza](http://web.archive.org/web/20071226080243/http://bachue.com/matanza/) 
+### matanza 
 
 Space ascii war game.
 

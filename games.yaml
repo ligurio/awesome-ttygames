@@ -583,7 +583,6 @@
   play: telnet on twenex.org
 
 - name: matanza
-  url: http://web.archive.org/web/20071226080243/http://bachue.com/matanza/
   info: Space ascii war game.
 
 - name: mangband
