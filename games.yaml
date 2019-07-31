@@ -965,7 +965,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: The game of tetris. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Tetris
 
-- name: 2048
+- name: '2048'
   url: https://github.com/mevdschee/2048.c
   info: This is an ncurses version of the game '2048'.
 
