@@ -389,6 +389,11 @@
   info: factor a number, generate primes
   wikipedia: https://en.wikipedia.org/wiki/Factorization
 
+- name: fbird
+  url: https://github.com/nanochess/fbird
+  info: F-Bird, a text bootsector game
+  screencast: https://www.youtube.com/watch?v=p31XFFAeze4
+
 - name: fish
   url: http://man.openbsd.org/OpenBSD-current/man6/fish.6
   info: "Play ``Go Fish''. It's a BSD game."
@@ -517,6 +522,11 @@
 
 - name: hydra slayer
   info: A nice and easy roguelike game.
+
+- name: Invaders
+  url: https://github.com/nanochess/invaders
+  info: Invaders game in 512 bytes (boot sector)
+  screencast: https://www.youtube.com/watch?v=pC976eejfms
 
 - name: ninvaders
   url: http://ninvaders.sourceforge.net/
@@ -743,6 +753,11 @@
   url: http://man.openbsd.org/OpenBSD-current/man6/phantasia.6
   info: "An interterminal fantasy game. It's a BSD game."
 
+- name: pillman
+  url: https://github.com/nanochess/pillman
+  info: Pillman (aka pacman) game in 512 bytes (boot sector or COM file)
+  screencast: https://www.youtube.com/watch?v=ALBgsXOq11o
+  
 - name: pinochle
   url:
   info: a three-player card game, written by Sarac.
@@ -974,6 +989,10 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: text2048
   url: https://github.com/chtisgit/text2048
   info: "This is an ncurses version of the game '2048'."
+
+- name: Toledo-Atomchess
+  url: https://github.com/nanochess/Toledo-Atomchess
+  info: Toledo Atomchess is the world's smallest chess program in x86 assembly code
 
 - name: tower of mediocrity
   url: http://www.cavein.org/~chris/code/tower/
