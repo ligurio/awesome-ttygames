@@ -36,7 +36,6 @@ Use this template:
 To the extent possible under law, [Sergey Bronnikov](https://bronevichok.ru) has
 waived all copyright and related or neighboring rights to this work.
 
-
 ### [Apple Trek](http://peyre.x10.mx/GWBASIC/index.htm#AppleTrek) 
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Apple_Trek).
@@ -277,7 +276,7 @@ a multi-player card game, written by Hero
 **Play**: ```telnet mud.darkerrealms.org 2000```
 
 
-### [cataclysm](https://web.archive.org/web/20130212063150/http://whalesdev.com/wiki/index.php?title=Main_Page) 
+### cataclysm 
 
 A Zombie Survival Roguelike.
 
@@ -1436,7 +1435,7 @@ Just a simple colorful clone of the famous game Snake but with an extraordinary 
 Ztrack is a (very) simple curses-based pseudo-3D driving game.
 
 
-### [zork I, II, III](http://www.csd.uwo.ca/Infocom/games.html) 
+### zork I, II, III 
 
 An old game by Infocom.
 
