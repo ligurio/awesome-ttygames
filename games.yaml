@@ -210,7 +210,6 @@
   play: telnet mud.darkerrealms.org 2000
 
 - name: cataclysm
-  url: https://web.archive.org/web/20130212063150/http://whalesdev.com/wiki/index.php?title=Main_Page
   info: A Zombie Survival Roguelike.
 
 - name: canfield
@@ -1088,7 +1087,6 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: Ztrack is a (very) simple curses-based pseudo-3D driving game.
 
 - name: zork I, II, III
-  url: http://www.csd.uwo.ca/Infocom/games.html
   info: An old game by Infocom.
   play: telnet or ssh on sdf.org
 
