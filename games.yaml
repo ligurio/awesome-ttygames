@@ -34,7 +34,6 @@
   wikipedia: https://en.wikipedia.org/wiki/Apple_Trek
 
 - name: 0verkill
-  url: http://artax.karlin.mff.cuni.cz/~brain/0verkill/
   info: 0verkill is bloody 2D action deathmatch-like game in ASCII-ART.
 
 - name: abura tan
@@ -52,7 +51,6 @@
   screencast: https://asciinema.org/a/82455
 
 - name: aop
-  url: http://aop.raffi.at/
   info: Ambassador of Pain (aop). A very nice and challenging arcade game.
   screencast: https://asciinema.org/a/34678
 
@@ -162,7 +160,6 @@
   play: telnet or ssh on sdf.org
 
 - name: blocks
-  url: http://www.filewatcher.com/m/block-0.6.tgz.20110-0.html
   info: A block-based puzzle game.
 
 - name: bluemoon
@@ -310,7 +307,7 @@
   info: CPat is probably the best card game for the Linux console; it is a collection of many solitaire/patience games from the most famous to less known games.
 
 - name: ctris
-  url: http://hackl.dhs.org/ctris/
+  url: https://github.com/dominikhackl/ctris
   info: Another version of the tetris game.
 
 - name: cursedmate
@@ -418,7 +415,7 @@
   info: minesweeper game using curses.
 
 - name: freesweep
-  url: http://www.upl.cs.wisc.edu/~hartmann/sweep/
+  url: https://github.com/rwestlund/freesweep
   info: Freesweep is a console minesweeper-style game written in C for Unix-like systems.
 
 - name: frotz
@@ -451,7 +448,6 @@
   info: GearHead is the first roguelike to explore the world of “mechas” (giant robots).
 
 - name: gnake
-  url: http://lightless.org/gnake
   info: Another variant of the snake game with a smooth movement.
 
 - name: gomoku
@@ -513,7 +509,6 @@
   wikipedia: https://en.wikipedia.org/wiki/Hamurabi
 
 - name: halls of mist
-  url: http://www.mikkolehtinen.net/mist/
   info: A nice roguelike game (variant of angband).
 
 - name: hellband
@@ -601,7 +596,6 @@
   info: A simple version of the Mastermind game.
 
 - name: Dr. Mario
-  url: http://www.filewatcher.com/m/dr_mario.tar.Z.13249-0.html
   info: Dr. Mario or BUGS is a clone of Nentendo’s Dr. Mario, well sort of.
   wikipedia: https://en.wikipedia.org/wiki/Dr._Mario
 
@@ -622,7 +616,6 @@
   info: "A racing card game in BSD games based on the Parker Brothers game Mille Bornes. It's a BSD game."
 
 - name: miscom
-  url: http://www.filewatcher.com/m/miscom.tar.gz.93995-0.html
   info: A curses-based game where you must defend cities from missile attack. It’s essentially a clone of Atari’s “Missile Command” (with some minor enhancements) for terminals, and has colour and sound.
 
 - name: moria
@@ -634,7 +627,7 @@
   info: Moo (a.k.a. Mastermind) supervisor and a very powerful Moo player.
 
 - name: monousa
-  url: http://www.filewatcher.com/m/monoUSA2.0.tgz.24322-0.html
+  url: http://ibiblio.org/pub/linux/games/multiplayer/monoUSA2.0.tgz
   info: A sort of monopoly game. At least two players are needed.
 
 - name: monop
@@ -769,7 +762,6 @@
   screencast: 
 
 - name: plonx
-  url: http://bilious.homelinux.org/~paxed/plonx/
   info: Small ASCII puzzle game.
 
 - name: Poker
@@ -778,7 +770,6 @@
   play: telnet mud.darkerrealms.org 2000
 
 - name: pong
-  url: http://www.filewatcher.com/m/gnupong-0.14.tar.gz.32541-0.html
   info: An old and very poor version of the old pong game.
 
 - name: portile
@@ -817,12 +808,9 @@
   info: pytris is a two-player networked console Tetris clone written in Python/Pyncurses.
 
 - name: rr
-  url: http://www.bpfh.net/sysadmin/man/rr-1.html
   info: Russian roulette
-  screencast: https://asciinema.org/a/1586
 
 - name: reversi
-  url: http://git.b9.com/?p=reversi.git;a=summary
   info: A good version of the othello/reversi game written in the Lisp langugage.
 
 - name: rhex
@@ -876,7 +864,6 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: Another clone of the tetris game.
 
 - name: scrap
-  url: http://www.math.leidenuniv.nl/~mommen/scrap/
   info: Scrap is an easy to play roguelike game.
 
 - name: shogi
@@ -901,7 +888,6 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: A hotdogging game, evade the deadly Yeti on your jet-powered skis.
 
 - name: slider
-  url: http://www.filewatcher.com/m/slider-1.0.c.gz.1234-0.html
   info: A slider game.
 
 - name: slashem
@@ -938,7 +924,6 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   play: telnet or ssh on sdf.org
 
 - name: sokoban
-  url: http://www.filewatcher.com/m/sokoban-src.tar.gz.16287-0.html
   info: A fully playable version of the sokoban game, but a little hacking has to be done.
   play: telnet or ssh on sdf.org
 
@@ -947,8 +932,8 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: SpaceZero is a Real Time Strategy 2D space combat game for two players over a network.
 
 - name: sporkhack
-  url: http://www.sporkhack.com/
-  info: SporkHack, at sporkhack.com, is a variant of Nethack 3.4.3 by Derek Ray aimed at game balance.
+  url: https://github.com/NHTangles/sporkhack
+  info: SporkHack is a variant of Nethack.
 
 - name: starlanes
   url: http://www.barnsdle.demon.co.uk/game/starlanes.html
@@ -970,7 +955,6 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: "Modern version of Art Canfil's classic, Taipan."
 
 - name: tictac4
-  url: http://www.filewatcher.com/m/tictac4-1.0.tar.gz.14413-0.html
   info: A tic-tac-toe variant where you have to align four symbols (instead of three).
 
 - name: the sewer massacre
@@ -979,23 +963,18 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 
 - name: tetris
   url: http://man.openbsd.org/OpenBSD-current/man6/tetris.6
-  info: "The game of tetris. It's a BSD game."
+  info: The game of tetris. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Tetris
 
-- name: tetris
-  url: http://www.michaelcw.com/projects_coding.html
-  info: ASCII Tetris
-
-- name: text2048
-  url: https://github.com/chtisgit/text2048
-  info: "This is an ncurses version of the game '2048'."
+- name: 2048
+  url: https://github.com/mevdschee/2048.c
+  info: This is an ncurses version of the game '2048'.
 
 - name: Toledo-Atomchess
   url: https://github.com/nanochess/Toledo-Atomchess
   info: Toledo Atomchess is the world's smallest chess program in x86 assembly code
 
 - name: tower of mediocrity
-  url: http://www.cavein.org/~chris/code/tower/
   info: A tower defense game. Unfortunately, the game is quite easy to win.
 
 - name: tom bombem
@@ -1003,7 +982,6 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: An arcade game where you have to shoot on inanimate objects.
 
 - name: torus
-  url: http://www.filewatcher.com/m/torus-src.tar.gz.13425-0.html
   info: A variant of the robots game.
   play: telnet or ssh on sdf.org
 
@@ -1043,7 +1021,6 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: a roguelike game with simple commands.
 
 - name: tornado
-  url: https://kiza.eu/software/tornado/
   info: Tornado is the clone of a C64 game.
 
 - name: threes
@@ -1052,11 +1029,9 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   screencast: https://asciinema.org/a/18135
 
 - name: tint
-  url: http://oasis.frogfoot.net/code/tint/
   info: Tint Is Not Tetris, a ncurses based clone of the original Tetris(tm) game.
 
 - name: tictactoe
-  url: http://www.filewatcher.com/m/tictac2-0.6.tgz.34988-0.html
   info: Tic Tac Toe game
 
 - name: tsl
@@ -1152,7 +1127,6 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   play: telnet or ssh on sdf.org
 
 - name: wallyplus
-  url: http://www.filewatcher.com/m/wallyplus-0.1.2.tar.gz.520621-0.html
   info: A game for playing go.
 
 - name: wumpus & superhack
@@ -1171,11 +1145,9 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   wikipedia: https://en.wikipedia.org/wiki/Hunt_the_Wumpus
 
 - name: yahtzee
-  url: http://www.filewatcher.com/m/yahtzee-src.tar.Z.15889-0.html
   info: A very nice yahtzee game where you can play against humans or against the computer (including several different opponents).
 
 - name: yahtzee-color
-  url: http://www.filewatcher.com/m/colour-yahtzee.tgz.36120-0.html
   info: A very nice yahtzee game where you can play against humans or against the computer (including several different opponents).
 
 - name: yuxtapa
@@ -1202,7 +1174,6 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: An easy to play roguelike game.
 
 - name: ultrarogue
-  url: http://rogue.rogueforge.net/ultrarogue-1-07/
   info: Another variant of Rogue.
 
 - name: urban warfare
