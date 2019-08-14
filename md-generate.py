@@ -2,9 +2,11 @@
 
 import yaml
 import sys
+import re
+from urlparse import urlparse
+
 reload(sys)
 sys.setdefaultencoding('utf-8')
-
 
 stream = open("games.yaml", "r")
 ttygames = yaml.load(stream)
@@ -15,10 +17,22 @@ for entry in ttygames:
     else:
         header = "### %s" % entry['name']
 
-    if 'screencast' in entry:
-        header = header + " [Screencast](%s)" % entry['screencast']
+    screencast = ""
+    if 'screencast' in entry and entry['screencast']:
+        u = urlparse(entry['screencast'])
+        if u.hostname == 'asciinema.org':
+            m = re.match(
+                'https://asciinema.org/a/([0-9]+)', entry['screencast'])
+            if m:
+                id = m.group(1)
+                screencast = (
+                    "[![asciicast](https://asciinema.org/a/%s.svg)](https://asciinema.org/a/%s)" % (id, id))
+        else:
+            header = header + " [Screencast](%s)" % entry['screencast']
 
     print header, "\n"
+    if screencast:
+        print screencast, "\n"
 
     if 'info' in entry:
         print("%s\n" % entry['info'])
