@@ -56,7 +56,9 @@ A roguelike game of Cowboy Knights and Lurking Horror.
 Ad Astra is a turn-based space strategy game written in Python that uses curses for its display.
 
 
-### [Anonymine](https://oskog97.com/projects/anonymine/) [Screencast](https://asciinema.org/a/82455) 
+### [Anonymine](https://oskog97.com/projects/anonymine/) 
+
+[![asciicast](https://asciinema.org/a/82455.svg)](https://asciinema.org/a/82455) 
 
 A curses mode minesweeper solvable without guessing, and the only with von Neumann neighbourhoods.
 
@@ -64,12 +66,16 @@ A curses mode minesweeper solvable without guessing, and the only with von Neuma
 **Play**: ```ssh play@anonymine-demo.oskog97.com -p 2222```
 
 
-### aop [Screencast](https://asciinema.org/a/34678) 
+### aop 
+
+[![asciicast](https://asciinema.org/a/34678.svg)](https://asciinema.org/a/34678) 
 
 Ambassador of Pain (aop). A very nice and challenging arcade game.
 
 
-### [arkanoid-bash](https://github.com/bolknote/shellgames/blob/master/arcanoid.sh) [Screencast](https://asciinema.org/a/36415) 
+### [arkanoid-bash](https://github.com/bolknote/shellgames/blob/master/arcanoid.sh) 
+
+[![asciicast](https://asciinema.org/a/36415.svg)](https://asciinema.org/a/36415) 
 
 Arkanoid is an arcade game developed by Taito in 1986. Written on Bash.
 
@@ -125,7 +131,9 @@ ADOM is a roguelike game.
 quiz on simple arithmetic
 
 
-### [asciijump](http://freecode.com/projects/asciijump) [Screencast](https://asciinema.org/a/31340) 
+### [asciijump](http://freecode.com/projects/asciijump) 
+
+[![asciicast](https://asciinema.org/a/31340.svg)](https://asciinema.org/a/31340) 
 
 asciijump is an ASCII art game about ski jumping.
 
@@ -256,7 +264,9 @@ Battleships game. It's a BSD game.
 See also [Wikipedia](https://en.wikipedia.org/wiki/Battleship_%28game%29).
 
 
-### [bowling](https://github.com/haliphax/pybowl) [Screencast](https://asciinema.org/a/41475) 
+### [bowling](https://github.com/haliphax/pybowl) 
+
+[![asciicast](https://asciinema.org/a/41475.svg)](https://asciinema.org/a/41475) 
 
 Python bowling game using the Blessed terminal library.
 
@@ -638,7 +648,9 @@ Exploring The Dungeons of Doom. It's a BSD game.
 **Play**: ```telnet or ssh on sdf.org```
 
 
-### [hangman](http://man.openbsd.org/OpenBSD-current/man6/hangman.6) [Screencast](https://asciinema.org/a/35801) 
+### [hangman](http://man.openbsd.org/OpenBSD-current/man6/hangman.6) 
+
+[![asciicast](https://asciinema.org/a/35801.svg)](https://asciinema.org/a/35801) 
 
 Computer version of the game hangman. It's a BSD game.
 
@@ -704,7 +716,9 @@ nInvaders is a Space Invaders clone based on ncurses for ASCII output.
 **Play**: ```telnet or ssh on sdf.org```
 
 
-### [ascii-invaders](https://github.com/macdice/ascii-invaders) [Screencast](https://asciinema.org/a/34018) 
+### [ascii-invaders](https://github.com/macdice/ascii-invaders) 
+
+[![asciicast](https://asciinema.org/a/34018.svg)](https://asciinema.org/a/34018) 
 
 An ASCII-art game like Space Invaders
 
@@ -766,7 +780,9 @@ a multi-player card game, written by Hero
 **Play**: ```telnet mud.darkerrealms.org 2000```
 
 
-### [lexter](http://www.kyne.com.au/~mark/software/lexter.php) [Screencast](https://asciinema.org/a/35970) 
+### [lexter](http://www.kyne.com.au/~mark/software/lexter.php) 
+
+[![asciicast](https://asciinema.org/a/35970.svg)](https://asciinema.org/a/35970) 
 
 Lexter is a real-time word puzzle for text terminals. Arrange the falling letters into words to score points.
 
@@ -809,7 +825,9 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Dr._Mario).
 Go is an ancient oriental strategy game based on the capturing of territory.
 
 
-### [msnake](https://github.com/mogria/msnake) [Screencast](https://asciinema.org/a/35971) 
+### [msnake](https://github.com/mogria/msnake) 
+
+[![asciicast](https://asciinema.org/a/35971.svg)](https://asciinema.org/a/35971) 
 
 A simple snake game written in C using the ncurses library.
 
@@ -849,7 +867,9 @@ A sort of monopoly game. At least two players are needed.
 Monopoly game. It's a BSD game.
 
 
-### [moon-buggy](http://seehuhn.de/pages/moon-buggy) [Screencast](https://asciinema.org/a/34071) 
+### [moon-buggy](http://seehuhn.de/pages/moon-buggy) 
+
+[![asciicast](https://asciinema.org/a/34071.svg)](https://asciinema.org/a/34071) 
 
 Moon-buggy is a simple character graphics game where you drive some kind of car across the moon's surface.
 
@@ -867,7 +887,9 @@ Mutant Aliens! sees a spaceship 'dock safely' into the forest of a hostile alien
 MyMan is a video game for color and monochrome text terminals in the genre of Namco's Pac-Man.
 
 
-### [n2048](http://freecode.com/projects/n2048) [Screencast](https://asciinema.org/a/35973) 
+### [n2048](http://freecode.com/projects/n2048) 
+
+[![asciicast](https://asciinema.org/a/35973.svg)](https://asciinema.org/a/35973) 
 
 n2048 is a console-based game based on the highly addictive sliding puzzle 2048. Slide the tiles together to combine them, until you reach the highest one.
 
@@ -877,7 +899,9 @@ n2048 is a console-based game based on the highly addictive sliding puzzle 2048.
 Conway's Game of Life in C++ using ncurses.
 
 
-### [nethack](http://www.nethack.org/) [Screencast](https://asciinema.org/a/34687) 
+### [nethack](http://www.nethack.org/) 
+
+[![asciicast](https://asciinema.org/a/34687.svg)](https://asciinema.org/a/34687) 
 
 NetHack is a single player dungeon exploration game that runs on a wide variety of computer systems, with a variety of graphical and text interfaces all using the same game engine.
 
@@ -890,7 +914,9 @@ NetHack is a single player dungeon exploration game that runs on a wide variety 
 This is netris, a networked version of t*tris. It allows head to head two player games via a network.
 
 
-### [nettoe](http://nettoe.sourceforge.net/) [Screencast](https://asciinema.org/a/35969) 
+### [nettoe](http://nettoe.sourceforge.net/) 
+
+[![asciicast](https://asciinema.org/a/35969.svg)](https://asciinema.org/a/35969) 
 
 netToe is a Tic Tac Toe-like game for the Unix consoles written in C using UNIX sockets.
 
@@ -910,7 +936,9 @@ NLarn is an enhanced and improved rewrite of the historic roguelike game Larn. I
 nPush is a logic game similar to Sokoban and Boulder Dash.
 
 
-### [nsnake](http://sourceforge.net/projects/nsnake/) [Screencast](https://asciinema.org/a/35976) 
+### [nsnake](http://sourceforge.net/projects/nsnake/) 
+
+[![asciicast](https://asciinema.org/a/35976.svg)](https://asciinema.org/a/35976) 
 
 Classic snake game on the terminal.
 
@@ -920,12 +948,16 @@ Classic snake game on the terminal.
 A very elaborated sudoku game.
 
 
-### [nsudoku](https://www.tbmatuka.com/nsudoku/) [Screencast](https://asciinema.org/a/34688) 
+### [nsudoku](https://www.tbmatuka.com/nsudoku/) 
+
+[![asciicast](https://asciinema.org/a/34688.svg)](https://asciinema.org/a/34688) 
 
 A Sudoku game for the console.
 
 
-### [nudoku](http://jubalh.github.io/nudoku/) [Screencast](https://asciinema.org/a/34070) 
+### [nudoku](http://jubalh.github.io/nudoku/) 
+
+[![asciicast](https://asciinema.org/a/34070.svg)](https://asciinema.org/a/34070) 
 
 ncurses based sudoku game
 
@@ -950,7 +982,9 @@ okiworld is a host-to-host console-based strategy game.
 Oldrunner is a remake of Broderbund’s Loderunner which contains the 150 original game levels. It is written in C and has a text-based interface.
 
 
-### [pacman](http://slaout.linux62.org/pacman/index.html) [Screencast](https://asciinema.org/a/34686) 
+### [pacman](http://slaout.linux62.org/pacman/index.html) 
+
+[![asciicast](https://asciinema.org/a/34686.svg)](https://asciinema.org/a/34686) 
 
 It's a simple and ASCII version, so no fun (and IA is very stupid)...
 
@@ -963,7 +997,9 @@ It's a simple and ASCII version, so no fun (and IA is very stupid)...
 ASCII Pacman is a simple clone of the Pacman game. It features color and animation using only the curses library.
 
 
-### [pacman](https://sites.google.com/site/doctormike/pacman.html) [Screencast](https://asciinema.org/a/34685) 
+### [pacman](https://sites.google.com/site/doctormike/pacman.html) 
+
+[![asciicast](https://asciinema.org/a/34685.svg)](https://asciinema.org/a/34685) 
 
 Pacman for Console.
 
@@ -999,7 +1035,7 @@ a three-player card game, written by Sarac.
 **Play**: ```telnet mud.darkerrealms.org 2000```
 
 
-### [piu-piu-SH](https://github.com/vaniacer/piu-piu-SH) [Screencast](None) 
+### [piu-piu-SH](https://github.com/vaniacer/piu-piu-SH) 
 
 Old School horizontal scroller 'Shoot Them All' game in bash
 
@@ -1081,7 +1117,9 @@ Russian roulette
 A good version of the othello/reversi game written in the Lisp langugage.
 
 
-### [rhex](https://github.com/dpc/rhex) [Screencast](https://asciinema.org/a/34224) 
+### [rhex](https://github.com/dpc/rhex) 
+
+[![asciicast](https://asciinema.org/a/34224.svg)](https://asciinema.org/a/34224) 
 
 Simple ASCII terminal hexagonal map roguelike written in Rust.
 
@@ -1089,7 +1127,9 @@ Simple ASCII terminal hexagonal map roguelike written in Rust.
 **Play**: ```ssh rhex:rhex123@rhex.dpc.pw```
 
 
-### [rogue](http://netbsd.gw.com/cgi-bin/man-cgi?rogue++NetBSD-current) [Screencast](https://asciinema.org/a/35802) 
+### [rogue](http://netbsd.gw.com/cgi-bin/man-cgi?rogue++NetBSD-current) 
+
+[![asciicast](https://asciinema.org/a/35802.svg)](https://asciinema.org/a/35802) 
 
 Exploring The Dungeons of Doom. It's a BSD game.
 
@@ -1129,7 +1169,9 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Wooden_Ships_and_Iron_Men).
 You're a bookworm that's stuck on a scroll. You have to dodge between words and use spells to make your way down the page as the scroll is read. Go too slow and you'll get wound up in the scroll and crushed.
 
 
-### [seabattle](http://www.deater.net/weave/vmwprod/seabattle.html) [Screencast](https://asciinema.org/a/34680) 
+### [seabattle](http://www.deater.net/weave/vmwprod/seabattle.html) 
+
+[![asciicast](https://asciinema.org/a/34680.svg)](https://asciinema.org/a/34680) 
 
 A version of the classical battleships game.
 
@@ -1182,7 +1224,9 @@ A slider game.
 Another variant of the roguelike nethack game.
 
 
-### [snake](http://man.openbsd.org/OpenBSD-current/man6/snake.6) [Screencast](https://asciinema.org/a/35799) 
+### [snake](http://man.openbsd.org/OpenBSD-current/man6/snake.6) 
+
+[![asciicast](https://asciinema.org/a/35799.svg)](https://asciinema.org/a/35799) 
 
 A quick and easy turn-based survival game; you have to move without being caught by a snake. It's a BSD game.
 
@@ -1198,7 +1242,9 @@ snake game
 **Play**: ```telnet or ssh on sdf.org```
 
 
-### [snake](https://github.com/begoon/stuff/blob/master/games/snake/c%2B%2B/snake.cpp) [Screencast](https://asciinema.org/a/1715) 
+### [snake](https://github.com/begoon/stuff/blob/master/games/snake/c%2B%2B/snake.cpp) 
+
+[![asciicast](https://asciinema.org/a/1715.svg)](https://asciinema.org/a/1715) 
 
 snake game
 
@@ -1327,7 +1373,9 @@ ASCII Tetris game written in C
 A UNIX-hosted, curses-based clone of Tetris.
 
 
-### [tty-solitaire](https://github.com/mpereira/tty-solitaire) [Screencast](https://asciinema.org/a/6519) 
+### [tty-solitaire](https://github.com/mpereira/tty-solitaire) 
+
+[![asciicast](https://asciinema.org/a/6519.svg)](https://asciinema.org/a/6519) 
 
 ncurses-based klondike solitaire game.
 
@@ -1357,7 +1405,9 @@ a roguelike game with simple commands.
 Tornado is the clone of a C64 game.
 
 
-### [threes](https://github.com/harshjv/threes-c) [Screencast](https://asciinema.org/a/18135) 
+### [threes](https://github.com/harshjv/threes-c) 
+
+[![asciicast](https://asciinema.org/a/18135.svg)](https://asciinema.org/a/18135) 
 
 Threes!
 
@@ -1390,7 +1440,9 @@ The first game in this roundup is UnNetHack, a fork of NetHack, originally based
 ### [vagabondo](ftp://ftp.simtreas.ru/pub/my/vagabondo.c.gz) 
 
 
-### [vitetris](http://victornils.net/tetris/) [Screencast](https://asciinema.org/a/34069) 
+### [vitetris](http://victornils.net/tetris/) 
+
+[![asciicast](https://asciinema.org/a/34069.svg)](https://asciinema.org/a/34069) 
 
 vitetris is a terminal-based Tetris clone by Victor Nilsson. Gameplay is much like the early Tetris games by Nintendo.
 
@@ -1400,7 +1452,9 @@ vitetris is a terminal-based Tetris clone by Victor Nilsson. Gameplay is much li
 Empire is a simulation of a full-scale war between two emperors, the computer and you.
 
 
-### [xorcurses](http://www.jwm-art.net/dark.php?p=XorCurses) [Screencast](https://asciinema.org/a/34065) 
+### [xorcurses](http://www.jwm-art.net/dark.php?p=XorCurses) 
+
+[![asciicast](https://asciinema.org/a/34065.svg)](https://asciinema.org/a/34065) 
 
 XorCurses is a puzzle game set inside a series of mazes.
 
@@ -1512,7 +1566,9 @@ A version of the arcade game worm (sometimes called snake or nibbles). It's a BS
 **Play**: ```telnet on twenex.org```
 
 
-### [wump](http://man.openbsd.org/OpenBSD-current/man6/wump.6) [Screencast](https://asciinema.org/a/35800) 
+### [wump](http://man.openbsd.org/OpenBSD-current/man6/wump.6) 
+
+[![asciicast](https://asciinema.org/a/35800.svg)](https://asciinema.org/a/35800) 
 
 Hunt the wumpus in an underground cave. It's a BSD game.
 
@@ -1569,7 +1625,9 @@ Another variant of Rogue.
 A roguelike game written in Lisp.
 
 
-### [2048-cli](https://github.com/Tiehuis/2048-cli) [Screencast](https://asciinema.org/a/34067) 
+### [2048-cli](https://github.com/Tiehuis/2048-cli) 
+
+[![asciicast](https://asciinema.org/a/34067.svg)](https://asciinema.org/a/34067) 
 
 A cli version of the game 2048 for your Linux terminal.
 
