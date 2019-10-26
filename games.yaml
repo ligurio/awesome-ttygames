@@ -1,6 +1,6 @@
 # Sources:
 #     https://en.wikipedia.org/wiki/List_of_text-based_computer_games
-#     http://peyre.x10.mx/GWBASIC/index.htm
+#     https://peyre.x10.mx/GWBASIC/index.htm
 #     https://archive.org/details/gamesourcecode
 #     http://cvsweb.netbsd.org/bsdweb.cgi/src/games/
 #     http://gitweb.dragonflybsd.org/dragonfly.git/tree/v3.0.0:/games
@@ -8,10 +8,10 @@
 
 # TODO:
 #     http://ascii.textfiles.com/
-#     http://freecode.com/projects/ladder
-#     http://sourceforge.net/projects/freakout/
-#     http://freecode.com/projects/terminal-etch-n-sketch
-#     http://freecode.com/projects/vibora
+#     http://freshmeat.sourceforge.net/projects/ladder
+#     https://sourceforge.net/projects/freakout/
+#     http://freshmeat.sourceforge.net/projects/terminal-etch-n-sketch
+#     http://freshmeat.sourceforge.net/projects/vibora
 #     http://blog.yjl.im/search/label/space%20shooter%20game
 #     ftp://ftp.microsoft.com/services/technet/windows/msdos/RESKIT/SUPPDISK/GORILLA.BAS
 #     https://en.wikipedia.org/wiki/Nibbles_(video_game)
@@ -19,7 +19,7 @@
 #     https://en.wikipedia.org/wiki/Gorillas_%28video_game%29
 #     https://github.com/szantaii/bash-gorillas
 #     http://sh.sidenote.hu/projects/bash-gorillas/
-#     http://ftp.ibiblio.org/pub/linux/games
+#     https://ftp.ibiblio.org/pub/linux/games
 #     ftp://sunsite.unc.edu/pub/Linux/games
 #     https://bluerenga.wordpress.com/2015/03/19/lost-mainframe-games/
 #     telnet aardmud.org
@@ -28,6 +28,19 @@
 #     telnet achaea.com
 #     http://www.telnet.org/htm/places.htm
 #     http://mewbies.com/acute_terminal_fun_telnet_public_servers_watch_star_wars_play_games_etc.htm
+
+# Boulder Dash / Cavez of Phear
+# URL:
+# 3 Candidates:
+#
+# Title doesn't match: https://github.com/martez81/ascii-dash
+#
+# Requires graphics: http://www.bd-fans.com/FreewareUnix.html
+#
+# Cavez of Phear
+#   Just a downloads list: https://pkgs.org/download/cavezofphear
+#   Site broken: http://www.x86.no/cavezofphear/
+#   https://web.archive.org/web/20160523182502/http://www.x86.no/cavezofphear/
 
 - name: Apple Trek
   url: http://peyre.x10.mx/GWBASIC/index.htm#AppleTrek
@@ -41,7 +54,7 @@
   info: A roguelike game of Cowboy Knights and Lurking Horror.
 
 - name: ad astra
-  url: https://code.google.com/p/ad-astra-game/
+  url: https://code.google.com/archive/p/ad-astra-game/
   info: Ad Astra is a turn-based space strategy game written in Python that uses curses for its display.
 
 - name: Anonymine
@@ -51,6 +64,7 @@
   screencast: https://asciinema.org/a/82455
 
 - name: aop
+  url: https://raffi.at/view/code/aop
   info: Ambassador of Pain (aop). A very nice and challenging arcade game.
   screencast: https://asciinema.org/a/34678
 
@@ -61,7 +75,7 @@
   wikipedia: https://en.wikipedia.org/wiki/Arkanoid
 
 - name: arkanoid.py
-  url: http://blog.yjl.im/2015/12/arkanoid-example-from-pygamii-ascii.html
+  url: https://blog.yjl.im/2015/12/arkanoid-example-from-pygamii-ascii.html
   info: Arkanoid is an arcade game developed by Taito in 1986. Written on Python.
   wikipedia: https://en.wikipedia.org/wiki/Arkanoid
 
@@ -73,39 +87,39 @@
 
 
 - name: alienrl
-  url: http://alien.chaosforge.org/
+  url: https://alien.chaosforge.org/
   info: AliensRL is a tactical roguelike game, inspired by the "Aliens" movie.
 
 - name: alienwave
-  url: http://www.alessandropira.org/alienwave/aw.html
+  url: https://www.alessandropira.org/alienwave/aw.html
   info: another good variant of the space invaders game.
 
 - name: angband
-  url: http://rephial.org/
+  url: https://rephial.org/
   info: Angband is a free, single-player dungeon exploration game.
 
 # ftp://ftp.simtreas.ru/pub/download/add/adventur.tgz
 - name: adventure
-  url: http://man.openbsd.org/OpenBSD-current/man6/adventure.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/adventure.6
   info: An exploration game. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Colossal_Cave_Adventure
   play: https://grack.com/demos/adventure/
 
 - name: "ADOM (Ancient Domains of Mystery)"
-  url: http://www.adom.de/
+  url: https://www.adom.de/
   info: ADOM is a roguelike game.
 
 - name: arithmetic
-  url: http://man.openbsd.org/arithmetic.6
+  url: https://man.openbsd.org/arithmetic.6
   info: quiz on simple arithmetic
 
 - name: asciijump
-  url: http://freecode.com/projects/asciijump
+  url: http://freshmeat.sourceforge.net/projects/asciijump
   info: asciijump is an ASCII art game about ski jumping.
   screencast: https://asciinema.org/a/31340
 
 - name: ascii portal
-  url: http://cymonsgames.com/asciiportal/
+  url: https://github.com/cymonsgames/ASCIIpOrtal
   info: ASCIIpOrtal is a text based puzzle game inspired by the popular video game.
 
 - name: astwar
@@ -117,10 +131,11 @@
   info: asciisector is a free space combat/exploration/trading game.
 
 - name: atc
-  url: http://man.openbsd.org/OpenBSD-current/man6/atc.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/atc.6
   info: air traffic controller game. It's a BSD game.
 
 - name: avanor
+  url: http://avanor.sourceforge.net/
   info: Rogue-like game with easy ADOM-like user interface.
 
 - name: bastet
@@ -128,17 +143,17 @@
   info: Bastet (short for Bastard Tetris).
 
 - name: bcd
-  url: http://man.openbsd.org/bcd.6
+  url: https://man.openbsd.org/bcd.6
   wikipedia: https://en.wikipedia.org/wiki/Punched_card
   info: punched card
 
 - name: beasts
-  url: http://peteg.org/beasts/other/
+  url: https://peteg.org/beasts/beasts.html
   info: The game Beasts is a Linux version of the old DOS game called Beast.
   wikipedia: https://en.wikipedia.org/wiki/Beast_(video_game)
 
 - name: bombardier
-  url: http://packages.debian.org/ru/sid/i386/games/bombardier
+  url: https://packages.debian.org/en/sid/i386/games/bombardier
   info: This game is the same as the old Blitz16 game on Commodore 16/Plus 4, written by Simon Taylor.
 
 - name: boulder dash
@@ -150,12 +165,12 @@
   info: Uses character-cell graphics with a visual point-and-shoot interface.
 
 - name: backgammon
-  url: http://man.openbsd.org/OpenBSD-current/man6/backgammon.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/backgammon.6
   info: "A backgammon game; you can play against the computer. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Backgammon
 
 - name: beyond the tesseract
-  url: http://www.wurb.com/if/game/211
+  url: https://www.wurb.com/if.php/game/211
   info: A highly conceptual game in which you interact with abstract concepts and mathematical entities as if they were tangible.
   play: telnet or ssh on sdf.org
 
@@ -171,11 +186,11 @@
   info: Brogue is a Roguelike game.
 
 - name: braincurses
-  url: http://sourceforge.net/projects/braincurses/
+  url: https://sourceforge.net/projects/braincurses/
   info: A nice version of the mastermind game.
 
 - name: battlestar
-  url: http://man.openbsd.org/OpenBSD-current/man6/battlestar.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/battlestar.6
   info: "A tropical adventure game. It's a BSD game."
 
 - name: bj
@@ -184,13 +199,13 @@
 #play: telnet mud.darkerrealms.org 2000
 
 - name: boggle
-  url: http://man.openbsd.org/OpenBSD-current/man6/boggle.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/boggle.6
   info: Word search game. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Boggle
   play: telnet mud.darkerrealms.org 2000
 
 - name: bs
-  url: http://man.openbsd.org/OpenBSD-current/man6/bs.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/bs.6
   info: Battleships game. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Battleship_%28game%29
 
@@ -201,11 +216,10 @@
 
 - name: caesar
   info: decrypt caesar cyphers
-  url: http://man.openbsd.org/caesar.6
+  url: https://man.openbsd.org/caesar.6
   wikipedia: https://en.wikipedia.org/wiki/Caesar_cipher
 
 - name: Caribbean Stud
-  url:
   info: a multi-player card game, written by Hero
   play: telnet mud.darkerrealms.org 2000
 
@@ -213,23 +227,23 @@
   info: A Zombie Survival Roguelike.
 
 - name: canfield
-  url: http://man.openbsd.org/OpenBSD-current/man6/canfield.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/canfield.6
   info: "The solitaire card game canfield. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Canfield_%28solitaire%29
 
 - name: chimaera
-  url: http://www.mipmip.org/C_games/
+  url: https://www.mipmip.org/C_games/
   info: A highly unusual "infinite" adventure game written by Chris Newall.
 
 - name: cavez of phear
   info: cavez of phear is a boulder dash / digger like game for console using ncurses.
 
 - name: cblocks
-  url: http://www.muppetlabs.com/~breadbox/software/cgames.html
+  url: https://www.muppetlabs.com/~breadbox/software/cgames.html
   info: a set of sliding-block puzzles.
 
 - name: cbattleship
-  url: https://github.com/troopa/cBattleship
+  url: https://github.com/gnomengineer/cBattleship
   info: "A implementation of the classic Battleship game in C++. Includes a server program, and multiple different client programs. The server program wait's until two client program connected to start a game. The server dictates the rules of the game."
 
 - name: chroma
@@ -237,7 +251,7 @@
   info: A challenging puzzle game.
 
 - name: cmines
-  url: http://www.muppetlabs.com/~breadbox/software/cgames.html
+  url: https://www.muppetlabs.com/~breadbox/software/cgames.html
   info: minesweeper.
 
 - name: cnibbles
@@ -249,11 +263,11 @@
   info: Chess implemented in sed utility.
 
 - name: "cataclysm: dark days ahead"
-  url: http://en.cataclysmdda.com/
+  url: https://web.archive.org/web/20190209031801/http://en.cataclysmdda.com/
   info: "Cataclysm: Dark Days Ahead is a roguelike set in a post-apocalyptic world. Surviving is difficult: you have been thrown, ill-equipped, into a landscape now riddled with monstrosities of which flesh eating zombies are neither the strangest nor the deadliest."
 
 - name: ckhet
-  url: http://mbays.sdf.org/ckhet
+  url: https://mbays.freeshell.org/ckhet/
   info: Curses implementation of the laser board game Khet.
   play: "ssh ckhet@sshgames.thegonz.net; password: ckhet"
 
@@ -270,12 +284,10 @@
   info: Colossal Cave Adventure (also known as ADVENT, Colossal Cave, or Adventure) is one of the earliest computer adventure games and a precursor form of role playing video game. The original version was designed by Will Crowther, a programmer and caving enthusiast who based the layout on part of the Mammoth Cave system in Kentucky.
 
 - name: Checkers
-  url:
   info: a two-player board game, written by Alexi
   play: telnet mud.darkerrealms.org 2000
 
 - name: Connect Four
-  url:
   info: a two-player slot game, written by Sarac
   play: telnet mud.darkerrealms.org 2000
 
@@ -284,16 +296,16 @@
   info: The Connect4 game using ncurses C library.
 
 - name: gnu-conquest
-  url: http://sourceforge.net/projects/gnu-conquest/
+  url: https://sourceforge.net/projects/gnu-conquest/
   info: A multiplayer galactic game.
 
 - name: conquest
-  url: http://radscan.com/conquest.html
+  url: https://github.com/jtrulson/conquest/
   info: a real-time, multi-player space warfare game.
   play: telnet mud.darkerrealms.org 2000
 
 - name: othello
-  url: http://david.weekly.org/othello/index.php3
+  url: https://web.archive.org/web/20130607084226/http://david.weekly.org/othello/index.php3
   info: a two-player board game, written by Unk
   play: telnet mud.darkerrealms.org 2000
 
@@ -310,45 +322,45 @@
   info: Another version of the tetris game.
 
 - name: cursedmate
-  url: http://www.uberwall.org/~dash/
+  url: https://web.archive.org/web/20130804035452/http://www.uberwall.org/~dash/
   info: A game with a hacking atmosphere.
 
 - name: crawl
-  url: http://crawl.develz.org/wordpress/
+  url: https://crawl.develz.org/wordpress/
   info: One of the best games for the Linux console.
 
 - name: cribbage
-  url: http://man.openbsd.org/OpenBSD-current/man6/cribbage.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/cribbage.6
   info: "The card game cribbage. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Cribbage
 
 - name: cryptrover
-  url: https://code.google.com/p/cryptrover/
+  url: https://code.google.com/archive/p/cryptrover/
   info: Escape From The Crypt.
 
 - name: curse-of-war
-  url: http://a-nikolaev.github.io/curseofwar/
+  url: https://a-nikolaev.github.io/curseofwar/
   info: Curse of War is a fast-paced action strategy game for Linux originally implemented using ncurses user interface.
 
 - name: dab
-  url: http://netbsd.gw.com/cgi-bin/man-cgi?dab+6+NetBSD-6.0
+  url: https://netbsd.gw.com/cgi-bin/man-cgi?dab+6+NetBSD-6.0
   info: Dots and Boxes game.
 
 - name: diablorl
-  url: http://diablo.chaosforge.org/
+  url: https://diablo.chaosforge.org/
   info: DiabloRL is a roguelike "unmake" of the popular Blizzard game Diablo.
 
 - name: duel commander
-  url: http://sourceforge.net/projects/duelcommander/
+  url: https://sourceforge.net/projects/duelcommander/
   info: Duel Commander is a turn based command line fighting game for Windows and Unix-like systems.
 
 - name: doomrl
-  url: http://doom.chaosforge.org
+  url: https://drl.chaosforge.org/
   info: DoomRL (Doom, the Roguelike) is a fast and furious coffee-break Roguelike game, that is heavily inspired by the popular FPS game Doom by ID Software.
 # https://archive.org/details/msdos_Doom_-_The_Roguelike_2005
 
 - name: dopewars
-  url: http://dopewars.sourceforge.net/
+  url: https://dopewars.sourceforge.io/
   info: A funny game about trading drugs. Dopewars is a free rewrite of a game originally based on Drug Wars by John E. Dell.
   play: telnet or ssh on sdf.org
 
@@ -361,15 +373,15 @@
   info: Dungeon Crawl, a text-based roguelike game.
 
 - name: dwarf fortress
-  url: http://www.bay12games.com/dwarves/
+  url: https://www.bay12games.com/dwarves/
   info: Dwarf Fortress is a single-player fantasy game.
 
 - name: enigma
-  url: http://www.chiark.greenend.org.uk/~sgtatham/enigma/
+  url: https://www.chiark.greenend.org.uk/~sgtatham/enigma/
   info: A puzzle game where items have to be collected in the right order.
 
 - name: emacs
-  url: http://www.emacswiki.org/emacs/CategoryGames
+  url: https://www.emacswiki.org/emacs/CategoryGames
   info: Actually it is not a game, but text editor. It includes a bunch of text games like chess, sokoban, pong etc.
 
 - name: eyangband
@@ -381,7 +393,7 @@
   info: Encircled is a roguelike game.
 
 - name: factor
-  url: http://man.openbsd.org/factor.6
+  url: https://man.openbsd.org/factor.6
   info: factor a number, generate primes
   wikipedia: https://en.wikipedia.org/wiki/Factorization
 
@@ -391,26 +403,26 @@
   screencast: https://www.youtube.com/watch?v=p31XFFAeze4
 
 - name: fish
-  url: http://man.openbsd.org/OpenBSD-current/man6/fish.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/fish.6
   info: "Play ``Go Fish''. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Go_Fish
 
 - name: fortune
   wikipedia: https://en.wikipedia.org/wiki/Fortune_%28Unix%29
   info: print a random, hopefully interesting, adage
-  url: http://man.openbsd.org/fortune.6
+  url: https://man.openbsd.org/fortune.6
 
 - name: freecell
-  url: http://www.linusakesson.net/software/freecell.php
+  url: https://www.linusakesson.net/software/freecell.php
   info: This is a console (ncurses) version of the popular and addictive solitaire game.
   play: telnet mud.darkerrealms.org 2000
 
 - name: fkmines
-  url: http://sourceforge.net/projects/fkmines/
+  url: https://sourceforge.net/projects/fkmines/
   info: Another minesweeper-style game.
 
 - name: freesweep
-  url: https://code.google.com/p/freesweep/
+  url: https://code.google.com/archive/p/freesweep/
   info: minesweeper game using curses.
 
 - name: freesweep
@@ -418,11 +430,11 @@
   info: Freesweep is a console minesweeper-style game written in C for Unix-like systems.
 
 - name: frotz
-  url: http://frotz.sourceforge.net/
+  url: https://davidgriffith.gitlab.io/frotz/
   info: Frotz is an interpreter for Infocom games and other Z-machine games.
 
 - name: frozen depths
-  url: http://frozendepths.net/
+  url: https://frozendepths.net/
   info: A very nice roguelike game with an entertaining atmosphere.
 
 - name: galaxis
@@ -430,27 +442,27 @@
   info: Find the lost lifeboats from an interstellar liner.
 
 - name: gnuchess
-  url: http://www.gnu.org/software/chess/
+  url: https://www.gnu.org/software/chess/
   info: GNU Chess is a chess-playing program.
   play: telnet freechess.org 5000 (login guest)
 
 - name: gnuski
-  url: http://sourceforge.net/projects/gnuski/
+  url: https://sourceforge.net/projects/gnuski/
   info: GNUSki is an open source clone of Skifree, the old Windows game.
 
 - name: gnugo
-  url: http://www.gnu.org/software/gnugo/
+  url: https://www.gnu.org/software/gnugo/
   info: GNU Go is a free program that plays the game of Go.
 
 - name: gearhead
-  url: http://gearhead.chaosforge.org/
+  url: http://www.gearheadrpg.com/
   info: GearHead is the first roguelike to explore the world of “mechas” (giant robots).
 
 - name: gnake
   info: Another variant of the snake game with a smooth movement.
 
 - name: gomoku
-  url: http://man.openbsd.org/OpenBSD-current/man6/gomoku.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/gomoku.6
   info: "Gomoku is a two player game where the object is to get 5 in a row horizontally, vertically or diagonally on a 19 by 19 grid. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Gomoku
 
@@ -459,11 +471,11 @@
   info: Goblin Hack is a roguelike opengl-based smooth-scrolling ASCII graphics game.
 
 - name: gpcslots2
-  url: http://sourceforge.net/projects/gpcslots2/
+  url: https://sourceforge.net/projects/gpcslots2/
   info: An free/opensource casino text-console game with 5 slot machines, 3 roulette tables including russian roulette, 2 dice games, a bank and stock market.
 
 - name: grdc
-  url: http://man.openbsd.org/grdc.6
+  url: https://man.openbsd.org/grdc.6
   info: grand digital clock (curses)
 
 - name: greed
@@ -476,17 +488,17 @@
   info: The Hack of Life is a roguelike game based on Conway’s Game of Life.
 
 - name: hack
-  url: http://man.openbsd.org/OpenBSD-current/man6/hack.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/hack.6
   info: "Exploring The Dungeons of Doom. It's a BSD game."
   play: telnet or ssh on sdf.org
 
 - name: hangman
-  url: http://man.openbsd.org/OpenBSD-current/man6/hangman.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/hangman.6
   info: "Computer version of the game hangman. It's a BSD game."
   screencast: https://asciinema.org/a/35801
 
 - name: hunt
-  url: http://man.openbsd.org/OpenBSD-current/man6/hunt.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/hunt.6
   info: "The object of the game hunt is to kill off the other players. There are no rooms, no treasures, and no monsters. Instead, you wander around a maze, find grenades, trip mines, and shoot down walls and players. It's a BSD game."
   play: telnet or ssh on sdf.org
 
@@ -499,7 +511,7 @@
   info: the puzzle game of HuaRongDao
 
 - name: hinversi
-  url: http://sourceforge.net/projects/hinversi/
+  url: https://sourceforge.net/projects/hinversi/
   info: Hinversi is a implementation of Reversi (a.k.a. Othello), a board game.
 
 - name: hamurabi
@@ -508,13 +520,15 @@
   wikipedia: https://en.wikipedia.org/wiki/Hamurabi
 
 - name: halls of mist
+  url: https://web.archive.org/web/20170530185753/http://www.mikkolehtinen.net/mist/
   info: A nice roguelike game (variant of angband).
 
 - name: hellband
-  url: http://freecode.com/projects/hellband
+  url: http://freshmeat.sourceforge.net/projects/hellband
   info: Hellband is a Rogue-like game in which you descend through the nine circles of Hell and find an even more dangerous Hell beyond the city of Dis.
 
 - name: hydra slayer
+  url: http://www.roguetemple.com/z/hydra/
   info: A nice and easy roguelike game.
 
 - name: Invaders
@@ -548,7 +562,7 @@
   play: "ssh lagrogue@sshgames.thegonz.net; password: lag"
 
 - name: larn
-  url: http://netbsd.gw.com/cgi-bin/man-cgi/man?larn+6+NetBSD-current
+  url: https://netbsd.gw.com/cgi-bin/man-cgi/man?larn+6+NetBSD-current
   info: "Exploring the caverns of Larn. It's a BSD game."
 
 - name: Legend of the Red Dragon
@@ -558,7 +572,7 @@
   play: telnet darkrealms.ca
 
 - name: keeperrl
-  url: http://keeperrl.com/
+  url: https://keeperrl.com/
   info: Ambitious dungeon simulator with roguelike elements.
 
 - name: liberal crime squad
@@ -566,17 +580,16 @@
   info: This is a very elaborated game where you have to fight with your friends against conservative laws.
 
 - name: Let it Ride
-  url:
   info: a multi-player card game, written by Hero
   play: telnet mud.darkerrealms.org 2000
 
 - name: lexter
-  url: http://www.kyne.com.au/~mark/software/lexter.php
+  url: https://www.kyne.com.au/~mark/software/lexter.php
   info: Lexter is a real-time word puzzle for text terminals. Arrange the falling letters into words to score points.
   screencast: https://asciinema.org/a/35970
 
 - name: mancala
-  url: http://shh.thathost.com/pub-unix/#Mancala
+  url: https://shh.thathost.com/pub-unix/#Mancala
   info: Implementation of the simple board game called Mancala.
 
 - name: manhunt
@@ -586,14 +599,15 @@
   info: Space ascii war game.
 
 - name: mangband
-  url: http://www.mangband.org/
+  url: https://www.mangband.org/
   info: This is a multiplayer variant of angband.
 
 - name: mastermind-nc
-  url: http://sourceforge.net/projects/mastermind-nc/
+  url: https://sourceforge.net/projects/mastermind-nc/
   info: A simple version of the Mastermind game.
 
 - name: Dr. Mario
+  url: ftp://ftp.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Nov-06-1994/games/dr_mario.tar.Z
   info: Dr. Mario or BUGS is a clone of Nentendo’s Dr. Mario, well sort of.
   wikipedia: https://en.wikipedia.org/wiki/Dr._Mario
 
@@ -606,14 +620,15 @@
   screencast: https://asciinema.org/a/35971
 
 - name: microsnake
-  url: http://freshmeat.net/projects/micro-snake
+  url: http://freshmeat.sourceforge.net/projects/micro-snake
   info: Micro Snake is based on a simple snake game by Simon Huggins.
 
 - name: mille
-  url: http://man.openbsd.org/OpenBSD-current/man6/mille.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/mille.6
   info: "A racing card game in BSD games based on the Parker Brothers game Mille Bornes. It's a BSD game."
 
 - name: miscom
+  url: ftp://ftp.slackware.org.uk/sbosrcarch/by-name/games/miscom/miscom.tar.gz
   info: A curses-based game where you must defend cities from missile attack. It’s essentially a clone of Atari’s “Missile Command” (with some minor enhancements) for terminals, and has colour and sound.
 
 - name: moria
@@ -621,19 +636,19 @@
   info: The game is set in Moria and the goal is to kill off the balrog.
 
 - name: moo
-  url: http://www.mipmip.org/C_games/
+  url: https://www.mipmip.org/C_games/
   info: Moo (a.k.a. Mastermind) supervisor and a very powerful Moo player.
 
 - name: monousa
-  url: http://ibiblio.org/pub/linux/games/multiplayer/monoUSA2.0.tgz
+  url: https://ibiblio.org/pub/linux/games/multiplayer/monoUSA2.0.tgz
   info: A sort of monopoly game. At least two players are needed.
 
 - name: monop
-  url: http://man.openbsd.org/OpenBSD-current/man6/monop.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/monop.6
   info: "Monopoly game. It's a BSD game."
 
 - name: moon-buggy
-  url: http://seehuhn.de/pages/moon-buggy
+  url: https://www.seehuhn.de/pages/moon-buggy
   info: "Moon-buggy is a simple character graphics game where you drive some kind of car across the moon's surface."
   screencast: https://asciinema.org/a/34071
   play: telnet or ssh on sdf.org
@@ -643,11 +658,11 @@
   info: Mutant Aliens! sees a spaceship 'dock safely' into the forest of a hostile alien world.
 
 - name: myman
-  url: http://myman.sourceforge.net/
+  url: https://myman.sourceforge.io/
   info: "MyMan is a video game for color and monochrome text terminals in the genre of Namco's Pac-Man."
 
 - name: n2048
-  url: http://freecode.com/projects/n2048
+  url: http://freshmeat.sourceforge.net/projects/n2048
   info: "n2048 is a console-based game based on the highly addictive sliding puzzle 2048. Slide the tiles together to combine them, until you reach the highest one."
   screencast: https://asciinema.org/a/35973
 
@@ -656,13 +671,13 @@
   info: "Conway's Game of Life in C++ using ncurses."
 
 - name: nethack
-  url: http://www.nethack.org/
+  url: https://www.nethack.org/
   info: NetHack is a single player dungeon exploration game that runs on a wide variety of computer systems, with a variety of graphical and text interfaces all using the same game engine.
   screencast: https://asciinema.org/a/34687
   play: telnet on nethack.alt.org
 
 - name: netris
-  url: http://ftp.fr.openbsd.org/pub/OpenBSD/distfiles/
+  url: https://ftp.fr.openbsd.org/pub/OpenBSD/distfiles/netris-0.52.tar.gz
   info: "This is netris, a networked version of t*tris. It allows head to head two player games via a network."
 
 - name: nettoe
@@ -671,11 +686,11 @@
   screencast: https://asciinema.org/a/35969
 
 - name: nibbles
-  url: http://www.earth.li/projectpurple/progs/nibbles.html
+  url: https://www.earth.li/projectpurple/progs/nibbles.html
   info: Nibbles is a remake of the classic Snake/Nibbles game in ncurses.
 
 - name: nlarn
-  url: http://freecode.com/projects/nlarn
+  url: http://freshmeat.sourceforge.net/projects/nlarn
   info: "NLarn is an enhanced and improved rewrite of the historic roguelike game Larn. It tries to maintain the atmosphere and story of the last version of Larn (12.3) while improving gameplay and the user experience."
 
 - name: npush
@@ -683,12 +698,12 @@
   info: nPush is a logic game similar to Sokoban and Boulder Dash.
 
 - name: nsnake
-  url: http://sourceforge.net/projects/nsnake/
+  url: https://sourceforge.net/projects/nsnake/
   info: Classic snake game on the terminal.
   screencast: https://asciinema.org/a/35976
 
 - name: nsuds
-  url: http://sourceforge.net/projects/nsuds/
+  url: https://sourceforge.net/projects/nsuds/
   info: A very elaborated sudoku game.
 
 - name: nsudoku
@@ -697,7 +712,7 @@
   screencast: https://asciinema.org/a/34688
 
 - name: nudoku
-  url: http://jubalh.github.io/nudoku/
+  url: https://jubalh.github.io/nudoku/
   info: ncurses based sudoku game
   screencast: https://asciinema.org/a/34070
 
@@ -706,11 +721,11 @@
   info: omega is a complex rogue-style game of dungeon exploration.
 
 - name: ox3d
-  url: http://www.mipmip.org/C_games/
+  url: https://www.mipmip.org/C_games/
   info: "An aggressive 3D Noughts & Crosses player, developed in 1976. The player incorporates the knowledge of the three-in-a-plane forcing patterns and quite spontaneously discovered that plane-forks are deadlier than one would have thought. It can offer suggestions and can be made to play against itself."
 
 - name: okiworld
-  url: http://freecode.com/projects/okiworld
+  url: http://freshmeat.sourceforge.net/projects/okiworld
   info: okiworld is a host-to-host console-based strategy game.
 
 - name: oldrunner
@@ -724,7 +739,7 @@
   play: https://www.google.com/doodles/30th-anniversary-of-pac-man
 
 - name: pacman
-  url: http://freecode.com/projects/asciipacman/
+  url: http://freshmeat.sourceforge.net/projects/asciipacman/
   info: ASCII Pacman is a simple clone of the Pacman game. It features color and animation using only the curses library.
 
 - name: pacman
@@ -738,10 +753,11 @@
   play: ssh pacman:pacman@antimirov.net
 
 - name: petris
+  url: https://packages.debian.org/sid/games/petris
   info: Another tetris clone.
 
 - name: phantasia
-  url: http://man.openbsd.org/OpenBSD-current/man6/phantasia.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/phantasia.6
   info: "An interterminal fantasy game. It's a BSD game."
 
 - name: pillman
@@ -750,7 +766,6 @@
   screencast: https://www.youtube.com/watch?v=ALBgsXOq11o
   
 - name: pinochle
-  url:
   info: a three-player card game, written by Sarac.
   play: telnet mud.darkerrealms.org 2000
 
@@ -760,27 +775,26 @@
   screencast: 
 
 - name: plonx
+  url: https://web.archive.org/web/20080704073046/http://bilious.homelinux.org/~paxed/plonx/
   info: Small ASCII puzzle game.
 
 - name: Poker
-  url:
   info: a multi-player five-card draw, written by Lucifer
   play: telnet mud.darkerrealms.org 2000
 
 - name: pong
+  url: ftp://80.92.105.240/ftp.ibiblio.org/ibiblio_linux_archive/games/arcade/gnupong-0.14.tar.gz
   info: An old and very poor version of the old pong game.
 
 - name: portile
-  url: http://www.increpare.com/2008/11/portile/
+  url: https://www.increpare.com/2008/11/portile/
   info: Portile is a 2D, tile-based take on narbacular drop.
 
 - name: Scrabble
-  url:
   info: a two-to-four-player board game, written by Unk
   play: telnet mud.darkerrealms.org 2000
 
 - name: Sgt. Major
-  url:
   info: a four-player card game, written by Lucifer
   play: telnet mud.darkerrealms.org 2000
 
@@ -798,14 +812,15 @@
   info: A roguelike written in Python; the display is smooth.
 
 - name: pythrees
-  url: https://github.com/unyth/pythrees
+  url: https://github.com/yth/pythrees
   info: Python curses homage to Threes!
 
 - name: pytris
-  url: http://freshmeat.net/projects/pytris
+  url: http://freshmeat.sourceforge.net/projects/pytris
   info: pytris is a two-player networked console Tetris clone written in Python/Pyncurses.
 
 - name: rr
+  url: https://oskog97.com/archive/awesome-ttygames/rr/
   info: Russian roulette
 
 - name: reversi
@@ -818,13 +833,13 @@
   play: ssh rhex:rhex123@rhex.dpc.pw
 
 - name: rogue
-  url: http://netbsd.gw.com/cgi-bin/man-cgi?rogue++NetBSD-current
+  url: https://netbsd.gw.com/cgi-bin/man-cgi?rogue++NetBSD-current
   info: "Exploring The Dungeons of Doom. It's a BSD game."
   screencast: https://asciinema.org/a/35802
   play: telnet or ssh on sdf.org
 
 - name: robots
-  url: http://man.openbsd.org/OpenBSD-current/man6/robots.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/robots.6
   info: "Fight off villainous robots. It's a BSD game."
   play: telnet or ssh on sdf.org
   wikipedia: https://en.wikipedia.org/wiki/Robots_%28BSD_game%29
@@ -842,7 +857,7 @@ by a baddie or you run out of energy."
   info: Yet another zen simulation.
 
 - name: sail
-  url: http://man.openbsd.org/OpenBSD-current/man6/sail.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/sail.6
   info: "Multi-user wooden ships and iron men. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Wooden_Ships_and_Iron_Men
 
@@ -858,14 +873,15 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   screencast: https://asciinema.org/a/34680
 
 - name: seatris
-  url: http://www.earth.li/projectpurple/progs/seatris.html
+  url: https://www.earth.li/projectpurple/progs/seatris.html
   info: Another clone of the tetris game.
 
 - name: scrap
+  url: https://web.archive.org/web/20130524032130/http://www.math.leidenuniv.nl/~mommen/scrap/
   info: Scrap is an easy to play roguelike game.
 
 - name: shogi
-  url: http://www.gnu.org/software/gnushogi/
+  url: https://www.gnu.org/software/gnushogi/
   info: GNU Shogi is a computer program that plays the game of Shogi, also known as Japanese Chess.
 
 - name: sil
@@ -873,7 +889,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: A good roguelike game.
 
 - name: simulchess
-  url: http://mbays.sdf.org/simulchess
+  url: https://mbays.freeshell.org/simulchess/
   info: Simultaneous-move chess.
   play: "ssh simulchess@sshgames.thegonz.net; password: simulchess"
 
@@ -886,6 +902,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: A hotdogging game, evade the deadly Yeti on your jet-powered skis.
 
 - name: slider
+  url: ftp://80.92.105.240/ftp.ibiblio.org/ibiblio_linux_archive/games/strategy/slider-1.0.c.gz
   info: A slider game.
 
 - name: slashem
@@ -893,7 +910,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: Another variant of the roguelike nethack game.
 
 - name: snake
-  url: http://man.openbsd.org/OpenBSD-current/man6/snake.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/snake.6
   info: "A quick and easy turn-based survival game; you have to move without being caught by a snake. It's a BSD game."
   screencast: https://asciinema.org/a/35799
   play: telnet or ssh on sdf.org
@@ -909,11 +926,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   screencast: https://asciinema.org/a/1715
 
 - name: soccer
-  url: http://www.cs.cmu.edu/~trb/soccer/
+  url: https://www.cs.cmu.edu/~trb/soccer/
   info: ASCII Soccer is a tool for investigating how groups of simple agents interact while playing a soccer-like game.
 
 - name: sst2k
-  url: http://sourceforge.net/projects/sst2k/
+  url: https://sourceforge.net/projects/sst2k/
   info: Super Star Trek — a classic computer game
 
 - name: sokoban
@@ -945,7 +962,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: Steamband is a roguelike ASCII dungeon exploration simulation game.
 
 - name: sumeria
-  url: http://www.mipmip.org/C_games/
+  url: https://www.mipmip.org/C_games/
   info: This is the good old “Govern Ancient Sumeria”, with a 1983 ecology re-write.
 
 - name: taipan
@@ -953,6 +970,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: "Modern version of Art Canfil's classic, Taipan."
 
 - name: tictac4
+  url: ftp://ftp.ibiblio.org/pub/linux/games/strategy/tictac4-1.0.tar.gz
   info: A tic-tac-toe variant where you have to align four symbols (instead of three).
 
 - name: the sewer massacre
@@ -960,7 +978,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: A roguelike game written in Lisp.
 
 - name: tetris
-  url: http://man.openbsd.org/OpenBSD-current/man6/tetris.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/tetris.6
   info: The game of tetris. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Tetris
 
@@ -973,6 +991,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: Toledo Atomchess is the world's smallest chess program in x86 assembly code
 
 - name: tower of mediocrity
+  url: https://web.archive.org/web/20131205100524/http://www.cavein.org/~chris/code/tower/
   info: A tower defense game. Unfortunately, the game is quite easy to win.
 
 - name: tom bombem
@@ -980,6 +999,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: An arcade game where you have to shoot on inanimate objects.
 
 - name: torus
+  url: ftp://ftp.nvg.org/pub/mirrors/metalab.unc.edu/games/arcade/torus-src.tar.gz
   info: A variant of the robots game.
   play: telnet or ssh on sdf.org
 
@@ -996,7 +1016,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: ASCII Tetris game written in C
 
 - name: tetrix
-  url: http://freecode.com/projects/tetrix
+  url: http://freshmeat.sourceforge.net/projects/tetrix
   info: A UNIX-hosted, curses-based clone of Tetris.
 
 - name: tty-solitaire
@@ -1006,11 +1026,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   play: telnet mud.darkerrealms.org 2000
 
 - name: trek73
-  url: http://www.kermitmurray.com/trek73/
+  url: https://kermitmurray.com/trek73/
   info: An old but rather elaborated game inspired by the Star Trek series.
 
 - name: trek
-  url: http://man.openbsd.org/OpenBSD-current/man6/trek.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/trek.6
   info: "Trekkie game. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Star_Trek_%28text_game%29
 
@@ -1019,6 +1039,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: a roguelike game with simple commands.
 
 - name: tornado
+  url: https://github.com/kouya/tornado
   info: Tornado is the clone of a C64 game.
 
 - name: threes
@@ -1030,6 +1051,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: Tint Is Not Tetris, a ncurses based clone of the original Tetris(tm) game.
 
 - name: tictactoe
+  url: ftp://ftp.ibiblio.org/pub/linux/games/strategy/tictac2-0.6.tgz
   info: Tic Tac Toe game
 
 - name: tsl
@@ -1037,11 +1059,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: The Slimy Lichmummy is a difficult roguelike in a traditional style.
 
 - name: tzar
-  url: http://freecode.com/projects/tzar
+  url: http://freshmeat.sourceforge.net/projects/tzar
   info: A roguelike game.
 
 - name: unnethack
-  url: http://sourceforge.net/projects/unnethack/
+  url: https://sourceforge.net/projects/unnethack/
   info: The first game in this roundup is UnNetHack, a fork of NetHack, originally based on the hugely popular roguelike game NetHack.
 
 - name: vagabondo
@@ -1062,7 +1084,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   screencast: https://asciinema.org/a/34065
 
 - name: zis
-  url: http://sourceforge.net/projects/zis/
+  url: https://sourceforge.net/projects/zis/
   info: Zionist In Space, a text-mode (curses) multiplayer game like Konquest (a turn based strategy; you send ships from planet to planet to conquer them).
 
 - name: zangband
@@ -1078,11 +1100,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: Z-Day is an easy to play roguelike game. You have to kill zombies in a supermarket.
 
 - name: znake
-  url: http://sourceforge.net/projects/znake-ulven/
+  url: https://sourceforge.net/projects/znake-ulven/
   info: "Just a simple colorful clone of the famous game Snake but with an extraordinary feature. Do you know the Soviet Russia meme by Smirnoff? Try to imagine if you don't eat the food but the food eats you."
 
 - name: ztrack
-  url: http://ibiblio.org/pub/linux/games/arcade/
+  url: https://ibiblio.org/pub/linux/games/arcade/ztrack-1.0.tar.gz
   info: Ztrack is a (very) simple curses-based pseudo-3D driving game.
 
 - name: zork I, II, III
@@ -1105,7 +1127,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   play: telnet telehack.com (or http://telehack.com/)
 
 - name: zracer
-  url: http://freecode.com/projects/zracer
+  url: http://freshmeat.sourceforge.net/projects/zracer
   info: "ZRacer is a console car racing game. It has a curses based semi-graphical interface, a random track generator, editable settings, and supports hotseat multiplayer. The rules are simple: the higher on the screen, the faster you ride. Don't crash into rocks, curbs, or your opponent, and be the first across the finish line."
 
 # https://ahopeful.wordpress.com/2015/04/22/wander-1974-a-lost-mainframe-game-is-found/comment-page-1/
@@ -1119,11 +1141,12 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: Would you like to play a game?
 
 - name: wanderer
-  url: http://www.e271.net/~marina/wanderer.html
+  url: https://www.e271.net/~marina/wanderer.html
   info: Wanderer is a game similar to Boulderdash, Repton, XOR and others.
   play: telnet or ssh on sdf.org
 
 - name: wallyplus
+  url: ftp://ftp.ibiblio.org/pub/linux/games/strategy/wallyplus-0.1.2.tar.gz
   info: A game for playing go.
 
 - name: wumpus & superhack
@@ -1131,36 +1154,38 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: A version of the very old game called Hunt the Wumpus by Eric Raymond. A joke version called “superhack” is included in the archive.
 
 - name: worm
-  url: http://man.openbsd.org/OpenBSD-current/man6/worm.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/worm.6
   info: "A version of the arcade game worm (sometimes called snake or nibbles). It's a BSD game."
   play: telnet on twenex.org
 
 - name: wump
-  url: http://man.openbsd.org/OpenBSD-current/man6/wump.6
+  url: https://man.openbsd.org/OpenBSD-current/man6/wump.6
   info: "Hunt the wumpus in an underground cave. It's a BSD game."
   screencast: https://asciinema.org/a/35800
   wikipedia: https://en.wikipedia.org/wiki/Hunt_the_Wumpus
 
 - name: yahtzee
+  url: ftp://ftp.ibiblio.org/pub/linux/games/strategy/yahtzee-src.tar.Z
   info: A very nice yahtzee game where you can play against humans or against the computer (including several different opponents).
 
 - name: yahtzee-color
+  url: ftp://ftp.ibiblio.org/pub/linux/games/strategy/colour-yahtzee.tgz
   info: A very nice yahtzee game where you can play against humans or against the computer (including several different opponents).
 
 - name: yuxtapa
-  url: http://freecode.com/projects/yuxtapa
+  url: http://freshmeat.sourceforge.net/projects/yuxtapa
   info: is a multiplayer real-time CLI game.
 
 - name: yetris
-  url: http://alexdantas.github.io/yetris/
+  url: https://alexdantas.github.io/yetris/
   info: yetris is a customizable Tetris(tm) clone for the console.
 
 - name: vapors of insanity
-  url: http://www.roguetemple.com/z/vapors/
+  url: https://www.roguetemple.com/z/vapors/
   info: Vapors of Insanity is a roguelike game set on a paradise island of Fortarica.
 
 - name: vadorz
-  url: https://code.google.com/p/vadorz/
+  url: https://code.google.com/archive/p/vadorz/
   info: Another space invaders game with simple graphics.
 
 - name: umoria
@@ -1171,6 +1196,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: An easy to play roguelike game.
 
 - name: ultrarogue
+  url: https://web.archive.org/web/20180216113810/http://rogue.rogueforge.net/ultrarogue-1-07/
   info: Another variant of Rogue.
 
 - name: urban warfare
