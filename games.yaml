@@ -70,19 +70,19 @@
 
 - name: arkanoid-bash
   url: https://github.com/bolknote/shellgames/blob/master/arcanoid.sh
-  info: Arkanoid is an arcade game developed by Taito in 1986. Written on Bash.
+  info: Arkanoid is an arcade game developed by Taito in 1986. Written in Bash.
   screencast: https://asciinema.org/a/36415
   wikipedia: https://en.wikipedia.org/wiki/Arkanoid
 
 - name: arkanoid.py
   url: https://blog.yjl.im/2015/12/arkanoid-example-from-pygamii-ascii.html
-  info: Arkanoid is an arcade game developed by Taito in 1986. Written on Python.
+  info: Arkanoid is an arcade game developed by Taito in 1986. Written in Python.
   wikipedia: https://en.wikipedia.org/wiki/Arkanoid
 
 
 - name: arkanoid-sed
   url: http://sed.sourceforge.net/local/games/arkanoid.sed.html
-  info: Arkanoid is an arcade game developed by Taito in 1986. Written on Sed.
+  info: Arkanoid is an arcade game developed by Taito in 1986. Written in Sed.
   wikipedia: https://en.wikipedia.org/wiki/Arkanoid
 
 
@@ -223,13 +223,14 @@
   info: a multi-player card game, written by Hero
   play: telnet mud.darkerrealms.org 2000
 
-- name: cataclysm
-  info: A Zombie Survival Roguelike.
-
 - name: canfield
   url: https://man.openbsd.org/OpenBSD-current/man6/canfield.6
   info: "The solitaire card game canfield. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Canfield_%28solitaire%29
+
+- name: "cataclysm: dark days ahead"
+  url: https://web.archive.org/web/20190209031801/http://en.cataclysmdda.com/
+  info: "Cataclysm: Dark Days Ahead is a roguelike set in a post-apocalyptic world. Surviving is difficult: you have been thrown, ill-equipped, into a landscape now riddled with monstrosities of which flesh eating zombies are neither the strangest nor the deadliest."
 
 - name: chimaera
   url: https://www.mipmip.org/C_games/
@@ -261,10 +262,6 @@
 - name: chess
   url: https://github.com/bolknote/SedChess
   info: Chess implemented in sed utility.
-
-- name: "cataclysm: dark days ahead"
-  url: https://web.archive.org/web/20190209031801/http://en.cataclysmdda.com/
-  info: "Cataclysm: Dark Days Ahead is a roguelike set in a post-apocalyptic world. Surviving is difficult: you have been thrown, ill-equipped, into a landscape now riddled with monstrosities of which flesh eating zombies are neither the strangest nor the deadliest."
 
 - name: ckhet
   url: https://mbays.freeshell.org/ckhet/
@@ -304,10 +301,10 @@
   info: a real-time, multi-player space warfare game.
   play: telnet mud.darkerrealms.org 2000
 
-- name: othello
-  url: https://web.archive.org/web/20130607084226/http://david.weekly.org/othello/index.php3
-  info: a two-player board game, written by Unk
-  play: telnet mud.darkerrealms.org 2000
+- name: Conquest
+  url: https://github.com/beejjorgensen/conquest
+  info: Port of the old Amiga Conquest text-based game
+
 
 - name: corewar
   url: http://www.corewar.info/
@@ -441,22 +438,22 @@
   url: http://www.catb.org/esr/galaxis/
   info: Find the lost lifeboats from an interstellar liner.
 
+- name: gearhead
+  url: http://www.gearheadrpg.com/
+  info: GearHead is the first roguelike to explore the world of “mechas” (giant robots).
+
 - name: gnuchess
   url: https://www.gnu.org/software/chess/
   info: GNU Chess is a chess-playing program.
   play: telnet freechess.org 5000 (login guest)
 
-- name: gnuski
-  url: https://sourceforge.net/projects/gnuski/
-  info: GNUSki is an open source clone of Skifree, the old Windows game.
-
 - name: gnugo
   url: https://www.gnu.org/software/gnugo/
   info: GNU Go is a free program that plays the game of Go.
 
-- name: gearhead
-  url: http://www.gearheadrpg.com/
-  info: GearHead is the first roguelike to explore the world of “mechas” (giant robots).
+- name: gnuski
+  url: https://sourceforge.net/projects/gnuski/
+  info: GNUSki is an open source clone of Skifree, the old Windows game.
 
 - name: gnake
   info: Another variant of the snake game with a smooth movement.
@@ -731,6 +728,11 @@
 - name: oldrunner
   url: http://culot.org/public/Code/oldrunner.html
   info: Oldrunner is a remake of Broderbund’s Loderunner which contains the 150 original game levels. It is written in C and has a text-based interface.
+
+- name: othello
+  url: https://web.archive.org/web/20130607084226/http://david.weekly.org/othello/index.php3
+  info: a two-player board game, written by Unk
+  play: telnet mud.darkerrealms.org 2000
 
 - name: pacman
   url: http://slaout.linux62.org/pacman/index.html
@@ -1208,6 +1210,3 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: A cli version of the game 2048 for your Linux terminal.
   screencast: https://asciinema.org/a/34067
 
-- name: Conquest
-  url: https://github.com/beejjorgensen/conquest
-  info: Port of the old Amiga Conquest text-based game
