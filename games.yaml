@@ -28,7 +28,8 @@
 #     telnet achaea.com
 #     http://www.telnet.org/htm/places.htm
 #     http://mewbies.com/acute_terminal_fun_telnet_public_servers_watch_star_wars_play_games_etc.htm
-
+#     See comments above Cavez of Phear
+#     Zork only has downloads for MSDOS
 
 - name: 0verkill
   info: 0verkill is bloody 2D action deathmatch-like game in ASCII-ART.
@@ -83,7 +84,7 @@
 - name: Anonymine
   url: https://oskog97.com/projects/anonymine/
   info: A curses mode minesweeper solvable without guessing, and the only with von Neumann neighbourhoods.
-  play: ssh play@anonymine-demo.oskog97.com -p 2222 # Password is "play"
+  play: ssh play@anonymine-demo.oskog97.com -p 2222; Password is "play"
   screencast: https://asciinema.org/a/82455
 
 - name: aop
@@ -1251,7 +1252,8 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: Zombies! is a roguelike written entirely from scratch, in one day, in Common Lisp.
 
 - name: zork I, II, III
-  info: An old game by Infocom.
+  url: https://web.archive.org/web/20130121064934/http://www.csd.uwo.ca/Infocom/games.html
+  info: An old game by Infocom.  (DOS/Windows only)
   play: telnet or ssh on sdf.org
 
 - name: zracer
