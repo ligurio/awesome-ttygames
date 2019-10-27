@@ -107,7 +107,7 @@ Angband is a free, single-player dungeon exploration game.
 A curses mode minesweeper solvable without guessing, and the only with von Neumann neighbourhoods.
 
 
-**Play**: ```ssh play@anonymine-demo.oskog97.com -p 2222```
+**Play**: ```ssh play@anonymine-demo.oskog97.com -p 2222; Password is "play"```
 
 
 ### [aop](https://raffi.at/view/code/aop) 
@@ -1614,9 +1614,9 @@ Zombies is a simple curses-based game in the same style as robots.
 Zombies! is a roguelike written entirely from scratch, in one day, in Common Lisp.
 
 
-### zork I, II, III 
+### [zork I, II, III](https://web.archive.org/web/20130121064934/http://www.csd.uwo.ca/Infocom/games.html) 
 
-An old game by Infocom.
+An old game by Infocom.  (DOS/Windows only)
 
 
 **Play**: ```telnet or ssh on sdf.org```
