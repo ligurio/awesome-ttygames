@@ -1,8 +1,10 @@
 #!/bin/sh
 
+# Usage: cd tools; ./find-bad-links
+
 # Some sites block curl, so keep that in mind.
 # FTP servers will also show up since their OK status is 226, not 200.
 
-(for URL in $(grep '^  url:' games.yaml | cut -d: -f2-); do
+(for URL in $(grep '^  url:' ../games.yaml | cut -d: -f2-); do
     curl -s -o /dev/null -w "%{http_code}: $URL\n" $URL
 done) | tee /dev/stderr | grep -v '^200: ' >bad-URLs

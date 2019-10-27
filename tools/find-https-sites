@@ -1,10 +1,12 @@
 #!/bin/sh
 
+# Usage: cd tools; ./find-https-sites
+
 # This looks for sites that should be moved from http:// to https://
 # Keep in mind that some servers respond on https:// but may serve an
 # error page or some other silly thing instead of the correct page.
 
-http_domains=$(grep '^  url: http://' games.yaml | cut -d/ -f3 | sort | uniq)
+http_domains=$(grep '^  url: http://' ../games.yaml | cut -d/ -f3 | sort | uniq)
 (for domain in $http_domains; do
     curl -s -o /dev/null -w "%{http_code}: $domain\n" https://$domain/
 done) | tee /dev/stderr | grep '^200: ' >http-to-https
