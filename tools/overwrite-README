@@ -1,0 +1,3 @@
+#!/bin/sh
+echo 'Usage: tools/overwrite-README'
+python md-generate.py | cat tools/README-head - tools/README-tail >README.md
