@@ -713,6 +713,11 @@
   url: https://ftp.fr.openbsd.org/pub/OpenBSD/distfiles/netris-0.52.tar.gz
   info: "This is netris, a networked version of t*tris. It allows head to head two player games via a network."
 
+- name: netris (2019)
+  url: https://git.sr.ht/~tslocum/netris
+  info: Tetris clone featuring competitive online multiplayer.
+  play: ssh netris.rocketnine.space
+
 - name: nettoe
   url: http://nettoe.sourceforge.net/
   info: netToe is a Tic Tac Toe-like game for the Unix consoles written in C using UNIX sockets.
