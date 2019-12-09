@@ -1149,6 +1149,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://www.roguetemple.com/z/vapors/
   info: Vapors of Insanity is a roguelike game set on a paradise island of Fortarica.
 
+- name: venzone
+  url: http://ariis.it/static/articles/venzone/page.html
+  info: venzone is a platform/adventure
+  screencast: http://ariis.it/static/articles/venzone/venzone-cast.gif
+
 - name: vitetris
   url: http://victornils.net/tetris/
   info: vitetris is a terminal-based Tetris clone by Victor Nilsson. Gameplay is much like the early Tetris games by Nintendo.
