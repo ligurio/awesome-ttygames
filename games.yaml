@@ -341,6 +341,7 @@
 - name: crawl
   url: https://crawl.develz.org/wordpress/
   info: One of the best games for the Linux console.
+  screencast: https://asciinema.org/a/524
 
 - name: cribbage
   url: https://man.openbsd.org/OpenBSD-current/man6/cribbage.6
