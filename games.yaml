@@ -48,7 +48,10 @@
   info: "n2048 is a console-based game based on the highly addictive sliding puzzle 2048. Slide the tiles together to combine them, until you reach the highest one."
   screencast: https://asciinema.org/a/35973
 
-
+- name: ascii patrol
+  url: http://ascii-patrol.com/
+  info:
+  play: http://ascii-patrol.com/area51/ascii-patrol-html5.html
 
 - name: abura tan
   url: http://aburatan.sourceforge.net/
