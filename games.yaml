@@ -144,6 +144,10 @@
   url: http://avanor.sourceforge.net/
   info: Rogue-like game with easy ADOM-like user interface.
 
+- name: awkaster
+  url: https://github.com/TheMozg/awk-raycaster
+  info: Pseudo-3D shooter written completely in gawk using raycasting technique
+
 
 
 - name: backgammon
@@ -474,6 +478,10 @@
   url: http://www.catb.org/esr/galaxis/
   info: Find the lost lifeboats from an interstellar liner.
 
+- name: gameroom
+  info: 11 arcade games
+  play: ssh gameroom@bitreich.org
+
 - name: gearhead
   url: http://www.gearheadrpg.com/
   info: GearHead is the first roguelike to explore the world of “mechas” (giant robots).
@@ -566,6 +574,11 @@
 - name: imperium
   url: https://empiredirectory.net/
   info: Imperium is a game of intergalactic exploration, warfare, and economics. Imperium has no set goal, and fairly flexible rules about what you can do, thus, while a single player could run their own game just for the fun of exploration, they would be missing out on most of the aspects of the game with no one to compete against.
+
+- name: Infinite Cave Adventure
+  url: http://www.dungeon.name
+  info: A roguelike game.
+  play: telnet dungeon.name 20028
 
 - name: intricacy
   url: http://mbays.sdf.org/intricacy/
@@ -692,6 +705,10 @@
 - name: microsnake
   url: http://freshmeat.sourceforge.net/projects/micro-snake
   info: Micro Snake is based on a simple snake game by Simon Huggins.
+
+- name: mtrek
+  info: Game inspired by Star Trek
+  play: telnet mtrek.com 170
 
 - name: mutant aliens
   url: http://www.roguebasin.com/index.php?title=Mutant_Aliens!
@@ -909,6 +926,11 @@ by a baddie or you run out of energy."
   screencast: https://asciinema.org/a/35802
   play: telnet or ssh on sdf.org
 
+- name: roguelike gallery
+  url: https://rlgallery.org
+  info: A living museum of roguelike games
+  play: ssh rodney@rlgallery.org
+
 - name: the rougelike!
   url: https://common-lisp.net/project/lifp/rouge.htm
   info: "The Rougelike! is a roguelike game."
@@ -960,6 +982,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: Simultaneous-move chess.
   play: "ssh simulchess@sshgames.thegonz.net; password: simulchess"
 
+- name: singleplayer pong
+  url: https://github.com/Birkenstab/SSH-Pong
+  info: Dockerized pong for one.
+  play: ssh pong.brk.st
+
 - name: ski
   url: http://catb.org/~esr/ski/
   info: A hotdogging game, evade the deadly Yeti on your jet-powered skis.
@@ -967,6 +994,10 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: slashem
   url: http://slashem.sourceforge.net/
   info: Another variant of the roguelike nethack game.
+
+- name: slashem.me
+  info: Variant of nethack and others
+  play: ssh slashem@slashem.me
 
 - name: slider
   url: ftp://80.92.105.240/ftp.ibiblio.org/ibiblio_linux_archive/games/strategy/slider-1.0.c.gz
@@ -1037,6 +1068,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: taipan
   url: http://www.ibiblio.org/pub/linux/games/textrpg
   info: "Modern version of Art Canfil's classic, Taipan."
+
+- name: telnet-games
+  url: https://github.com/Milek7/telnet-games
+  info: Several arcade games
+  play: telnet milek7.gq
 
 - name: tetris
   url: https://man.openbsd.org/OpenBSD-current/man6/tetris.6
@@ -1115,6 +1151,10 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   screencast: https://asciinema.org/a/6519
   play: telnet mud.darkerrealms.org 2000
 
+- name: typespeed
+  url: https://web.archive.org/web/20100904205305/http://tobias.eyedacor.org/typespeed/
+  info: Type words that are flying by from left to right as fast as you can.
+
 - name: tzar
   url: http://freshmeat.sourceforge.net/projects/tzar
   info: A roguelike game.
@@ -1187,6 +1227,10 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: wargames
   wikipedia: https://en.wikipedia.org/wiki/WarGames
   info: Would you like to play a game?
+
+- name: Wolfentext3D
+  url: https://github.com/AtomicPair/wolfentext3d
+  info: 3-D dungeon crawling in your terminal!
 
 - name: worm
   url: https://man.openbsd.org/OpenBSD-current/man6/worm.6
