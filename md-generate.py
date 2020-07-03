@@ -1,17 +1,12 @@
 #!/usr/bin/env python
 
 import yaml
-import sys
 import re
-from urlparse import urlparse
-
-reload(sys)
-sys.setdefaultencoding('utf-8')
+from urllib.parse import urlparse
 
 stream = open("games.yaml", "r")
-ttygames = yaml.load(stream)
+ttygames = yaml.load(stream, Loader=yaml.FullLoader)
 for entry in ttygames:
-
     if 'url' in entry:
         header = "### [%s](%s)" % (entry['name'], entry['url'])
     else:
@@ -30,9 +25,9 @@ for entry in ttygames:
         else:
             header = header + " [Screencast](%s)" % entry['screencast']
 
-    print header, "\n"
+    print(header, "\n")
     if screencast:
-        print screencast, "\n"
+        print(screencast, "\n")
 
     if 'info' in entry:
         print("%s\n" % entry['info'])
@@ -43,4 +38,4 @@ for entry in ttygames:
     if 'play' in entry:
         print("\n**Play**: ```%s```\n" % entry['play'])
 
-    print
+    print()
