@@ -929,7 +929,7 @@ by a baddie or you run out of energy."
 - name: roguelike gallery
   url: https://rlgallery.org
   info: A living museum of roguelike games
-  play: ssh rodney@rlgallery.org
+  play: ssh rodney@rlgallery.org; password: yendor
 
 - name: the rougelike!
   url: https://common-lisp.net/project/lifp/rouge.htm
