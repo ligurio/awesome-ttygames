@@ -260,6 +260,7 @@
 #   Site broken: http://www.x86.no/cavezofphear/
 #   https://web.archive.org/web/20160523182502/http://www.x86.no/cavezofphear/
 - name: cavez of phear
+  url: http://web.archive.org/web/20140627005101/http://www.x86.no/cavezofphear/
   info: cavez of phear is a boulder dash / digger like game for console using ncurses.
 
 - name: cbattleship
@@ -929,7 +930,7 @@ by a baddie or you run out of energy."
 - name: roguelike gallery
   url: https://rlgallery.org
   info: A living museum of roguelike games
-  play: ssh rodney@rlgallery.org
+  play: ssh rodney@rlgallery.org; password: yendor
 
 - name: the rougelike!
   url: https://common-lisp.net/project/lifp/rouge.htm
