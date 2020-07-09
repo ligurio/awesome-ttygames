@@ -42,6 +42,11 @@
   url: https://github.com/Tiehuis/2048-cli
   info: A cli version of the game 2048 for your Linux terminal.
   screencast: https://asciinema.org/a/34067
+  
+- name: 2048-SSH
+  url: https://git.causal.agency/play
+  info: 2048 over SSH
+  play: ssh play@ascii.town
 
 - name: n2048
   url: http://freshmeat.sourceforge.net/projects/n2048
