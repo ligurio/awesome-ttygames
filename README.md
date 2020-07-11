@@ -2,9 +2,10 @@
 
 [![Build Status](https://travis-ci.org/ligurio/awesome-ttygames.svg?branch=master)](https://travis-ci.org/ligurio/awesome-ttygames)
 
-See also two another resources about games in console:
+See additional resources about games in console:
 - https://inconsolation.wordpress.com/tag/game/
 - https://ttygames.wordpress.com/
+- https://theouterlinux.gitlab.io/RecommendedSoftware/Linux/Games/RecommendedSoftware_Linux_Games.html
 
 Feel free to submit pull requests to add new games and improve information about
 those already in the database.
