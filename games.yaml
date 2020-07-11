@@ -1202,7 +1202,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: venzone
   url: http://ariis.it/static/articles/venzone/page.html
   info: venzone is a platform/adventure
-  screencast: http://ariis.it/static/articles/venzone/venzone-cast.gif
+  screencast: https://asciinema.org/a/M3Ajf1KijstA3Fmi5Iq1W8urk
 
 - name: vitetris
   url: http://victornils.net/tetris/

@@ -2,6 +2,10 @@
 
 [![Build Status](https://travis-ci.org/ligurio/awesome-ttygames.svg?branch=master)](https://travis-ci.org/ligurio/awesome-ttygames)
 
+See also two another resources about games in console:
+- https://inconsolation.wordpress.com/tag/game/
+- https://ttygames.wordpress.com/
+
 Feel free to submit pull requests to add new games and improve information about
 those already in the database.
 
@@ -58,6 +62,14 @@ A cli version of the game 2048 for your Linux terminal.
 [![asciicast](https://asciinema.org/a/35973.svg)](https://asciinema.org/a/35973) 
 
 n2048 is a console-based game based on the highly addictive sliding puzzle 2048. Slide the tiles together to combine them, until you reach the highest one.
+
+
+### [ascii patrol](http://ascii-patrol.com/) 
+
+None
+
+
+**Play**: ```http://ascii-patrol.com/area51/ascii-patrol-html5.html```
 
 
 ### [abura tan](http://aburatan.sourceforge.net/) 
@@ -180,6 +192,11 @@ air traffic controller game. It's a BSD game.
 ### [avanor](http://avanor.sourceforge.net/) 
 
 Rogue-like game with easy ADOM-like user interface.
+
+
+### [awkaster](https://github.com/TheMozg/awk-raycaster) 
+
+Pseudo-3D shooter written completely in gawk using raycasting technique
 
 
 ### [backgammon](https://man.openbsd.org/OpenBSD-current/man6/backgammon.6) 
@@ -439,6 +456,8 @@ CPat is probably the best card game for the Linux console; it is a collection of
 
 ### [crawl](https://crawl.develz.org/wordpress/) 
 
+[![asciicast](https://asciinema.org/a/524.svg)](https://asciinema.org/a/524) 
+
 One of the best games for the Linux console.
 
 
@@ -596,6 +615,14 @@ Frotz is an interpreter for Infocom games and other Z-machine games.
 Find the lost lifeboats from an interstellar liner.
 
 
+### gameroom 
+
+11 arcade games
+
+
+**Play**: ```ssh gameroom@bitreich.org```
+
+
 ### [gearhead](http://www.gearheadrpg.com/) 
 
 GearHead is the first roguelike to explore the world of “mechas” (giant robots).
@@ -717,6 +744,14 @@ A nice and easy roguelike game.
 ### [imperium](https://empiredirectory.net/) 
 
 Imperium is a game of intergalactic exploration, warfare, and economics. Imperium has no set goal, and fairly flexible rules about what you can do, thus, while a single player could run their own game just for the fun of exploration, they would be missing out on most of the aspects of the game with no one to compete against.
+
+
+### [Infinite Cave Adventure](http://www.dungeon.name) 
+
+A roguelike game.
+
+
+**Play**: ```telnet dungeon.name 20028```
 
 
 ### [intricacy](http://mbays.sdf.org/intricacy/) 
@@ -888,6 +923,14 @@ A simple snake game written in C using the ncurses library.
 Micro Snake is based on a simple snake game by Simon Huggins.
 
 
+### mtrek 
+
+Game inspired by Star Trek
+
+
+**Play**: ```telnet mtrek.com 170```
+
+
 ### [mutant aliens](http://www.roguebasin.com/index.php?title=Mutant_Aliens!) 
 
 Mutant Aliens! sees a spaceship 'dock safely' into the forest of a hostile alien world.
@@ -916,6 +959,14 @@ NetHack is a single player dungeon exploration game that runs on a wide variety 
 ### [netris](https://ftp.fr.openbsd.org/pub/OpenBSD/distfiles/netris-0.52.tar.gz) 
 
 This is netris, a networked version of t*tris. It allows head to head two player games via a network.
+
+
+### [netris (2019)](https://git.sr.ht/~tslocum/netris) 
+
+Tetris clone featuring competitive online multiplayer.
+
+
+**Play**: ```ssh netris.rocketnine.space```
 
 
 ### [nettoe](http://nettoe.sourceforge.net/) 
@@ -1164,6 +1215,14 @@ Exploring The Dungeons of Doom. It's a BSD game.
 **Play**: ```telnet or ssh on sdf.org```
 
 
+### [roguelike gallery](https://rlgallery.org) 
+
+A living museum of roguelike games
+
+
+**Play**: ```ssh rodney@rlgallery.org```
+
+
 ### [the rougelike!](https://common-lisp.net/project/lifp/rouge.htm) 
 
 The Rougelike! is a roguelike game.
@@ -1226,6 +1285,14 @@ Simultaneous-move chess.
 **Play**: ```ssh simulchess@sshgames.thegonz.net; password: simulchess```
 
 
+### [singleplayer pong](https://github.com/Birkenstab/SSH-Pong) 
+
+Dockerized pong for one.
+
+
+**Play**: ```ssh pong.brk.st```
+
+
 ### [ski](http://catb.org/~esr/ski/) 
 
 A hotdogging game, evade the deadly Yeti on your jet-powered skis.
@@ -1234,6 +1301,14 @@ A hotdogging game, evade the deadly Yeti on your jet-powered skis.
 ### [slashem](http://slashem.sourceforge.net/) 
 
 Another variant of the roguelike nethack game.
+
+
+### slashem.me 
+
+Variant of nethack and others
+
+
+**Play**: ```ssh slashem@slashem.me```
 
 
 ### [slider](ftp://80.92.105.240/ftp.ibiblio.org/ibiblio_linux_archive/games/strategy/slider-1.0.c.gz) 
@@ -1328,6 +1403,14 @@ This is the good old “Govern Ancient Sumeria”, with a 1983 ecology re-write.
 ### [taipan](http://www.ibiblio.org/pub/linux/games/textrpg) 
 
 Modern version of Art Canfil's classic, Taipan.
+
+
+### [telnet-games](https://github.com/Milek7/telnet-games) 
+
+Several arcade games
+
+
+**Play**: ```telnet milek7.gq```
 
 
 ### [tetris](https://man.openbsd.org/OpenBSD-current/man6/tetris.6) 
@@ -1434,6 +1517,11 @@ ncurses-based klondike solitaire game.
 **Play**: ```telnet mud.darkerrealms.org 2000```
 
 
+### [typespeed](https://web.archive.org/web/20100904205305/http://tobias.eyedacor.org/typespeed/) 
+
+Type words that are flying by from left to right as fast as you can.
+
+
 ### [tzar](http://freshmeat.sourceforge.net/projects/tzar) 
 
 A roguelike game.
@@ -1477,6 +1565,11 @@ Another space invaders game with simple graphics.
 Vapors of Insanity is a roguelike game set on a paradise island of Fortarica.
 
 
+### [venzone](http://ariis.it/static/articles/venzone/page.html) [Screencast](http://ariis.it/static/articles/venzone/venzone-cast.gif) 
+
+venzone is a platform/adventure
+
+
 ### [vitetris](http://victornils.net/tetris/) 
 
 [![asciicast](https://asciinema.org/a/34069.svg)](https://asciinema.org/a/34069) 
@@ -1515,6 +1608,11 @@ Wanderer is a game similar to Boulderdash, Repton, XOR and others.
 Would you like to play a game?
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/WarGames).
+
+
+### [Wolfentext3D](https://github.com/AtomicPair/wolfentext3d) 
+
+3-D dungeon crawling in your terminal!
 
 
 ### [worm](https://man.openbsd.org/OpenBSD-current/man6/worm.6) 
@@ -1630,5 +1728,3 @@ ZRacer is a console car racing game. It has a curses based semi-graphical interf
 ### [ztrack](https://ibiblio.org/pub/linux/games/arcade/ztrack-1.0.tar.gz) 
 
 Ztrack is a (very) simple curses-based pseudo-3D driving game.
-
-
