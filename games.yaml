@@ -159,6 +159,11 @@
   url: https://man.openbsd.org/OpenBSD-current/man6/backgammon.6
   info: "A backgammon game; you can play against the computer. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Backgammon
+  
+- name: backgammon-telnet
+  url:
+  info: "Play backgammon over telnet."
+  play: telnet fibs.com 4321
 
 - name: bastet
   url: http://fph.altervista.org/prog/bastet.html
@@ -502,6 +507,10 @@
 - name: gnuski
   url: https://sourceforge.net/projects/gnuski/
   info: GNUSki is an open source clone of Skifree, the old Windows game.
+  
+- name: go-telnet
+  info: "Play or watch games of Go over telnet"
+  play: igs.joyjoy.net 6969
 
 - name: goblinhack
   url: https://github.com/goblinhack/goblinhack
