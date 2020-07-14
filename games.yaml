@@ -451,6 +451,10 @@
   url: https://github.com/nanochess/fbird
   info: F-Bird, a text bootsector game
   screencast: https://www.youtube.com/watch?v=p31XFFAeze4
+  
+- name: Fifteen Puzzle
+  url: http://tldp.org/LDP/abs/html/contributed-scripts.html#FIFTEEN
+  info: A sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing, written in bash.
 
 - name: fish
   url: https://man.openbsd.org/OpenBSD-current/man6/fish.6
@@ -569,6 +573,10 @@
 - name: hinversi
   url: https://sourceforge.net/projects/hinversi/
   info: Hinversi is a implementation of Reversi (a.k.a. Othello), a board game.
+  
+- name: Horserace
+  url: https://pastebin.com/3KvCBg57
+  info: A very simple horserace simulation written in bash.
 
 - name: hrd
   info: the puzzle game of HuaRongDao
@@ -777,6 +785,10 @@
   url: https://www.earth.li/projectpurple/progs/nibbles.html
   info: Nibbles is a remake of the classic Snake/Nibbles game in ncurses.
 
+- name: nim
+  url: http://tldp.org/LDP/abs/html/contributed-scripts.html#NIM
+  info: A mathematical game of strategy written in bash.
+
 - name: nlarn
   url: http://freshmeat.sourceforge.net/projects/nlarn
   info: "NLarn is an enhanced and improved rewrite of the historic roguelike game Larn. It tries to maintain the atmosphere and story of the last version of Larn (12.3) while improving gameplay and the user experience."
@@ -848,6 +860,10 @@
   url: http://antimirov.net/it/pacman/
   info: A simple version of the famous pacman game written in Python.
   play: ssh pacman:pacman@antimirov.net
+  
+- name: Petals Around The Rose
+  url: http://tldp.org/LDP/abs/html/contributed-scripts.html#PETALS
+  info: A dice-based puzzle game written in bash.
 
 - name: petris
   url: https://packages.debian.org/sid/games/petris
@@ -920,7 +936,9 @@
   url: http://freshmeat.sourceforge.net/projects/pytris
   info: pytris is a two-player networked console Tetris clone written in Python/Pyncurses.
 
-
+- name: Quacky
+  url: http://tldp.org/LDP/abs/html/contributed-scripts.html#QKY
+  info: A Perquackey-type word game written in bash.
 
 - name: reversi
   info: A good version of the othello/reversi game written in the Lisp langugage.
