@@ -58,6 +58,14 @@ This is an ncurses version of the game '2048'.
 A cli version of the game 2048 for your Linux terminal.
 
 
+### [2048-SSH](https://git.causal.agency/play) 
+
+2048 over SSH
+
+
+**Play**: ```ssh play@ascii.town```
+
+
 ### [n2048](http://freshmeat.sourceforge.net/projects/n2048) 
 
 [![asciicast](https://asciinema.org/a/35973.svg)](https://asciinema.org/a/35973) 
@@ -335,7 +343,7 @@ a multi-player card game, written by Hero
 Cataclysm: Dark Days Ahead is a roguelike set in a post-apocalyptic world. Surviving is difficult: you have been thrown, ill-equipped, into a landscape now riddled with monstrosities of which flesh eating zombies are neither the strangest nor the deadliest.
 
 
-### cavez of phear 
+### [cavez of phear](http://web.archive.org/web/20140627005101/http://www.x86.no/cavezofphear/) 
 
 cavez of phear is a boulder dash / digger like game for console using ncurses.
 
@@ -1221,7 +1229,7 @@ Exploring The Dungeons of Doom. It's a BSD game.
 A living museum of roguelike games
 
 
-**Play**: ```ssh rodney@rlgallery.org```
+**Play**: ```ssh rodney@rlgallery.org; password: yendor```
 
 
 ### [the rougelike!](https://common-lisp.net/project/lifp/rouge.htm) 
@@ -1566,7 +1574,7 @@ Another space invaders game with simple graphics.
 Vapors of Insanity is a roguelike game set on a paradise island of Fortarica.
 
 
-### [venzone](http://ariis.it/static/articles/venzone/page.html) [Screencast](http://ariis.it/static/articles/venzone/venzone-cast.gif) 
+### [venzone](http://ariis.it/static/articles/venzone/page.html) 
 
 venzone is a platform/adventure
 
@@ -1729,3 +1737,5 @@ ZRacer is a console car racing game. It has a curses based semi-graphical interf
 ### [ztrack](https://ibiblio.org/pub/linux/games/arcade/ztrack-1.0.tar.gz) 
 
 Ztrack is a (very) simple curses-based pseudo-3D driving game.
+
+
