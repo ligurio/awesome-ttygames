@@ -524,6 +524,10 @@
   url: https://man.openbsd.org/OpenBSD-current/man6/gomoku.6
   info: "Gomoku is a two player game where the object is to get 5 in a row horizontally, vertically or diagonally on a 19 by 19 grid. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Gomoku
+  
+- name: gorched
+  url: https://github.com/zladovan/gorched
+  info: "A terminal based game written in Go inspired by \"The Mother of all games\" Scorched Earth"
 
 - name: gpcslots2
   url: https://sourceforge.net/projects/gpcslots2/
