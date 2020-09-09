@@ -387,6 +387,10 @@
 - name: dab
   url: https://netbsd.gw.com/cgi-bin/man-cgi?dab+6+NetBSD-6.0
   info: Dots and Boxes game.
+  
+- name: decwars
+  info: Multiplayer Star Trek.
+  play: telnet decwars.com 1701
 
 - name: diablorl
   url: https://diablo.chaosforge.org/
@@ -1110,6 +1114,10 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://github.com/Milek7/telnet-games
   info: Several arcade games
   play: telnet milek7.gq
+  
+- name: terminal-phase
+  url: https://gitlab.com/dustyweb/terminal-phase
+  info: Space shooter game that runs in your terminal!
 
 - name: tetris
   url: https://man.openbsd.org/OpenBSD-current/man6/tetris.6
