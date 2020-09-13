@@ -1014,6 +1014,14 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: the sewer massacre
   url: https://common-lisp.net/project/lifp/sewers.htm
   info: A roguelike game written in Lisp.
+  
+- name: shell-tanks
+  url: https://github.com/annacrombie/shell-tanks
+  info: A tank game in bash with randomly generated terrain in which the object is to destroy your opponent.
+  
+- name: shellshock
+  url: https://dhampir.no/stuff/bash/shellshock
+  info: A top-down space shooter written for bash.
 
 - name: shogi
   url: https://www.gnu.org/software/gnushogi/
