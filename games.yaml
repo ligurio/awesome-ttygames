@@ -159,6 +159,10 @@
   url: https://man.openbsd.org/OpenBSD-current/man6/backgammon.6
   info: "A backgammon game; you can play against the computer. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Backgammon
+  
+- name: bashmaze
+  url: https://github.com/phoemur/bashmaze
+  info: A maze game writen completely in shell-script, based on Joe Wingbermuehle's maze generator.
 
 - name: bastet
   url: http://fph.altervista.org/prog/bastet.html
