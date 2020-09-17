@@ -906,7 +906,9 @@
   url: https://www.increpare.com/2008/11/portile/
   info: Portile is a 2D, tile-based take on narbacular drop.
 
-
+- name: puzzl
+  url: https://github.com/pravj/puzzl
+  info: An intelligent version of the sliding-puzzle game for your terminal built in golang.
 
 - name: Scrabble
   info: a two-to-four-player board game, written by Unk
