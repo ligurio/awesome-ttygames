@@ -431,6 +431,10 @@
   url: http://eyangband.sourceforge.net/
   info: Another variant of Angband.
 
+- name: elite
+  url: https://www.bbcelite.com/
+  wikipedia: https://en.wikipedia.org/wiki/Elite_(video_game)
+
 
 
 - name: factor
