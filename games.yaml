@@ -680,6 +680,11 @@
 - name: mille
   url: https://man.openbsd.org/OpenBSD-current/man6/mille.6
   info: "A racing card game in BSD games based on the Parker Brothers game Mille Bornes. It's a BSD game."
+  
+- name: minecurses
+  url: https://github.com/christosmarg/minecurses
+  info: An ncurses minesweeper game but instead of having to uncover all non-mine cells, the player has to defuse all the mines.
+  screencast: https://asciinema.org/a/yj926P6tb3ypF0QQHOr2ukaaf
 
 - name: miscom
   url: ftp://ftp.slackware.org.uk/sbosrcarch/by-name/games/miscom/miscom.tar.gz
