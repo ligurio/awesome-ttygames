@@ -686,6 +686,12 @@
   info: An ncurses minesweeper game but instead of having to uncover all non-mine cells, the player has to defuse all the mines.
   screencast: https://asciinema.org/a/yj926P6tb3ypF0QQHOr2ukaaf
 
+- name: minesVIiper
+  url: https://gir.st/mines.html
+  info: Minesweeper clone with extensive vi(1) keybindings (not just hjkl), mouse control. Beautiful Unicode character schemes, and even one for actual VT-200 hardware. Does not depend on ncurses.
+  # displays broken due to https://github.com/asciinema/asciinema-player/issues/34
+  #screencast: https://asciinema.org/a/RjqXfafnKx4OkXKVuE9RG4ps6
+
 - name: miscom
   url: ftp://ftp.slackware.org.uk/sbosrcarch/by-name/games/miscom/miscom.tar.gz
   info: A curses-based game where you must defend cities from missile attack. It’s essentially a clone of Atari’s “Missile Command” (with some minor enhancements) for terminals, and has colour and sound.
@@ -1047,6 +1053,12 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: A fully playable version of the sokoban game, but a little hacking has to be done.
   play: telnet or ssh on sdf.org
 
+- name: solVItaire
+  url: https://gir.st/sol.html
+  info: Freecell, Spider Solitare and Klondike Solitaire with extensive vi(1) style keybindings, do-what-I-mean movement operations, beautiful Unicode character schemes. Does not depend on ncurses.
+  # displays slightly broken due to https://github.com/asciinema/asciinema-player/issues/34
+  screencast: https://asciinema.org/a/Wde3hVhN60gkAuAu05LL2362i
+
 - name: spacezero
   url: http://spacezero.sourceforge.net/
   info: SpaceZero is a Real Time Strategy 2D space combat game for two players over a network.
@@ -1212,6 +1224,12 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: http://ariis.it/static/articles/venzone/page.html
   info: venzone is a platform/adventure
   screencast: https://asciinema.org/a/M3Ajf1KijstA3Fmi5Iq1W8urk
+
+- name: VIper
+  url: https://gir.st/viper.html
+  info: Snake clone with hjkl (vi) and cursor key control. Colorful Unicode character set and a bunch of bonus items.
+  # displays slightly broken due to https://github.com/asciinema/asciinema-player/issues/34
+  screencast: https://asciinema.org/a/268CCfMwk4bbtVGNyX9acrOAe
 
 - name: vitetris
   url: http://victornils.net/tetris/
