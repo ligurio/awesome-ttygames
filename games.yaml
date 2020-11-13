@@ -481,8 +481,7 @@
 - name: frotz
   url: https://davidgriffith.gitlab.io/frotz/
   info: Frotz is an interpreter for Infocom games and other Z-machine games.
-
-
+  screencast: https://asciinema.org/a/372170
 
 - name: galaxis
   url: http://www.catb.org/esr/galaxis/
