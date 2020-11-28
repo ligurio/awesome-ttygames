@@ -680,6 +680,10 @@
 
 - name: manhunt
   play: telnet on twenex.org
+  
+- name: Mario on vim
+  url: https://github.com/rbtnn/vim-mario
+  info: A command line implementation of Super Mario, inside Vim.
 
 - name: Dr. Mario
   url: ftp://ftp.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Nov-06-1994/games/dr_mario.tar.Z
@@ -905,6 +909,10 @@
 - name: portile
   url: https://www.increpare.com/2008/11/portile/
   info: Portile is a 2D, tile-based take on narbacular drop.
+  
+- name: Puyo on Vim
+  url: https://github.com/rbtnn/vim-puyo
+  info: A command line implementation of Puyo, inside Vim.
 
 - name: puzzl
   url: https://github.com/pravj/puzzl
@@ -990,6 +998,10 @@ by a baddie or you run out of energy."
 - name: rr
   url: https://oskog97.com/archive/awesome-ttygames/rr/
   info: Russian roulette
+  
+- name: rummy
+  url: https://github.com/ljc2154/Rummy
+  info: A command line version of the card game Rummy with competitive Computer Agent written in C++.
 
 
 
