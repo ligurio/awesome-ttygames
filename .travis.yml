@@ -16,7 +16,7 @@ before_script:
 
 script:
   - pykwalify --data-file games.yaml --schema-file schema.yaml
-  - awesome_bot README.md --allow-redirect --allow-ssl --allow-dupe
+  - # awesome_bot README.md --allow-redirect --allow-ssl --allow-dupe
 
 notifications:
   email:

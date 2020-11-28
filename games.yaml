@@ -307,7 +307,7 @@
   play: "ssh ckhet@sshgames.thegonz.net; password: ckhet"
 
 - name: clines
-  url: http://manticore.2y.net/prj/clines-a.html
+  url: http://web.archive.org/web/20190327173340/http://manticore.2y.net/prj/clines-a.html
   info: Clines is a standard "Lines" game, implemented as a curses application.
 
 - name: clines
@@ -439,6 +439,10 @@
   url: http://eyangband.sourceforge.net/
   info: Another variant of Angband.
 
+- name: elite
+  url: https://www.bbcelite.com/
+  wikipedia: https://en.wikipedia.org/wiki/Elite_(video_game)
+
 
 
 - name: factor
@@ -489,8 +493,7 @@
 - name: frotz
   url: https://davidgriffith.gitlab.io/frotz/
   info: Frotz is an interpreter for Infocom games and other Z-machine games.
-
-
+  screencast: https://asciinema.org/a/372170
 
 - name: galaxis
   url: http://www.catb.org/esr/galaxis/
@@ -700,6 +703,17 @@
 - name: mille
   url: https://man.openbsd.org/OpenBSD-current/man6/mille.6
   info: "A racing card game in BSD games based on the Parker Brothers game Mille Bornes. It's a BSD game."
+  
+- name: minecurses
+  url: https://github.com/christosmarg/minecurses
+  info: An ncurses minesweeper game but instead of having to uncover all non-mine cells, the player has to defuse all the mines.
+  screencast: https://asciinema.org/a/yj926P6tb3ypF0QQHOr2ukaaf
+
+- name: minesVIiper
+  url: https://gir.st/mines.html
+  info: Minesweeper clone with extensive vi(1) keybindings (not just hjkl), mouse control. Beautiful Unicode character schemes, and even one for actual VT-200 hardware. Does not depend on ncurses.
+  # displays broken due to https://github.com/asciinema/asciinema-player/issues/34
+  #screencast: https://asciinema.org/a/RjqXfafnKx4OkXKVuE9RG4ps6
 
 - name: miscom
   url: ftp://ftp.slackware.org.uk/sbosrcarch/by-name/games/miscom/miscom.tar.gz
@@ -724,7 +738,7 @@
   play: telnet or ssh on sdf.org
 
 - name: moria
-  url: http://www-math.bgsu.edu/~grabine/moria.html
+  url: http://web.archive.org/web/20190731112356/http://www-math.bgsu.edu/~grabine/moria.html
   info: The game is set in Moria and the goal is to kill off the balrog.
 
 - name: msnake
@@ -765,7 +779,7 @@
   info: "This is netris, a networked version of t*tris. It allows head to head two player games via a network."
 
 - name: netris (2019)
-  url: https://git.sr.ht/~tslocum/netris
+  url: http://web.archive.org/web/20200112024309/https://git.sr.ht/~tslocum/netris
   info: Tetris clone featuring competitive online multiplayer.
   play: ssh netris.rocketnine.space
 
@@ -977,6 +991,7 @@ by a baddie or you run out of energy."
   info: A living museum of roguelike games
   play: ssh rodney@rlgallery.org - password is yendor
 
+
 - name: the rougelike!
   url: https://common-lisp.net/project/lifp/rouge.htm
   info: "The Rougelike! is a roguelike game."
@@ -1089,6 +1104,12 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: sokoban
   info: A fully playable version of the sokoban game, but a little hacking has to be done.
   play: telnet or ssh on sdf.org
+
+- name: solVItaire
+  url: https://gir.st/sol.html
+  info: Freecell, Spider Solitare and Klondike Solitaire with extensive vi(1) style keybindings, do-what-I-mean movement operations, beautiful Unicode character schemes. Does not depend on ncurses.
+  # displays slightly broken due to https://github.com/asciinema/asciinema-player/issues/34
+  screencast: https://asciinema.org/a/Wde3hVhN60gkAuAu05LL2362i
 
 - name: spacezero
   url: http://spacezero.sourceforge.net/
@@ -1260,6 +1281,12 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: venzone is a platform/adventure
   screencast: https://asciinema.org/a/M3Ajf1KijstA3Fmi5Iq1W8urk
 
+- name: VIper
+  url: https://gir.st/viper.html
+  info: Snake clone with hjkl (vi) and cursor key control. Colorful Unicode character set and a bunch of bonus items.
+  # displays slightly broken due to https://github.com/asciinema/asciinema-player/issues/34
+  screencast: https://asciinema.org/a/268CCfMwk4bbtVGNyX9acrOAe
+
 - name: vitetris
   url: http://victornils.net/tetris/
   info: vitetris is a terminal-based Tetris clone by Victor Nilsson. Gameplay is much like the early Tetris games by Nintendo.
@@ -1312,7 +1339,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 
 
 - name: xorcurses
-  url: http://www.jwm-art.net/dark.php?p=XorCurses
+  url: http://web.archive.org/web/20200807032528/http://www.jwm-art.net/dark.php?p=XorCurses
   info: XorCurses is a puzzle game set inside a series of mazes.
   screencast: https://asciinema.org/a/34065
 
