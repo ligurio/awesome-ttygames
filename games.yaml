@@ -159,6 +159,10 @@
   url: https://man.openbsd.org/OpenBSD-current/man6/backgammon.6
   info: "A backgammon game; you can play against the computer. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Backgammon
+  
+- name: bashmaze
+  url: https://github.com/phoemur/bashmaze
+  info: A maze game writen completely in shell-script, based on Joe Wingbermuehle's maze generator.
 
 - name: bastet
   url: http://fph.altervista.org/prog/bastet.html
@@ -382,6 +386,10 @@
 - name: dab
   url: https://netbsd.gw.com/cgi-bin/man-cgi?dab+6+NetBSD-6.0
   info: Dots and Boxes game.
+  
+- name: decwars
+  info: Multiplayer Star Trek.
+  play: telnet decwars.com 1701
 
 - name: diablorl
   url: https://diablo.chaosforge.org/
@@ -446,6 +454,10 @@
   url: https://github.com/nanochess/fbird
   info: F-Bird, a text bootsector game
   screencast: https://www.youtube.com/watch?v=p31XFFAeze4
+  
+- name: Fifteen Puzzle
+  url: http://tldp.org/LDP/abs/html/contributed-scripts.html#FIFTEEN
+  info: A sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing, written in bash.
 
 - name: fish
   url: https://man.openbsd.org/OpenBSD-current/man6/fish.6
@@ -514,6 +526,10 @@
   url: https://man.openbsd.org/OpenBSD-current/man6/gomoku.6
   info: "Gomoku is a two player game where the object is to get 5 in a row horizontally, vertically or diagonally on a 19 by 19 grid. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Gomoku
+  
+- name: gorched
+  url: https://github.com/zladovan/gorched
+  info: "A terminal based game written in Go inspired by \"The Mother of all games\" Scorched Earth"
 
 - name: gpcslots2
   url: https://sourceforge.net/projects/gpcslots2/
@@ -560,6 +576,10 @@
 - name: hinversi
   url: https://sourceforge.net/projects/hinversi/
   info: Hinversi is a implementation of Reversi (a.k.a. Othello), a board game.
+  
+- name: Horserace
+  url: https://pastebin.com/3KvCBg57
+  info: A very simple horserace simulation written in bash.
 
 - name: hrd
   info: the puzzle game of HuaRongDao
@@ -660,6 +680,10 @@
 
 - name: manhunt
   play: telnet on twenex.org
+  
+- name: Mario on vim
+  url: https://github.com/rbtnn/vim-mario
+  info: A command line implementation of Super Mario, inside Vim.
 
 - name: Dr. Mario
   url: ftp://ftp.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Nov-06-1994/games/dr_mario.tar.Z
@@ -768,6 +792,10 @@
   url: https://www.earth.li/projectpurple/progs/nibbles.html
   info: Nibbles is a remake of the classic Snake/Nibbles game in ncurses.
 
+- name: nim
+  url: http://tldp.org/LDP/abs/html/contributed-scripts.html#NIM
+  info: A mathematical game of strategy written in bash.
+
 - name: nlarn
   url: http://freshmeat.sourceforge.net/projects/nlarn
   info: "NLarn is an enhanced and improved rewrite of the historic roguelike game Larn. It tries to maintain the atmosphere and story of the last version of Larn (12.3) while improving gameplay and the user experience."
@@ -839,6 +867,10 @@
   url: http://antimirov.net/it/pacman/
   info: A simple version of the famous pacman game written in Python.
   play: ssh pacman:pacman@antimirov.net
+  
+- name: Petals Around The Rose
+  url: http://tldp.org/LDP/abs/html/contributed-scripts.html#PETALS
+  info: A dice-based puzzle game written in bash.
 
 - name: petris
   url: https://packages.debian.org/sid/games/petris
@@ -877,8 +909,14 @@
 - name: portile
   url: https://www.increpare.com/2008/11/portile/
   info: Portile is a 2D, tile-based take on narbacular drop.
+  
+- name: Puyo on Vim
+  url: https://github.com/rbtnn/vim-puyo
+  info: A command line implementation of Puyo, inside Vim.
 
-
+- name: puzzl
+  url: https://github.com/pravj/puzzl
+  info: An intelligent version of the sliding-puzzle game for your terminal built in golang.
 
 - name: Scrabble
   info: a two-to-four-player board game, written by Unk
@@ -911,7 +949,9 @@
   url: http://freshmeat.sourceforge.net/projects/pytris
   info: pytris is a two-player networked console Tetris clone written in Python/Pyncurses.
 
-
+- name: Quacky
+  url: http://tldp.org/LDP/abs/html/contributed-scripts.html#QKY
+  info: A Perquackey-type word game written in bash.
 
 - name: reversi
   info: A good version of the othello/reversi game written in the Lisp langugage.
@@ -949,7 +989,8 @@ by a baddie or you run out of energy."
 - name: roguelike gallery
   url: https://rlgallery.org
   info: A living museum of roguelike games
-  play: "ssh rodney@rlgallery.org; password: yendor"
+  play: ssh rodney@rlgallery.org - password is yendor
+
 
 - name: the rougelike!
   url: https://common-lisp.net/project/lifp/rouge.htm
@@ -958,6 +999,10 @@ by a baddie or you run out of energy."
 - name: rr
   url: https://oskog97.com/archive/awesome-ttygames/rr/
   info: Russian roulette
+  
+- name: rummy
+  url: https://github.com/ljc2154/Rummy
+  info: A command line version of the card game Rummy with competitive Computer Agent written in C++.
 
 
 
@@ -988,6 +1033,14 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: the sewer massacre
   url: https://common-lisp.net/project/lifp/sewers.htm
   info: A roguelike game written in Lisp.
+  
+- name: shell-tanks
+  url: https://github.com/annacrombie/shell-tanks
+  info: A tank game in bash with randomly generated terrain in which the object is to destroy your opponent.
+  
+- name: shellshock
+  url: https://dhampir.no/stuff/bash/shellshock
+  info: A top-down space shooter written for bash.
 
 - name: shogi
   url: https://www.gnu.org/software/gnushogi/
@@ -1099,6 +1152,10 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://github.com/Milek7/telnet-games
   info: Several arcade games
   play: telnet milek7.gq
+  
+- name: terminal-phase
+  url: https://gitlab.com/dustyweb/terminal-phase
+  info: Space shooter game that runs in your terminal!
 
 - name: tetris
   url: https://man.openbsd.org/OpenBSD-current/man6/tetris.6
