@@ -40,7 +40,7 @@ Use this template:
 
 To the extent possible under law, [Sergey Bronnikov](https://bronevichok.ru) has
 waived all copyright and related or neighboring rights to this work.
-
+ 
 ### 0verkill 
 
 0verkill is bloody 2D action deathmatch-like game in ASCII-ART.
@@ -56,6 +56,14 @@ This is an ncurses version of the game '2048'.
 [![asciicast](https://asciinema.org/a/34067.svg)](https://asciinema.org/a/34067) 
 
 A cli version of the game 2048 for your Linux terminal.
+
+
+### [2048-SSH](https://git.causal.agency/play) 
+
+2048 over SSH
+
+
+**Play**: ```ssh play@ascii.town```
 
 
 ### [n2048](http://freshmeat.sourceforge.net/projects/n2048) 
@@ -207,6 +215,11 @@ A backgammon game; you can play against the computer. It's a BSD game.
 See also [Wikipedia](https://en.wikipedia.org/wiki/Backgammon).
 
 
+### [bashmaze](https://github.com/phoemur/bashmaze) 
+
+A maze game writen completely in shell-script, based on Joe Wingbermuehle's maze generator.
+
+
 ### [bastet](http://fph.altervista.org/prog/bastet.html) 
 
 Bastet (short for Bastard Tetris).
@@ -335,7 +348,7 @@ a multi-player card game, written by Hero
 Cataclysm: Dark Days Ahead is a roguelike set in a post-apocalyptic world. Surviving is difficult: you have been thrown, ill-equipped, into a landscape now riddled with monstrosities of which flesh eating zombies are neither the strangest nor the deadliest.
 
 
-### cavez of phear 
+### [cavez of phear](http://web.archive.org/web/20140627005101/http://www.x86.no/cavezofphear/) 
 
 cavez of phear is a boulder dash / digger like game for console using ncurses.
 
@@ -389,7 +402,7 @@ Curses implementation of the laser board game Khet.
 **Play**: ```ssh ckhet@sshgames.thegonz.net; password: ckhet```
 
 
-### [clines](http://manticore.2y.net/prj/clines-a.html) 
+### [clines](http://web.archive.org/web/20190327173340/http://manticore.2y.net/prj/clines-a.html) 
 
 Clines is a standard "Lines" game, implemented as a curses application.
 
@@ -494,6 +507,14 @@ Curse of War is a fast-paced action strategy game for Linux originally implement
 Dots and Boxes game.
 
 
+### decwars 
+
+Multiplayer Star Trek.
+
+
+**Play**: ```telnet decwars.com 1701```
+
+
 ### [diablorl](https://diablo.chaosforge.org/) 
 
 DiabloRL is a roguelike "unmake" of the popular Blizzard game Diablo.
@@ -552,6 +573,11 @@ A puzzle game where items have to be collected in the right order.
 Another variant of Angband.
 
 
+### [elite](https://www.bbcelite.com/) 
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Elite_(video_game)).
+
+
 ### [factor](https://man.openbsd.org/factor.6) 
 
 factor a number, generate primes
@@ -562,6 +588,11 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Factorization).
 ### [fbird](https://github.com/nanochess/fbird) [Screencast](https://www.youtube.com/watch?v=p31XFFAeze4) 
 
 F-Bird, a text bootsector game
+
+
+### [Fifteen Puzzle](http://tldp.org/LDP/abs/html/contributed-scripts.html#FIFTEEN) 
+
+A sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing, written in bash.
 
 
 ### [fish](https://man.openbsd.org/OpenBSD-current/man6/fish.6) 
@@ -607,6 +638,8 @@ A very nice roguelike game with an entertaining atmosphere.
 
 
 ### [frotz](https://davidgriffith.gitlab.io/frotz/) 
+
+[![asciicast](https://asciinema.org/a/372170.svg)](https://asciinema.org/a/372170) 
 
 Frotz is an interpreter for Infocom games and other Z-machine games.
 
@@ -654,6 +687,11 @@ Goblin Hack is a roguelike opengl-based smooth-scrolling ASCII graphics game.
 Gomoku is a two player game where the object is to get 5 in a row horizontally, vertically or diagonally on a 19 by 19 grid. It's a BSD game.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Gomoku).
+
+
+### [gorched](https://github.com/zladovan/gorched) 
+
+A terminal based game written in Go inspired by "The Mother of all games" Scorched Earth
 
 
 ### [gpcslots2](https://sourceforge.net/projects/gpcslots2/) 
@@ -714,6 +752,11 @@ Hellband is a Rogue-like game in which you descend through the nine circles of H
 ### [hinversi](https://sourceforge.net/projects/hinversi/) 
 
 Hinversi is a implementation of Reversi (a.k.a. Othello), a board game.
+
+
+### [Horserace](https://pastebin.com/3KvCBg57) 
+
+A very simple horserace simulation written in bash.
 
 
 ### hrd 
@@ -850,6 +893,11 @@ This is a multiplayer variant of angband.
 **Play**: ```telnet on twenex.org```
 
 
+### [Mario on vim](https://github.com/rbtnn/vim-mario) 
+
+A command line implementation of Super Mario, inside Vim.
+
+
 ### [Dr. Mario](ftp://ftp.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Nov-06-1994/games/dr_mario.tar.Z) 
 
 Dr. Mario or BUGS is a clone of Nentendo’s Dr. Mario, well sort of.
@@ -875,6 +923,16 @@ Go is an ancient oriental strategy game based on the capturing of territory.
 ### [mille](https://man.openbsd.org/OpenBSD-current/man6/mille.6) 
 
 A racing card game in BSD games based on the Parker Brothers game Mille Bornes. It's a BSD game.
+
+
+### [minecurses](https://github.com/christosmarg/minecurses) 
+
+An ncurses minesweeper game but instead of having to uncover all non-mine cells, the player has to defuse all the mines.
+
+
+### [minesVIiper](https://gir.st/mines.html) 
+
+Minesweeper clone with extensive vi(1) keybindings (not just hjkl), mouse control. Beautiful Unicode character schemes, and even one for actual VT-200 hardware. Does not depend on ncurses.
 
 
 ### [miscom](ftp://ftp.slackware.org.uk/sbosrcarch/by-name/games/miscom/miscom.tar.gz) 
@@ -907,7 +965,7 @@ Moon-buggy is a simple character graphics game where you drive some kind of car 
 **Play**: ```telnet or ssh on sdf.org```
 
 
-### [moria](http://www-math.bgsu.edu/~grabine/moria.html) 
+### [moria](http://web.archive.org/web/20190731112356/http://www-math.bgsu.edu/~grabine/moria.html) 
 
 The game is set in Moria and the goal is to kill off the balrog.
 
@@ -962,7 +1020,7 @@ NetHack is a single player dungeon exploration game that runs on a wide variety 
 This is netris, a networked version of t*tris. It allows head to head two player games via a network.
 
 
-### [netris (2019)](https://git.sr.ht/~tslocum/netris) 
+### [netris (2019)](http://web.archive.org/web/20200112024309/https://git.sr.ht/~tslocum/netris) 
 
 Tetris clone featuring competitive online multiplayer.
 
@@ -980,6 +1038,11 @@ netToe is a Tic Tac Toe-like game for the Unix consoles written in C using UNIX 
 ### [nibbles](https://www.earth.li/projectpurple/progs/nibbles.html) 
 
 Nibbles is a remake of the classic Snake/Nibbles game in ncurses.
+
+
+### [nim](http://tldp.org/LDP/abs/html/contributed-scripts.html#NIM) 
+
+A mathematical game of strategy written in bash.
 
 
 ### [nlarn](http://freshmeat.sourceforge.net/projects/nlarn) 
@@ -1076,6 +1139,11 @@ A simple version of the famous pacman game written in Python.
 **Play**: ```ssh pacman:pacman@antimirov.net```
 
 
+### [Petals Around The Rose](http://tldp.org/LDP/abs/html/contributed-scripts.html#PETALS) 
+
+A dice-based puzzle game written in bash.
+
+
 ### [petris](https://packages.debian.org/sid/games/petris) 
 
 Another tetris clone.
@@ -1127,6 +1195,16 @@ An old and very poor version of the old pong game.
 Portile is a 2D, tile-based take on narbacular drop.
 
 
+### [Puyo on Vim](https://github.com/rbtnn/vim-puyo) 
+
+A command line implementation of Puyo, inside Vim.
+
+
+### [puzzl](https://github.com/pravj/puzzl) 
+
+An intelligent version of the sliding-puzzle game for your terminal built in golang.
+
+
 ### Scrabble 
 
 a two-to-four-player board game, written by Unk
@@ -1169,6 +1247,11 @@ Python curses homage to Threes!
 ### [pytris](http://freshmeat.sourceforge.net/projects/pytris) 
 
 pytris is a two-player networked console Tetris clone written in Python/Pyncurses.
+
+
+### [Quacky](http://tldp.org/LDP/abs/html/contributed-scripts.html#QKY) 
+
+A Perquackey-type word game written in bash.
 
 
 ### reversi 
@@ -1221,7 +1304,7 @@ Exploring The Dungeons of Doom. It's a BSD game.
 A living museum of roguelike games
 
 
-**Play**: ```ssh rodney@rlgallery.org```
+**Play**: ```ssh rodney@rlgallery.org - password is yendor```
 
 
 ### [the rougelike!](https://common-lisp.net/project/lifp/rouge.htm) 
@@ -1232,6 +1315,11 @@ The Rougelike! is a roguelike game.
 ### [rr](https://oskog97.com/archive/awesome-ttygames/rr/) 
 
 Russian roulette
+
+
+### [rummy](https://github.com/ljc2154/Rummy) 
+
+A command line version of the card game Rummy with competitive Computer Agent written in C++.
 
 
 ### [sail](https://man.openbsd.org/OpenBSD-current/man6/sail.6) 
@@ -1266,6 +1354,16 @@ Another clone of the tetris game.
 ### [the sewer massacre](https://common-lisp.net/project/lifp/sewers.htm) 
 
 A roguelike game written in Lisp.
+
+
+### [shell-tanks](https://github.com/annacrombie/shell-tanks) 
+
+A tank game in bash with randomly generated terrain in which the object is to destroy your opponent.
+
+
+### [shellshock](https://dhampir.no/stuff/bash/shellshock) 
+
+A top-down space shooter written for bash.
 
 
 ### [shogi](https://www.gnu.org/software/gnushogi/) 
@@ -1363,6 +1461,11 @@ A fully playable version of the sokoban game, but a little hacking has to be don
 **Play**: ```telnet or ssh on sdf.org```
 
 
+### [solVItaire](https://gir.st/sol.html) 
+
+Freecell, Spider Solitare and Klondike Solitaire with extensive vi(1) style keybindings, do-what-I-mean movement operations, beautiful Unicode character schemes. Does not depend on ncurses.
+
+
 ### [spacezero](http://spacezero.sourceforge.net/) 
 
 SpaceZero is a Real Time Strategy 2D space combat game for two players over a network.
@@ -1412,6 +1515,11 @@ Several arcade games
 
 
 **Play**: ```telnet milek7.gq```
+
+
+### [terminal-phase](https://gitlab.com/dustyweb/terminal-phase) 
+
+Space shooter game that runs in your terminal!
 
 
 ### [tetris](https://man.openbsd.org/OpenBSD-current/man6/tetris.6) 
@@ -1566,9 +1674,16 @@ Another space invaders game with simple graphics.
 Vapors of Insanity is a roguelike game set on a paradise island of Fortarica.
 
 
-### [venzone](http://ariis.it/static/articles/venzone/page.html) [Screencast](http://ariis.it/static/articles/venzone/venzone-cast.gif) 
+### [venzone](http://ariis.it/static/articles/venzone/page.html) 
 
 venzone is a platform/adventure
+
+
+### [VIper](https://gir.st/viper.html) 
+
+[![asciicast](https://asciinema.org/a/268.svg)](https://asciinema.org/a/268) 
+
+Snake clone with hjkl (vi) and cursor key control. Colorful Unicode character set and a bunch of bonus items.
 
 
 ### [vitetris](http://victornils.net/tetris/) 
@@ -1638,7 +1753,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Hunt_the_Wumpus).
 A version of the very old game called Hunt the Wumpus by Eric Raymond. A joke version called “superhack” is included in the archive.
 
 
-### [xorcurses](http://www.jwm-art.net/dark.php?p=XorCurses) 
+### [xorcurses](http://web.archive.org/web/20200807032528/http://www.jwm-art.net/dark.php?p=XorCurses) 
 
 [![asciicast](https://asciinema.org/a/34065.svg)](https://asciinema.org/a/34065) 
 
@@ -1729,3 +1844,5 @@ ZRacer is a console car racing game. It has a curses based semi-graphical interf
 ### [ztrack](https://ibiblio.org/pub/linux/games/arcade/ztrack-1.0.tar.gz) 
 
 Ztrack is a (very) simple curses-based pseudo-3D driving game.
+
+
