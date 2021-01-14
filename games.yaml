@@ -322,10 +322,6 @@
   url: http://cnibbles.sourceforge.net
   info: Another Nibbles game with good and smooth animations.
 
-- name: Open Adventure
-  url: https://gitlab.com/esr/open-adventure
-  info: Colossal Cave Adventure (also known as ADVENT, Colossal Cave, or Adventure) is one of the earliest computer adventure games and a precursor form of role playing video game. The original version was designed by Will Crowther, a programmer and caving enthusiast who based the layout on part of the Mammoth Cave system in Kentucky.
-
 - name: Connect Four
   info: a two-player slot game, written by Sarac
   play: telnet mud.darkerrealms.org 2000
@@ -394,6 +390,11 @@
 - name: diablorl
   url: https://diablo.chaosforge.org/
   info: DiabloRL is a roguelike "unmake" of the popular Blizzard game Diablo.
+
+- name: dMagnetic
+  url: https://www.dettus.net/dMagnetic
+  info: A Magnetic Scrolls Interpreter can be used to play "The Pawn", "The Guild of Thieves", "Jinxter", "Fish!", "Myth", "Corruption" and "Wonderland". The beautiful pictures can be rendered in various ways, for example, as ANSI-Art. 
+  screencast: https://asciinema.org/a/281636
 
 - name: doomrl
   url: https://drl.chaosforge.org/
@@ -836,6 +837,10 @@
 - name: omega
   url: http://www.alcyone.com/max/projects/omega/
   info: omega is a complex rogue-style game of dungeon exploration.
+
+- name: Open Adventure
+  url: https://gitlab.com/esr/open-adventure
+  info: Colossal Cave Adventure (also known as ADVENT, Colossal Cave, or Adventure) is one of the earliest computer adventure games and a precursor form of role playing video game. The original version was designed by Will Crowther, a programmer and caving enthusiast who based the layout on part of the Mammoth Cave system in Kentucky.
 
 - name: othello
   url: https://web.archive.org/web/20130607084226/http://david.weekly.org/othello/index.php3
