@@ -1,46 +1,3 @@
-# Unix ASCII games
-
-[![Build Status](https://travis-ci.org/ligurio/awesome-ttygames.svg?branch=master)](https://travis-ci.org/ligurio/awesome-ttygames)
-
-See additional resources about games in console:
-- https://inconsolation.wordpress.com/tag/game/
-- https://ttygames.wordpress.com/
-- https://theouterlinux.gitlab.io/RecommendedSoftware/Linux/Games/RecommendedSoftware_Linux_Games.html
-
-Feel free to submit pull requests to add new games and improve information about
-those already in the database.
-
-## How to contribute
-
-Check `games.yaml` out. All information is inside, and you should more or less
-understand what's going on by reading it. Sorting is alphabetical.
-
-Simplest way to contribute: edit [games.yaml](/games.yaml), and then
-your changes will be submitted as a pull request.
-
-Use this template:
-
-```
-- name: hangman
-  url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/hangman.6?query=hangman&sec=6&arch=i386
-  info: computer version of the game hangman
-  screencast:
-  play:
-```
-
-- `name`: Name of the game
-- `url`: URL of main page
-- `info`: free text with game description
-- `screencast`: link to screencast (for example on asciinema)
-- `play`: server hostname where game is available via telnet or ssh
-
-## License
-
-[![CC0 Public Domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sergey Bronnikov](https://bronevichok.ru) has
-waived all copyright and related or neighboring rights to this work.
- 
 ### 0verkill 
 
 0verkill is bloody 2D action deathmatch-like game in ASCII-ART.
@@ -422,11 +379,6 @@ minesweeper.
 Another Nibbles game with good and smooth animations.
 
 
-### [Open Adventure](https://gitlab.com/esr/open-adventure) 
-
-Colossal Cave Adventure (also known as ADVENT, Colossal Cave, or Adventure) is one of the earliest computer adventure games and a precursor form of role playing video game. The original version was designed by Will Crowther, a programmer and caving enthusiast who based the layout on part of the Mammoth Cave system in Kentucky.
-
-
 ### Connect Four 
 
 a two-player slot game, written by Sarac
@@ -518,6 +470,13 @@ Multiplayer Star Trek.
 ### [diablorl](https://diablo.chaosforge.org/) 
 
 DiabloRL is a roguelike "unmake" of the popular Blizzard game Diablo.
+
+
+### [dMagnetic](https://www.dettus.net/dMagnetic) 
+
+[![asciicast](https://asciinema.org/a/281636.svg)](https://asciinema.org/a/281636) 
+
+A Magnetic Scrolls Interpreter can be used to play "The Pawn", "The Guild of Thieves", "Jinxter", "Fish!", "Myth", "Corruption" and "Wonderland". The beautiful pictures can be rendered in various ways, for example, as ANSI-Art.
 
 
 ### [doomrl](https://drl.chaosforge.org/) 
@@ -1094,6 +1053,11 @@ Oldrunner is a remake of Broderbund’s Loderunner which contains the 150 origin
 ### [omega](http://www.alcyone.com/max/projects/omega/) 
 
 omega is a complex rogue-style game of dungeon exploration.
+
+
+### [Open Adventure](https://gitlab.com/esr/open-adventure) 
+
+Colossal Cave Adventure (also known as ADVENT, Colossal Cave, or Adventure) is one of the earliest computer adventure games and a precursor form of role playing video game. The original version was designed by Will Crowther, a programmer and caving enthusiast who based the layout on part of the Mammoth Cave system in Kentucky.
 
 
 ### [othello](https://web.archive.org/web/20130607084226/http://david.weekly.org/othello/index.php3) 
