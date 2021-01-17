@@ -1,3 +1,47 @@
+# Unix ASCII games
+
+[![Build Status](https://travis-ci.org/ligurio/awesome-ttygames.svg?branch=master)](https://travis-ci.org/ligurio/awesome-ttygames)
+
+See additional resources about games in console:
+- https://inconsolation.wordpress.com/tag/game/
+- https://ttygames.wordpress.com/
+- https://theouterlinux.gitlab.io/RecommendedSoftware/Linux/Games/RecommendedSoftware_Linux_Games.html
+
+Feel free to submit pull requests to add new games and improve information about
+those already in the database.
+
+## How to contribute
+
+Check `games.yaml` out. All information is inside, and you should more or less
+understand what's going on by reading it. Sorting is alphabetical.
+
+Simplest way to contribute: edit [games.yaml](/games.yaml), and then
+your changes will be submitted as a pull request.
+
+Use this template:
+
+```
+- name: hangman
+  url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/hangman.6?query=hangman&sec=6&arch=i386
+  info: computer version of the game hangman
+  screencast:
+  play:
+```
+
+- `name`: Name of the game
+- `url`: URL of main page
+- `info`: free text with game description
+- `screencast`: link to screencast (for example on asciinema)
+- `play`: server hostname where game is available via telnet or ssh
+
+## License
+
+[![CC0 Public Domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sergey Bronnikov](https://bronevichok.ru) has
+waived all copyright and related or neighboring rights to this work.
+
+
 ### 0verkill 
 
 0verkill is bloody 2D action deathmatch-like game in ASCII-ART.
