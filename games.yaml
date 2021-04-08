@@ -824,6 +824,11 @@
   info: ncurses based sudoku game
   screencast: https://asciinema.org/a/34070
 
+- name: nuzzle
+  url: https://github.com/dead-end/nuzzle
+  info: Nuzzle is a terminal based puzzle game collection.
+  screencast: https://github.com/dead-end/nuzzle/blob/master/res/nuzzle-example.gif?raw=true
+
 
 
 - name: okiworld
