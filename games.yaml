@@ -620,6 +620,10 @@
   info: Invaders game in 512 bytes (boot sector)
   screencast: https://www.youtube.com/watch?v=pC976eejfms
 
+- name: just-asteroids
+  url: https://github.com/gabrielvictorcf/just-asteroids
+  info: A cli application for playing good ol' Asteroids
+
 - name: ascii-invaders
   url: https://github.com/macdice/ascii-invaders
   info: An ASCII-art game like Space Invaders
