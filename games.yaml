@@ -495,6 +495,10 @@
   url: https://davidgriffith.gitlab.io/frotz/
   info: Frotz is an interpreter for Infocom games and other Z-machine games.
   screencast: https://asciinema.org/a/372170
+  
+- name: ft_retro
+  url: https://gitlab.com/Heagan/ft_retro
+  info: Ascii based shooting game made in Python with Curses.
 
 - name: galaxis
   url: http://www.catb.org/esr/galaxis/
