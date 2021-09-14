@@ -1167,6 +1167,10 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: Several arcade games
   play: telnet milek7.gq
   
+- name: terminal-frogger
+  url: https://github.com/mfey619/Terminal-Frogger
+  info: Small frogger-themed game
+  
 - name: terminal-phase
   url: https://gitlab.com/dustyweb/terminal-phase
   info: Space shooter game that runs in your terminal!
