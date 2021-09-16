@@ -495,6 +495,10 @@
   url: https://davidgriffith.gitlab.io/frotz/
   info: Frotz is an interpreter for Infocom games and other Z-machine games.
   screencast: https://asciinema.org/a/372170
+  
+- name: ft_retro (a Space Invaders clone)
+  url: https://gitlab.com/Heagan/ft_retro
+  info: Ascii based shooting game made in Python with Curses.
 
 - name: galaxis
   url: http://www.catb.org/esr/galaxis/
@@ -619,6 +623,11 @@
   url: https://github.com/nanochess/invaders
   info: Invaders game in 512 bytes (boot sector)
   screencast: https://www.youtube.com/watch?v=pC976eejfms
+
+- name: just-asteroids
+  url: https://github.com/gabrielvictorcf/just-asteroids
+  info: A cli application for playing good ol' Asteroids
+  wikipedia: https://en.wikipedia.org/wiki/Asteroids_(video_game)
 
 - name: ascii-invaders
   url: https://github.com/macdice/ascii-invaders
@@ -1161,6 +1170,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://github.com/Milek7/telnet-games
   info: Several arcade games
   play: telnet milek7.gq
+  
+- name: terminal-frogger
+  url: https://github.com/mfey619/Terminal-Frogger
+  info: Small frogger-themed game
+  screencast: https://asciinema.org/a/zS5dHHiX3TahTpQUznsObDtAp
   
 - name: terminal-phase
   url: https://gitlab.com/dustyweb/terminal-phase
