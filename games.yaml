@@ -496,7 +496,7 @@
   info: Frotz is an interpreter for Infocom games and other Z-machine games.
   screencast: https://asciinema.org/a/372170
   
-- name: ft_retro
+- name: ft_retro (a Space Invaders clone)
   url: https://gitlab.com/Heagan/ft_retro
   info: Ascii based shooting game made in Python with Curses.
 
@@ -627,6 +627,7 @@
 - name: just-asteroids
   url: https://github.com/gabrielvictorcf/just-asteroids
   info: A cli application for playing good ol' Asteroids
+  wikipedia: https://en.wikipedia.org/wiki/Asteroids_(video_game)
 
 - name: ascii-invaders
   url: https://github.com/macdice/ascii-invaders
@@ -1174,6 +1175,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: terminal-frogger
   url: https://github.com/mfey619/Terminal-Frogger
   info: Small frogger-themed game
+  screencast: https://asciinema.org/a/zS5dHHiX3TahTpQUznsObDtAp
   
 - name: terminal-phase
   url: https://gitlab.com/dustyweb/terminal-phase
