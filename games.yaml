@@ -365,6 +365,10 @@
   url: https://code.google.com/archive/p/cryptrover/
   info: Escape From The Crypt.
 
+- name: csol
+  url: https://github.com/nielssp/csol
+  info: A small collection of solitaire/patience games (Klondike, FreeCell, Spider, Yukon, etc.).
+
 - name: ctris
   url: https://github.com/dominikhackl/ctris
   info: Another version of the tetris game.
