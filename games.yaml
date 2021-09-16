@@ -777,6 +777,9 @@
   info: "MyMan is a video game for color and monochrome text terminals in the genre of Namco's Pac-Man."
 
 
+- name: Nuzzle (N-curses p-UZZLE)
+  url: https://github.com/dead-end/nuzzle
+  info: Nuzzle is a terminal based puzzle game collection.
 
 - name: nclife
   url: https://github.com/mikepierce/ncLife
