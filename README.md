@@ -483,6 +483,11 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Cribbage).
 Escape From The Crypt.
 
 
+### [csol](https://github.com/nielssp/csol)
+
+A small collection of solitaire/patience games (Klondike, FreeCell, Spider, Yukon, etc.).
+
+
 ### [ctris](https://github.com/dominikhackl/ctris) 
 
 Another version of the tetris game.
@@ -645,6 +650,11 @@ A very nice roguelike game with an entertaining atmosphere.
 [![asciicast](https://asciinema.org/a/372170.svg)](https://asciinema.org/a/372170) 
 
 Frotz is an interpreter for Infocom games and other Z-machine games.
+
+
+### [ft_retro (a Space Invaders clone)](https://gitlab.com/Heagan/ft_retro)
+
+Ascii based shooting game made in Python with Curses.
 
 
 ### [galaxis](http://www.catb.org/esr/galaxis/) 
@@ -812,6 +822,13 @@ A game of competitive puzzle-design. At its core, this is an abstract turn-based
 ### [Invaders](https://github.com/nanochess/invaders) [Screencast](https://www.youtube.com/watch?v=pC976eejfms) 
 
 Invaders game in 512 bytes (boot sector)
+
+
+### [just-asteroids](https://github.com/gabrielvictorcf/just-asteroids)
+
+A cli application for playing good ol' Asteroids
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Asteroids_(video_game)).
 
 
 ### [ascii-invaders](https://github.com/macdice/ascii-invaders) 
@@ -1082,6 +1099,11 @@ A very elaborated sudoku game.
 [![asciicast](https://asciinema.org/a/34070.svg)](https://asciinema.org/a/34070) 
 
 ncurses based sudoku game
+
+
+### [nuzzle (N-curses p-UZZLE)](https://github.com/dead-end/nuzzle) [Screencast](https://github.com/dead-end/nuzzle/blob/master/res/nuzzle-example.gif?raw=true)
+
+Nuzzle is a terminal based puzzle game collection.
 
 
 ### [okiworld](http://freshmeat.sourceforge.net/projects/okiworld) 
@@ -1523,6 +1545,11 @@ Several arcade games
 
 
 **Play**: ```telnet milek7.gq```
+
+
+### [terminal-frogger](https://github.com/mfey619/Terminal-Frogger)
+
+Small frogger-themed game
 
 
 ### [terminal-phase](https://gitlab.com/dustyweb/terminal-phase) 
