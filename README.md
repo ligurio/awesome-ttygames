@@ -1709,9 +1709,9 @@ Vapors of Insanity is a roguelike game set on a paradise island of Fortarica.
 
 ### [venzone](http://ariis.it/static/articles/venzone/page.html) 
 
-[![asciicast](https://asciinema.org/a/M3Ajf1KijstA3Fmi5Iq1W8urk) 
+[![asciicast](https://asciinema.org/a/M3Ajf1KijstA3Fmi5Iq1W8urk.svg)](https://asciinema.org/a/M3Ajf1KijstA3Fmi5Iq1W8urk) 
 
-venzone is a platform/adventure
+venzone is a platform/adventure.
 
 
 ### [VIper](https://gir.st/viper.html) 
