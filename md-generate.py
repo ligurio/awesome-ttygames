@@ -17,7 +17,7 @@ for entry in ttygames:
         u = urlparse(entry['screencast'])
         if u.hostname == 'asciinema.org':
             m = re.match(
-                'https://asciinema.org/a/([0-9]+)', entry['screencast'])
+                'https://asciinema.org/a/([0-9A-z]+)', entry['screencast'])
             if m:
                 id = m.group(1)
                 screencast = (
