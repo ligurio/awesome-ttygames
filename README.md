@@ -481,7 +481,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Cribbage).
 Escape From The Crypt.
 
 
-### [csol](https://github.com/nielssp/csol)
+### [csol](https://github.com/nielssp/csol) 
 
 A small collection of solitaire/patience games (Klondike, FreeCell, Spider, Yukon, etc.).
 
@@ -650,7 +650,7 @@ A very nice roguelike game with an entertaining atmosphere.
 Frotz is an interpreter for Infocom games and other Z-machine games.
 
 
-### [ft_retro (a Space Invaders clone)](https://gitlab.com/Heagan/ft_retro)
+### [ft_retro (a Space Invaders clone)](https://gitlab.com/Heagan/ft_retro) 
 
 Ascii based shooting game made in Python with Curses.
 
@@ -822,7 +822,7 @@ A game of competitive puzzle-design. At its core, this is an abstract turn-based
 Invaders game in 512 bytes (boot sector)
 
 
-### [just-asteroids](https://github.com/gabrielvictorcf/just-asteroids)
+### [just-asteroids](https://github.com/gabrielvictorcf/just-asteroids) 
 
 A cli application for playing good ol' Asteroids
 
@@ -944,6 +944,8 @@ A racing card game in BSD games based on the Parker Brothers game Mille Bornes. 
 
 
 ### [minecurses](https://github.com/christosmarg/minecurses) 
+
+[![asciicast](https://asciinema.org/a/yj926P6tb3ypF0QQHOr2ukaaf.svg)](https://asciinema.org/a/yj926P6tb3ypF0QQHOr2ukaaf) 
 
 An ncurses minesweeper game but instead of having to uncover all non-mine cells, the player has to defuse all the mines.
 
@@ -1099,7 +1101,7 @@ A very elaborated sudoku game.
 ncurses based sudoku game
 
 
-### [nuzzle (N-curses p-UZZLE)](https://github.com/dead-end/nuzzle) [Screencast](https://github.com/dead-end/nuzzle/blob/master/res/nuzzle-example.gif?raw=true)
+### [nuzzle (N-curses p-UZZLE)](https://github.com/dead-end/nuzzle) [Screencast](https://github.com/dead-end/nuzzle/blob/master/res/nuzzle-example.gif?raw=true) 
 
 Nuzzle is a terminal based puzzle game collection.
 
@@ -1491,6 +1493,8 @@ A fully playable version of the sokoban game, but a little hacking has to be don
 
 ### [solVItaire](https://gir.st/sol.html) 
 
+[![asciicast](https://asciinema.org/a/Wde3hVhN60gkAuAu05LL2362i.svg)](https://asciinema.org/a/Wde3hVhN60gkAuAu05LL2362i) 
+
 Freecell, Spider Solitare and Klondike Solitaire with extensive vi(1) style keybindings, do-what-I-mean movement operations, beautiful Unicode character schemes. Does not depend on ncurses.
 
 
@@ -1545,7 +1549,9 @@ Several arcade games
 **Play**: ```telnet milek7.gq```
 
 
-### [terminal-frogger](https://github.com/mfey619/Terminal-Frogger)
+### [terminal-frogger](https://github.com/mfey619/Terminal-Frogger) 
+
+[![asciicast](https://asciinema.org/a/zS5dHHiX3TahTpQUznsObDtAp.svg)](https://asciinema.org/a/zS5dHHiX3TahTpQUznsObDtAp) 
 
 Small frogger-themed game
 
@@ -1709,12 +1715,14 @@ Vapors of Insanity is a roguelike game set on a paradise island of Fortarica.
 
 ### [venzone](http://ariis.it/static/articles/venzone/page.html) 
 
+[![asciicast](https://asciinema.org/a/M3Ajf1KijstA3Fmi5Iq1W8urk.svg)](https://asciinema.org/a/M3Ajf1KijstA3Fmi5Iq1W8urk) 
+
 venzone is a platform/adventure
 
 
 ### [VIper](https://gir.st/viper.html) 
 
-[![asciicast](https://asciinema.org/a/268.svg)](https://asciinema.org/a/268) 
+[![asciicast](https://asciinema.org/a/268CCfMwk4bbtVGNyX9acrOAe.svg)](https://asciinema.org/a/268CCfMwk4bbtVGNyX9acrOAe) 
 
 Snake clone with hjkl (vi) and cursor key control. Colorful Unicode character set and a bunch of bonus items.
 
