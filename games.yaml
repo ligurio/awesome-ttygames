@@ -682,7 +682,9 @@
   url: http://lcs.wikidot.com/start
   info: This is a very elaborated game where you have to fight with your friends against conservative laws.
 
-
+- name: LibreMines
+  url: https://bollos00.github.io/LibreMines/
+  info: A Free/Libre and Open Source Software Qt based Minesweeper game available for GNU/Linux, FreeBSD and Windows systems. 
 
 - name: mancala
   url: https://shh.thathost.com/pub-unix/#Mancala
