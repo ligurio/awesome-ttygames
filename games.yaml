@@ -1233,7 +1233,6 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: tossug-arena
   url: https://github.com/tossug/tossug-arena
   info: Board-Gamelets Arena for poor AI Players.
-  screencast: https://user-images.githubusercontent.com/6536345/35132167-d0d8b240-fd04-11e7-8eff-d83152d9a3d3.gif
   
 - name: tower of mediocrity
   url: https://web.archive.org/web/20131205100524/http://www.cavein.org/~chris/code/tower/
