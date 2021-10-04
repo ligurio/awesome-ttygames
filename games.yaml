@@ -912,6 +912,10 @@
   info: a three-player card game, written by Sarac.
   play: telnet mud.darkerrealms.org 2000
 
+- name: piskworks
+  url: https://github.com/berk76/piskworks
+  info: ASCII gomoku.
+
 - name: piu-piu-SH
   url: https://github.com/vaniacer/piu-piu-SH
   info: Old School horizontal scroller 'Shoot Them All' game in bash
@@ -1188,6 +1192,10 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://man.openbsd.org/OpenBSD-current/man6/tetris.6
   info: The game of tetris. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Tetris
+
+- name: tetris
+  url: https://github.com/berk76/tetris
+  info: ASCII AddTris/Tetris.
 
 - name: ascii-tetris
   url: https://github.com/Gregwar/ASCII-Tetris
