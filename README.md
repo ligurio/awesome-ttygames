@@ -40,6 +40,7 @@ To the extent possible under law, [Sergey Bronnikov](https://bronevichok.ru) has
 waived all copyright and related or neighboring rights to this work.
 
 
+
 ### 0verkill 
 
 0verkill is bloody 2D action deathmatch-like game in ASCII-ART.
@@ -895,6 +896,16 @@ Lexter is a real-time word puzzle for text terminals. Arrange the falling letter
 This is a very elaborated game where you have to fight with your friends against conservative laws.
 
 
+### [magneticscrolls.net](http://magneticscrolls.net) 
+
+[![asciicast](https://asciinema.org/a/448073.svg)](https://asciinema.org/a/448073) 
+
+Classic text adventures by Magnetic Scrolls, playable over SSH
+
+
+**Play**: ```ssh -p 8080 -l magnetic magneticscrolls.net```
+
+
 ### [mancala](https://shh.thathost.com/pub-unix/#Mancala) 
 
 Implementation of the simple board game called Mancala.
@@ -1195,6 +1206,11 @@ a three-player card game, written by Sarac.
 
 
 **Play**: ```telnet mud.darkerrealms.org 2000```
+
+
+### [piskworks](https://github.com/berk76/piskworks) 
+
+ASCII gomoku.
 
 
 ### [piu-piu-SH](https://github.com/vaniacer/piu-piu-SH) 
@@ -1568,6 +1584,11 @@ The game of tetris. It's a BSD game.
 See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 
+### [tetris](https://github.com/berk76/tetris) 
+
+ASCII AddTris/Tetris.
+
+
 ### [ascii-tetris](https://github.com/Gregwar/ASCII-Tetris) 
 
 ASCII Tetris game written in C
@@ -1621,6 +1642,11 @@ A variant of the robots game.
 
 
 **Play**: ```telnet or ssh on sdf.org```
+
+
+### [tossug-arena](https://github.com/tossug/tossug-arena) 
+
+Board-Gamelets Arena for poor AI Players.
 
 
 ### [tower of mediocrity](https://web.archive.org/web/20131205100524/http://www.cavein.org/~chris/code/tower/) 

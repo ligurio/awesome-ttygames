@@ -682,7 +682,11 @@
   url: http://lcs.wikidot.com/start
   info: This is a very elaborated game where you have to fight with your friends against conservative laws.
 
-
+- name: magneticscrolls.net
+  url: http://magneticscrolls.net
+  info: Classic text adventures by Magnetic Scrolls, playable over SSH
+  screencast: https://asciinema.org/a/448073
+  play: ssh -p 8080 -l magnetic magneticscrolls.net
 
 - name: mancala
   url: https://shh.thathost.com/pub-unix/#Mancala
