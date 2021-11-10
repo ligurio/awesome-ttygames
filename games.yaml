@@ -398,7 +398,8 @@
 - name: dMagnetic
   url: https://www.dettus.net/dMagnetic
   info: A Magnetic Scrolls Interpreter can be used to play "The Pawn", "The Guild of Thieves", "Jinxter", "Fish!", "Myth", "Corruption" and "Wonderland". The beautiful pictures can be rendered in various ways, for example, as ANSI-Art. 
-  screencast: https://asciinema.org/a/281636
+  screencast: https://asciinema.org/a/448073
+  play: ssh -p 8080 -l magnetic magneticscrolls.net
 
 - name: doomrl
   url: https://drl.chaosforge.org/
@@ -681,12 +682,6 @@
 - name: liberal crime squad
   url: http://lcs.wikidot.com/start
   info: This is a very elaborated game where you have to fight with your friends against conservative laws.
-
-- name: magneticscrolls.net
-  url: http://magneticscrolls.net
-  info: Classic text adventures by Magnetic Scrolls, playable over SSH
-  screencast: https://asciinema.org/a/448073
-  play: ssh -p 8080 -l magnetic magneticscrolls.net
 
 - name: mancala
   url: https://shh.thathost.com/pub-unix/#Mancala
