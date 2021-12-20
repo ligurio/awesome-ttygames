@@ -88,6 +88,7 @@
 - name: Allure of the Stars
   url: http://www.allureofthestars.com/
   info: near-future Sci-Fi roguelike and tactical squad combat game; emulates a terminal, but with --frontendANSI runs on normal Unix terminal
+  screencast: http://www.allureofthestars.com/play  
 
 - name: angband
   url: https://rephial.org/
