@@ -17,7 +17,7 @@ Use this template:
 
 ```
 - name: hangman
-  url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/hangman.6?query=hangman&sec=6&arch=i386
+  url: https://man.openbsd.org/hangman.6
   info: computer version of the game hangman
   screencast:
   play:
