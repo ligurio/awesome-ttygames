@@ -474,6 +474,10 @@
   info: "Play ``Go Fish''. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Go_Fish
 
+- name: flying-robots
+  url: https://github.com/bunburya/flying-robots
+  info: "Based on the BSD robots game, but with a third dimension of movement. Call with the `--curses` flag to get a curses interface." 
+
 - name: fortune
   wikipedia: https://en.wikipedia.org/wiki/Fortune_%28Unix%29
   info: print a random, hopefully interesting, adage
