@@ -72,7 +72,7 @@
 
 # ftp://ftp.simtreas.ru/pub/download/add/adventur.tgz
 - name: adventure
-  url: https://man.openbsd.org/OpenBSD-current/man6/adventure.6
+  url: https://man.openbsd.org/adventure.6
   info: An exploration game. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Colossal_Cave_Adventure
   play: https://grack.com/demos/adventure/
@@ -142,7 +142,7 @@
   info: Astwar is a ncurses based game that features two little ships on each side of the screen shooting each other.
 
 - name: atc
-  url: https://man.openbsd.org/OpenBSD-current/man6/atc.6
+  url: https://man.openbsd.org/atc.6
   info: air traffic controller game. It's a BSD game.
 
 - name: avanor
@@ -156,7 +156,7 @@
 
 
 - name: backgammon
-  url: https://man.openbsd.org/OpenBSD-current/man6/backgammon.6
+  url: https://man.openbsd.org/backgammon.6
   info: "A backgammon game; you can play against the computer. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Backgammon
   
@@ -173,7 +173,7 @@
   info: Uses character-cell graphics with a visual point-and-shoot interface.
 
 - name: battlestar
-  url: https://man.openbsd.org/OpenBSD-current/man6/battlestar.6
+  url: https://man.openbsd.org/battlestar.6
   info: "A tropical adventure game. It's a BSD game."
 
 - name: bcd
@@ -204,7 +204,7 @@
 #play: telnet mud.darkerrealms.org 2000
 
 - name: boggle
-  url: https://man.openbsd.org/OpenBSD-current/man6/boggle.6
+  url: https://man.openbsd.org/boggle.6
   info: Word search game. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Boggle
   play: telnet mud.darkerrealms.org 2000
@@ -232,7 +232,7 @@
   info: Brogue is a Roguelike game.
 
 - name: bs
-  url: https://man.openbsd.org/OpenBSD-current/man6/bs.6
+  url: https://man.openbsd.org/bs.6
   info: Battleships game. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Battleship_%28game%29
 
@@ -244,7 +244,7 @@
   wikipedia: https://en.wikipedia.org/wiki/Caesar_cipher
 
 - name: canfield
-  url: https://man.openbsd.org/OpenBSD-current/man6/canfield.6
+  url: https://man.openbsd.org/canfield.6
   info: "The solitaire card game canfield. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Canfield_%28solitaire%29
 
@@ -357,7 +357,7 @@
   screencast: https://asciinema.org/a/524
 
 - name: cribbage
-  url: https://man.openbsd.org/OpenBSD-current/man6/cribbage.6
+  url: https://man.openbsd.org/cribbage.6
   info: "The card game cribbage. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Cribbage
 
@@ -465,7 +465,7 @@
   info: A sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing, written in bash.
 
 - name: fish
-  url: https://man.openbsd.org/OpenBSD-current/man6/fish.6
+  url: https://man.openbsd.org/fish.6
   info: "Play ``Go Fish''. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Go_Fish
 
@@ -532,7 +532,7 @@
   info: Goblin Hack is a roguelike opengl-based smooth-scrolling ASCII graphics game.
 
 - name: gomoku
-  url: https://man.openbsd.org/OpenBSD-current/man6/gomoku.6
+  url: https://man.openbsd.org/gomoku.6
   info: "Gomoku is a two player game where the object is to get 5 in a row horizontally, vertically or diagonally on a 19 by 19 grid. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Gomoku
   
@@ -556,7 +556,7 @@
 
 
 - name: hack
-  url: https://man.openbsd.org/OpenBSD-current/man6/hack.6
+  url: https://man.openbsd.org/hack.6
   info: "Exploring The Dungeons of Doom. It's a BSD game."
   play: telnet or ssh on sdf.org
 
@@ -574,7 +574,7 @@
   wikipedia: https://en.wikipedia.org/wiki/Hamurabi
 
 - name: hangman
-  url: https://man.openbsd.org/OpenBSD-current/man6/hangman.6
+  url: https://man.openbsd.org/hangman.6
   info: "Computer version of the game hangman. It's a BSD game."
   screencast: https://asciinema.org/a/35801
 
@@ -594,7 +594,7 @@
   info: the puzzle game of HuaRongDao
 
 - name: hunt
-  url: https://man.openbsd.org/OpenBSD-current/man6/hunt.6
+  url: https://man.openbsd.org/hunt.6
   info: "The object of the game hunt is to kill off the other players. There are no rooms, no treasures, and no monsters. Instead, you wander around a maze, find grenades, trip mines, and shoot down walls and players. It's a BSD game."
   play: telnet or ssh on sdf.org
 
@@ -715,7 +715,7 @@
   info: Go is an ancient oriental strategy game based on the capturing of territory.
 
 - name: mille
-  url: https://man.openbsd.org/OpenBSD-current/man6/mille.6
+  url: https://man.openbsd.org/mille.6
   info: "A racing card game in BSD games based on the Parker Brothers game Mille Bornes. It's a BSD game."
   
 - name: minecurses
@@ -734,7 +734,7 @@
   info: A curses-based game where you must defend cities from missile attack. It’s essentially a clone of Atari’s “Missile Command” (with some minor enhancements) for terminals, and has colour and sound.
 
 - name: monop
-  url: https://man.openbsd.org/OpenBSD-current/man6/monop.6
+  url: https://man.openbsd.org/monop.6
   info: "Monopoly game. It's a BSD game."
 
 - name: monousa
@@ -900,7 +900,7 @@
   info: Another tetris clone.
 
 - name: phantasia
-  url: https://man.openbsd.org/OpenBSD-current/man6/phantasia.6
+  url: https://man.openbsd.org/phantasia.6
   info: "An interterminal fantasy game. It's a BSD game."
 
 - name: pillman
@@ -990,7 +990,7 @@
   play: ssh rhex:rhex123@rhex.dpc.pw
 
 - name: robots
-  url: https://man.openbsd.org/OpenBSD-current/man6/robots.6
+  url: https://man.openbsd.org/robots.6
   info: "Fight off villainous robots. It's a BSD game."
   play: telnet or ssh on sdf.org
   wikipedia: https://en.wikipedia.org/wiki/Robots_%28BSD_game%29
@@ -1033,7 +1033,7 @@ by a baddie or you run out of energy."
 
 
 - name: sail
-  url: https://man.openbsd.org/OpenBSD-current/man6/sail.6
+  url: https://man.openbsd.org/sail.6
   info: "Multi-user wooden ships and iron men. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Wooden_Ships_and_Iron_Men
 
@@ -1103,7 +1103,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: A slider game.
 
 - name: snake
-  url: https://man.openbsd.org/OpenBSD-current/man6/snake.6
+  url: https://man.openbsd.org/snake.6
   info: "A quick and easy turn-based survival game; you have to move without being caught by a snake. It's a BSD game."
   screencast: https://asciinema.org/a/35799
   play: telnet or ssh on sdf.org
@@ -1189,7 +1189,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: Space shooter game that runs in your terminal!
 
 - name: tetris
-  url: https://man.openbsd.org/OpenBSD-current/man6/tetris.6
+  url: https://man.openbsd.org/tetris.6
   info: The game of tetris. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Tetris
 
@@ -1247,7 +1247,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: A tower defense game. Unfortunately, the game is quite easy to win.
 
 - name: trek
-  url: https://man.openbsd.org/OpenBSD-current/man6/trek.6
+  url: https://man.openbsd.org/trek.6
   info: "Trekkie game. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Star_Trek_%28text_game%29
 
@@ -1361,12 +1361,12 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: 3-D dungeon crawling in your terminal!
 
 - name: worm
-  url: https://man.openbsd.org/OpenBSD-current/man6/worm.6
+  url: https://man.openbsd.org/worm.6
   info: "A version of the arcade game worm (sometimes called snake or nibbles). It's a BSD game."
   play: telnet on twenex.org
 
 - name: wump
-  url: https://man.openbsd.org/OpenBSD-current/man6/wump.6
+  url: https://man.openbsd.org/wump.6
   info: "Hunt the wumpus in an underground cave. It's a BSD game."
   screencast: https://asciinema.org/a/35800
   wikipedia: https://en.wikipedia.org/wiki/Hunt_the_Wumpus
