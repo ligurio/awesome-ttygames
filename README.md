@@ -1,9 +1,6 @@
 # Unix ASCII games
 
-See additional resources about games in console:
-- https://inconsolation.wordpress.com/tag/game/
-- https://ttygames.wordpress.com/
-- https://theouterlinux.gitlab.io/RecommendedSoftware/Linux/Games/RecommendedSoftware_Linux_Games.html
+[![Build Status](https://travis-ci.org/ligurio/awesome-ttygames.svg?branch=master)](https://travis-ci.org/ligurio/awesome-ttygames)
 
 Feel free to submit pull requests to add new games and improve information about
 those already in the database.
@@ -20,7 +17,7 @@ Use this template:
 
 ```
 - name: hangman
-  url: http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man6/hangman.6?query=hangman&sec=6&arch=i386
+  url: https://man.openbsd.org/hangman.6
   info: computer version of the game hangman
   screencast:
   play:
@@ -38,7 +35,6 @@ Use this template:
 
 To the extent possible under law, [Sergey Bronnikov](https://bronevichok.ru) has
 waived all copyright and related or neighboring rights to this work.
-
 
 ### 0verkill 
 
@@ -95,7 +91,7 @@ Ad Astra is a turn-based space strategy game written in Python that uses curses 
 ADOM is a roguelike game.
 
 
-### [adventure](https://man.openbsd.org/OpenBSD-current/man6/adventure.6) 
+### [adventure](https://man.openbsd.org/adventure.6) 
 
 An exploration game. It's a BSD game.
 
@@ -113,6 +109,11 @@ AliensRL is a tactical roguelike game, inspired by the "Aliens" movie.
 ### [alienwave](https://www.alessandropira.org/alienwave/aw.html) 
 
 another good variant of the space invaders game.
+
+
+### [Allure of the Stars](http://www.allureofthestars.com/) [Screencast](http://www.allureofthestars.com/play) 
+
+near-future Sci-Fi roguelike and tactical squad combat game; emulates a terminal, but with --frontendANSI runs on normal Unix terminal
 
 
 ### [angband](https://rephial.org/) 
@@ -192,7 +193,7 @@ asciisector is a free space combat/exploration/trading game.
 Astwar is a ncurses based game that features two little ships on each side of the screen shooting each other.
 
 
-### [atc](https://man.openbsd.org/OpenBSD-current/man6/atc.6) 
+### [atc](https://man.openbsd.org/atc.6) 
 
 air traffic controller game. It's a BSD game.
 
@@ -207,7 +208,7 @@ Rogue-like game with easy ADOM-like user interface.
 Pseudo-3D shooter written completely in gawk using raycasting technique
 
 
-### [backgammon](https://man.openbsd.org/OpenBSD-current/man6/backgammon.6) 
+### [backgammon](https://man.openbsd.org/backgammon.6) 
 
 A backgammon game; you can play against the computer. It's a BSD game.
 
@@ -229,7 +230,7 @@ Bastet (short for Bastard Tetris).
 Uses character-cell graphics with a visual point-and-shoot interface.
 
 
-### [battlestar](https://man.openbsd.org/OpenBSD-current/man6/battlestar.6) 
+### [battlestar](https://man.openbsd.org/battlestar.6) 
 
 A tropical adventure game. It's a BSD game.
 
@@ -274,7 +275,7 @@ a black-jack card game.
 **Play**: ```telnet or ssh on sdf.org```
 
 
-### [boggle](https://man.openbsd.org/OpenBSD-current/man6/boggle.6) 
+### [boggle](https://man.openbsd.org/boggle.6) 
 
 Word search game. It's a BSD game.
 
@@ -313,7 +314,7 @@ A nice version of the mastermind game.
 Brogue is a Roguelike game.
 
 
-### [bs](https://man.openbsd.org/OpenBSD-current/man6/bs.6) 
+### [bs](https://man.openbsd.org/bs.6) 
 
 Battleships game. It's a BSD game.
 
@@ -327,7 +328,7 @@ decrypt caesar cyphers
 See also [Wikipedia](https://en.wikipedia.org/wiki/Caesar_cipher).
 
 
-### [canfield](https://man.openbsd.org/OpenBSD-current/man6/canfield.6) 
+### [canfield](https://man.openbsd.org/canfield.6) 
 
 The solitaire card game canfield. It's a BSD game.
 
@@ -469,7 +470,7 @@ CPat is probably the best card game for the Linux console; it is a collection of
 One of the best games for the Linux console.
 
 
-### [cribbage](https://man.openbsd.org/OpenBSD-current/man6/cribbage.6) 
+### [cribbage](https://man.openbsd.org/cribbage.6) 
 
 The card game cribbage. It's a BSD game.
 
@@ -601,11 +602,18 @@ F-Bird, a text bootsector game
 A sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing, written in bash.
 
 
-### [fish](https://man.openbsd.org/OpenBSD-current/man6/fish.6) 
+### [fish](https://man.openbsd.org/fish.6) 
 
 Play ``Go Fish''. It's a BSD game.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Go_Fish).
+
+
+### [flying-robots](https://github.com/bunburya/flying-robots) 
+
+[![asciicast](https://asciinema.org/a/j13HpVNjBpP4CzSru9hKTrtIh.svg)](https://asciinema.org/a/j13HpVNjBpP4CzSru9hKTrtIh) 
+
+Based on the BSD robots game, but with a third dimension of movement. Call with the `--curses` flag to get a curses interface.
 
 
 ### [fortune](https://man.openbsd.org/fortune.6) 
@@ -693,7 +701,7 @@ GNUSki is an open source clone of Skifree, the old Windows game.
 Goblin Hack is a roguelike opengl-based smooth-scrolling ASCII graphics game.
 
 
-### [gomoku](https://man.openbsd.org/OpenBSD-current/man6/gomoku.6) 
+### [gomoku](https://man.openbsd.org/gomoku.6) 
 
 Gomoku is a two player game where the object is to get 5 in a row horizontally, vertically or diagonally on a 19 by 19 grid. It's a BSD game.
 
@@ -723,7 +731,7 @@ A puzzle game with numbers. You must remove as many numbers as you can according
 **Play**: ```telnet or ssh on sdf.org```
 
 
-### [hack](https://man.openbsd.org/OpenBSD-current/man6/hack.6) 
+### [hack](https://man.openbsd.org/hack.6) 
 
 Exploring The Dungeons of Doom. It's a BSD game.
 
@@ -748,7 +756,7 @@ Hamurabi is a 1969 text-based game of land and resource management and is one of
 See also [Wikipedia](https://en.wikipedia.org/wiki/Hamurabi).
 
 
-### [hangman](https://man.openbsd.org/OpenBSD-current/man6/hangman.6) 
+### [hangman](https://man.openbsd.org/hangman.6) 
 
 [![asciicast](https://asciinema.org/a/35801.svg)](https://asciinema.org/a/35801) 
 
@@ -775,7 +783,7 @@ A very simple horserace simulation written in bash.
 the puzzle game of HuaRongDao
 
 
-### [hunt](https://man.openbsd.org/OpenBSD-current/man6/hunt.6) 
+### [hunt](https://man.openbsd.org/hunt.6) 
 
 The object of the game hunt is to kill off the other players. There are no rooms, no treasures, and no monsters. Instead, you wander around a maze, find grenades, trip mines, and shoot down walls and players. It's a BSD game.
 
@@ -938,7 +946,7 @@ Space ascii war game.
 Go is an ancient oriental strategy game based on the capturing of territory.
 
 
-### [mille](https://man.openbsd.org/OpenBSD-current/man6/mille.6) 
+### [mille](https://man.openbsd.org/mille.6) 
 
 A racing card game in BSD games based on the Parker Brothers game Mille Bornes. It's a BSD game.
 
@@ -960,7 +968,7 @@ Minesweeper clone with extensive vi(1) keybindings (not just hjkl), mouse contro
 A curses-based game where you must defend cities from missile attack. It’s essentially a clone of Atari’s “Missile Command” (with some minor enhancements) for terminals, and has colour and sound.
 
 
-### [monop](https://man.openbsd.org/OpenBSD-current/man6/monop.6) 
+### [monop](https://man.openbsd.org/monop.6) 
 
 Monopoly game. It's a BSD game.
 
@@ -1179,7 +1187,7 @@ A dice-based puzzle game written in bash.
 Another tetris clone.
 
 
-### [phantasia](https://man.openbsd.org/OpenBSD-current/man6/phantasia.6) 
+### [phantasia](https://man.openbsd.org/phantasia.6) 
 
 An interterminal fantasy game. It's a BSD game.
 
@@ -1195,6 +1203,11 @@ a three-player card game, written by Sarac.
 
 
 **Play**: ```telnet mud.darkerrealms.org 2000```
+
+
+### [piskworks](https://github.com/berk76/piskworks) 
+
+ASCII gomoku.
 
 
 ### [piu-piu-SH](https://github.com/vaniacer/piu-piu-SH) 
@@ -1299,7 +1312,7 @@ Simple ASCII terminal hexagonal map roguelike written in Rust.
 **Play**: ```ssh rhex:rhex123@rhex.dpc.pw```
 
 
-### [robots](https://man.openbsd.org/OpenBSD-current/man6/robots.6) 
+### [robots](https://man.openbsd.org/robots.6) 
 
 Fight off villainous robots. It's a BSD game.
 
@@ -1352,7 +1365,7 @@ Russian roulette
 A command line version of the card game Rummy with competitive Computer Agent written in C++.
 
 
-### [sail](https://man.openbsd.org/OpenBSD-current/man6/sail.6) 
+### [sail](https://man.openbsd.org/sail.6) 
 
 Multi-user wooden ships and iron men. It's a BSD game.
 
@@ -1445,7 +1458,7 @@ Variant of nethack and others
 A slider game.
 
 
-### [snake](https://man.openbsd.org/OpenBSD-current/man6/snake.6) 
+### [snake](https://man.openbsd.org/snake.6) 
 
 [![asciicast](https://asciinema.org/a/35799.svg)](https://asciinema.org/a/35799) 
 
@@ -1561,11 +1574,16 @@ Small frogger-themed game
 Space shooter game that runs in your terminal!
 
 
-### [tetris](https://man.openbsd.org/OpenBSD-current/man6/tetris.6) 
+### [tetris](https://man.openbsd.org/tetris.6) 
 
 The game of tetris. It's a BSD game.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
+
+
+### [tetris](https://github.com/berk76/tetris) 
+
+ASCII AddTris/Tetris.
 
 
 ### [ascii-tetris](https://github.com/Gregwar/ASCII-Tetris) 
@@ -1623,12 +1641,17 @@ A variant of the robots game.
 **Play**: ```telnet or ssh on sdf.org```
 
 
+### [tossug-arena](https://github.com/tossug/tossug-arena) 
+
+Board-Gamelets Arena for poor AI Players.
+
+
 ### [tower of mediocrity](https://web.archive.org/web/20131205100524/http://www.cavein.org/~chris/code/tower/) 
 
 A tower defense game. Unfortunately, the game is quite easy to win.
 
 
-### [trek](https://man.openbsd.org/OpenBSD-current/man6/trek.6) 
+### [trek](https://man.openbsd.org/trek.6) 
 
 Trekkie game. It's a BSD game.
 
@@ -1772,7 +1795,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/WarGames).
 3-D dungeon crawling in your terminal!
 
 
-### [worm](https://man.openbsd.org/OpenBSD-current/man6/worm.6) 
+### [worm](https://man.openbsd.org/worm.6) 
 
 A version of the arcade game worm (sometimes called snake or nibbles). It's a BSD game.
 
@@ -1780,7 +1803,7 @@ A version of the arcade game worm (sometimes called snake or nibbles). It's a BS
 **Play**: ```telnet on twenex.org```
 
 
-### [wump](https://man.openbsd.org/OpenBSD-current/man6/wump.6) 
+### [wump](https://man.openbsd.org/wump.6) 
 
 [![asciicast](https://asciinema.org/a/35800.svg)](https://asciinema.org/a/35800) 
 
