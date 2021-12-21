@@ -477,6 +477,7 @@
 - name: flying-robots
   url: https://github.com/bunburya/flying-robots
   info: "Based on the BSD robots game, but with a third dimension of movement. Call with the `--curses` flag to get a curses interface." 
+  screencast: https://asciinema.org/a/j13HpVNjBpP4CzSru9hKTrtIh
 
 - name: fortune
   wikipedia: https://en.wikipedia.org/wiki/Fortune_%28Unix%29
