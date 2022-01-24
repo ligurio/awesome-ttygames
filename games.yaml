@@ -731,7 +731,6 @@
 - name: minecurses
   url: https://github.com/christosmarg/minecurses
   info: An ncurses minesweeper game but instead of having to uncover all non-mine cells, the player has to defuse all the mines.
-  screencast: https://asciinema.org/a/yj926P6tb3ypF0QQHOr2ukaaf
 
 - name: minesVIiper
   url: https://gir.st/mines.html
