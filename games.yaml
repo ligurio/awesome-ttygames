@@ -1374,6 +1374,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: "A version of the arcade game worm (sometimes called snake or nibbles). It's a BSD game."
   play: telnet on twenex.org
 
+- name: clidle (aka wordle)
+  url: https://github.com/ajeetdsouza/clidle
+  info: "A clone of Wordle, Wordle over SSH."
+  play: ssh clidle.ddns.net -p 3000
+
 - name: wump
   url: https://man.openbsd.org/wump.6
   info: "Hunt the wumpus in an underground cave. It's a BSD game."
