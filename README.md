@@ -951,8 +951,6 @@ A racing card game in BSD games based on the Parker Brothers game Mille Bornes. 
 
 ### [minecurses](https://github.com/christosmarg/minecurses) 
 
-[![asciicast](https://asciinema.org/a/yj926P6tb3ypF0QQHOr2ukaaf.svg)](https://asciinema.org/a/yj926P6tb3ypF0QQHOr2ukaaf) 
-
 An ncurses minesweeper game but instead of having to uncover all non-mine cells, the player has to defuse all the mines.
 
 
@@ -1572,6 +1570,13 @@ Small frogger-themed game
 Space shooter game that runs in your terminal!
 
 
+### [tiny tetris](https://github.com/taylorconor/tinytetris)
+
+80x23 terminal tetris
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
+
+
 ### [tetris](https://man.openbsd.org/tetris.6) 
 
 The game of tetris. It's a BSD game.
@@ -1799,6 +1804,14 @@ A version of the arcade game worm (sometimes called snake or nibbles). It's a BS
 
 
 **Play**: ```telnet on twenex.org```
+
+
+### [clidle (aka wordle)](https://github.com/ajeetdsouza/clidle)
+
+A clone of Wordle, Wordle over SSH.
+
+
+**Play**: ```ssh clidle.ddns.net -p 3000```
 
 
 ### [wump](https://man.openbsd.org/wump.6) 
