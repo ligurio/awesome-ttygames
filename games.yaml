@@ -1197,6 +1197,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://gitlab.com/dustyweb/terminal-phase
   info: Space shooter game that runs in your terminal!
 
+- name: tiny tetris
+  url: https://github.com/taylorconor/tinytetris
+  info: 80x23 terminal tetris
+  wikipedia: https://en.wikipedia.org/wiki/Tetris
+
 - name: tetris
   url: https://man.openbsd.org/tetris.6
   info: The game of tetris. It's a BSD game.
