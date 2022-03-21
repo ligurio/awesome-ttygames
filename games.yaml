@@ -1162,6 +1162,10 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://github.com/NHTangles/sporkhack
   info: SporkHack is a variant of Nethack.
 
+- name: sqlite hangman
+  url: https://github.com/mateusza/sqlite-hangman
+  info: Hangman game implemented as SQLite Database.
+
 - name: sst2k
   url: https://sourceforge.net/projects/sst2k/
   info: Super Star Trek — a classic computer game
