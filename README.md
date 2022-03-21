@@ -181,6 +181,11 @@ asciijump is an ASCII art game about ski jumping.
 ASCIIpOrtal is a text based puzzle game inspired by the popular video game.
 
 
+### [ascii-chess](https://github.com/Parigyan/ASCII-Chess)
+
+Chess program with AI having a vintage linux terminal interface.
+
+
 ### [asciisector](http://www.asciisector.net/) 
 
 asciisector is a free space combat/exploration/trading game.
@@ -380,6 +385,11 @@ GNU Chess is a chess-playing program.
 
 
 **Play**: ```telnet freechess.org 5000 (login guest)```
+
+
+### [chs](https://github.com/nickzuber/chs)
+
+Play chess against the Stockfish engine in your terminal.
 
 
 ### [chimaera](https://www.mipmip.org/C_games/) 
@@ -1517,6 +1527,11 @@ SpaceZero is a Real Time Strategy 2D space combat game for two players over a ne
 SporkHack is a variant of Nethack.
 
 
+### [sqlite hangman](https://github.com/mateusza/sqlite-hangman)
+
+Hangman game implemented as SQLite Database.
+
+
 ### [sst2k](https://sourceforge.net/projects/sst2k/) 
 
 Super Star Trek — a classic computer game
@@ -1543,6 +1558,11 @@ Steamband is a roguelike ASCII dungeon exploration simulation game.
 ### [sumeria](https://www.mipmip.org/C_games/) 
 
 This is the good old “Govern Ancient Sumeria”, with a 1983 ecology re-write.
+
+
+### [sunfish](https://github.com/thomasahle/sunfish)
+
+Python Chess Engine in 111 lines of code.
 
 
 ### [taipan](http://www.ibiblio.org/pub/linux/games/textrpg) 
@@ -1812,6 +1832,11 @@ A clone of Wordle, Wordle over SSH.
 
 
 **Play**: ```ssh clidle.ddns.net -p 3000```
+
+
+### [wordle](https://github.com/nimblebun/wordle-cli)
+
+Play Wordle in your command line!
 
 
 ### [wump](https://man.openbsd.org/wump.6) 
