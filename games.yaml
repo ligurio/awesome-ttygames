@@ -138,6 +138,10 @@
   url: https://github.com/cymonsgames/ASCIIpOrtal
   info: ASCIIpOrtal is a text based puzzle game inspired by the popular video game.
 
+- name: ascii-chess
+  url: https://github.com/Parigyan/ASCII-Chess
+  info: Chess program with AI having a vintage linux terminal interface.
+
 - name: asciisector
   url: http://www.asciisector.net/
   info: asciisector is a free space combat/exploration/trading game.
