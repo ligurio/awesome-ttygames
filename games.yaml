@@ -298,6 +298,10 @@
   info: GNU Chess is a chess-playing program.
   play: telnet freechess.org 5000 (login guest)
 
+- name: chs
+  url: https://github.com/nickzuber/chs
+  info: Play chess against the Stockfish engine in your terminal.
+
 - name: chimaera
   url: https://www.mipmip.org/C_games/
   info: A highly unusual "infinite" adventure game written by Chris Newall.
