@@ -1185,6 +1185,9 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://www.mipmip.org/C_games/
   info: This is the good old “Govern Ancient Sumeria”, with a 1983 ecology re-write.
 
+- name: sunfish
+  url: https://github.com/thomasahle/sunfish
+  info: Python Chess Engine in 111 lines of code.
 
 
 - name: taipan
