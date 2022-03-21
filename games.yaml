@@ -1395,6 +1395,10 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: "A clone of Wordle, Wordle over SSH."
   play: ssh clidle.ddns.net -p 3000
 
+- name: wordle
+  url: https://github.com/nimblebun/wordle-cli
+  info: Play Wordle in your command line!
+
 - name: wump
   url: https://man.openbsd.org/wump.6
   info: "Hunt the wumpus in an underground cave. It's a BSD game."
