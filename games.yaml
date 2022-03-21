@@ -1323,6 +1323,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: http://remarque.org/~grabiner/moria.html
   info: An old and easy to play roguelike game.
 
+- name: Unnamed Fiefdom Game
+  url: https://github.com/Sheeves11/UnnamedFiefdomGame/
+  info: A text-based MMO about controlling fiefdoms, farming gold, and stealing from your enemies!
+  screencast: https://asciinema.org/a/Wdg38v6VaiZ4FrQa5ZViRJBd4
+
 - name: unnethack
   url: https://sourceforge.net/projects/unnethack/
   info: The first game in this roundup is UnNetHack, a fork of NetHack, originally based on the hugely popular roguelike game NetHack.
