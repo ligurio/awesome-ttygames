@@ -497,7 +497,7 @@
 
 - name: fish
   url: https://man.openbsd.org/fish.6
-  info: "Play ``Go Fish''. It's a BSD game."
+  info: It is a traditional children's card game. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Go_Fish
 
 - name: flying-robots
