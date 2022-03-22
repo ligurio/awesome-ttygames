@@ -212,6 +212,16 @@
   play: telnet or ssh on sdf.org
 #play: telnet mud.darkerrealms.org 2000
 
+- name: BootMine
+  url: https://github.com/io12/BootMine
+  info: Bootable minesweeper game in a 512-byte boot sector.
+  wikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
+  #shot: https://raw.githubusercontent.com/io12/BootMine/master/demo.gif
+
+- name: BootRogue
+  url: https://github.com/nanochess/bootRogue
+  info: is a roguelike game that fits in a boot sector (510 bytes).
+
 - name: boggle
   url: https://man.openbsd.org/boggle.6
   info: Word search game. It's a BSD game.
@@ -235,6 +245,14 @@
 - name: braincurses
   url: https://sourceforge.net/projects/braincurses/
   info: A nice version of the mastermind game.
+
+- name: Bricks
+  url: https://github.com/nanochess/bricks
+  info: A game of bricks and paddle on one boot sector (510 bytes).
+
+- name: Bricks
+  url: https://github.com/jaens/bricks-cport
+  info: Port of the Bricks boot sector game to (16-bit) C.
 
 - name: brogue
   url: https://sites.google.com/site/broguegame/
@@ -1119,6 +1137,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: ftp://80.92.105.240/ftp.ibiblio.org/ibiblio_linux_archive/games/strategy/slider-1.0.c.gz
   info: A slider game.
 
+- name: BootSlide
+  url: https://github.com/XlogicX/BootSlide
+  info: Boot Sector version of the 15 number slider puzzle.
+  #shot: https://raw.githubusercontent.com/XlogicX/BootSlide/master/15slider.png
+
 - name: snake
   url: https://man.openbsd.org/snake.6
   info: "A quick and easy turn-based survival game; you have to move without being caught by a snake. It's a BSD game."
@@ -1135,6 +1158,10 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: snake game
   screencast: https://asciinema.org/a/1715
 
+- name: asm_snake
+  url: https://gitlab.com/pmikkelsen/asm_snake
+  info: asm_snake is a small snake game written in x86 assembly. It is a small (less than 512 bytes) 16-bit program which runs in real mode directly from the bootsector of a drive.
+
 - name: soccer
   url: https://www.cs.cmu.edu/~trb/soccer/
   info: ASCII Soccer is a tool for investigating how groups of simple agents interact while playing a soccer-like game.
@@ -1147,6 +1174,13 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: sokoban
   info: A fully playable version of the sokoban game, but a little hacking has to be done.
   play: telnet or ssh on sdf.org
+
+- name: sokoban
+  url: https://ish.works/bootsector/bootsector.html
+  info: sokoban in a boot sector
+  #play: https://ish.works/bootsector/bootsector.html#play_online
+  screencast: https://ish.works/bootsector/sokoban_v1.0.gif
+  wikipedia: https://en.wikipedia.org/wiki/Sokoban
 
 - name: solVItaire
   url: https://gir.st/sol.html
