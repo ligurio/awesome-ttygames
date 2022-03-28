@@ -278,6 +278,18 @@ a black-jack card game.
 **Play**: ```telnet or ssh on sdf.org```
 
 
+### [BootMine](https://github.com/io12/BootMine)
+
+Bootable minesweeper game in a 512-byte boot sector.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
+
+
+### [BootRogue](https://github.com/nanochess/bootRogue)
+
+is a roguelike game that fits in a boot sector (510 bytes).
+
+
 ### [boggle](https://man.openbsd.org/boggle.6) 
 
 Word search game. It's a BSD game.
@@ -310,6 +322,16 @@ Python bowling game using the Blessed terminal library.
 ### [braincurses](https://sourceforge.net/projects/braincurses/) 
 
 A nice version of the mastermind game.
+
+
+### [Bricks](https://github.com/nanochess/bricks)
+
+A game of bricks and paddle on one boot sector (510 bytes).
+
+
+### [Bricks](https://github.com/jaens/bricks-cport)
+
+Port of the Bricks boot sector game to (16-bit) C.
 
 
 ### [brogue](https://sites.google.com/site/broguegame/) 
@@ -612,7 +634,7 @@ A sliding puzzle that consists of a frame of numbered square tiles in random ord
 
 ### [fish](https://man.openbsd.org/fish.6) 
 
-Play ``Go Fish''. It's a BSD game.
+It is a traditional children's card game. It's a BSD game.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Go_Fish).
 
@@ -1464,6 +1486,11 @@ Variant of nethack and others
 A slider game.
 
 
+### [BootSlide](https://github.com/XlogicX/BootSlide)
+
+Boot Sector version of the 15 number slider puzzle.
+
+
 ### [snake](https://man.openbsd.org/snake.6) 
 
 [![asciicast](https://asciinema.org/a/35799.svg)](https://asciinema.org/a/35799) 
@@ -1489,6 +1516,11 @@ snake game
 snake game
 
 
+### [asm_snake](https://gitlab.com/pmikkelsen/asm_snake)
+
+asm_snake is a small snake game written in x86 assembly. It is a small (less than 512 bytes) 16-bit program which runs in real mode directly from the bootsector of a drive.
+
+
 ### [soccer](https://www.cs.cmu.edu/~trb/soccer/) 
 
 ASCII Soccer is a tool for investigating how groups of simple agents interact while playing a soccer-like game.
@@ -1508,6 +1540,13 @@ A fully playable version of the sokoban game, but a little hacking has to be don
 
 
 **Play**: ```telnet or ssh on sdf.org```
+
+
+### [sokoban](https://ish.works/bootsector/bootsector.html) [Screencast](https://ish.works/bootsector/sokoban_v1.0.gif)
+
+sokoban in a boot sector
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Sokoban).
 
 
 ### [solVItaire](https://gir.st/sol.html) 
@@ -1734,6 +1773,13 @@ Another variant of Rogue.
 ### [umoria](http://remarque.org/~grabiner/moria.html) 
 
 An old and easy to play roguelike game.
+
+
+### [Unnamed Fiefdom Game](https://github.com/Sheeves11/UnnamedFiefdomGame/)
+
+[![asciicast](https://asciinema.org/a/Wdg38v6VaiZ4FrQa5ZViRJBd4.svg)](https://asciinema.org/a/Wdg38v6VaiZ4FrQa5ZViRJBd4)
+
+A text-based MMO about controlling fiefdoms, farming gold, and stealing from your enemies!
 
 
 ### [unnethack](https://sourceforge.net/projects/unnethack/) 
