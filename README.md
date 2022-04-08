@@ -181,7 +181,7 @@ asciijump is an ASCII art game about ski jumping.
 ASCIIpOrtal is a text based puzzle game inspired by the popular video game.
 
 
-### [ascii-chess](https://github.com/Parigyan/ASCII-Chess)
+### [ascii-chess](https://github.com/Parigyan/ASCII-Chess) 
 
 Chess program with AI having a vintage linux terminal interface.
 
@@ -278,14 +278,14 @@ a black-jack card game.
 **Play**: ```telnet or ssh on sdf.org```
 
 
-### [BootMine](https://github.com/io12/BootMine)
+### [BootMine](https://github.com/io12/BootMine) 
 
 Bootable minesweeper game in a 512-byte boot sector.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
 
 
-### [BootRogue](https://github.com/nanochess/bootRogue)
+### [BootRogue](https://github.com/nanochess/bootRogue) 
 
 is a roguelike game that fits in a boot sector (510 bytes).
 
@@ -324,12 +324,12 @@ Python bowling game using the Blessed terminal library.
 A nice version of the mastermind game.
 
 
-### [Bricks](https://github.com/nanochess/bricks)
+### [Bricks](https://github.com/nanochess/bricks) 
 
 A game of bricks and paddle on one boot sector (510 bytes).
 
 
-### [Bricks](https://github.com/jaens/bricks-cport)
+### [Bricks](https://github.com/jaens/bricks-cport) 
 
 Port of the Bricks boot sector game to (16-bit) C.
 
@@ -409,7 +409,7 @@ GNU Chess is a chess-playing program.
 **Play**: ```telnet freechess.org 5000 (login guest)```
 
 
-### [chs](https://github.com/nickzuber/chs)
+### [chs](https://github.com/nickzuber/chs) 
 
 Play chess against the Stockfish engine in your terminal.
 
@@ -723,12 +723,14 @@ GNU Go is a free program that plays the game of Go.
 
 ### [gnuski](https://sourceforge.net/projects/gnuski/) 
 
+[![asciicast](https://asciinema.org/a/485510.svg)](https://asciinema.org/a/485510) 
+
 GNUSki is an open source clone of Skifree, the old Windows game.
 
 
 ### [goblinhack](https://github.com/goblinhack/goblinhack) 
 
-Goblin Hack is a roguelike opengl-based smooth-scrolling ASCII graphics game.
+Goblin Hack is a roguelike OpenGL-based smooth-scrolling ASCII graphics game.
 
 
 ### [gomoku](https://man.openbsd.org/gomoku.6) 
@@ -1137,7 +1139,7 @@ A very elaborated sudoku game.
 ncurses based sudoku game
 
 
-### [nuzzle (N-curses p-UZZLE)](https://github.com/dead-end/nuzzle) [Screencast](https://github.com/dead-end/nuzzle/blob/master/res/nuzzle-example.gif?raw=true) 
+### [nuzzle (N-curses p-UZZLE)](https://github.com/dead-end/nuzzle) 
 
 Nuzzle is a terminal based puzzle game collection.
 
@@ -1239,6 +1241,8 @@ ASCII gomoku.
 
 
 ### [piu-piu-SH](https://github.com/vaniacer/piu-piu-SH) 
+
+[![asciicast](https://asciinema.org/a/DDLzQOgSrqVa3yS6zBoc37rhj.svg)](https://asciinema.org/a/DDLzQOgSrqVa3yS6zBoc37rhj) 
 
 Old School horizontal scroller 'Shoot Them All' game in bash
 
@@ -1387,6 +1391,8 @@ The Rougelike! is a roguelike game.
 
 Russian roulette
 
+See also [Wikipedia](https://en.wikipedia.org/wiki/Russian_roulette).
+
 
 ### [rummy](https://github.com/ljc2154/Rummy) 
 
@@ -1429,10 +1435,14 @@ A roguelike game written in Lisp.
 
 ### [shell-tanks](https://github.com/annacrombie/shell-tanks) 
 
+[![asciicast](https://asciinema.org/a/485506.svg)](https://asciinema.org/a/485506) 
+
 A tank game in bash with randomly generated terrain in which the object is to destroy your opponent.
 
 
 ### [shellshock](https://dhampir.no/stuff/bash/shellshock) 
+
+[![asciicast](https://asciinema.org/a/485508.svg)](https://asciinema.org/a/485508) 
 
 A top-down space shooter written for bash.
 
@@ -1465,6 +1475,8 @@ Dockerized pong for one.
 
 ### [ski](http://catb.org/~esr/ski/) 
 
+[![asciicast](https://asciinema.org/a/485509.svg)](https://asciinema.org/a/485509) 
+
 A hotdogging game, evade the deadly Yeti on your jet-powered skis.
 
 
@@ -1486,7 +1498,7 @@ Variant of nethack and others
 A slider game.
 
 
-### [BootSlide](https://github.com/XlogicX/BootSlide)
+### [BootSlide](https://github.com/XlogicX/BootSlide) 
 
 Boot Sector version of the 15 number slider puzzle.
 
@@ -1516,7 +1528,7 @@ snake game
 snake game
 
 
-### [asm_snake](https://gitlab.com/pmikkelsen/asm_snake)
+### [asm_snake](https://gitlab.com/pmikkelsen/asm_snake) 
 
 asm_snake is a small snake game written in x86 assembly. It is a small (less than 512 bytes) 16-bit program which runs in real mode directly from the bootsector of a drive.
 
@@ -1542,7 +1554,7 @@ A fully playable version of the sokoban game, but a little hacking has to be don
 **Play**: ```telnet or ssh on sdf.org```
 
 
-### [sokoban](https://ish.works/bootsector/bootsector.html) [Screencast](https://ish.works/bootsector/sokoban_v1.0.gif)
+### [sokoban](https://ish.works/bootsector/bootsector.html) 
 
 sokoban in a boot sector
 
@@ -1566,7 +1578,9 @@ SpaceZero is a Real Time Strategy 2D space combat game for two players over a ne
 SporkHack is a variant of Nethack.
 
 
-### [sqlite hangman](https://github.com/mateusza/sqlite-hangman)
+### [sqlite hangman](https://github.com/mateusza/sqlite-hangman) 
+
+[![asciicast](https://asciinema.org/a/485496.svg)](https://asciinema.org/a/485496) 
 
 Hangman game implemented as SQLite Database.
 
@@ -1599,7 +1613,9 @@ Steamband is a roguelike ASCII dungeon exploration simulation game.
 This is the good old “Govern Ancient Sumeria”, with a 1983 ecology re-write.
 
 
-### [sunfish](https://github.com/thomasahle/sunfish)
+### [sunfish](https://github.com/thomasahle/sunfish) 
+
+[![asciicast](https://asciinema.org/a/485498.svg)](https://asciinema.org/a/485498) 
 
 Python Chess Engine in 111 lines of code.
 
@@ -1629,7 +1645,9 @@ Small frogger-themed game
 Space shooter game that runs in your terminal!
 
 
-### [tiny tetris](https://github.com/taylorconor/tinytetris)
+### [tiny tetris](https://github.com/taylorconor/tinytetris) 
+
+[![asciicast](https://asciinema.org/a/485499.svg)](https://asciinema.org/a/485499) 
 
 80x23 terminal tetris
 
@@ -1645,10 +1663,14 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 ### [tetris](https://github.com/berk76/tetris) 
 
+[![asciicast](https://asciinema.org/a/485501.svg)](https://asciinema.org/a/485501) 
+
 ASCII AddTris/Tetris.
 
 
 ### [ascii-tetris](https://github.com/Gregwar/ASCII-Tetris) 
+
+[![asciicast](https://asciinema.org/a/485503.svg)](https://asciinema.org/a/485503) 
 
 ASCII Tetris game written in C
 
@@ -1682,10 +1704,12 @@ A tic-tac-toe variant where you have to align four symbols (instead of three).
 
 ### [Toledo-Atomchess](https://github.com/nanochess/Toledo-Atomchess) 
 
-Toledo Atomchess is the world's smallest chess program in x86 assembly code
+Toledo Atomchess is the world's smallest chess program in x86 assembly code.
 
 
-### [tom bombem](http://www.deater.net/weave/vmwprod/tb1/) 
+### [Tom Bombem](http://www.deater.net/weave/vmwprod/tb1/) 
+
+[![asciicast](https://asciinema.org/a/485505.svg)](https://asciinema.org/a/485505) 
 
 An arcade game where you have to shoot on inanimate objects.
 
@@ -1750,7 +1774,9 @@ ncurses-based klondike solitaire game.
 **Play**: ```telnet mud.darkerrealms.org 2000```
 
 
-### [typespeed](https://web.archive.org/web/20100904205305/http://tobias.eyedacor.org/typespeed/) 
+### [typespeed](http://typespeed.sourceforge.net/) 
+
+[![asciicast](https://asciinema.org/a/485492.svg)](https://asciinema.org/a/485492) 
 
 Type words that are flying by from left to right as fast as you can.
 
@@ -1775,14 +1801,16 @@ Another variant of Rogue.
 An old and easy to play roguelike game.
 
 
-### [Unnamed Fiefdom Game](https://github.com/Sheeves11/UnnamedFiefdomGame/)
+### [Unnamed Fiefdom Game](https://github.com/Sheeves11/UnnamedFiefdomGame/) 
 
-[![asciicast](https://asciinema.org/a/Wdg38v6VaiZ4FrQa5ZViRJBd4.svg)](https://asciinema.org/a/Wdg38v6VaiZ4FrQa5ZViRJBd4)
+[![asciicast](https://asciinema.org/a/Wdg38v6VaiZ4FrQa5ZViRJBd4.svg)](https://asciinema.org/a/Wdg38v6VaiZ4FrQa5ZViRJBd4) 
 
 A text-based MMO about controlling fiefdoms, farming gold, and stealing from your enemies!
 
 
 ### [unnethack](https://sourceforge.net/projects/unnethack/) 
+
+[![asciicast](https://asciinema.org/a/485489.svg)](https://asciinema.org/a/485489) 
 
 The first game in this roundup is UnNetHack, a fork of NetHack, originally based on the hugely popular roguelike game NetHack.
 
@@ -1872,7 +1900,9 @@ A version of the arcade game worm (sometimes called snake or nibbles). It's a BS
 **Play**: ```telnet on twenex.org```
 
 
-### [clidle (aka wordle)](https://github.com/ajeetdsouza/clidle)
+### [clidle](https://github.com/ajeetdsouza/clidle) 
+
+[![asciicast](https://asciinema.org/a/485486.svg)](https://asciinema.org/a/485486) 
 
 A clone of Wordle, Wordle over SSH.
 
@@ -1880,9 +1910,11 @@ A clone of Wordle, Wordle over SSH.
 **Play**: ```ssh clidle.ddns.net -p 3000```
 
 
-### [wordle](https://github.com/nimblebun/wordle-cli)
+### [wordle-cli](https://github.com/nimblebun/wordle-cli) 
 
-Play Wordle in your command line!
+[![asciicast](https://asciinema.org/a/485484.svg)](https://asciinema.org/a/485484) 
+
+A clone of Wordle in your command line.
 
 
 ### [wump](https://man.openbsd.org/wump.6) 
