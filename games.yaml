@@ -217,7 +217,7 @@
   url: https://github.com/io12/BootMine
   info: Bootable minesweeper game in a 512-byte boot sector.
   wikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
-  #shot: https://raw.githubusercontent.com/io12/BootMine/master/demo.gif
+  # shot: https://raw.githubusercontent.com/io12/BootMine/master/demo.gif
 
 - name: BootRogue
   url: https://github.com/nanochess/bootRogue
@@ -404,6 +404,7 @@
 - name: ctris
   url: https://github.com/dominikhackl/ctris
   info: Another version of the tetris game.
+  # https://vadim.oversigma.com/Tetris.htm
 
 - name: cursedmate
   url: https://web.archive.org/web/20130804035452/http://www.uberwall.org/~dash/
@@ -563,10 +564,11 @@
 - name: gnuski
   url: https://sourceforge.net/projects/gnuski/
   info: GNUSki is an open source clone of Skifree, the old Windows game.
+  screencast: https://asciinema.org/a/485510
 
 - name: goblinhack
   url: https://github.com/goblinhack/goblinhack
-  info: Goblin Hack is a roguelike opengl-based smooth-scrolling ASCII graphics game.
+  info: Goblin Hack is a roguelike OpenGL-based smooth-scrolling ASCII graphics game.
 
 - name: gomoku
   url: https://man.openbsd.org/gomoku.6
@@ -875,7 +877,7 @@
 - name: nuzzle (N-curses p-UZZLE)
   url: https://github.com/dead-end/nuzzle
   info: Nuzzle is a terminal based puzzle game collection.
-  screencast: https://github.com/dead-end/nuzzle/blob/master/res/nuzzle-example.gif?raw=true
+  # screencast: https://github.com/dead-end/nuzzle/blob/master/res/nuzzle-example.gif?raw=true
 
 
 
@@ -887,6 +889,10 @@
 - name: oldrunner
   url: http://culot.org/public/Code/oldrunner.html
   info: Oldrunner is a remake of Broderbund’s Loderunner which contains the 150 original game levels. It is written in C and has a text-based interface.
+  # shot: http://culot.org/images/oldrunner/screen1.jpg
+  # shot: http://culot.org/images/oldrunner/screen2.jpg
+  # shot: http://culot.org/images/oldrunner/screen3.jpg
+  # shot: http://culot.org/images/oldrunner/screen4.jpg
 
 - name: omega
   url: http://www.alcyone.com/max/projects/omega/
@@ -934,6 +940,7 @@
 - name: petris
   url: https://packages.debian.org/sid/games/petris
   info: Another tetris clone.
+  # https://vadim.oversigma.com/Tetris.htm
 
 - name: phantasia
   url: https://man.openbsd.org/phantasia.6
@@ -955,7 +962,7 @@
 - name: piu-piu-SH
   url: https://github.com/vaniacer/piu-piu-SH
   info: Old School horizontal scroller 'Shoot Them All' game in bash
-  screencast: 
+  screencast: https://asciinema.org/a/DDLzQOgSrqVa3yS6zBoc37rhj
 
 - name: plonx
   url: https://web.archive.org/web/20080704073046/http://bilious.homelinux.org/~paxed/plonx/
@@ -1061,6 +1068,7 @@ by a baddie or you run out of energy."
 - name: rr
   url: https://oskog97.com/archive/awesome-ttygames/rr/
   info: Russian roulette
+  wikipedia: https://en.wikipedia.org/wiki/Russian_roulette
   
 - name: rummy
   url: https://github.com/ljc2154/Rummy
@@ -1091,18 +1099,23 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: seatris
   url: https://www.earth.li/projectpurple/progs/seatris.html
   info: Another clone of the tetris game.
+  # https://vadim.oversigma.com/Tetris.htm
 
 - name: the sewer massacre
   url: https://common-lisp.net/project/lifp/sewers.htm
   info: A roguelike game written in Lisp.
+  # shot: https://lifp.common-lisp.dev/shot1.png
   
 - name: shell-tanks
   url: https://github.com/annacrombie/shell-tanks
   info: A tank game in bash with randomly generated terrain in which the object is to destroy your opponent.
+  screencast: https://asciinema.org/a/485506
+  # shot: https://raw.githubusercontent.com/annacrombie/shell-tanks/master/img/title.png
   
 - name: shellshock
   url: https://dhampir.no/stuff/bash/shellshock
   info: A top-down space shooter written for bash.
+  screencast: https://asciinema.org/a/485508
 
 - name: shogi
   url: https://www.gnu.org/software/gnushogi/
@@ -1125,6 +1138,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: ski
   url: http://catb.org/~esr/ski/
   info: A hotdogging game, evade the deadly Yeti on your jet-powered skis.
+  screencast: https://asciinema.org/a/485509
 
 - name: slashem
   url: http://slashem.sourceforge.net/
@@ -1141,7 +1155,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: BootSlide
   url: https://github.com/XlogicX/BootSlide
   info: Boot Sector version of the 15 number slider puzzle.
-  #shot: https://raw.githubusercontent.com/XlogicX/BootSlide/master/15slider.png
+  # shot: https://raw.githubusercontent.com/XlogicX/BootSlide/master/15slider.png
 
 - name: snake
   url: https://man.openbsd.org/snake.6
@@ -1180,7 +1194,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://ish.works/bootsector/bootsector.html
   info: sokoban in a boot sector
   #play: https://ish.works/bootsector/bootsector.html#play_online
-  screencast: https://ish.works/bootsector/sokoban_v1.0.gif
+  # screencast: https://ish.works/bootsector/sokoban_v1.0.gif
   wikipedia: https://en.wikipedia.org/wiki/Sokoban
 
 - name: solVItaire
@@ -1200,10 +1214,12 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: sqlite hangman
   url: https://github.com/mateusza/sqlite-hangman
   info: Hangman game implemented as SQLite Database.
+  screencast: https://asciinema.org/a/485496
 
 - name: sst2k
   url: https://sourceforge.net/projects/sst2k/
   info: Super Star Trek — a classic computer game
+  # shot: https://a.fsdn.com/con/app/proj/sst2k/screenshots/sst.png/max/max/1
 
 - name: stardork
   url: http://stardork.sourceforge.net/
@@ -1227,6 +1243,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: sunfish
   url: https://github.com/thomasahle/sunfish
   info: Python Chess Engine in 111 lines of code.
+  screencast: https://asciinema.org/a/485498
 
 
 - name: taipan
@@ -1251,19 +1268,27 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://github.com/taylorconor/tinytetris
   info: 80x23 terminal tetris
   wikipedia: https://en.wikipedia.org/wiki/Tetris
+  screencast: https://asciinema.org/a/485499
+  # https://vadim.oversigma.com/Tetris.htm
+  # https://raw.githubusercontent.com/taylorconor/tinytetris/master/animation.gif
 
 - name: tetris
   url: https://man.openbsd.org/tetris.6
   info: The game of tetris. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Tetris
+  # https://vadim.oversigma.com/Tetris.htm
 
 - name: tetris
   url: https://github.com/berk76/tetris
   info: ASCII AddTris/Tetris.
+  screencast: https://asciinema.org/a/485501
+  # https://vadim.oversigma.com/Tetris.htm
 
 - name: ascii-tetris
   url: https://github.com/Gregwar/ASCII-Tetris
   info: ASCII Tetris game written in C
+  # https://vadim.oversigma.com/Tetris.htm
+  screencast: https://asciinema.org/a/485503
 
 - name: tetrix
   url: http://freshmeat.sourceforge.net/projects/tetrix
@@ -1287,11 +1312,14 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 
 - name: Toledo-Atomchess
   url: https://github.com/nanochess/Toledo-Atomchess
-  info: Toledo Atomchess is the world's smallest chess program in x86 assembly code
+  info: Toledo Atomchess is the world's smallest chess program in x86 assembly code.
 
-- name: tom bombem
+- name: Tom Bombem
   url: http://www.deater.net/weave/vmwprod/tb1/
   info: An arcade game where you have to shoot on inanimate objects.
+  screencast: https://asciinema.org/a/485505
+  # screencast: https://asciinema.org/a/485504
+  # shot: http://www.deater.net/weave/vmwprod/tb1/tbasm_action.png
 
 - name: tornado
   url: https://github.com/kouya/tornado
@@ -1338,8 +1366,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   play: telnet mud.darkerrealms.org 2000
 
 - name: typespeed
-  url: https://web.archive.org/web/20100904205305/http://tobias.eyedacor.org/typespeed/
+  url: http://typespeed.sourceforge.net/
+  # https://web.archive.org/web/20100904205305/http://tobias.eyedacor.org/typespeed/
   info: Type words that are flying by from left to right as fast as you can.
+  # shot: https://web.archive.org/web/20070720193312if_/http://tobias.eyedacor.org/typespeed/typespeed-large-1.png
+  screencast: https://asciinema.org/a/485492
 
 - name: tzar
   url: http://freshmeat.sourceforge.net/projects/tzar
@@ -1366,6 +1397,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: unnethack
   url: https://sourceforge.net/projects/unnethack/
   info: The first game in this roundup is UnNetHack, a fork of NetHack, originally based on the hugely popular roguelike game NetHack.
+  screencast: https://asciinema.org/a/485489
 
 - name: urban warfare
   url: https://common-lisp.net/project/lifp/sewers.htm
@@ -1434,14 +1466,16 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: "A version of the arcade game worm (sometimes called snake or nibbles). It's a BSD game."
   play: telnet on twenex.org
 
-- name: clidle (aka wordle)
+- name: clidle
   url: https://github.com/ajeetdsouza/clidle
-  info: "A clone of Wordle, Wordle over SSH."
+  info: A clone of Wordle, Wordle over SSH.
   play: ssh clidle.ddns.net -p 3000
+  screencast: https://asciinema.org/a/485486
 
-- name: wordle
+- name: wordle-cli
   url: https://github.com/nimblebun/wordle-cli
-  info: Play Wordle in your command line!
+  info: A clone of Wordle in your command line.
+  screencast: https://asciinema.org/a/485484
 
 - name: wump
   url: https://man.openbsd.org/wump.6
