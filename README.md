@@ -47,6 +47,8 @@ waived all copyright and related or neighboring rights to this work.
 
 This is an ncurses version of the game '2048'.
 
+See also [Wikipedia](https://en.wikipedia.org/wiki/2048_(video_game)).
+
 
 ### [2048-cli](https://github.com/Tiehuis/2048-cli) 
 
@@ -54,10 +56,14 @@ This is an ncurses version of the game '2048'.
 
 A cli version of the game 2048 for your Linux terminal.
 
+See also [Wikipedia](https://en.wikipedia.org/wiki/2048_(video_game)).
+
 
 ### [2048-SSH](https://git.causal.agency/play) 
 
 2048 over SSH
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/2048_(video_game)).
 
 
 **Play**: ```ssh play@ascii.town```
@@ -68,6 +74,8 @@ A cli version of the game 2048 for your Linux terminal.
 [![asciicast](https://asciinema.org/a/35973.svg)](https://asciinema.org/a/35973) 
 
 n2048 is a console-based game based on the highly addictive sliding puzzle 2048. Slide the tiles together to combine them, until you reach the highest one.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/2048_(video_game)).
 
 
 ### [ASCII patrol](http://ascii-patrol.com/) 
@@ -91,6 +99,8 @@ Ad Astra is a turn-based space strategy game written in Python that uses curses 
 ### [ADOM (Ancient Domains of Mystery)](https://www.adom.de/) 
 
 ADOM is a roguelike game.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery).
 
 
 ### [adventure](https://man.openbsd.org/adventure.6) 
@@ -121,6 +131,8 @@ near-future Sci-Fi roguelike and tactical squad combat game; emulates a terminal
 ### [angband](https://rephial.org/) 
 
 Angband is a free, single-player dungeon exploration game.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Angband_(video_game)).
 
 
 ### [Anonymine](https://oskog97.com/projects/anonymine/) 
@@ -234,7 +246,11 @@ Bastet (short for Bastard Tetris).
 
 ### [battleships](http://www.catb.org/~esr/bs/) 
 
+[![asciicast](https://asciinema.org/a/486229.svg)](https://asciinema.org/a/486229)
+
 Uses character-cell graphics with a visual point-and-shoot interface.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Battleship_(game)).
 
 
 ### [battlestar](https://man.openbsd.org/battlestar.6) 
@@ -306,7 +322,9 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Boggle).
 
 ### [bombardier](https://packages.debian.org/en/sid/i386/games/bombardier) 
 
-This game is the same as the old Blitz16 game on Commodore 16/Plus 4, written by Simon Taylor.
+[![asciicast](https://asciinema.org/a/486231.svg)](https://asciinema.org/a/486231)
+
+Clone of the old Blitz16 game on Commodore 16/Plus 4.
 
 
 ### boulder dash 
@@ -440,15 +458,23 @@ Curses implementation of the laser board game Khet.
 
 Clines is a standard "Lines" game, implemented as a curses application.
 
+See also [Wikipedia](https://ru.wikipedia.org/wiki/Color_Lines).
+
 
 ### [clines](https://github.com/veselov/clines) 
 
+[![asciicast](https://asciinema.org/a/486233.svg)](https://asciinema.org/a/486233)
+
 Color Lines clone in console.
+
+See also [Wikipedia](https://ru.wikipedia.org/wiki/Color_Lines).
 
 
 ### [cmines](https://www.muppetlabs.com/~breadbox/software/cgames.html) 
 
-minesweeper.
+Clone of minesweeper.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
 
 
 ### [cnibbles](http://cnibbles.sourceforge.net) 
@@ -519,6 +545,8 @@ Escape From The Crypt.
 ### [csol](https://github.com/nielssp/csol) 
 
 A small collection of solitaire/patience games (Klondike, FreeCell, Spider, Yukon, etc.).
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Solitaire).
 
 
 ### [ctris](https://github.com/dominikhackl/ctris) 
@@ -667,17 +695,23 @@ This is a console (ncurses) version of the popular and addictive solitaire game.
 
 ### [freesweep](https://code.google.com/archive/p/freesweep/) 
 
-minesweeper game using curses.
+Minesweeper game using curses.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
 
 
 ### [freesweep](https://github.com/rwestlund/freesweep) 
 
 Freesweep is a console minesweeper-style game written in C for Unix-like systems.
 
+See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
+
 
 ### [fkmines](https://sourceforge.net/projects/fkmines/) 
 
 Another minesweeper-style game.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
 
 
 ### [frozen depths](https://frozendepths.net/) 
@@ -718,6 +752,8 @@ GearHead is the first roguelike to explore the world of “mechas” (giant robo
 ### gnake 
 
 Another variant of the snake game with a smooth movement.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 
 ### [gnugo](https://www.gnu.org/software/gnugo/) 
@@ -798,6 +834,8 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Hamurabi).
 
 Computer version of the game hangman. It's a BSD game.
 
+See also [Wikipedia](https://en.wikipedia.org/wiki/Hangman_(game)).
+
 
 ### [hellband](http://freshmeat.sourceforge.net/projects/hellband) 
 
@@ -805,6 +843,8 @@ Hellband is a Rogue-like game in which you descend through the nine circles of H
 
 
 ### [hinversi](https://sourceforge.net/projects/hinversi/) 
+
+[![asciicast](https://asciinema.org/a/486222.svg)](https://asciinema.org/a/486222)
 
 Hinversi is a implementation of Reversi (a.k.a. Othello), a board game.
 
@@ -1005,10 +1045,16 @@ A racing card game in BSD games based on the Parker Brothers game Mille Bornes. 
 
 An ncurses minesweeper game but instead of having to uncover all non-mine cells, the player has to defuse all the mines.
 
+See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
+
 
 ### [minesVIiper](https://gir.st/mines.html) 
 
+[![asciicast](https://asciinema.org/a/486236.svg)](https://asciinema.org/a/486236)
+
 Minesweeper clone with extensive vi(1) keybindings (not just hjkl), mouse control. Beautiful Unicode character schemes, and even one for actual VT-200 hardware. Does not depend on ncurses.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
 
 
 ### [miscom](ftp://ftp.slackware.org.uk/sbosrcarch/by-name/games/miscom/miscom.tar.gz) 
@@ -1052,10 +1098,14 @@ The game is set in Moria and the goal is to kill off the balrog.
 
 A simple snake game written in C using the ncurses library.
 
+See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
+
 
 ### [microsnake](http://freshmeat.sourceforge.net/projects/micro-snake) 
 
 Micro Snake is based on a simple snake game by Simon Huggins.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 
 ### mtrek 
@@ -1137,6 +1187,8 @@ nPush is a logic game similar to Sokoban and Boulder Dash.
 
 Classic snake game on the terminal.
 
+See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
+
 
 ### [nsudoku](https://www.tbmatuka.com/nsudoku/) 
 
@@ -1144,10 +1196,14 @@ Classic snake game on the terminal.
 
 A Sudoku game for the console.
 
+See also [Wikipedia](https://en.wikipedia.org/wiki/Sudoku).
+
 
 ### [nsuds](https://sourceforge.net/projects/nsuds/) 
 
 A very elaborated sudoku game.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Sudoku).
 
 
 ### [nudoku](https://jubalh.github.io/nudoku/) 
@@ -1155,6 +1211,8 @@ A very elaborated sudoku game.
 [![asciicast](https://asciinema.org/a/34070.svg)](https://asciinema.org/a/34070) 
 
 ncurses based sudoku game
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Sudoku).
 
 
 ### [nuzzle (N-curses p-UZZLE)](https://github.com/dead-end/nuzzle) 
@@ -1527,6 +1585,8 @@ Boot Sector version of the 15 number slider puzzle.
 
 A quick and easy turn-based survival game; you have to move without being caught by a snake. It's a BSD game.
 
+See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
+
 
 **Play**: ```telnet or ssh on sdf.org```
 
@@ -1534,6 +1594,8 @@ A quick and easy turn-based survival game; you have to move without being caught
 ### [snake](ftp://ftp.simtreas.ru/pub/my/snake.c.gz) 
 
 snake game
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 
 **Play**: ```telnet or ssh on sdf.org```
@@ -1545,10 +1607,14 @@ snake game
 
 snake game
 
+See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
+
 
 ### [asm_snake](https://gitlab.com/pmikkelsen/asm_snake) 
 
 asm_snake is a small snake game written in x86 assembly. It is a small (less than 512 bytes) 16-bit program which runs in real mode directly from the bootsector of a drive.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 
 ### [soccer](https://www.cs.cmu.edu/~trb/soccer/) 
@@ -1601,6 +1667,8 @@ SporkHack is a variant of Nethack.
 [![asciicast](https://asciinema.org/a/485496.svg)](https://asciinema.org/a/485496) 
 
 Hangman game implemented as SQLite Database.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Hangman_(game)).
 
 
 ### [sst2k](https://sourceforge.net/projects/sst2k/) 
@@ -1913,6 +1981,8 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/WarGames).
 ### [worm](https://man.openbsd.org/worm.6) 
 
 A version of the arcade game worm (sometimes called snake or nibbles). It's a BSD game.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 
 **Play**: ```telnet on twenex.org```

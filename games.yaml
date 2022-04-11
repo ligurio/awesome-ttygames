@@ -8,21 +8,25 @@
   info: This is an ncurses version of the game '2048'.
   # shot: https://raw.githubusercontent.com/mevdschee/2048.c/main/screenshot.png
   screencast: https://asciinema.org/a/486174
+  wikipedia: https://en.wikipedia.org/wiki/2048_(video_game)
 
 - name: 2048-cli
   url: https://github.com/Tiehuis/2048-cli
   info: A cli version of the game 2048 for your Linux terminal.
   screencast: https://asciinema.org/a/34067
+  wikipedia: https://en.wikipedia.org/wiki/2048_(video_game)
   
 - name: 2048-SSH
   url: https://git.causal.agency/play
   info: 2048 over SSH
   play: ssh play@ascii.town
+  wikipedia: https://en.wikipedia.org/wiki/2048_(video_game)
 
 - name: n2048
   url: http://freshmeat.sourceforge.net/projects/n2048
   info: "n2048 is a console-based game based on the highly addictive sliding puzzle 2048. Slide the tiles together to combine them, until you reach the highest one."
   screencast: https://asciinema.org/a/35973
+  wikipedia: https://en.wikipedia.org/wiki/2048_(video_game)
 
 - name: ASCII patrol
   url: http://ascii-patrol.com/
@@ -39,9 +43,11 @@
   url: https://code.google.com/archive/p/ad-astra-game/
   info: Ad Astra is a turn-based space strategy game written in Python that uses curses for its display.
 
-- name: "ADOM (Ancient Domains of Mystery)"
+- name: ADOM (Ancient Domains of Mystery)
   url: https://www.adom.de/
   info: ADOM is a roguelike game.
+  wikipedia: https://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery
+  # shot: https://upload.wikimedia.org/wikipedia/ru/6/69/Adom_big.gif
 
 # ftp://ftp.simtreas.ru/pub/download/add/adventur.tgz
 - name: adventure
@@ -66,6 +72,8 @@
 - name: angband
   url: https://rephial.org/
   info: Angband is a free, single-player dungeon exploration game.
+  wikipedia: https://en.wikipedia.org/wiki/Angband_(video_game)
+  # shot: https://upload.wikimedia.org/wikipedia/commons/5/54/Angband.png
 
 - name: Anonymine
   url: https://oskog97.com/projects/anonymine/
@@ -153,6 +161,8 @@
 - name: battleships
   url: http://www.catb.org/~esr/bs/
   info: Uses character-cell graphics with a visual point-and-shoot interface.
+  wikipedia: https://en.wikipedia.org/wiki/Battleship_(game)
+  screencast: https://asciinema.org/a/486229
 
 - name: battlestar
   url: https://man.openbsd.org/battlestar.6
@@ -183,7 +193,7 @@
 - name: bj
   info: a black-jack card game.
   play: telnet or ssh on sdf.org
-#play: telnet mud.darkerrealms.org 2000
+  # play: telnet mud.darkerrealms.org 2000
 
 - name: BootMine
   url: https://github.com/io12/BootMine
@@ -203,7 +213,8 @@
 
 - name: bombardier
   url: https://packages.debian.org/en/sid/i386/games/bombardier
-  info: This game is the same as the old Blitz16 game on Commodore 16/Plus 4, written by Simon Taylor.
+  info: Clone of the old Blitz16 game on Commodore 16/Plus 4.
+  screencast: https://asciinema.org/a/486231
 
 # See comments above Cavez of Phear
 - name: boulder dash
@@ -313,14 +324,18 @@
 - name: clines
   url: http://web.archive.org/web/20190327173340/http://manticore.2y.net/prj/clines-a.html
   info: Clines is a standard "Lines" game, implemented as a curses application.
+  wikipedia: https://ru.wikipedia.org/wiki/Color_Lines
 
 - name: clines
   url: https://github.com/veselov/clines
   info: Color Lines clone in console.
+  screencast: https://asciinema.org/a/486233
+  wikipedia: https://ru.wikipedia.org/wiki/Color_Lines
 
 - name: cmines
   url: https://www.muppetlabs.com/~breadbox/software/cgames.html
-  info: minesweeper.
+  info: Clone of minesweeper.
+  wikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
 
 - name: cnibbles
   url: http://cnibbles.sourceforge.net
@@ -372,6 +387,7 @@
 - name: csol
   url: https://github.com/nielssp/csol
   info: A small collection of solitaire/patience games (Klondike, FreeCell, Spider, Yukon, etc.).
+  wikipedia: https://en.wikipedia.org/wiki/Solitaire
 
 - name: ctris
   url: https://github.com/dominikhackl/ctris
@@ -491,15 +507,18 @@
 
 - name: freesweep
   url: https://code.google.com/archive/p/freesweep/
-  info: minesweeper game using curses.
+  info: Minesweeper game using curses.
+  wikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
 
 - name: freesweep
   url: https://github.com/rwestlund/freesweep
   info: Freesweep is a console minesweeper-style game written in C for Unix-like systems.
+  wikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
 
 - name: fkmines
   url: https://sourceforge.net/projects/fkmines/
   info: Another minesweeper-style game.
+  wikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
 
 - name: frozen depths
   url: https://frozendepths.net/
@@ -528,6 +547,7 @@
 
 - name: gnake
   info: Another variant of the snake game with a smooth movement.
+  wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
 - name: gnugo
   url: https://www.gnu.org/software/gnugo/
@@ -588,6 +608,7 @@
   url: https://man.openbsd.org/hangman.6
   info: "Computer version of the game hangman. It's a BSD game."
   screencast: https://asciinema.org/a/35801
+  wikipedia: https://en.wikipedia.org/wiki/Hangman_(game)
 
 - name: hellband
   url: http://freshmeat.sourceforge.net/projects/hellband
@@ -596,6 +617,7 @@
 - name: hinversi
   url: https://sourceforge.net/projects/hinversi/
   info: Hinversi is a implementation of Reversi (a.k.a. Othello), a board game.
+  screencast: https://asciinema.org/a/486222
   
 - name: Horserace
   url: https://pastebin.com/3KvCBg57
@@ -742,12 +764,14 @@
 - name: minecurses
   url: https://github.com/christosmarg/minecurses
   info: An ncurses minesweeper game but instead of having to uncover all non-mine cells, the player has to defuse all the mines.
+  wikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
 
 - name: minesVIiper
   url: https://gir.st/mines.html
   info: Minesweeper clone with extensive vi(1) keybindings (not just hjkl), mouse control. Beautiful Unicode character schemes, and even one for actual VT-200 hardware. Does not depend on ncurses.
   # displays broken due to https://github.com/asciinema/asciinema-player/issues/34
-  #screencast: https://asciinema.org/a/RjqXfafnKx4OkXKVuE9RG4ps6
+  screencast: https://asciinema.org/a/486236
+  wikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
 
 - name: miscom
   url: ftp://ftp.slackware.org.uk/sbosrcarch/by-name/games/miscom/miscom.tar.gz
@@ -779,10 +803,12 @@
   url: https://github.com/mogria/msnake
   info: A simple snake game written in C using the ncurses library.
   screencast: https://asciinema.org/a/35971
+  wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
 - name: microsnake
   url: http://freshmeat.sourceforge.net/projects/micro-snake
   info: Micro Snake is based on a simple snake game by Simon Huggins.
+  wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
 - name: mtrek
   info: Game inspired by Star Trek
@@ -841,20 +867,24 @@
   url: https://sourceforge.net/projects/nsnake/
   info: Classic snake game on the terminal.
   screencast: https://asciinema.org/a/35976
+  wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
 - name: nsudoku
   url: https://www.tbmatuka.com/nsudoku/
   info: A Sudoku game for the console.
   screencast: https://asciinema.org/a/34688
+  wikipedia: https://en.wikipedia.org/wiki/Sudoku
 
 - name: nsuds
   url: https://sourceforge.net/projects/nsuds/
   info: A very elaborated sudoku game.
+  wikipedia: https://en.wikipedia.org/wiki/Sudoku
 
 - name: nudoku
   url: https://jubalh.github.io/nudoku/
   info: ncurses based sudoku game
   screencast: https://asciinema.org/a/34070
+  wikipedia: https://en.wikipedia.org/wiki/Sudoku
 
 - name: nuzzle (N-curses p-UZZLE)
   url: https://github.com/dead-end/nuzzle
@@ -1144,20 +1174,24 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: "A quick and easy turn-based survival game; you have to move without being caught by a snake. It's a BSD game."
   screencast: https://asciinema.org/a/35799
   play: telnet or ssh on sdf.org
+  wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
 - name: snake
   url: ftp://ftp.simtreas.ru/pub/my/snake.c.gz
   info: snake game
   play: telnet or ssh on sdf.org
+  wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
 - name: snake
   url: https://github.com/begoon/stuff/blob/master/games/snake/c%2B%2B/snake.cpp
   info: snake game
   screencast: https://asciinema.org/a/1715
+  wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
 - name: asm_snake
   url: https://gitlab.com/pmikkelsen/asm_snake
   info: asm_snake is a small snake game written in x86 assembly. It is a small (less than 512 bytes) 16-bit program which runs in real mode directly from the bootsector of a drive.
+  wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
 - name: soccer
   url: https://www.cs.cmu.edu/~trb/soccer/
@@ -1198,6 +1232,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://github.com/mateusza/sqlite-hangman
   info: Hangman game implemented as SQLite Database.
   screencast: https://asciinema.org/a/485496
+  wikipedia: https://en.wikipedia.org/wiki/Hangman_(game)
 
 - name: sst2k
   url: https://sourceforge.net/projects/sst2k/
@@ -1448,6 +1483,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://man.openbsd.org/worm.6
   info: "A version of the arcade game worm (sometimes called snake or nibbles). It's a BSD game."
   play: telnet on twenex.org
+  wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
 - name: clidle
   url: https://github.com/ajeetdsouza/clidle
