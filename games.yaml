@@ -710,6 +710,11 @@
 
 - name: manhunt
   play: telnet on twenex.org
+
+- name: memwatch
+  info: memwatch contains an easter egg - a game with a pinguin that jumps between holes in a pipelines.
+  url: https://github.com/0x501D/memwatch
+  screencast: https://asciinema.org/a/486217
   
 - name: Mario on vim
   url: https://github.com/rbtnn/vim-mario

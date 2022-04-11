@@ -962,6 +962,13 @@ This is a multiplayer variant of angband.
 **Play**: ```telnet on twenex.org```
 
 
+### [memwatch](https://github.com/0x501D/memwatch)
+
+[![asciicast](https://asciinema.org/a/486217.svg)](https://asciinema.org/a/486217)
+
+memwatch contains an easter egg - a game with a pinguin that jumps between holes in a pipelines.
+
+
 ### [Mario on vim](https://github.com/rbtnn/vim-mario) 
 
 A command line implementation of Super Mario, inside Vim.
