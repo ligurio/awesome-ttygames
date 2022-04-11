@@ -910,6 +910,13 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon).
 **Play**: ```telnet darkrealms.ca```
 
 
+### [katamascii](https://github.com/taviso/katamascii)
+
+[![asciicast](https://asciinema.org/a/486171.svg)](https://asciinema.org/a/486171)
+
+An ascii-art puzzle game, roll around your terminal collecting ascii-art objects!
+
+
 ### [keeperrl](https://keeperrl.com/) 
 
 Ambitious dungeon simulator with roguelike elements.
