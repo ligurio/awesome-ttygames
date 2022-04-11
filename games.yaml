@@ -701,6 +701,10 @@
   play: telnet darkrealms.ca
 
 
+- name: katamascii
+  url: https://github.com/taviso/katamascii
+  info: An ascii-art puzzle game, roll around your terminal collecting ascii-art objects!
+  screencast: https://asciinema.org/a/486171
 
 - name: keeperrl
   url: https://keeperrl.com/
