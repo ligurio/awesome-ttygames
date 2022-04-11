@@ -34,12 +34,16 @@ Use this template:
 To the extent possible under law, [Sergey Bronnikov](https://bronevichok.ru) has
 waived all copyright and related or neighboring rights to this work.
 
-### 0verkill 
+### [0verkill](https://github.com/hackndev/0verkill) 
+
+[![asciicast](https://asciinema.org/a/486195.svg)](https://asciinema.org/a/486195) 
 
 0verkill is bloody 2D action deathmatch-like game in ASCII-ART.
 
 
 ### [2048](https://github.com/mevdschee/2048.c) 
+
+[![asciicast](https://asciinema.org/a/486174.svg)](https://asciinema.org/a/486174) 
 
 This is an ncurses version of the game '2048'.
 
@@ -66,9 +70,9 @@ A cli version of the game 2048 for your Linux terminal.
 n2048 is a console-based game based on the highly addictive sliding puzzle 2048. Slide the tiles together to combine them, until you reach the highest one.
 
 
-### [ascii patrol](http://ascii-patrol.com/) 
+### [ASCII patrol](http://ascii-patrol.com/) 
 
-None
+ASCII Patrol is a clone of "Moon Patrol".
 
 
 **Play**: ```http://ascii-patrol.com/area51/ascii-patrol-html5.html```
@@ -910,9 +914,9 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon).
 **Play**: ```telnet darkrealms.ca```
 
 
-### [katamascii](https://github.com/taviso/katamascii)
+### [katamascii](https://github.com/taviso/katamascii) 
 
-[![asciicast](https://asciinema.org/a/486171.svg)](https://asciinema.org/a/486171)
+[![asciicast](https://asciinema.org/a/486171.svg)](https://asciinema.org/a/486171) 
 
 An ascii-art puzzle game, roll around your terminal collecting ascii-art objects!
 
@@ -1570,7 +1574,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Sokoban).
 
 ### [solVItaire](https://gir.st/sol.html) 
 
-[![asciicast](https://asciinema.org/a/Wde3hVhN60gkAuAu05LL2362i.svg)](https://asciinema.org/a/Wde3hVhN60gkAuAu05LL2362i) 
+[![asciicast](https://asciinema.org/a/486179.svg)](https://asciinema.org/a/486179) 
 
 Freecell, Spider Solitare and Klondike Solitaire with extensive vi(1) style keybindings, do-what-I-mean movement operations, beautiful Unicode character schemes. Does not depend on ncurses.
 
