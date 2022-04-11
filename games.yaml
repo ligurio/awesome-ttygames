@@ -108,24 +108,25 @@
 
 - name: arithmetic
   url: https://man.openbsd.org/arithmetic.6
-  info: quiz on simple arithmetic
+  info: Quiz on simple arithmetic. It's a BSD game.
+  screencast: https://asciinema.org/a/486298
 
 - name: asciijump
   url: http://freshmeat.sourceforge.net/projects/asciijump
-  info: asciijump is an ASCII art game about ski jumping.
+  info: The ski-jumping ASCII game.
   screencast: https://asciinema.org/a/31340
 
-- name: ascii portal
+- name: ASCIIpOrtal
   url: https://github.com/cymonsgames/ASCIIpOrtal
   info: ASCIIpOrtal is a text based puzzle game inspired by the popular video game.
 
-- name: ascii-chess
+- name: ASCII-Chess
   url: https://github.com/Parigyan/ASCII-Chess
   info: Chess program with AI having a vintage linux terminal interface.
 
 - name: asciisector
   url: http://www.asciisector.net/
-  info: asciisector is a free space combat/exploration/trading game.
+  info: Free space combat/exploration/trading game.
 
 - name: astwar
   url: https://savannah.nongnu.org/projects/astwar
@@ -133,7 +134,8 @@
 
 - name: atc
   url: https://man.openbsd.org/atc.6
-  info: air traffic controller game. It's a BSD game.
+  info: Air traffic controller game. It's a BSD game.
+  screencast: https://asciinema.org/a/486304
 
 - name: avanor
   url: http://avanor.sourceforge.net/
@@ -152,7 +154,8 @@
   
 - name: bashmaze
   url: https://github.com/phoemur/bashmaze
-  info: A maze game writen completely in shell-script, based on Joe Wingbermuehle's maze generator.
+  info: A maze game writen completely in shell-script.
+  screencast: https://asciinema.org/a/486297
 
 - name: bastet
   url: http://fph.altervista.org/prog/bastet.html
@@ -166,12 +169,13 @@
 
 - name: battlestar
   url: https://man.openbsd.org/battlestar.6
-  info: "A tropical adventure game. It's a BSD game."
+  info: A tropical adventure game. It's a BSD game.
 
 - name: bcd
   url: https://man.openbsd.org/bcd.6
   wikipedia: https://en.wikipedia.org/wiki/Punched_card
-  info: punched card
+  info: Punched card. It's a BSD game.
+  screencast: https://asciinema.org/a/486305
 
 - name: beasts
   url: https://peteg.org/beasts/beasts.html
@@ -189,6 +193,7 @@
 - name: bluemoon
   url: http://www.catb.org/~esr/bluemoon/
   info: The Blue Moon card solitaire.
+  screencast: https://asciinema.org/a/486306
 
 - name: bj
   info: a black-jack card game.
@@ -229,6 +234,7 @@
 - name: braincurses
   url: https://sourceforge.net/projects/braincurses/
   info: A nice version of the mastermind game.
+  screencast: https://asciinema.org/a/486307
 
 - name: Bricks
   url: https://github.com/nanochess/bricks
@@ -478,7 +484,7 @@
 
 - name: fbird
   url: https://github.com/nanochess/fbird
-  info: F-Bird, a text bootsector game
+  info: F-Bird, a text bootsector game.
   screencast: https://www.youtube.com/watch?v=p31XFFAeze4
   
 - name: Fifteen Puzzle
@@ -552,6 +558,8 @@
 - name: gnugo
   url: https://www.gnu.org/software/gnugo/
   info: GNU Go is a free program that plays the game of Go.
+  screencast: https://asciinema.org/a/486319
+  wikipedia: https://en.wikipedia.org/wiki/Go_(game)
 
 - name: gnuski
   url: https://sourceforge.net/projects/gnuski/
@@ -577,12 +585,13 @@
 
 - name: grdc
   url: https://man.openbsd.org/grdc.6
-  info: grand digital clock (curses)
+  info: Grand digital clock.
 
 - name: greed
   url: http://www.catb.org/~esr/greed/
   info: A puzzle game with numbers. You must remove as many numbers as you can according to the rules.
   play: telnet or ssh on sdf.org
+  screencast: https://asciinema.org/a/486320
 
 
 
@@ -1049,6 +1058,7 @@
   info: "Fight off villainous robots. It's a BSD game."
   play: telnet or ssh on sdf.org
   wikipedia: https://en.wikipedia.org/wiki/Robots_%28BSD_game%29
+  screencast: https://asciinema.org/a/486323
 
 - name: gnu-robots
   url: https://www.gnu.org/software/gnurobots/readme.html
@@ -1092,6 +1102,7 @@ by a baddie or you run out of energy."
   url: https://man.openbsd.org/sail.6
   info: "Multi-user wooden ships and iron men. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Wooden_Ships_and_Iron_Men
+  screencast: https://asciinema.org/a/486324
 
 - name: scrap
   url: https://web.archive.org/web/20130524032130/http://www.math.leidenuniv.nl/~mommen/scrap/
@@ -1172,25 +1183,25 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: snake
   url: https://man.openbsd.org/snake.6
   info: "A quick and easy turn-based survival game; you have to move without being caught by a snake. It's a BSD game."
-  screencast: https://asciinema.org/a/35799
   play: telnet or ssh on sdf.org
   wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
+  screencast: https://asciinema.org/a/486325
 
 - name: snake
   url: ftp://ftp.simtreas.ru/pub/my/snake.c.gz
-  info: snake game
+  info: Snake game.
   play: telnet or ssh on sdf.org
   wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
 - name: snake
   url: https://github.com/begoon/stuff/blob/master/games/snake/c%2B%2B/snake.cpp
-  info: snake game
+  info: Snake game.
   screencast: https://asciinema.org/a/1715
   wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
 - name: asm_snake
   url: https://gitlab.com/pmikkelsen/asm_snake
-  info: asm_snake is a small snake game written in x86 assembly. It is a small (less than 512 bytes) 16-bit program which runs in real mode directly from the bootsector of a drive.
+  info: Small snake game written in x86 assembly. It runs in real mode directly from the bootsector of a drive.
   wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
 - name: soccer
@@ -1208,7 +1219,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 
 - name: sokoban
   url: https://ish.works/bootsector/bootsector.html
-  info: sokoban in a boot sector
+  info: Sokoban in a boot sector.
   #play: https://ish.works/bootsector/bootsector.html#play_online
   # screencast: https://ish.works/bootsector/sokoban_v1.0.gif
   wikipedia: https://en.wikipedia.org/wiki/Sokoban
@@ -1484,6 +1495,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: "A version of the arcade game worm (sometimes called snake or nibbles). It's a BSD game."
   play: telnet on twenex.org
   wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
+  screencast: https://asciinema.org/a/486326
 
 - name: clidle
   url: https://github.com/ajeetdsouza/clidle
