@@ -1,9 +1,13 @@
 - name: 0verkill
   info: 0verkill is bloody 2D action deathmatch-like game in ASCII-ART.
+  url: https://github.com/hackndev/0verkill
+  screencast: https://asciinema.org/a/486195
 
 - name: '2048'
   url: https://github.com/mevdschee/2048.c
   info: This is an ncurses version of the game '2048'.
+  # shot: https://raw.githubusercontent.com/mevdschee/2048.c/main/screenshot.png
+  screencast: https://asciinema.org/a/486174
 
 - name: 2048-cli
   url: https://github.com/Tiehuis/2048-cli
@@ -20,10 +24,12 @@
   info: "n2048 is a console-based game based on the highly addictive sliding puzzle 2048. Slide the tiles together to combine them, until you reach the highest one."
   screencast: https://asciinema.org/a/35973
 
-- name: ascii patrol
+- name: ASCII patrol
   url: http://ascii-patrol.com/
-  info:
+  info: ASCII Patrol is a clone of "Moon Patrol".
   play: http://ascii-patrol.com/area51/ascii-patrol-html5.html
+  # shot: http://ascii-patrol.com/ascii-patrol.gif
+  # screenshots http://ascii-patrol.com/gallery.html
 
 - name: abura tan
   url: http://aburatan.sourceforge.net/
@@ -671,6 +677,7 @@
   url: https://github.com/taviso/katamascii
   info: An ascii-art puzzle game, roll around your terminal collecting ascii-art objects!
   screencast: https://asciinema.org/a/486171
+  # shot: https://raw.githubusercontent.com/taviso/katamascii/main/screenshot.png
 
 - name: keeperrl
   url: https://keeperrl.com/
@@ -1171,7 +1178,8 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://gir.st/sol.html
   info: Freecell, Spider Solitare and Klondike Solitaire with extensive vi(1) style keybindings, do-what-I-mean movement operations, beautiful Unicode character schemes. Does not depend on ncurses.
   # displays slightly broken due to https://github.com/asciinema/asciinema-player/issues/34
-  screencast: https://asciinema.org/a/Wde3hVhN60gkAuAu05LL2362i
+  screencast: https://asciinema.org/a/486179
+  # shot: https://gir.st/img/solvitaire-spider.png
 
 - name: spacezero
   url: http://spacezero.sourceforge.net/
