@@ -182,29 +182,31 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Arkanoid).
 
 ### [arithmetic](https://man.openbsd.org/arithmetic.6) 
 
-quiz on simple arithmetic
+[![asciicast](https://asciinema.org/a/486298.svg)](https://asciinema.org/a/486298)
+
+Quiz on simple arithmetic. It's a BSD game.
 
 
 ### [asciijump](http://freshmeat.sourceforge.net/projects/asciijump) 
 
 [![asciicast](https://asciinema.org/a/31340.svg)](https://asciinema.org/a/31340) 
 
-asciijump is an ASCII art game about ski jumping.
+The ski-jumping ASCII game.
 
 
-### [ascii portal](https://github.com/cymonsgames/ASCIIpOrtal) 
+### [ASCIIpOrtal](https://github.com/cymonsgames/ASCIIpOrtal)
 
 ASCIIpOrtal is a text based puzzle game inspired by the popular video game.
 
 
-### [ascii-chess](https://github.com/Parigyan/ASCII-Chess) 
+### [ASCII-Chess](https://github.com/Parigyan/ASCII-Chess)
 
 Chess program with AI having a vintage linux terminal interface.
 
 
 ### [asciisector](http://www.asciisector.net/) 
 
-asciisector is a free space combat/exploration/trading game.
+Free space combat/exploration/trading game.
 
 
 ### [astwar](https://savannah.nongnu.org/projects/astwar) 
@@ -214,7 +216,9 @@ Astwar is a ncurses based game that features two little ships on each side of th
 
 ### [atc](https://man.openbsd.org/atc.6) 
 
-air traffic controller game. It's a BSD game.
+[![asciicast](https://asciinema.org/a/486304.svg)](https://asciinema.org/a/486304)
+
+Air traffic controller game. It's a BSD game.
 
 
 ### [avanor](http://avanor.sourceforge.net/) 
@@ -236,7 +240,9 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Backgammon).
 
 ### [bashmaze](https://github.com/phoemur/bashmaze) 
 
-A maze game writen completely in shell-script, based on Joe Wingbermuehle's maze generator.
+[![asciicast](https://asciinema.org/a/486297.svg)](https://asciinema.org/a/486297)
+
+A maze game writen completely in shell-script.
 
 
 ### [bastet](http://fph.altervista.org/prog/bastet.html) 
@@ -260,7 +266,9 @@ A tropical adventure game. It's a BSD game.
 
 ### [bcd](https://man.openbsd.org/bcd.6) 
 
-punched card
+[![asciicast](https://asciinema.org/a/486305.svg)](https://asciinema.org/a/486305)
+
+Punched card. It's a BSD game.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Punched_card).
 
@@ -286,6 +294,8 @@ A block-based puzzle game.
 
 
 ### [bluemoon](http://www.catb.org/~esr/bluemoon/) 
+
+[![asciicast](https://asciinema.org/a/486306.svg)](https://asciinema.org/a/486306)
 
 The Blue Moon card solitaire.
 
@@ -342,6 +352,8 @@ Python bowling game using the Blessed terminal library.
 
 
 ### [braincurses](https://sourceforge.net/projects/braincurses/) 
+
+[![asciicast](https://asciinema.org/a/486307.svg)](https://asciinema.org/a/486307)
 
 A nice version of the mastermind game.
 
@@ -656,7 +668,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Factorization).
 
 ### [fbird](https://github.com/nanochess/fbird) [Screencast](https://www.youtube.com/watch?v=p31XFFAeze4) 
 
-F-Bird, a text bootsector game
+F-Bird, a text bootsector game.
 
 
 ### [Fifteen Puzzle](http://tldp.org/LDP/abs/html/contributed-scripts.html#FIFTEEN) 
@@ -758,7 +770,11 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 ### [gnugo](https://www.gnu.org/software/gnugo/) 
 
+[![asciicast](https://asciinema.org/a/486319.svg)](https://asciinema.org/a/486319)
+
 GNU Go is a free program that plays the game of Go.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Go_(game)).
 
 
 ### [gnuski](https://sourceforge.net/projects/gnuski/) 
@@ -792,10 +808,12 @@ An free/opensource casino text-console game with 5 slot machines, 3 roulette tab
 
 ### [grdc](https://man.openbsd.org/grdc.6) 
 
-grand digital clock (curses)
+Grand digital clock.
 
 
 ### [greed](http://www.catb.org/~esr/greed/) 
+
+[![asciicast](https://asciinema.org/a/486320.svg)](https://asciinema.org/a/486320)
 
 A puzzle game with numbers. You must remove as many numbers as you can according to the rules.
 
@@ -1422,6 +1440,8 @@ Simple ASCII terminal hexagonal map roguelike written in Rust.
 
 ### [robots](https://man.openbsd.org/robots.6) 
 
+[![asciicast](https://asciinema.org/a/486323.svg)](https://asciinema.org/a/486323)
+
 Fight off villainous robots. It's a BSD game.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Robots_%28BSD_game%29).
@@ -1476,6 +1496,8 @@ A command line version of the card game Rummy with competitive Computer Agent wr
 
 
 ### [sail](https://man.openbsd.org/sail.6) 
+
+[![asciicast](https://asciinema.org/a/486324.svg)](https://asciinema.org/a/486324)
 
 Multi-user wooden ships and iron men. It's a BSD game.
 
@@ -1581,7 +1603,7 @@ Boot Sector version of the 15 number slider puzzle.
 
 ### [snake](https://man.openbsd.org/snake.6) 
 
-[![asciicast](https://asciinema.org/a/35799.svg)](https://asciinema.org/a/35799) 
+[![asciicast](https://asciinema.org/a/486325.svg)](https://asciinema.org/a/486325)
 
 A quick and easy turn-based survival game; you have to move without being caught by a snake. It's a BSD game.
 
@@ -1593,7 +1615,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 ### [snake](ftp://ftp.simtreas.ru/pub/my/snake.c.gz) 
 
-snake game
+Snake game.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
@@ -1605,14 +1627,14 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 [![asciicast](https://asciinema.org/a/1715.svg)](https://asciinema.org/a/1715) 
 
-snake game
+Snake game.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 
 ### [asm_snake](https://gitlab.com/pmikkelsen/asm_snake) 
 
-asm_snake is a small snake game written in x86 assembly. It is a small (less than 512 bytes) 16-bit program which runs in real mode directly from the bootsector of a drive.
+Small snake game written in x86 assembly. It runs in real mode directly from the bootsector of a drive.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
@@ -1640,7 +1662,7 @@ A fully playable version of the sokoban game, but a little hacking has to be don
 
 ### [sokoban](https://ish.works/bootsector/bootsector.html) 
 
-sokoban in a boot sector
+Sokoban in a boot sector.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Sokoban).
 
@@ -1979,6 +2001,8 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/WarGames).
 
 
 ### [worm](https://man.openbsd.org/worm.6) 
+
+[![asciicast](https://asciinema.org/a/486326.svg)](https://asciinema.org/a/486326)
 
 A version of the arcade game worm (sometimes called snake or nibbles). It's a BSD game.
 
