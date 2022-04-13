@@ -35,7 +35,7 @@
   # shot: http://ascii-patrol.com/ascii-patrol.gif
   # screenshots http://ascii-patrol.com/gallery.html
 
-- name: abura tan
+- name: aburatan
   url: http://aburatan.sourceforge.net/
   info: is a roguelike game of Cowboy Knights and Lurking Horror.
 
@@ -43,9 +43,9 @@
   url: https://code.google.com/archive/p/ad-astra-game/
   info: is a turn-based space strategy game.
 
-- name: ADOM (Ancient Domains of Mystery)
+- name: adom
   url: https://www.adom.de/
-  info: is a roguelike game.
+  info: is a roguelike game ADOM (Ancient Domains of Mystery).
   wikipedia: https://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery
   # shot: https://upload.wikimedia.org/wikipedia/ru/6/69/Adom_big.gif
 
@@ -63,8 +63,10 @@
 - name: alienwave
   url: https://www.alessandropira.org/alienwave/aw.html
   info: is a clone of Space Invaders game.
+  wikipedia: https://en.wikipedia.org/wiki/Space_Invaders
+  screencast: https://asciinema.org/a/486887
   
-- name: Allure of the Stars
+- name: allureofthestars
   url: http://www.allureofthestars.com/
   info: is a roguelike and tactical squad combat game.
   screencast: http://www.allureofthestars.com/play  
@@ -161,6 +163,8 @@
 - name: bastet
   url: http://fph.altervista.org/prog/bastet.html
   info: Bastet (short for Bastard Tetris).
+  screencast: https://asciinema.org/a/486931
+  wikipedia: https://en.wikipedia.org/wiki/Tetris
 
 - name: battleships
   url: http://www.catb.org/~esr/bs/
@@ -210,6 +214,7 @@
 - name: BootRogue
   url: https://github.com/nanochess/bootRogue
   info: is a roguelike game that fits in a boot sector (510 bytes).
+  screencast: https://asciinema.org/a/487008
 
 - name: boggle
   url: https://man.openbsd.org/boggle.6
@@ -240,6 +245,7 @@
 - name: Bricks
   url: https://github.com/nanochess/bricks
   info: A game of bricks and paddle on one boot sector (510 bytes).
+  screencast: https://asciinema.org/a/487020
 
 - name: Bricks
   url: https://github.com/jaens/bricks-cport
@@ -328,16 +334,20 @@
 - name: chroma
   url: http://www.level7.org.uk/chroma/
   info: is a challenging puzzle game.
+  play: http://www.level7.org.uk/chroma/chroma.html
+  screencast: https://asciinema.org/a/486998
 
 - name: ckhet
   url: https://mbays.freeshell.org/ckhet/
   info: is a clone of Khet laser board game.
   play: "ssh ckhet@sshgames.thegonz.net; password: ckhet"
+  # shot: https://mbays.freeshell.org/ckhet/ckhet.png
 
 - name: clines
   url: http://web.archive.org/web/20190327173340/http://manticore.2y.net/prj/clines-a.html
   info: is a clone of Color Lines game.
   wikipedia: https://ru.wikipedia.org/wiki/Color_Lines
+  screencast: https://asciinema.org/a/486945
 
 - name: clines
   url: https://github.com/veselov/clines
@@ -349,6 +359,7 @@
   url: https://www.muppetlabs.com/~breadbox/software/cgames.html
   info: is a clone of Minesweeper game.
   wikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
+  screencast: https://asciinema.org/a/486954
 
 - name: cnibbles
   url: http://cnibbles.sourceforge.net
@@ -386,6 +397,7 @@
 - name: cpat
   url: http://cpat.sourceforge.net/
   info: is a card game; it is a collection of many solitaire/patience games.
+  screencast: https://asciinema.org/a/487001
 
 - name: crawl
   url: https://crawl.develz.org/wordpress/
@@ -412,6 +424,7 @@
   info: is a clone of Tetris game.
   # https://vadim.oversigma.com/Tetris.htm
   screencast: https://asciinema.org/a/486703
+  wikipedia: https://en.wikipedia.org/wiki/Tetris
 
 - name: cursedmate
   url: https://web.archive.org/web/20130804035452/http://www.uberwall.org/~dash/
@@ -507,7 +520,7 @@
 - name: fbird
   url: https://github.com/nanochess/fbird
   info: is a text bootsector game.
-  screencast: https://www.youtube.com/watch?v=p31XFFAeze4
+  screencast: https://asciinema.org/a/487025
   
 - name: Fifteen Puzzle
   url: http://tldp.org/LDP/abs/html/contributed-scripts.html#FIFTEEN
@@ -537,8 +550,9 @@
   url: https://code.google.com/archive/p/freesweep/
   info: is a clone of Minesweeper game.
   wikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
+  screencast: https://asciinema.org/a/486999
 
-- name: freesweep
+- name: freesweep-rwestlund
   url: https://github.com/rwestlund/freesweep
   info: is a clone of Minesweeper game.
   wikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
@@ -547,6 +561,7 @@
   url: https://sourceforge.net/projects/fkmines/
   info: is a clone of Minesweeper game.
   wikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
+  screencast: https://asciinema.org/a/486970
 
 - name: frozen depths
   url: https://frozendepths.net/
@@ -557,9 +572,10 @@
   info: is an interpreter for Infocom games and other Z-machine games.
   screencast: https://asciinema.org/a/372170
   
-- name: ft_retro (a Space Invaders clone)
+- name: ft_retro
   url: https://gitlab.com/Heagan/ft_retro
-  info: is a shooting game made.
+  info: is a clone of Space Invaders game.
+  wikipedia: https://en.wikipedia.org/wiki/Space_Invaders
 
 - name: galaxis
   url: http://www.catb.org/esr/galaxis/
@@ -573,9 +589,11 @@
   url: http://www.gearheadrpg.com/
   info: is the first roguelike to explore the world of “mechas” (giant robots).
 
-- name: gnake
-  info: is a clone of a Snake game with a smooth movement.
+- name: ascii-snake
+  info: is a clone of a Snake game.
   wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
+  url: https://github.com/cyphar/ascii-snake
+  screencast: https://asciinema.org/a/487004
 
 - name: gnugo
   url: https://www.gnu.org/software/gnugo/
@@ -693,6 +711,8 @@
   url: https://github.com/nanochess/invaders
   info: is a clone of Space Invaders game in 512 bytes (boot sector).
   screencast: https://www.youtube.com/watch?v=pC976eejfms
+  wikipedia: https://en.wikipedia.org/wiki/Space_Invaders
+  # shot: https://raw.githubusercontent.com/nanochess/Invaders/master/invaders.png
 
 - name: just-asteroids
   url: https://github.com/gabrielvictorcf/just-asteroids
@@ -704,11 +724,13 @@
   info: is a clone of Space Invaders game.
   screencast: https://asciinema.org/a/34018
   play: telnet or ssh on sdf.org
+  wikipedia: https://en.wikipedia.org/wiki/Space_Invaders
 
 - name: ninvaders
   url: http://ninvaders.sourceforge.net/
   info: is a clone of Space Invaders game.
   play: telnet or ssh on sdf.org
+  wikipedia: https://en.wikipedia.org/wiki/Space_Invaders
 
 
 
@@ -723,10 +745,14 @@
 
 - name: Legend of the Red Dragon
   url: http://lord.lordlegacy.com/
-  info: Legend of the Red Dragon (LORD) is a text-based online role-playing game.
+  info: is a text-based online role-playing game.
   wikipedia: https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon
   play: telnet darkrealms.ca
 
+- name: lights
+  url: https://github.com/nanochess/lights
+  info: is a boot sector game.
+  screencast: https://asciinema.org/a/487018
 
 - name: katamascii
   url: https://github.com/taviso/katamascii
@@ -862,6 +888,8 @@
 - name: nclife
   url: https://github.com/mikepierce/ncLife
   info: is a Conway's Game of Life.
+  screencast: https://asciinema.org/a/486901
+  wikipedia: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 - name: nethack
   url: https://www.nethack.org/
@@ -873,15 +901,23 @@
   url: https://ftp.fr.openbsd.org/pub/OpenBSD/distfiles/netris-0.52.tar.gz
   info: is a networked version of t*tris.
 
-- name: netris (2019)
+- name: go-netris
   url: http://web.archive.org/web/20200112024309/https://git.sr.ht/~tslocum/netris
   info: is a clone of Tetris game featuring competitive online multiplayer.
   play: ssh netris.rocketnine.space
+  wikipedia: https://en.wikipedia.org/wiki/Tetris
+
+- name: c-netris
+  url: https://github.com/naclander/netris
+  info: is a clone of Tetris game featuring competitive online multiplayer.
+  screencast: https://asciinema.org/a/486899
+  wikipedia: https://en.wikipedia.org/wiki/Tetris
 
 - name: nettoe
   url: http://nettoe.sourceforge.net/
   info: is a clone of Tic Tac Toe game.
   screencast: https://asciinema.org/a/35969
+  wikipedia: https://en.wikipedia.org/wiki/Tic-tac-toe
 
 - name: nibbles
   url: https://www.earth.li/projectpurple/progs/nibbles.html
@@ -924,8 +960,8 @@
 
 - name: nuzzle
   url: https://github.com/dead-end/nuzzle
-  info: is a puzzle game collection.
-  # screencast: https://github.com/dead-end/nuzzle/blob/master/res/nuzzle-example.gif?raw=true
+  info: is a puzzle game collection (N-curses p-UZZLE).
+  screencast: https://asciinema.org/a/486907
 
 
 
@@ -957,7 +993,8 @@
 
 - name: ox3d
   url: https://www.mipmip.org/C_games/
-  info: "An aggressive 3D Noughts & Crosses player, developed in 1976. The player incorporates the knowledge of the three-in-a-plane forcing patterns and quite spontaneously discovered that plane-forks are deadlier than one would have thought. It can offer suggestions and can be made to play against itself."
+  info: is an aggressive 3D Noughts & Crosses player.
+  screencast: https://asciinema.org/a/487029
 
 
 
@@ -998,6 +1035,7 @@
   url: https://github.com/nanochess/pillman
   info: is a clone of Pacman game in 512 bytes (boot sector or COM file).
   screencast: https://www.youtube.com/watch?v=ALBgsXOq11o
+  # shot: https://raw.githubusercontent.com/nanochess/Pillman/master/pillman.png
   
 - name: pinochle
   info: is a three-player card game.
@@ -1090,11 +1128,8 @@
 
 - name: gnu-robots
   url: https://www.gnu.org/software/gnurobots/readme.html
-  info: "GNU Robots is a game/diversion where you construct a program for a
-little robot, then watch him explore a world. The world is filled with baddies
-that can hurt you, objects that you can bump into, and food that you can eat.
-The goal of the game is to collect as many prizes as possible before are killed
-by a baddie or you run out of energy."
+  info: is a game/diversion where you construct a program for a little robot, then watch him explore a world. The world is filled with baddies that can hurt you, objects that you can bump into, and food that you can eat. The goal of the game is to collect as many prizes as possible before are killed by a baddie or you run out of energy.
+  wikipedia: https://en.wikipedia.org/wiki/Robots_%28BSD_game%29
 
 - name: robotfindskitten
   url: http://robotfindskitten.org/
@@ -1310,17 +1345,17 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 
 - name: taipan
   url: http://www.ibiblio.org/pub/linux/games/textrpg
-  info: "Modern version of Art Canfil's classic, Taipan."
+  info: is a modern version of Art Canfil's classic, Taipan. Sail the South Pacific and accumulate wealth while avoiding pirates.
 
 - name: telnet-games
   url: https://github.com/Milek7/telnet-games
-  info: Several arcade games
-  play: telnet milek7.gq
+  info: Several arcade games.
+  play: telnet milek7.gq 23
   
 - name: terminal-frogger
   url: https://github.com/mfey619/Terminal-Frogger
   info: is a frogger-themed game.
-  screencast: https://asciinema.org/a/zS5dHHiX3TahTpQUznsObDtAp
+  screencast: https://asciinema.org/a/487030
   
 - name: terminal-phase
   url: https://gitlab.com/dustyweb/terminal-phase
@@ -1340,6 +1375,14 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: is a clone of Tetris game. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Tetris
   # https://vadim.oversigma.com/Tetris.htm
+  screencast: https://asciinema.org/a/486892
+
+- name: tetranglix
+  url: https://github.com/nanochess/tetranglix
+  info: is a clone of Tetris game.
+  wikipedia: https://en.wikipedia.org/wiki/Tetris
+  # https://vadim.oversigma.com/Tetris.htm
+  screencast: https://asciinema.org/a/487013
 
 - name: berk76-tetris
   url: https://github.com/berk76/tetris
@@ -1363,10 +1406,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: tint
   info: is a clone of Tetris game (Tint Is Not Tetris).
   wikipedia: https://en.wikipedia.org/wiki/Tetris
+  screencast: https://asciinema.org/a/486879
 
 - name: threes
   url: https://github.com/harshjv/threes-c
-  info: Threes!
+  info: is a clone of Threes! game.
   screencast: https://asciinema.org/a/18135
 
 - name: tictactoe
@@ -1382,6 +1426,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: Toledo-Atomchess
   url: https://github.com/nanochess/Toledo-Atomchess
   info: is the world's smallest chess program in x86 assembly code.
+  screencast: https://asciinema.org/a/487011
 
 - name: Tom Bombem
   url: http://www.deater.net/weave/vmwprod/tb1/
@@ -1465,7 +1510,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: Unnamed Fiefdom Game
   url: https://github.com/Sheeves11/UnnamedFiefdomGame/
   info: is a text-based MMO about controlling fiefdoms, farming gold, and stealing from your enemies!
-  screencast: https://asciinema.org/a/Wdg38v6VaiZ4FrQa5ZViRJBd4
+  screencast: https://asciinema.org/a/486908
 
 - name: unnethack
   url: https://sourceforge.net/projects/unnethack/
@@ -1481,6 +1526,8 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: vadorz
   url: https://code.google.com/archive/p/vadorz/
   info: is a clone of Space Invaders game with simple graphics.
+  screencast: https://asciinema.org/a/486872
+  wikipedia: https://en.wikipedia.org/wiki/Space_Invaders
 
 - name: vagabondo
   url: ftp://ftp.simtreas.ru/pub/my/vagabondo.c.gz
@@ -1492,13 +1539,13 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
 - name: venzone
   url: http://ariis.it/static/articles/venzone/page.html
   info: is a platform/adventure game.
-  screencast: https://asciinema.org/a/M3Ajf1KijstA3Fmi5Iq1W8urk
+  screencast: https://asciinema.org/a/486868
 
 - name: VIper
   url: https://gir.st/viper.html
   info: is a clone of Snake game with hjkl (vi) and cursor key control.
   # displays slightly broken due to https://github.com/asciinema/asciinema-player/issues/34
-  screencast: https://asciinema.org/a/268CCfMwk4bbtVGNyX9acrOAe
+  screencast: https://asciinema.org/a/486867
 
 - name: vitetris
   url: http://victornils.net/tetris/
