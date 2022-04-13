@@ -86,7 +86,7 @@ is a clone of "Moon Patrol" game.
 **Play**: ```http://ascii-patrol.com/area51/ascii-patrol-html5.html```
 
 
-### [abura tan](http://aburatan.sourceforge.net/) 
+### [aburatan](http://aburatan.sourceforge.net/) 
 
 is a roguelike game of Cowboy Knights and Lurking Horror.
 
@@ -96,9 +96,9 @@ is a roguelike game of Cowboy Knights and Lurking Horror.
 is a turn-based space strategy game.
 
 
-### [ADOM (Ancient Domains of Mystery)](https://www.adom.de/) 
+### [adom](https://www.adom.de/) 
 
-is a roguelike game.
+is a roguelike game ADOM (Ancient Domains of Mystery).
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery).
 
@@ -120,10 +120,14 @@ is a tactical roguelike game, inspired by the "Aliens" movie.
 
 ### [alienwave](https://www.alessandropira.org/alienwave/aw.html) 
 
+[![asciicast](https://asciinema.org/a/486887.svg)](https://asciinema.org/a/486887) 
+
 is a clone of Space Invaders game.
 
+See also [Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders).
 
-### [Allure of the Stars](http://www.allureofthestars.com/) [Screencast](http://www.allureofthestars.com/play) 
+
+### [allureofthestars](http://www.allureofthestars.com/) [Screencast](http://www.allureofthestars.com/play) 
 
 is a roguelike and tactical squad combat game.
 
@@ -249,7 +253,11 @@ A maze game writen completely in shell-script.
 
 ### [bastet](http://fph.altervista.org/prog/bastet.html) 
 
+[![asciicast](https://asciinema.org/a/486931.svg)](https://asciinema.org/a/486931) 
+
 Bastet (short for Bastard Tetris).
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 
 ### [battleships](http://www.catb.org/~esr/bs/) 
@@ -319,6 +327,8 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
 
 ### [BootRogue](https://github.com/nanochess/bootRogue) 
 
+[![asciicast](https://asciinema.org/a/487008.svg)](https://asciinema.org/a/487008) 
+
 is a roguelike game that fits in a boot sector (510 bytes).
 
 
@@ -361,6 +371,8 @@ A nice version of the mastermind game.
 
 
 ### [Bricks](https://github.com/nanochess/bricks) 
+
+[![asciicast](https://asciinema.org/a/487020.svg)](https://asciinema.org/a/487020) 
 
 A game of bricks and paddle on one boot sector (510 bytes).
 
@@ -466,7 +478,12 @@ is a highly unusual "infinite" adventure game.
 
 ### [chroma](http://www.level7.org.uk/chroma/) 
 
+[![asciicast](https://asciinema.org/a/486998.svg)](https://asciinema.org/a/486998) 
+
 is a challenging puzzle game.
+
+
+**Play**: ```http://www.level7.org.uk/chroma/chroma.html```
 
 
 ### [ckhet](https://mbays.freeshell.org/ckhet/) 
@@ -478,6 +495,8 @@ is a clone of Khet laser board game.
 
 
 ### [clines](http://web.archive.org/web/20190327173340/http://manticore.2y.net/prj/clines-a.html) 
+
+[![asciicast](https://asciinema.org/a/486945.svg)](https://asciinema.org/a/486945) 
 
 is a clone of Color Lines game.
 
@@ -494,6 +513,8 @@ See also [Wikipedia](https://ru.wikipedia.org/wiki/Color_Lines).
 
 
 ### [cmines](https://www.muppetlabs.com/~breadbox/software/cgames.html) 
+
+[![asciicast](https://asciinema.org/a/486954.svg)](https://asciinema.org/a/486954) 
 
 is a clone of Minesweeper game.
 
@@ -551,6 +572,8 @@ is a programming game in which two or more battle programs (called “warriors�
 
 ### [cpat](http://cpat.sourceforge.net/) 
 
+[![asciicast](https://asciinema.org/a/487001.svg)](https://asciinema.org/a/487001) 
+
 is a card game; it is a collection of many solitaire/patience games.
 
 
@@ -587,6 +610,8 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Solitaire).
 [![asciicast](https://asciinema.org/a/486703.svg)](https://asciinema.org/a/486703) 
 
 is a clone of Tetris game.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 
 ### [cursedmate](https://web.archive.org/web/20130804035452/http://www.uberwall.org/~dash/) 
@@ -708,7 +733,9 @@ is a factor a number, generate primes.
 See also [Wikipedia](https://en.wikipedia.org/wiki/Factorization).
 
 
-### [fbird](https://github.com/nanochess/fbird) [Screencast](https://www.youtube.com/watch?v=p31XFFAeze4) 
+### [fbird](https://github.com/nanochess/fbird) 
+
+[![asciicast](https://asciinema.org/a/487025.svg)](https://asciinema.org/a/487025) 
 
 is a text bootsector game.
 
@@ -749,12 +776,14 @@ is a clone of the popular and addictive solitaire game.
 
 ### [freesweep](https://code.google.com/archive/p/freesweep/) 
 
+[![asciicast](https://asciinema.org/a/486999.svg)](https://asciinema.org/a/486999) 
+
 is a clone of Minesweeper game.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
 
 
-### [freesweep](https://github.com/rwestlund/freesweep) 
+### [freesweep-rwestlund](https://github.com/rwestlund/freesweep) 
 
 is a clone of Minesweeper game.
 
@@ -762,6 +791,8 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
 
 
 ### [fkmines](https://sourceforge.net/projects/fkmines/) 
+
+[![asciicast](https://asciinema.org/a/486970.svg)](https://asciinema.org/a/486970) 
 
 is a clone of Minesweeper game.
 
@@ -780,9 +811,11 @@ is a roguelike game with an entertaining atmosphere.
 is an interpreter for Infocom games and other Z-machine games.
 
 
-### [ft_retro (a Space Invaders clone)](https://gitlab.com/Heagan/ft_retro) 
+### [ft_retro](https://gitlab.com/Heagan/ft_retro) 
 
-is a shooting game made.
+is a clone of Space Invaders game.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders).
 
 
 ### [galaxis](http://www.catb.org/esr/galaxis/) 
@@ -803,9 +836,11 @@ Find the lost lifeboats from an interstellar liner.
 is the first roguelike to explore the world of “mechas” (giant robots).
 
 
-### gnake 
+### [ascii-snake](https://github.com/cyphar/ascii-snake) 
 
-is a clone of a Snake game with a smooth movement.
+[![asciicast](https://asciinema.org/a/487004.svg)](https://asciinema.org/a/487004) 
+
+is a clone of a Snake game.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
@@ -969,6 +1004,8 @@ A game of competitive puzzle-design. At its core, this is an abstract turn-based
 
 is a clone of Space Invaders game in 512 bytes (boot sector).
 
+See also [Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders).
+
 
 ### [just-asteroids](https://github.com/gabrielvictorcf/just-asteroids) 
 
@@ -983,6 +1020,8 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Asteroids_(video_game)).
 
 is a clone of Space Invaders game.
 
+See also [Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders).
+
 
 **Play**: ```telnet or ssh on sdf.org```
 
@@ -990,6 +1029,8 @@ is a clone of Space Invaders game.
 ### [ninvaders](http://ninvaders.sourceforge.net/) 
 
 is a clone of Space Invaders game.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders).
 
 
 **Play**: ```telnet or ssh on sdf.org```
@@ -1010,12 +1051,19 @@ Exploring the caverns of Larn. It's a BSD game.
 
 ### [Legend of the Red Dragon](http://lord.lordlegacy.com/) 
 
-Legend of the Red Dragon (LORD) is a text-based online role-playing game.
+is a text-based online role-playing game.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon).
 
 
 **Play**: ```telnet darkrealms.ca```
+
+
+### [lights](https://github.com/nanochess/lights) 
+
+[![asciicast](https://asciinema.org/a/487018.svg)](https://asciinema.org/a/487018) 
+
+is a boot sector game.
 
 
 ### [katamascii](https://github.com/taviso/katamascii) 
@@ -1198,7 +1246,11 @@ is a game in the genre of Namco's Pac-Man.
 
 ### [nclife](https://github.com/mikepierce/ncLife) 
 
+[![asciicast](https://asciinema.org/a/486901.svg)](https://asciinema.org/a/486901) 
+
 is a Conway's Game of Life.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 
 ### [nethack](https://www.nethack.org/) 
@@ -1216,12 +1268,23 @@ is a single player dungeon exploration game.
 is a networked version of t*tris.
 
 
-### [netris (2019)](http://web.archive.org/web/20200112024309/https://git.sr.ht/~tslocum/netris) 
+### [go-netris](http://web.archive.org/web/20200112024309/https://git.sr.ht/~tslocum/netris) 
 
 is a clone of Tetris game featuring competitive online multiplayer.
 
+See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
+
 
 **Play**: ```ssh netris.rocketnine.space```
+
+
+### [c-netris](https://github.com/naclander/netris) 
+
+[![asciicast](https://asciinema.org/a/486899.svg)](https://asciinema.org/a/486899) 
+
+is a clone of Tetris game featuring competitive online multiplayer.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 
 ### [nettoe](http://nettoe.sourceforge.net/) 
@@ -1229,6 +1292,8 @@ is a clone of Tetris game featuring competitive online multiplayer.
 [![asciicast](https://asciinema.org/a/35969.svg)](https://asciinema.org/a/35969) 
 
 is a clone of Tic Tac Toe game.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe).
 
 
 ### [nibbles](https://www.earth.li/projectpurple/progs/nibbles.html) 
@@ -1287,7 +1352,9 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Sudoku).
 
 ### [nuzzle](https://github.com/dead-end/nuzzle) 
 
-is a puzzle game collection.
+[![asciicast](https://asciinema.org/a/486907.svg)](https://asciinema.org/a/486907) 
+
+is a puzzle game collection (N-curses p-UZZLE).
 
 
 ### [okiworld](http://freshmeat.sourceforge.net/projects/okiworld) 
@@ -1320,7 +1387,9 @@ is a two-player board game.
 
 ### [ox3d](https://www.mipmip.org/C_games/) 
 
-An aggressive 3D Noughts & Crosses player, developed in 1976. The player incorporates the knowledge of the three-in-a-plane forcing patterns and quite spontaneously discovered that plane-forks are deadlier than one would have thought. It can offer suggestions and can be made to play against itself.
+[![asciicast](https://asciinema.org/a/487029.svg)](https://asciinema.org/a/487029) 
+
+is an aggressive 3D Noughts & Crosses player.
 
 
 ### [pacman](http://slaout.linux62.org/pacman/index.html) 
@@ -1506,7 +1575,9 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Robots_%28BSD_game%29).
 
 ### [gnu-robots](https://www.gnu.org/software/gnurobots/readme.html) 
 
-GNU Robots is a game/diversion where you construct a program for a little robot, then watch him explore a world. The world is filled with baddies that can hurt you, objects that you can bump into, and food that you can eat. The goal of the game is to collect as many prizes as possible before are killed by a baddie or you run out of energy.
+is a game/diversion where you construct a program for a little robot, then watch him explore a world. The world is filled with baddies that can hurt you, objects that you can bump into, and food that you can eat. The goal of the game is to collect as many prizes as possible before are killed by a baddie or you run out of energy.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Robots_%28BSD_game%29).
 
 
 ### [robotfindskitten](http://robotfindskitten.org/) 
@@ -1794,20 +1865,20 @@ is a chess engine in 111 lines of code.
 
 ### [taipan](http://www.ibiblio.org/pub/linux/games/textrpg) 
 
-Modern version of Art Canfil's classic, Taipan.
+is a modern version of Art Canfil's classic, Taipan. Sail the South Pacific and accumulate wealth while avoiding pirates.
 
 
 ### [telnet-games](https://github.com/Milek7/telnet-games) 
 
-Several arcade games
+Several arcade games.
 
 
-**Play**: ```telnet milek7.gq```
+**Play**: ```telnet milek7.gq 23```
 
 
 ### [terminal-frogger](https://github.com/mfey619/Terminal-Frogger) 
 
-[![asciicast](https://asciinema.org/a/zS5dHHiX3TahTpQUznsObDtAp.svg)](https://asciinema.org/a/zS5dHHiX3TahTpQUznsObDtAp) 
+[![asciicast](https://asciinema.org/a/487030.svg)](https://asciinema.org/a/487030) 
 
 is a frogger-themed game.
 
@@ -1828,7 +1899,18 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 ### [tetris](https://man.openbsd.org/tetris.6) 
 
+[![asciicast](https://asciinema.org/a/486892.svg)](https://asciinema.org/a/486892) 
+
 is a clone of Tetris game. It's a BSD game.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
+
+
+### [tetranglix](https://github.com/nanochess/tetranglix) 
+
+[![asciicast](https://asciinema.org/a/487013.svg)](https://asciinema.org/a/487013) 
+
+is a clone of Tetris game.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
@@ -1860,6 +1942,8 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 ### tint 
 
+[![asciicast](https://asciinema.org/a/486879.svg)](https://asciinema.org/a/486879) 
+
 is a clone of Tetris game (Tint Is Not Tetris).
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
@@ -1869,7 +1953,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 [![asciicast](https://asciinema.org/a/18135.svg)](https://asciinema.org/a/18135) 
 
-Threes!
+is a clone of Threes! game.
 
 
 ### [tictactoe](ftp://ftp.ibiblio.org/pub/linux/games/strategy/tictac2-0.6.tgz) 
@@ -1887,6 +1971,8 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe).
 
 
 ### [Toledo-Atomchess](https://github.com/nanochess/Toledo-Atomchess) 
+
+[![asciicast](https://asciinema.org/a/487011.svg)](https://asciinema.org/a/487011) 
 
 is the world's smallest chess program in x86 assembly code.
 
@@ -1993,7 +2079,7 @@ is an old and easy to play roguelike game.
 
 ### [Unnamed Fiefdom Game](https://github.com/Sheeves11/UnnamedFiefdomGame/) 
 
-[![asciicast](https://asciinema.org/a/Wdg38v6VaiZ4FrQa5ZViRJBd4.svg)](https://asciinema.org/a/Wdg38v6VaiZ4FrQa5ZViRJBd4) 
+[![asciicast](https://asciinema.org/a/486908.svg)](https://asciinema.org/a/486908) 
 
 is a text-based MMO about controlling fiefdoms, farming gold, and stealing from your enemies!
 
@@ -2012,7 +2098,11 @@ is a roguelike game written in Lisp.
 
 ### [vadorz](https://code.google.com/archive/p/vadorz/) 
 
+[![asciicast](https://asciinema.org/a/486872.svg)](https://asciinema.org/a/486872) 
+
 is a clone of Space Invaders game with simple graphics.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders).
 
 
 ### [vagabondo](ftp://ftp.simtreas.ru/pub/my/vagabondo.c.gz) 
@@ -2025,14 +2115,14 @@ is a roguelike game set on a paradise island of Fortarica.
 
 ### [venzone](http://ariis.it/static/articles/venzone/page.html) 
 
-[![asciicast](https://asciinema.org/a/M3Ajf1KijstA3Fmi5Iq1W8urk.svg)](https://asciinema.org/a/M3Ajf1KijstA3Fmi5Iq1W8urk) 
+[![asciicast](https://asciinema.org/a/486868.svg)](https://asciinema.org/a/486868) 
 
 is a platform/adventure game.
 
 
 ### [VIper](https://gir.st/viper.html) 
 
-[![asciicast](https://asciinema.org/a/268CCfMwk4bbtVGNyX9acrOAe.svg)](https://asciinema.org/a/268CCfMwk4bbtVGNyX9acrOAe) 
+[![asciicast](https://asciinema.org/a/486867.svg)](https://asciinema.org/a/486867) 
 
 is a clone of Snake game with hjkl (vi) and cursor key control.
 
