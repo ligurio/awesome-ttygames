@@ -354,6 +354,7 @@
   url: http://cnibbles.sourceforge.net
   info: is a clone of Nibbles game with good and smooth animations.
   wikipedia: https://en.wikipedia.org/wiki/Nibbles_(video_game)
+  screencast: https://asciinema.org/a/486713
 
 - name: Connect Four
   info: is a two-player slot game.
@@ -363,6 +364,7 @@
   url: https://github.com/badescunicu/connect4
   info: is a clone of Connect4 game.
   wikipedia: https://en.wikipedia.org/wiki/Connect_Four
+  screencast: https://asciinema.org/a/486711
 
 - name: beejjorgensen-conquest
   url: https://github.com/beejjorgensen/conquest
@@ -403,11 +405,13 @@
   url: https://github.com/nielssp/csol
   info: is a small collection of solitaire/patience games (Klondike, FreeCell, Spider, Yukon, etc.).
   wikipedia: https://en.wikipedia.org/wiki/Solitaire
+  screencast: https://asciinema.org/a/486707
 
 - name: ctris
   url: https://github.com/dominikhackl/ctris
   info: is a clone of Tetris game.
   # https://vadim.oversigma.com/Tetris.htm
+  screencast: https://asciinema.org/a/486703
 
 - name: cursedmate
   url: https://web.archive.org/web/20130804035452/http://www.uberwall.org/~dash/
@@ -446,6 +450,7 @@
 - name: doomrl
   url: https://drl.chaosforge.org/
   info: is a fast and furious coffee-break Roguelike game, that is heavily inspired by the popular FPS game Doom by ID Software.
+  wikipedia: https://en.wikipedia.org/wiki/DRL_(video_game)
 
 - name: dopewars
   url: https://dopewars.sourceforge.io/
