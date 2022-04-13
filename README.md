@@ -502,6 +502,8 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
 
 ### [cnibbles](http://cnibbles.sourceforge.net) 
 
+[![asciicast](https://asciinema.org/a/486713.svg)](https://asciinema.org/a/486713) 
+
 is a clone of Nibbles game with good and smooth animations.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Nibbles_(video_game)).
@@ -516,6 +518,8 @@ is a two-player slot game.
 
 
 ### [connect4](https://github.com/badescunicu/connect4) 
+
+[![asciicast](https://asciinema.org/a/486711.svg)](https://asciinema.org/a/486711) 
 
 is a clone of Connect4 game.
 
@@ -571,12 +575,16 @@ Escape From The Crypt.
 
 ### [csol](https://github.com/nielssp/csol) 
 
+[![asciicast](https://asciinema.org/a/486707.svg)](https://asciinema.org/a/486707) 
+
 is a small collection of solitaire/patience games (Klondike, FreeCell, Spider, Yukon, etc.).
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Solitaire).
 
 
 ### [ctris](https://github.com/dominikhackl/ctris) 
+
+[![asciicast](https://asciinema.org/a/486703.svg)](https://asciinema.org/a/486703) 
 
 is a clone of Tetris game.
 
@@ -632,6 +640,8 @@ is a number of games: The Pawn, The Guild of Thieves, Jinxter, Fish!, Myth, Corr
 ### [doomrl](https://drl.chaosforge.org/) 
 
 is a fast and furious coffee-break Roguelike game, that is heavily inspired by the popular FPS game Doom by ID Software.
+
+See also [Wikipedia](https://en.wikipedia.org/wiki/DRL_(video_game)).
 
 
 ### [dopewars](https://dopewars.sourceforge.io/) 
