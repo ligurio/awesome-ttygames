@@ -574,8 +574,9 @@
   
 - name: ft_retro
   url: https://gitlab.com/Heagan/ft_retro
-  info: is a clone of Space Invaders game.
-  wikipedia: https://en.wikipedia.org/wiki/Space_Invaders
+  info: is a shooting game.
+  screencast: https://asciinema.org/a/487578
+  # shot: https://gitlab.com/Heagan/ft_retro/-/raw/master/p_retro.png
 
 - name: galaxis
   url: http://www.catb.org/esr/galaxis/
@@ -695,16 +696,16 @@
 
 - name: imperium
   url: https://empiredirectory.net/
-  info: Imperium is a game of intergalactic exploration, warfare, and economics. Imperium has no set goal, and fairly flexible rules about what you can do, thus, while a single player could run their own game just for the fun of exploration, they would be missing out on most of the aspects of the game with no one to compete against.
+  info: is a game of intergalactic exploration, warfare, and economics. Imperium has no set goal, and fairly flexible rules about what you can do, thus, while a single player could run their own game just for the fun of exploration, they would be missing out on most of the aspects of the game with no one to compete against.
 
 - name: Infinite Cave Adventure
   url: http://www.dungeon.name
-  info: A roguelike game.
+  info: is a roguelike game.
   play: telnet dungeon.name 20028
 
 - name: intricacy
   url: http://mbays.sdf.org/intricacy/
-  info: A game of competitive puzzle-design. At its core, this is an abstract turn-based puzzle game in which you pick a lock by co-ordinating a pair of tools to manipulate its mechanism. The locks you pick are designed by other players; once you have figured out the secret of how to pick a lock, you must secure that secret behind a lock of your own devising.
+  info: is game of competitive puzzle-design. At its core, this is an abstract turn-based puzzle game in which you pick a lock by co-ordinating a pair of tools to manipulate its mechanism. The locks you pick are designed by other players; once you have figured out the secret of how to pick a lock, you must secure that secret behind a lock of your own devising.
   play: "ssh intricacy@sshgames.thegonz.net; password: intricacy"
 
 - name: Invaders
@@ -883,6 +884,7 @@
 - name: myman
   url: https://myman.sourceforge.io/
   info: is a game in the genre of Namco's Pac-Man.
+  screencast: https://asciinema.org/a/487037
 
 
 - name: nclife
@@ -1048,11 +1050,12 @@
 - name: piu-piu-SH
   url: https://github.com/vaniacer/piu-piu-SH
   info: is an old school horizontal scroller 'Shoot Them All' game.
-  screencast: https://asciinema.org/a/DDLzQOgSrqVa3yS6zBoc37rhj
+  screencast: https://asciinema.org/a/487583
 
 - name: plonx
   url: https://web.archive.org/web/20080704073046/http://bilious.homelinux.org/~paxed/plonx/
   info: is a small puzzle game.
+  screencast: https://asciinema.org/a/487041
 
 - name: Poker
   info: is a multi-player five-card draw.
@@ -1100,7 +1103,8 @@
 
 - name: pythrees
   url: https://github.com/yth/pythrees
-  info: Python curses homage to Threes!
+  info: is a clone of Threes! game.
+  screencast: https://asciinema.org/a/487042
 
 - name: pytris
   url: http://freshmeat.sourceforge.net/projects/pytris
@@ -1266,6 +1270,7 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://gitlab.com/pmikkelsen/asm_snake
   info: is a clone of Snake game written in x86 assembly. It runs in real mode directly from the bootsector of a drive.
   wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
+  screencast: https://asciinema.org/a/487046
 
 - name: soccer
   url: https://www.cs.cmu.edu/~trb/soccer/
@@ -1282,12 +1287,13 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   play: telnet or ssh on sdf.org
   wikipedia: https://en.wikipedia.org/wiki/Sokoban
 
-- name: sokoban
+- name: sokoban-bootsector
   url: https://ish.works/bootsector/bootsector.html
   info: is a clone of Sokoban game in a boot sector.
   #play: https://ish.works/bootsector/bootsector.html#play_online
   # screencast: https://ish.works/bootsector/sokoban_v1.0.gif
   wikipedia: https://en.wikipedia.org/wiki/Sokoban
+  screencast: https://asciinema.org/a/487049
 
 - name: solVItaire
   url: https://gir.st/sol.html
