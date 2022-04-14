@@ -813,9 +813,9 @@ is an interpreter for Infocom games and other Z-machine games.
 
 ### [ft_retro](https://gitlab.com/Heagan/ft_retro) 
 
-is a clone of Space Invaders game.
+[![asciicast](https://asciinema.org/a/487578.svg)](https://asciinema.org/a/487578) 
 
-See also [Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders).
+is a shooting game.
 
 
 ### [galaxis](http://www.catb.org/esr/galaxis/) 
@@ -981,12 +981,12 @@ is a roguelike game.
 
 ### [imperium](https://empiredirectory.net/) 
 
-Imperium is a game of intergalactic exploration, warfare, and economics. Imperium has no set goal, and fairly flexible rules about what you can do, thus, while a single player could run their own game just for the fun of exploration, they would be missing out on most of the aspects of the game with no one to compete against.
+is a game of intergalactic exploration, warfare, and economics. Imperium has no set goal, and fairly flexible rules about what you can do, thus, while a single player could run their own game just for the fun of exploration, they would be missing out on most of the aspects of the game with no one to compete against.
 
 
 ### [Infinite Cave Adventure](http://www.dungeon.name) 
 
-A roguelike game.
+is a roguelike game.
 
 
 **Play**: ```telnet dungeon.name 20028```
@@ -994,7 +994,7 @@ A roguelike game.
 
 ### [intricacy](http://mbays.sdf.org/intricacy/) 
 
-A game of competitive puzzle-design. At its core, this is an abstract turn-based puzzle game in which you pick a lock by co-ordinating a pair of tools to manipulate its mechanism. The locks you pick are designed by other players; once you have figured out the secret of how to pick a lock, you must secure that secret behind a lock of your own devising.
+is game of competitive puzzle-design. At its core, this is an abstract turn-based puzzle game in which you pick a lock by co-ordinating a pair of tools to manipulate its mechanism. The locks you pick are designed by other players; once you have figured out the secret of how to pick a lock, you must secure that secret behind a lock of your own devising.
 
 
 **Play**: ```ssh intricacy@sshgames.thegonz.net; password: intricacy```
@@ -1241,6 +1241,8 @@ Mutant Aliens! sees a spaceship 'dock safely' into the forest of a hostile alien
 
 ### [myman](https://myman.sourceforge.io/) 
 
+[![asciicast](https://asciinema.org/a/487037.svg)](https://asciinema.org/a/487037) 
+
 is a game in the genre of Namco's Pac-Man.
 
 
@@ -1457,12 +1459,14 @@ is a clone of Gomoku game.
 
 ### [piu-piu-SH](https://github.com/vaniacer/piu-piu-SH) 
 
-[![asciicast](https://asciinema.org/a/DDLzQOgSrqVa3yS6zBoc37rhj.svg)](https://asciinema.org/a/DDLzQOgSrqVa3yS6zBoc37rhj) 
+[![asciicast](https://asciinema.org/a/487583.svg)](https://asciinema.org/a/487583) 
 
 is an old school horizontal scroller 'Shoot Them All' game.
 
 
 ### [plonx](https://web.archive.org/web/20080704073046/http://bilious.homelinux.org/~paxed/plonx/) 
+
+[![asciicast](https://asciinema.org/a/487041.svg)](https://asciinema.org/a/487041) 
 
 is a small puzzle game.
 
@@ -1533,7 +1537,9 @@ is a rogue-like game.
 
 ### [pythrees](https://github.com/yth/pythrees) 
 
-Python curses homage to Threes!
+[![asciicast](https://asciinema.org/a/487042.svg)](https://asciinema.org/a/487042) 
+
+is a clone of Threes! game.
 
 
 ### [pytris](http://freshmeat.sourceforge.net/projects/pytris) 
@@ -1759,6 +1765,8 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 ### [asm_snake](https://gitlab.com/pmikkelsen/asm_snake) 
 
+[![asciicast](https://asciinema.org/a/487046.svg)](https://asciinema.org/a/487046) 
+
 is a clone of Snake game written in x86 assembly. It runs in real mode directly from the bootsector of a drive.
 
 See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
@@ -1789,7 +1797,9 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Sokoban).
 **Play**: ```telnet or ssh on sdf.org```
 
 
-### [sokoban](https://ish.works/bootsector/bootsector.html) 
+### [sokoban-bootsector](https://ish.works/bootsector/bootsector.html) 
+
+[![asciicast](https://asciinema.org/a/487049.svg)](https://asciinema.org/a/487049) 
 
 is a clone of Sokoban game in a boot sector.
 
