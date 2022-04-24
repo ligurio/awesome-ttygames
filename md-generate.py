@@ -21,7 +21,7 @@ for entry in ttygames:
             if m:
                 id = m.group(1)
                 screencast = (
-                    "[![asciicast](https://asciinema.org/a/%s.svg)](https://asciinema.org/a/%s)" % (id, id))
+                    "<script id=\"asciicast-%s\" src=\"https://asciinema.org/a/%s.js\" async></script>" % (id, id))
         else:
             header = header + " [Screencast](%s)" % entry['screencast']
 
