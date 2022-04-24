@@ -36,14 +36,14 @@ waived all copyright and related or neighboring rights to this work.
 
 ### [0verkill](https://github.com/hackndev/0verkill) 
 
-[![asciicast](https://asciinema.org/a/486195.svg)](https://asciinema.org/a/486195) 
+<script id="asciicast-486195" src="https://asciinema.org/a/486195.js" async></script> 
 
 is bloody 2D action deathmatch-like game.
 
 
 ### [2048](https://github.com/mevdschee/2048.c) 
 
-[![asciicast](https://asciinema.org/a/486174.svg)](https://asciinema.org/a/486174) 
+<script id="asciicast-486174" src="https://asciinema.org/a/486174.js" async></script> 
 
 is a clone of 2048 game.
 
@@ -52,7 +52,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/2048_(video_game)).
 
 ### [2048-cli](https://github.com/Tiehuis/2048-cli) 
 
-[![asciicast](https://asciinema.org/a/34067.svg)](https://asciinema.org/a/34067) 
+<script id="asciicast-34067" src="https://asciinema.org/a/34067.js" async></script> 
 
 is a clone of 2048 game.
 
@@ -71,7 +71,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/2048_(video_game)).
 
 ### [n2048](http://freshmeat.sourceforge.net/projects/n2048) 
 
-[![asciicast](https://asciinema.org/a/35973.svg)](https://asciinema.org/a/35973) 
+<script id="asciicast-35973" src="https://asciinema.org/a/35973.js" async></script> 
 
 is a clone on the highly addictive sliding puzzle 2048. Slide the tiles together to combine them, until you reach the highest one.
 
@@ -120,7 +120,7 @@ is a tactical roguelike game, inspired by the "Aliens" movie.
 
 ### [alienwave](https://www.alessandropira.org/alienwave/aw.html) 
 
-[![asciicast](https://asciinema.org/a/486887.svg)](https://asciinema.org/a/486887) 
+<script id="asciicast-486887" src="https://asciinema.org/a/486887.js" async></script> 
 
 is a clone of Space Invaders game.
 
@@ -141,7 +141,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Angband_(video_game)).
 
 ### [anonymine](https://oskog97.com/projects/anonymine/) 
 
-[![asciicast](https://asciinema.org/a/82455.svg)](https://asciinema.org/a/82455) 
+<script id="asciicast-82455" src="https://asciinema.org/a/82455.js" async></script> 
 
 is a clone of Minesweeper game solvable without guessing, and the only with von Neumann neighbourhoods.
 
@@ -151,7 +151,7 @@ is a clone of Minesweeper game solvable without guessing, and the only with von 
 
 ### [aop](https://raffi.at/view/code/aop) 
 
-[![asciicast](https://asciinema.org/a/34678.svg)](https://asciinema.org/a/34678) 
+<script id="asciicast-34678" src="https://asciinema.org/a/34678.js" async></script> 
 
 Ambassador of Pain (aop). A very nice and challenging arcade game.
 
@@ -165,7 +165,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Apple_Trek).
 
 ### [arkanoid-bash](https://github.com/bolknote/shellgames/blob/master/arcanoid.sh) 
 
-[![asciicast](https://asciinema.org/a/36415.svg)](https://asciinema.org/a/36415) 
+<script id="asciicast-36415" src="https://asciinema.org/a/36415.js" async></script> 
 
 is a clone of arcade game Arkanoid.
 
@@ -188,14 +188,14 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Arkanoid).
 
 ### [arithmetic](https://man.openbsd.org/arithmetic.6) 
 
-[![asciicast](https://asciinema.org/a/486298.svg)](https://asciinema.org/a/486298) 
+<script id="asciicast-486298" src="https://asciinema.org/a/486298.js" async></script> 
 
 Quiz on simple arithmetic. It's a BSD game.
 
 
 ### [asciijump](http://freshmeat.sourceforge.net/projects/asciijump) 
 
-[![asciicast](https://asciinema.org/a/31340.svg)](https://asciinema.org/a/31340) 
+<script id="asciicast-31340" src="https://asciinema.org/a/31340.js" async></script> 
 
 The ski-jumping ASCII game.
 
@@ -222,7 +222,7 @@ Astwar is a ncurses based game that features two little ships on each side of th
 
 ### [atc](https://man.openbsd.org/atc.6) 
 
-[![asciicast](https://asciinema.org/a/486304.svg)](https://asciinema.org/a/486304) 
+<script id="asciicast-486304" src="https://asciinema.org/a/486304.js" async></script> 
 
 Air traffic controller game. It's a BSD game.
 
@@ -246,14 +246,14 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Backgammon).
 
 ### [bashmaze](https://github.com/phoemur/bashmaze) 
 
-[![asciicast](https://asciinema.org/a/486297.svg)](https://asciinema.org/a/486297) 
+<script id="asciicast-486297" src="https://asciinema.org/a/486297.js" async></script> 
 
 A maze game writen completely in shell-script.
 
 
 ### [bastet](http://fph.altervista.org/prog/bastet.html) 
 
-[![asciicast](https://asciinema.org/a/486931.svg)](https://asciinema.org/a/486931) 
+<script id="asciicast-486931" src="https://asciinema.org/a/486931.js" async></script> 
 
 Bastet (short for Bastard Tetris).
 
@@ -262,7 +262,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 ### [battleships](http://www.catb.org/~esr/bs/) 
 
-[![asciicast](https://asciinema.org/a/486229.svg)](https://asciinema.org/a/486229) 
+<script id="asciicast-486229" src="https://asciinema.org/a/486229.js" async></script> 
 
 Uses character-cell graphics with a visual point-and-shoot interface.
 
@@ -276,7 +276,7 @@ A tropical adventure game. It's a BSD game.
 
 ### [bcd](https://man.openbsd.org/bcd.6) 
 
-[![asciicast](https://asciinema.org/a/486305.svg)](https://asciinema.org/a/486305) 
+<script id="asciicast-486305" src="https://asciinema.org/a/486305.js" async></script> 
 
 Punched card. It's a BSD game.
 
@@ -305,7 +305,7 @@ A block-based puzzle game.
 
 ### [bluemoon](http://www.catb.org/~esr/bluemoon/) 
 
-[![asciicast](https://asciinema.org/a/486306.svg)](https://asciinema.org/a/486306) 
+<script id="asciicast-486306" src="https://asciinema.org/a/486306.js" async></script> 
 
 The Blue Moon card solitaire.
 
@@ -327,7 +327,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
 
 ### [BootRogue](https://github.com/nanochess/bootRogue) 
 
-[![asciicast](https://asciinema.org/a/487008.svg)](https://asciinema.org/a/487008) 
+<script id="asciicast-487008" src="https://asciinema.org/a/487008.js" async></script> 
 
 is a roguelike game that fits in a boot sector (510 bytes).
 
@@ -344,7 +344,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Boggle).
 
 ### [bombardier](https://packages.debian.org/en/sid/i386/games/bombardier) 
 
-[![asciicast](https://asciinema.org/a/486231.svg)](https://asciinema.org/a/486231) 
+<script id="asciicast-486231" src="https://asciinema.org/a/486231.js" async></script> 
 
 Clone of the old Blitz16 game on Commodore 16/Plus 4.
 
@@ -358,21 +358,21 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Boulder_Dash).
 
 ### [bowling](https://github.com/haliphax/pybowl) 
 
-[![asciicast](https://asciinema.org/a/41475.svg)](https://asciinema.org/a/41475) 
+<script id="asciicast-41475" src="https://asciinema.org/a/41475.js" async></script> 
 
 Python bowling game using the Blessed terminal library.
 
 
 ### [braincurses](https://sourceforge.net/projects/braincurses/) 
 
-[![asciicast](https://asciinema.org/a/486307.svg)](https://asciinema.org/a/486307) 
+<script id="asciicast-486307" src="https://asciinema.org/a/486307.js" async></script> 
 
 A nice version of the mastermind game.
 
 
 ### [Bricks](https://github.com/nanochess/bricks) 
 
-[![asciicast](https://asciinema.org/a/487020.svg)](https://asciinema.org/a/487020) 
+<script id="asciicast-487020" src="https://asciinema.org/a/487020.js" async></script> 
 
 A game of bricks and paddle on one boot sector (510 bytes).
 
@@ -478,7 +478,7 @@ is a highly unusual "infinite" adventure game.
 
 ### [chroma](http://www.level7.org.uk/chroma/) 
 
-[![asciicast](https://asciinema.org/a/486998.svg)](https://asciinema.org/a/486998) 
+<script id="asciicast-486998" src="https://asciinema.org/a/486998.js" async></script> 
 
 is a challenging puzzle game.
 
@@ -496,7 +496,7 @@ is a clone of Khet laser board game.
 
 ### [clines](http://web.archive.org/web/20190327173340/http://manticore.2y.net/prj/clines-a.html) 
 
-[![asciicast](https://asciinema.org/a/486945.svg)](https://asciinema.org/a/486945) 
+<script id="asciicast-486945" src="https://asciinema.org/a/486945.js" async></script> 
 
 is a clone of Color Lines game.
 
@@ -505,7 +505,7 @@ See also [Wikipedia](https://ru.wikipedia.org/wiki/Color_Lines).
 
 ### [clines](https://github.com/veselov/clines) 
 
-[![asciicast](https://asciinema.org/a/486233.svg)](https://asciinema.org/a/486233) 
+<script id="asciicast-486233" src="https://asciinema.org/a/486233.js" async></script> 
 
 is a clone of Color Lines game.
 
@@ -514,7 +514,7 @@ See also [Wikipedia](https://ru.wikipedia.org/wiki/Color_Lines).
 
 ### [cmines](https://www.muppetlabs.com/~breadbox/software/cgames.html) 
 
-[![asciicast](https://asciinema.org/a/486954.svg)](https://asciinema.org/a/486954) 
+<script id="asciicast-486954" src="https://asciinema.org/a/486954.js" async></script> 
 
 is a clone of Minesweeper game.
 
@@ -523,7 +523,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
 
 ### [cnibbles](http://cnibbles.sourceforge.net) 
 
-[![asciicast](https://asciinema.org/a/486713.svg)](https://asciinema.org/a/486713) 
+<script id="asciicast-486713" src="https://asciinema.org/a/486713.js" async></script> 
 
 is a clone of Nibbles game with good and smooth animations.
 
@@ -540,7 +540,7 @@ is a two-player slot game.
 
 ### [connect4](https://github.com/badescunicu/connect4) 
 
-[![asciicast](https://asciinema.org/a/486711.svg)](https://asciinema.org/a/486711) 
+<script id="asciicast-486711" src="https://asciinema.org/a/486711.js" async></script> 
 
 is a clone of Connect4 game.
 
@@ -572,14 +572,14 @@ is a programming game in which two or more battle programs (called “warriors�
 
 ### [cpat](http://cpat.sourceforge.net/) 
 
-[![asciicast](https://asciinema.org/a/487001.svg)](https://asciinema.org/a/487001) 
+<script id="asciicast-487001" src="https://asciinema.org/a/487001.js" async></script> 
 
 is a card game; it is a collection of many solitaire/patience games.
 
 
 ### [crawl](https://crawl.develz.org/wordpress/) 
 
-[![asciicast](https://asciinema.org/a/524.svg)](https://asciinema.org/a/524) 
+<script id="asciicast-524" src="https://asciinema.org/a/524.js" async></script> 
 
 is a single-player, role-playing roguelike game of exploration and treasure-hunting in dungeons filled with dangerous and unfriendly monsters in a quest to rescue the mystifyingly fabulous Orb of Zot.
 
@@ -598,7 +598,7 @@ Escape From The Crypt.
 
 ### [csol](https://github.com/nielssp/csol) 
 
-[![asciicast](https://asciinema.org/a/486707.svg)](https://asciinema.org/a/486707) 
+<script id="asciicast-486707" src="https://asciinema.org/a/486707.js" async></script> 
 
 is a small collection of solitaire/patience games (Klondike, FreeCell, Spider, Yukon, etc.).
 
@@ -607,7 +607,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Solitaire).
 
 ### [ctris](https://github.com/dominikhackl/ctris) 
 
-[![asciicast](https://asciinema.org/a/486703.svg)](https://asciinema.org/a/486703) 
+<script id="asciicast-486703" src="https://asciinema.org/a/486703.js" async></script> 
 
 is a clone of Tetris game.
 
@@ -621,14 +621,14 @@ is a game with a hacking atmosphere.
 
 ### [curse-of-war](https://a-nikolaev.github.io/curseofwar/) 
 
-[![asciicast](https://asciinema.org/a/486446.svg)](https://asciinema.org/a/486446) 
+<script id="asciicast-486446" src="https://asciinema.org/a/486446.js" async></script> 
 
 is a fast-paced action strategy game.
 
 
 ### [ascii-dash](https://sourceforge.net/projects/ascii-dash/) 
 
-[![asciicast](https://asciinema.org/a/486442.svg)](https://asciinema.org/a/486442) 
+<script id="asciicast-486442" src="https://asciinema.org/a/486442.js" async></script> 
 
 is a famous Boulder Dash game for the Atari 800 from 1984.
 
@@ -657,7 +657,7 @@ is a roguelike "unmake" of the popular Blizzard game Diablo.
 
 ### [dMagnetic](https://www.dettus.net/dMagnetic) 
 
-[![asciicast](https://asciinema.org/a/281636.svg)](https://asciinema.org/a/281636) 
+<script id="asciicast-281636" src="https://asciinema.org/a/281636.js" async></script> 
 
 is a number of games: The Pawn, The Guild of Thieves, Jinxter, Fish!, Myth, Corruption and Wonderland.
 
@@ -735,7 +735,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Factorization).
 
 ### [fbird](https://github.com/nanochess/fbird) 
 
-[![asciicast](https://asciinema.org/a/487025.svg)](https://asciinema.org/a/487025) 
+<script id="asciicast-487025" src="https://asciinema.org/a/487025.js" async></script> 
 
 is a text bootsector game.
 
@@ -754,7 +754,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Go_Fish).
 
 ### [flying-robots](https://github.com/bunburya/flying-robots) 
 
-[![asciicast](https://asciinema.org/a/486448.svg)](https://asciinema.org/a/486448) 
+<script id="asciicast-486448" src="https://asciinema.org/a/486448.js" async></script> 
 
 is based on the BSD robots game, but with a third dimension of movement.
 
@@ -776,7 +776,7 @@ is a clone of the popular and addictive solitaire game.
 
 ### [freesweep](https://code.google.com/archive/p/freesweep/) 
 
-[![asciicast](https://asciinema.org/a/486999.svg)](https://asciinema.org/a/486999) 
+<script id="asciicast-486999" src="https://asciinema.org/a/486999.js" async></script> 
 
 is a clone of Minesweeper game.
 
@@ -792,7 +792,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
 
 ### [fkmines](https://sourceforge.net/projects/fkmines/) 
 
-[![asciicast](https://asciinema.org/a/486970.svg)](https://asciinema.org/a/486970) 
+<script id="asciicast-486970" src="https://asciinema.org/a/486970.js" async></script> 
 
 is a clone of Minesweeper game.
 
@@ -806,14 +806,14 @@ is a roguelike game with an entertaining atmosphere.
 
 ### [frotz](https://davidgriffith.gitlab.io/frotz/) 
 
-[![asciicast](https://asciinema.org/a/372170.svg)](https://asciinema.org/a/372170) 
+<script id="asciicast-372170" src="https://asciinema.org/a/372170.js" async></script> 
 
 is an interpreter for Infocom games and other Z-machine games.
 
 
 ### [ft_retro](https://gitlab.com/Heagan/ft_retro) 
 
-[![asciicast](https://asciinema.org/a/487578.svg)](https://asciinema.org/a/487578) 
+<script id="asciicast-487578" src="https://asciinema.org/a/487578.js" async></script> 
 
 is a shooting game.
 
@@ -838,7 +838,7 @@ is the first roguelike to explore the world of “mechas” (giant robots).
 
 ### [ascii-snake](https://github.com/cyphar/ascii-snake) 
 
-[![asciicast](https://asciinema.org/a/487004.svg)](https://asciinema.org/a/487004) 
+<script id="asciicast-487004" src="https://asciinema.org/a/487004.js" async></script> 
 
 is a clone of a Snake game.
 
@@ -847,7 +847,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 ### [gnugo](https://www.gnu.org/software/gnugo/) 
 
-[![asciicast](https://asciinema.org/a/486319.svg)](https://asciinema.org/a/486319) 
+<script id="asciicast-486319" src="https://asciinema.org/a/486319.js" async></script> 
 
 is the game of Go.
 
@@ -856,7 +856,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Go_(game)).
 
 ### [gnuski](https://sourceforge.net/projects/gnuski/) 
 
-[![asciicast](https://asciinema.org/a/485510.svg)](https://asciinema.org/a/485510) 
+<script id="asciicast-485510" src="https://asciinema.org/a/485510.js" async></script> 
 
 is a clone of Skifree, the old Windows game.
 
@@ -868,7 +868,7 @@ is a roguelike OpenGL-based smooth-scrolling ASCII graphics game.
 
 ### [gomoku](https://man.openbsd.org/gomoku.6) 
 
-[![asciicast](https://asciinema.org/a/486510.svg)](https://asciinema.org/a/486510) 
+<script id="asciicast-486510" src="https://asciinema.org/a/486510.js" async></script> 
 
 is a game where the object is to get 5 in a row horizontally, vertically or diagonally on a 19 by 19 grid. It's a BSD game.
 
@@ -892,7 +892,7 @@ is a grand digital clock.
 
 ### [greed](http://www.catb.org/~esr/greed/) 
 
-[![asciicast](https://asciinema.org/a/486320.svg)](https://asciinema.org/a/486320) 
+<script id="asciicast-486320" src="https://asciinema.org/a/486320.js" async></script> 
 
 is a puzzle game with numbers. You must remove as many numbers as you can according to the rules.
 
@@ -929,7 +929,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Hamurabi).
 
 ### [hangman](https://man.openbsd.org/hangman.6) 
 
-[![asciicast](https://asciinema.org/a/35801.svg)](https://asciinema.org/a/35801) 
+<script id="asciicast-35801" src="https://asciinema.org/a/35801.js" async></script> 
 
 is a computer version of the game hangman. It's a BSD game.
 
@@ -943,7 +943,7 @@ is a rogue-like game in which you descend through the nine circles of Hell and f
 
 ### [hinversi](https://sourceforge.net/projects/hinversi/) 
 
-[![asciicast](https://asciinema.org/a/486222.svg)](https://asciinema.org/a/486222) 
+<script id="asciicast-486222" src="https://asciinema.org/a/486222.js" async></script> 
 
 is a implementation of Reversi (a.k.a. Othello), a board game.
 
@@ -1016,7 +1016,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Asteroids_(video_game)).
 
 ### [ascii-invaders](https://github.com/macdice/ascii-invaders) 
 
-[![asciicast](https://asciinema.org/a/34018.svg)](https://asciinema.org/a/34018) 
+<script id="asciicast-34018" src="https://asciinema.org/a/34018.js" async></script> 
 
 is a clone of Space Invaders game.
 
@@ -1061,14 +1061,14 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon).
 
 ### [lights](https://github.com/nanochess/lights) 
 
-[![asciicast](https://asciinema.org/a/487018.svg)](https://asciinema.org/a/487018) 
+<script id="asciicast-487018" src="https://asciinema.org/a/487018.js" async></script> 
 
 is a boot sector game.
 
 
 ### [katamascii](https://github.com/taviso/katamascii) 
 
-[![asciicast](https://asciinema.org/a/486171.svg)](https://asciinema.org/a/486171) 
+<script id="asciicast-486171" src="https://asciinema.org/a/486171.js" async></script> 
 
 is a puzzle game, roll around your terminal collecting ASCII-art objects.
 
@@ -1088,7 +1088,7 @@ is a multi-player card game.
 
 ### [lexter](https://www.kyne.com.au/~mark/software/lexter.php) 
 
-[![asciicast](https://asciinema.org/a/35970.svg)](https://asciinema.org/a/35970) 
+<script id="asciicast-35970" src="https://asciinema.org/a/35970.js" async></script> 
 
 is a real-time word puzzle. Arrange the falling letters into words to score points.
 
@@ -1118,7 +1118,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Angband_(video_game)).
 
 ### [memwatch](https://github.com/0x501D/memwatch) 
 
-[![asciicast](https://asciinema.org/a/486217.svg)](https://asciinema.org/a/486217) 
+<script id="asciicast-486217" src="https://asciinema.org/a/486217.js" async></script> 
 
 memwatch contains an easter egg - a game with a pinguin that jumps between holes in a pipelines.
 
@@ -1164,7 +1164,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
 
 ### [minesVIiper](https://gir.st/mines.html) 
 
-[![asciicast](https://asciinema.org/a/486236.svg)](https://asciinema.org/a/486236) 
+<script id="asciicast-486236" src="https://asciinema.org/a/486236.js" async></script> 
 
 is a clone of Minesweeper game with extensive vi(1) keybindings (not just hjkl), mouse control.
 
@@ -1195,7 +1195,7 @@ Moo (a.k.a. Mastermind) supervisor and a very powerful Moo player.
 
 ### [moon-buggy](https://www.seehuhn.de/pages/moon-buggy) 
 
-[![asciicast](https://asciinema.org/a/34071.svg)](https://asciinema.org/a/34071) 
+<script id="asciicast-34071" src="https://asciinema.org/a/34071.js" async></script> 
 
 is a game where you drive some kind of car across the moon's surface.
 
@@ -1210,7 +1210,7 @@ is a game where the goal is to kill off the balrog.
 
 ### [msnake](https://github.com/mogria/msnake) 
 
-[![asciicast](https://asciinema.org/a/35971.svg)](https://asciinema.org/a/35971) 
+<script id="asciicast-35971" src="https://asciinema.org/a/35971.js" async></script> 
 
 is a clone of Snake game.
 
@@ -1241,14 +1241,14 @@ Mutant Aliens! sees a spaceship 'dock safely' into the forest of a hostile alien
 
 ### [myman](https://myman.sourceforge.io/) 
 
-[![asciicast](https://asciinema.org/a/487037.svg)](https://asciinema.org/a/487037) 
+<script id="asciicast-487037" src="https://asciinema.org/a/487037.js" async></script> 
 
 is a game in the genre of Namco's Pac-Man.
 
 
 ### [nclife](https://github.com/mikepierce/ncLife) 
 
-[![asciicast](https://asciinema.org/a/486901.svg)](https://asciinema.org/a/486901) 
+<script id="asciicast-486901" src="https://asciinema.org/a/486901.js" async></script> 
 
 is a Conway's Game of Life.
 
@@ -1257,7 +1257,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 ### [nethack](https://www.nethack.org/) 
 
-[![asciicast](https://asciinema.org/a/34687.svg)](https://asciinema.org/a/34687) 
+<script id="asciicast-34687" src="https://asciinema.org/a/34687.js" async></script> 
 
 is a single player dungeon exploration game.
 
@@ -1282,7 +1282,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 ### [c-netris](https://github.com/naclander/netris) 
 
-[![asciicast](https://asciinema.org/a/486899.svg)](https://asciinema.org/a/486899) 
+<script id="asciicast-486899" src="https://asciinema.org/a/486899.js" async></script> 
 
 is a clone of Tetris game featuring competitive online multiplayer.
 
@@ -1291,7 +1291,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 ### [nettoe](http://nettoe.sourceforge.net/) 
 
-[![asciicast](https://asciinema.org/a/35969.svg)](https://asciinema.org/a/35969) 
+<script id="asciicast-35969" src="https://asciinema.org/a/35969.js" async></script> 
 
 is a clone of Tic Tac Toe game.
 
@@ -1320,7 +1320,7 @@ is a logic game similar to Sokoban and Boulder Dash.
 
 ### [nsnake](https://sourceforge.net/projects/nsnake/) 
 
-[![asciicast](https://asciinema.org/a/35976.svg)](https://asciinema.org/a/35976) 
+<script id="asciicast-35976" src="https://asciinema.org/a/35976.js" async></script> 
 
 is a clone of Snake game.
 
@@ -1329,7 +1329,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 ### [nsudoku](https://www.tbmatuka.com/nsudoku/) 
 
-[![asciicast](https://asciinema.org/a/34688.svg)](https://asciinema.org/a/34688) 
+<script id="asciicast-34688" src="https://asciinema.org/a/34688.js" async></script> 
 
 is a clone of Sudoku game.
 
@@ -1345,7 +1345,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Sudoku).
 
 ### [nudoku](https://jubalh.github.io/nudoku/) 
 
-[![asciicast](https://asciinema.org/a/34070.svg)](https://asciinema.org/a/34070) 
+<script id="asciicast-34070" src="https://asciinema.org/a/34070.js" async></script> 
 
 is a clone of Sudoku game.
 
@@ -1354,7 +1354,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Sudoku).
 
 ### [nuzzle](https://github.com/dead-end/nuzzle) 
 
-[![asciicast](https://asciinema.org/a/486907.svg)](https://asciinema.org/a/486907) 
+<script id="asciicast-486907" src="https://asciinema.org/a/486907.js" async></script> 
 
 is a puzzle game collection (N-curses p-UZZLE).
 
@@ -1389,14 +1389,14 @@ is a two-player board game.
 
 ### [ox3d](https://www.mipmip.org/C_games/) 
 
-[![asciicast](https://asciinema.org/a/487029.svg)](https://asciinema.org/a/487029) 
+<script id="asciicast-487029" src="https://asciinema.org/a/487029.js" async></script> 
 
 is an aggressive 3D Noughts & Crosses player.
 
 
 ### [pacman](http://slaout.linux62.org/pacman/index.html) 
 
-[![asciicast](https://asciinema.org/a/34686.svg)](https://asciinema.org/a/34686) 
+<script id="asciicast-34686" src="https://asciinema.org/a/34686.js" async></script> 
 
 is a clone of Pacman game.
 
@@ -1411,7 +1411,7 @@ is a clone of Pacman game.
 
 ### [pacman](https://sites.google.com/site/doctormike/pacman.html) 
 
-[![asciicast](https://asciinema.org/a/34685.svg)](https://asciinema.org/a/34685) 
+<script id="asciicast-34685" src="https://asciinema.org/a/34685.js" async></script> 
 
 is a clone of Pacman.
 
@@ -1459,14 +1459,14 @@ is a clone of Gomoku game.
 
 ### [piu-piu-SH](https://github.com/vaniacer/piu-piu-SH) 
 
-[![asciicast](https://asciinema.org/a/487583.svg)](https://asciinema.org/a/487583) 
+<script id="asciicast-487583" src="https://asciinema.org/a/487583.js" async></script> 
 
 is an old school horizontal scroller 'Shoot Them All' game.
 
 
 ### [plonx](https://web.archive.org/web/20080704073046/http://bilious.homelinux.org/~paxed/plonx/) 
 
-[![asciicast](https://asciinema.org/a/487041.svg)](https://asciinema.org/a/487041) 
+<script id="asciicast-487041" src="https://asciinema.org/a/487041.js" async></script> 
 
 is a small puzzle game.
 
@@ -1537,7 +1537,7 @@ is a rogue-like game.
 
 ### [pythrees](https://github.com/yth/pythrees) 
 
-[![asciicast](https://asciinema.org/a/487042.svg)](https://asciinema.org/a/487042) 
+<script id="asciicast-487042" src="https://asciinema.org/a/487042.js" async></script> 
 
 is a clone of Threes! game.
 
@@ -1559,7 +1559,7 @@ is a clone of Othello (Reversi) game.
 
 ### [rhex](https://github.com/dpc/rhex) 
 
-[![asciicast](https://asciinema.org/a/34224.svg)](https://asciinema.org/a/34224) 
+<script id="asciicast-34224" src="https://asciinema.org/a/34224.js" async></script> 
 
 is a hexagonal map rogue-like.
 
@@ -1569,7 +1569,7 @@ is a hexagonal map rogue-like.
 
 ### [robots](https://man.openbsd.org/robots.6) 
 
-[![asciicast](https://asciinema.org/a/486323.svg)](https://asciinema.org/a/486323) 
+<script id="asciicast-486323" src="https://asciinema.org/a/486323.js" async></script> 
 
 is a game with fight off villainous robots. It's a BSD game.
 
@@ -1593,7 +1593,7 @@ Yet another zen simulation.
 
 ### [rogue](https://man.netbsd.org/rogue.6) 
 
-[![asciicast](https://asciinema.org/a/35802.svg)](https://asciinema.org/a/35802) 
+<script id="asciicast-35802" src="https://asciinema.org/a/35802.js" async></script> 
 
 Exploring The Dungeons of Doom. It's a BSD game.
 
@@ -1628,7 +1628,7 @@ is clone the card game Rummy with competitive Computer Agent.
 
 ### [sail](https://man.openbsd.org/sail.6) 
 
-[![asciicast](https://asciinema.org/a/486324.svg)](https://asciinema.org/a/486324) 
+<script id="asciicast-486324" src="https://asciinema.org/a/486324.js" async></script> 
 
 is a multi-user wooden ships and iron men. It's a BSD game.
 
@@ -1647,7 +1647,7 @@ You're a bookworm that's stuck on a scroll. You have to dodge between words and 
 
 ### [seabattle](http://www.deater.net/weave/vmwprod/seabattle.html) 
 
-[![asciicast](https://asciinema.org/a/34680.svg)](https://asciinema.org/a/34680) 
+<script id="asciicast-34680" src="https://asciinema.org/a/34680.js" async></script> 
 
 is a clone of the classical battleships game.
 
@@ -1664,14 +1664,14 @@ is a roguelike game.
 
 ### [shell-tanks](https://github.com/annacrombie/shell-tanks) 
 
-[![asciicast](https://asciinema.org/a/485506.svg)](https://asciinema.org/a/485506) 
+<script id="asciicast-485506" src="https://asciinema.org/a/485506.js" async></script> 
 
 is a tank game with randomly generated terrain in which the object is to destroy your opponent.
 
 
 ### [shellshock](https://dhampir.no/stuff/bash/shellshock) 
 
-[![asciicast](https://asciinema.org/a/485508.svg)](https://asciinema.org/a/485508) 
+<script id="asciicast-485508" src="https://asciinema.org/a/485508.js" async></script> 
 
 is a top-down space shooter.
 
@@ -1704,7 +1704,7 @@ is a dockerized pong for one.
 
 ### [ski](http://catb.org/~esr/ski/) 
 
-[![asciicast](https://asciinema.org/a/485509.svg)](https://asciinema.org/a/485509) 
+<script id="asciicast-485509" src="https://asciinema.org/a/485509.js" async></script> 
 
 is a hotdogging game, evade the deadly Yeti on your jet-powered skis.
 
@@ -1734,7 +1734,7 @@ is a clone of the slider puzzle game in a boot sector.
 
 ### [snake](https://man.openbsd.org/snake.6) 
 
-[![asciicast](https://asciinema.org/a/486325.svg)](https://asciinema.org/a/486325) 
+<script id="asciicast-486325" src="https://asciinema.org/a/486325.js" async></script> 
 
 is a turn-based survival game; you have to move without being caught by a snake. It's a BSD game.
 
@@ -1756,7 +1756,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 ### [snake](https://github.com/begoon/stuff/blob/master/games/snake/c%2B%2B/snake.cpp) 
 
-[![asciicast](https://asciinema.org/a/1715.svg)](https://asciinema.org/a/1715) 
+<script id="asciicast-1715" src="https://asciinema.org/a/1715.js" async></script> 
 
 is a clone of Snake game.
 
@@ -1765,7 +1765,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 ### [asm_snake](https://gitlab.com/pmikkelsen/asm_snake) 
 
-[![asciicast](https://asciinema.org/a/487046.svg)](https://asciinema.org/a/487046) 
+<script id="asciicast-487046" src="https://asciinema.org/a/487046.js" async></script> 
 
 is a clone of Snake game written in x86 assembly. It runs in real mode directly from the bootsector of a drive.
 
@@ -1799,7 +1799,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Sokoban).
 
 ### [sokoban-bootsector](https://ish.works/bootsector/bootsector.html) 
 
-[![asciicast](https://asciinema.org/a/487049.svg)](https://asciinema.org/a/487049) 
+<script id="asciicast-487049" src="https://asciinema.org/a/487049.js" async></script> 
 
 is a clone of Sokoban game in a boot sector.
 
@@ -1808,7 +1808,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Sokoban).
 
 ### [solVItaire](https://gir.st/sol.html) 
 
-[![asciicast](https://asciinema.org/a/486179.svg)](https://asciinema.org/a/486179) 
+<script id="asciicast-486179" src="https://asciinema.org/a/486179.js" async></script> 
 
 Freecell, Spider Solitare and Klondike Solitaire with extensive vi(1) style keybindings, do-what-I-mean movement operations, beautiful Unicode character schemes. Does not depend on ncurses.
 
@@ -1825,7 +1825,7 @@ is a clone of Nethack game.
 
 ### [sqlite-hangman](https://github.com/mateusza/sqlite-hangman) 
 
-[![asciicast](https://asciinema.org/a/485496.svg)](https://asciinema.org/a/485496) 
+<script id="asciicast-485496" src="https://asciinema.org/a/485496.js" async></script> 
 
 is a clone of Hangman game implemented as an extension for SQLite database.
 
@@ -1868,7 +1868,7 @@ This is the good old “Govern Ancient Sumeria”, with a 1983 ecology re-write.
 
 ### [sunfish](https://github.com/thomasahle/sunfish) 
 
-[![asciicast](https://asciinema.org/a/485498.svg)](https://asciinema.org/a/485498) 
+<script id="asciicast-485498" src="https://asciinema.org/a/485498.js" async></script> 
 
 is a chess engine in 111 lines of code.
 
@@ -1888,7 +1888,7 @@ Several arcade games.
 
 ### [terminal-frogger](https://github.com/mfey619/Terminal-Frogger) 
 
-[![asciicast](https://asciinema.org/a/487030.svg)](https://asciinema.org/a/487030) 
+<script id="asciicast-487030" src="https://asciinema.org/a/487030.js" async></script> 
 
 is a frogger-themed game.
 
@@ -1900,7 +1900,7 @@ is a space shooter game.
 
 ### [tinytetris](https://github.com/taylorconor/tinytetris) 
 
-[![asciicast](https://asciinema.org/a/485499.svg)](https://asciinema.org/a/485499) 
+<script id="asciicast-485499" src="https://asciinema.org/a/485499.js" async></script> 
 
 is a 80x23 terminal tetris
 
@@ -1909,7 +1909,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 ### [tetris](https://man.openbsd.org/tetris.6) 
 
-[![asciicast](https://asciinema.org/a/486892.svg)](https://asciinema.org/a/486892) 
+<script id="asciicast-486892" src="https://asciinema.org/a/486892.js" async></script> 
 
 is a clone of Tetris game. It's a BSD game.
 
@@ -1918,7 +1918,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 ### [tetranglix](https://github.com/nanochess/tetranglix) 
 
-[![asciicast](https://asciinema.org/a/487013.svg)](https://asciinema.org/a/487013) 
+<script id="asciicast-487013" src="https://asciinema.org/a/487013.js" async></script> 
 
 is a clone of Tetris game.
 
@@ -1927,7 +1927,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 ### [berk76-tetris](https://github.com/berk76/tetris) 
 
-[![asciicast](https://asciinema.org/a/485501.svg)](https://asciinema.org/a/485501) 
+<script id="asciicast-485501" src="https://asciinema.org/a/485501.js" async></script> 
 
 is a clone of Tetris game.
 
@@ -1936,7 +1936,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 ### [ascii-tetris](https://github.com/Gregwar/ASCII-Tetris) 
 
-[![asciicast](https://asciinema.org/a/485503.svg)](https://asciinema.org/a/485503) 
+<script id="asciicast-485503" src="https://asciinema.org/a/485503.js" async></script> 
 
 is a clone of Tetris game.
 
@@ -1952,7 +1952,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 ### tint 
 
-[![asciicast](https://asciinema.org/a/486879.svg)](https://asciinema.org/a/486879) 
+<script id="asciicast-486879" src="https://asciinema.org/a/486879.js" async></script> 
 
 is a clone of Tetris game (Tint Is Not Tetris).
 
@@ -1961,7 +1961,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 ### [threes](https://github.com/harshjv/threes-c) 
 
-[![asciicast](https://asciinema.org/a/18135.svg)](https://asciinema.org/a/18135) 
+<script id="asciicast-18135" src="https://asciinema.org/a/18135.js" async></script> 
 
 is a clone of Threes! game.
 
@@ -1982,14 +1982,14 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe).
 
 ### [Toledo-Atomchess](https://github.com/nanochess/Toledo-Atomchess) 
 
-[![asciicast](https://asciinema.org/a/487011.svg)](https://asciinema.org/a/487011) 
+<script id="asciicast-487011" src="https://asciinema.org/a/487011.js" async></script> 
 
 is the world's smallest chess program in x86 assembly code.
 
 
 ### [Tom Bombem](http://www.deater.net/weave/vmwprod/tb1/) 
 
-[![asciicast](https://asciinema.org/a/485505.svg)](https://asciinema.org/a/485505) 
+<script id="asciicast-485505" src="https://asciinema.org/a/485505.js" async></script> 
 
 is an arcade game where you have to shoot on inanimate objects.
 
@@ -2052,7 +2052,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Tetris).
 
 ### [tty-solitaire](https://github.com/mpereira/tty-solitaire) 
 
-[![asciicast](https://asciinema.org/a/6519.svg)](https://asciinema.org/a/6519) 
+<script id="asciicast-6519" src="https://asciinema.org/a/6519.js" async></script> 
 
 is a clone of Klondike solitaire game.
 
@@ -2062,7 +2062,7 @@ is a clone of Klondike solitaire game.
 
 ### [typespeed](http://typespeed.sourceforge.net/) 
 
-[![asciicast](https://asciinema.org/a/485492.svg)](https://asciinema.org/a/485492) 
+<script id="asciicast-485492" src="https://asciinema.org/a/485492.js" async></script> 
 
 Type words that are flying by from left to right as fast as you can.
 
@@ -2089,14 +2089,14 @@ is an old and easy to play roguelike game.
 
 ### [Unnamed Fiefdom Game](https://github.com/Sheeves11/UnnamedFiefdomGame/) 
 
-[![asciicast](https://asciinema.org/a/486908.svg)](https://asciinema.org/a/486908) 
+<script id="asciicast-486908" src="https://asciinema.org/a/486908.js" async></script> 
 
 is a text-based MMO about controlling fiefdoms, farming gold, and stealing from your enemies!
 
 
 ### [unnethack](https://sourceforge.net/projects/unnethack/) 
 
-[![asciicast](https://asciinema.org/a/485489.svg)](https://asciinema.org/a/485489) 
+<script id="asciicast-485489" src="https://asciinema.org/a/485489.js" async></script> 
 
 is a first game in this roundup is UnNetHack, a fork of NetHack, originally based on the hugely popular roguelike game NetHack.
 
@@ -2108,7 +2108,7 @@ is a roguelike game written in Lisp.
 
 ### [vadorz](https://code.google.com/archive/p/vadorz/) 
 
-[![asciicast](https://asciinema.org/a/486872.svg)](https://asciinema.org/a/486872) 
+<script id="asciicast-486872" src="https://asciinema.org/a/486872.js" async></script> 
 
 is a clone of Space Invaders game with simple graphics.
 
@@ -2125,21 +2125,21 @@ is a roguelike game set on a paradise island of Fortarica.
 
 ### [venzone](http://ariis.it/static/articles/venzone/page.html) 
 
-[![asciicast](https://asciinema.org/a/486868.svg)](https://asciinema.org/a/486868) 
+<script id="asciicast-486868" src="https://asciinema.org/a/486868.js" async></script> 
 
 is a platform/adventure game.
 
 
 ### [VIper](https://gir.st/viper.html) 
 
-[![asciicast](https://asciinema.org/a/486867.svg)](https://asciinema.org/a/486867) 
+<script id="asciicast-486867" src="https://asciinema.org/a/486867.js" async></script> 
 
 is a clone of Snake game with hjkl (vi) and cursor key control.
 
 
 ### [vitetris](http://victornils.net/tetris/) 
 
-[![asciicast](https://asciinema.org/a/34069.svg)](https://asciinema.org/a/34069) 
+<script id="asciicast-34069" src="https://asciinema.org/a/34069.js" async></script> 
 
 is a clone of Tetris. Gameplay is much like the early Tetris games by Nintendo.
 
@@ -2186,7 +2186,7 @@ is a 3-D dungeon crawling game.
 
 ### [worm](https://man.openbsd.org/worm.6) 
 
-[![asciicast](https://asciinema.org/a/486326.svg)](https://asciinema.org/a/486326) 
+<script id="asciicast-486326" src="https://asciinema.org/a/486326.js" async></script> 
 
 is a version of the arcade game Worm (sometimes called snake or nibbles). It's a BSD game.
 
@@ -2198,7 +2198,7 @@ See also [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 ### [clidle](https://github.com/ajeetdsouza/clidle) 
 
-[![asciicast](https://asciinema.org/a/485486.svg)](https://asciinema.org/a/485486) 
+<script id="asciicast-485486" src="https://asciinema.org/a/485486.js" async></script> 
 
 is a clone of Wordle, Wordle over SSH.
 
@@ -2208,14 +2208,14 @@ is a clone of Wordle, Wordle over SSH.
 
 ### [wordle-cli](https://github.com/nimblebun/wordle-cli) 
 
-[![asciicast](https://asciinema.org/a/485484.svg)](https://asciinema.org/a/485484) 
+<script id="asciicast-485484" src="https://asciinema.org/a/485484.js" async></script> 
 
 is a clone of Wordle.
 
 
 ### [wump](https://man.openbsd.org/wump.6) 
 
-[![asciicast](https://asciinema.org/a/35800.svg)](https://asciinema.org/a/35800) 
+<script id="asciicast-35800" src="https://asciinema.org/a/35800.js" async></script> 
 
 in an underground cave. It's a BSD game.
 
@@ -2229,7 +2229,7 @@ is a clone of the very old game called Hunt the Wumpus.
 
 ### [xorcurses](http://web.archive.org/web/20200807032528/http://www.jwm-art.net/dark.php?p=XorCurses) 
 
-[![asciicast](https://asciinema.org/a/34065.svg)](https://asciinema.org/a/34065) 
+<script id="asciicast-34065" src="https://asciinema.org/a/34065.js" async></script> 
 
 is a puzzle game set inside a series of mazes.
 
@@ -2324,7 +2324,7 @@ is a console car racing game. The rules are simple: the higher on the screen, th
 
 ### [ztrack](https://ibiblio.org/pub/linux/games/arcade/ztrack-1.0.tar.gz) 
 
-[![asciicast](https://asciinema.org/a/486500.svg)](https://asciinema.org/a/486500) 
+<script id="asciicast-486500" src="https://asciinema.org/a/486500.js" async></script> 
 
 is a pseudo-3D driving game.
 
