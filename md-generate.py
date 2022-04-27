@@ -7,10 +7,8 @@ from urllib.parse import urlparse
 stream = open("games.yaml", "r")
 ttygames = yaml.load(stream, Loader=yaml.FullLoader)
 for entry in ttygames:
-    if 'url' in entry:
-        header = "### [%s](%s)" % (entry['name'], entry['url'])
-    else:
-        header = "### %s" % entry['name']
+    name = str(entry['name'])
+    header = "### %s" % name.strip()
 
     screencast = ""
     if 'screencast' in entry and entry['screencast']:
@@ -30,12 +28,15 @@ for entry in ttygames:
         print(screencast, "\n")
 
     if 'info' in entry:
-        print("%s\n" % entry['info'])
+        print("%s" % entry['info'])
+
+    if 'url' in entry:
+        print("\nWebsite: %s" % entry['url'])
 
     if 'wikipedia' in entry:
-        print("See also [Wikipedia](%s).\n" % entry['wikipedia'])
+        print("\nWikipedia: %s" % entry['wikipedia'])
 
     if 'play' in entry:
-        print("\n**Play**: ```%s```\n" % entry['play'])
+        print("\n**Play**: ```%s```" % entry['play'])
 
     print()
