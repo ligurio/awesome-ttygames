@@ -81,7 +81,7 @@
   url: https://oskog97.com/projects/anonymine/
   info: is a clone of Minesweeper game solvable without guessing, and the only with von Neumann neighbourhoods.
   play: ssh play@anonymine-demo.oskog97.com -p 2222; Password is "play"
-  screencast: https://asciinema.org/a/82455
+  screencast: https://asciinema.org/a/511454
 
 - name: aop
   url: https://raffi.at/view/code/aop
