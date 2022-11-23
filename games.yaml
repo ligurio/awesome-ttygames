@@ -546,6 +546,10 @@
   info: is a clone of the popular and addictive solitaire game.
   play: telnet mud.darkerrealms.org 2000
 
+- name: freecell-ng
+  url: https://github.com/ostrosablin/freecell
+  info: Fork with improvements over ncurses freecell implementation by Linus Akesson (solver support, better metamoves, various usability improvements).
+
 - name: freesweep
   url: https://code.google.com/archive/p/freesweep/
   info: is a clone of Minesweeper game.
