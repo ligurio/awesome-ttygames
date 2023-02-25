@@ -1418,6 +1418,11 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   wikipedia: https://en.wikipedia.org/wiki/Tetris
   screencast: https://asciinema.org/a/486879
 
+- name: TinyCols
+  url: https://github.com/zedr/tinycols
+  info: is a clone of the Columns game.
+  screencast: https://asciinema.org/a/562766
+
 - name: threes
   url: https://github.com/harshjv/threes-c
   info: is a clone of Threes! game.
