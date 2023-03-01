@@ -445,7 +445,11 @@
 - name: dab
   url: https://man.netbsd.org/dab.6
   info: is a Dots and Boxes game.
-  
+
+- name: dango
+  url: https://github.com/gsobell/dango
+  info: is a tui Go (baduk) board written in python
+
 - name: decwars
   info: is a multiplayer clone of Star Trek game.
   play: telnet decwars.com 1701
