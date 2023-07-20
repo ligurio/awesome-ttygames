@@ -973,7 +973,11 @@
   info: is a puzzle game collection (N-curses p-UZZLE).
   screencast: https://asciinema.org/a/486907
 
-
+- name: lightcycle
+  url: https://github.com/gsobell/lightcycle
+  info: a classic Tron game, for your terminal.
+  screencast: https://asciinema.org/a/597924
+  wikipedia: https://en.wikipedia.org/wiki/Tron_(video_game)#Gameplay
 
 
 - name: okiworld
