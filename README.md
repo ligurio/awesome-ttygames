@@ -152,7 +152,7 @@ Wikipedia: https://en.wikipedia.org/wiki/Angband_(video_game)
 
 ### anonymine 
 
-[![asciicast](https://asciinema.org/a/82455.svg)](https://asciinema.org/a/82455) 
+[![asciicast](https://asciinema.org/a/511454.svg)](https://asciinema.org/a/511454) 
 
 is a clone of Minesweeper game solvable without guessing, and the only with von Neumann neighbourhoods.
 
@@ -700,6 +700,12 @@ is a Dots and Boxes game.
 
 Website: https://man.netbsd.org/dab.6
 
+### dango 
+
+is a tui Go (baduk) board written in python
+
+Website: https://github.com/gsobell/dango
+
 ### decwars 
 
 is a multiplayer clone of Star Trek game.
@@ -850,6 +856,12 @@ is a clone of the popular and addictive solitaire game.
 Website: https://www.linusakesson.net/software/freecell.php
 
 **Play**: ```telnet mud.darkerrealms.org 2000```
+
+### freecell-ng 
+
+Fork with improvements over ncurses freecell implementation by Linus Akesson (solver support, better metamoves, various usability improvements).
+
+Website: https://github.com/ostrosablin/freecell
 
 ### freesweep 
 
@@ -1489,6 +1501,16 @@ Wikipedia: https://en.wikipedia.org/wiki/Sudoku
 is a puzzle game collection (N-curses p-UZZLE).
 
 Website: https://github.com/dead-end/nuzzle
+
+### lightcycle 
+
+[![asciicast](https://asciinema.org/a/597924.svg)](https://asciinema.org/a/597924) 
+
+a classic Tron game, for your terminal.
+
+Website: https://github.com/gsobell/lightcycle
+
+Wikipedia: https://en.wikipedia.org/wiki/Tron_(video_game)#Gameplay
 
 ### okiworld 
 
@@ -2141,6 +2163,14 @@ Wikipedia: https://en.wikipedia.org/wiki/Tetris
 is a clone of Tetris game (Tint Is Not Tetris).
 
 Wikipedia: https://en.wikipedia.org/wiki/Tetris
+
+### TinyCols 
+
+[![asciicast](https://asciinema.org/a/562766.svg)](https://asciinema.org/a/562766) 
+
+is a clone of the Columns game.
+
+Website: https://github.com/zedr/tinycols
 
 ### threes 
 
