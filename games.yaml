@@ -761,6 +761,7 @@
 - name: LeTrain
   url: https://github.com/antoniovazquezaraujo/LeTrain
   info: An ascii railroad simulator in Java
+  screencast: https://asciinema.org/a/8E4ZEyw26SgdgGZoCrxS2CW2J
   
 - name: lights
   url: https://github.com/nanochess/lights
