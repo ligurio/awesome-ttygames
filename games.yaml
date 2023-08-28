@@ -758,6 +758,10 @@
   wikipedia: https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon
   play: telnet darkrealms.ca
 
+- name: LeTrain
+  url: https://github.com/antoniovazquezaraujo/LeTrain
+  info: An ascii railroad simulator in Java
+  
 - name: lights
   url: https://github.com/nanochess/lights
   info: is a boot sector game.
