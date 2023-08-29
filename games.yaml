@@ -768,6 +768,12 @@
   info: is a boot sector game.
   screencast: https://asciinema.org/a/487018
 
+- name: Lunar Landing
+  url: https://www.cs.brandeis.edu/~storer/LunarLander/LunarLander.html
+  info: The game where your mission is to safely maneuver your lunar module onto the moon's surface.
+  play: https://lunar69.uber.space/
+  screencast: https://asciinema.org/a/605229
+
 - name: katamascii
   url: https://github.com/taviso/katamascii
   info: is a puzzle game, roll around your terminal collecting ASCII-art objects.
