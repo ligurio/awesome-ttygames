@@ -1727,6 +1727,6 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   screencast: https://asciinema.org/a/486500
 
 - name: typr
-  info: python based typing test tutor.
+  info: python based typing test game.
   url: https://github.com/DriftingOtter/Typr
   screencast: https://asciinema.org/a/617774
