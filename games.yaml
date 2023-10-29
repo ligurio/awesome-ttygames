@@ -1725,3 +1725,8 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://ibiblio.org/pub/linux/games/arcade/ztrack-1.0.tar.gz
   info: is a pseudo-3D driving game.
   screencast: https://asciinema.org/a/486500
+
+- name: typr
+  info: python based typing test tutor.
+  url: https://github.com/DriftingOtter/Typr
+  screencast: https://asciinema.org/a/617774
