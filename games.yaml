@@ -187,6 +187,11 @@
   info: The game Beasts is a Linux version of the old DOS game called Beast.
   wikipedia: https://en.wikipedia.org/wiki/Beast_(video_game)
 
+- name: Behacked
+  url: https://github.com/Pentachoron-Labs/Behacked
+  info: Matching game with the goal of getting a group of four connected gems, written with ncurses.
+  wikipedia: https://en.wikipedia.org/wiki/Bejeweled
+
 - name: beyond the tesseract
   url: https://www.wurb.com/if.php/game/211
   info: A highly conceptual game in which you interact with abstract concepts and mathematical entities as if they were tangible.
@@ -483,6 +488,11 @@
   url: https://sourceforge.net/projects/duelcommander/
   info: is a turn based command line fighting game.
 
+- name: dukedomrb
+  url: https://github.com/infews/dukedomrb
+  info: Yet another port of the classic mainframe game from 1976
+  wikipedia: https://en.wikipedia.org/wiki/Dukedom_(video_game)
+
 - name: dungeon crawl
   url: http://www.dungeoncrawl.org/
   info: is a text-based roguelike game.
@@ -535,6 +545,14 @@
   info: is a traditional children's card game. It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Go_Fish
 
+- name: fiTD
+  url: https://github.com/odditica/fiTD
+  info: A basic console-based tower defense game/engine.
+
+- name: FloodIt
+  url: https://github.com/smmspiers/FloodIt
+  info: Simple game in terminal to flood a grid of colours to one colour.
+  wikipedia: https://en.wikipedia.org/wiki/7_Colors
 - name: flying-robots
   url: https://github.com/bunburya/flying-robots
   info: is based on the BSD robots game, but with a third dimension of movement.
@@ -784,7 +802,9 @@
   url: https://keeperrl.com/
   info: Ambitious dungeon simulator with roguelike elements.
 
-
+- name: LeTrain
+  url: https://github.com/antoniovazquezaraujo/LeTrain
+  info: a train simulator consisting of creating tracks and stations along a virtually infinite map, and creating trains and earning money by carrying passengers between them.
 
 - name: Let it Ride
   info: is a multi-player card game.
@@ -799,7 +819,15 @@
   url: http://lcs.wikidot.com/start
   info: is a game where you have to fight with your friends against conservative laws.
 
+- name: Mafia-Werewolf
+  url: https://github.com/servusDei2018/Mafia-Werewolf
+  info: OpenMafia/Werewolf Multiplayer social game with AI to fill in the rest! 
+  wikipedia: https://en.wikipedia.org/wiki/Mafia_(party_game)
 
+- name: Magnetic Scrolls games
+  url: https://magneticscrolls.net/
+  info: Play interactive fiction text adventure games developed by Magnetic Scrolls, including The Pawn, The Guild of Thieves, Jinxter, Curruption, Fish!, Myth, and Wonderland
+  play: ssh -p 8080 -l magnetic magneticscrolls.net
 
 - name: mancala
   url: https://shh.thathost.com/pub-unix/#Mancala
@@ -880,6 +908,11 @@
   url: http://web.archive.org/web/20190731112356/http://www-math.bgsu.edu/~grabine/moria.html
   info: is a game where the goal is to kill off the balrog.
 
+- name: morpion solitaire
+  url: https://github.com/gre/morpion-solitaire
+  info: A morpion solitaire game implementation in C using ncurses.
+  wikipedia: https://en.wikipedia.org/wiki/Join_five
+
 - name: msnake
   url: https://github.com/mogria/msnake
   info: is a clone of Snake game.
@@ -905,6 +938,9 @@
   info: is a game in the genre of Namco's Pac-Man.
   screencast: https://asciinema.org/a/487037
 
+- name: nbsdgames
+  url: https://github.com/abakh/nbsdgames
+  info: New BSD Games is a package of 18 text-based modern games.
 
 - name: nclife
   url: https://github.com/mikepierce/ncLife
@@ -1012,6 +1048,11 @@
   url: https://gitlab.com/esr/open-adventure
   info: Colossal Cave Adventure (also known as ADVENT, Colossal Cave, or Adventure) is one of the earliest computer adventure games and a precursor form of role playing video game. The original version was designed by Will Crowther, a programmer and caving enthusiast who based the layout on part of the Mammoth Cave system in Kentucky.
 
+- name: Oregon-Trail
+  url: https://github.com/yudonglin/Oregon-Trail
+  info: Recreation of the Oregon Trail game, written in Python.
+  wikipedia: https://en.wikipedia.org/wiki/The_Oregon_Trail_(1971_video_game)
+
 - name: othello
   url: https://web.archive.org/web/20130607084226/http://david.weekly.org/othello/index.php3
   info: is a two-player board game.
@@ -1043,7 +1084,11 @@
   url: http://antimirov.net/it/pacman/
   info: is a clone of Pacman game.
   play: ssh pacman:pacman@antimirov.net
-  
+ 
+- name: PAG
+  url: https://pkgsrc.se/games/pag & http://ftp.lip6.fr/pub/minix/distfiles/local/3.3.0/pag-0.92.tar.gz
+  info: Platform Arcade Game is an ncurses based game that allows you to create your own maps and play with them, including features such as moving-platforms,enemies, rules to open/close doors, and items.
+
 - name: Petals Around The Rose
   url: http://tldp.org/LDP/abs/html/contributed-scripts.html#PETALS
   info: is a dice-based puzzle game.
@@ -1092,7 +1137,11 @@
 - name: portile
   url: https://www.increpare.com/2008/11/portile/
   info: is a 2D, tile-based take on narbacular drop.
-  
+ 
+- name: Proxima 5
+  url: https://github.com/gdamore/proxima5
+  info: A curses-style space shooter written in Go, using the Tcell package. 
+
 - name: Puyo on Vim
   url: https://github.com/rbtnn/vim-puyo
   info: is a clone of Puyo Puyo game, inside Vim.
@@ -1119,7 +1168,9 @@
   info: is a multiplayer lightcycle game.
   play: ssh sshtron.zachlatta.com
 
-
+- name: Starlanes
+  url: https://web.archive.org/web/20200129140943/http://www.barnsdle.demon.co.uk/game/starlanes.html & https://web.archive.org/web/20150804022307/http://www.barnsdle.demon.co.uk/game/starlanes-1.3.0.tar.gz
+  info: A game of interstellar commerce for 1 to 4 players, written with ncurses.
 
 - name: pyro
   url: http://pyrogue.sourceforge.net/
@@ -1386,6 +1437,10 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: https://github.com/mfey619/Terminal-Frogger
   info: is a frogger-themed game.
   screencast: https://asciinema.org/a/487030
+
+- name: terminal_gem_match
+  url: https://github.com/ATBennett/terminal_gem_match
+  info: A simple match 3 game in the terminal, using the ncurses library.
   
 - name: terminal-phase
   url: https://gitlab.com/dustyweb/terminal-phase
@@ -1528,7 +1583,10 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   url: http://freshmeat.sourceforge.net/projects/tzar
   info: is a roguelike game.
 
-
+- name: udd
+  url: https://github.com/mtklr/udd
+  info: A minimally updated version of Chuck Cranor's UNIX port of the game "dnd", which was originally released on the PLATO system in 1975.
+  wikipedia: https://en.wikipedia.org/wiki/Dnd_(1975_video_game)
 
 - name: ularn
   info: is a roguelike game.
@@ -1730,3 +1788,8 @@ read. Go too slow and you'll get wound up in the scroll and crushed."
   info: python based typing test game.
   url: https://github.com/DriftingOtter/Typr
   screencast: https://asciinema.org/a/617774
+
+- name: zztgo
+  info: a port of Adrian Siekierka’s source code reconstruction of ZZT to Go.
+  url: https://github.com/benhoyt/zztgo
+  wikipedia: https://en.wikipedia.org/wiki/ZZT
