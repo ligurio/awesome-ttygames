@@ -692,6 +692,17 @@
   wikipedia: https://en.wikipedia.org/wiki/Gomoku
   screencast: https://asciinema.org/a/486510
 
+- name: gopnik2
+  url: https://github.com/bolknote/gopnik2
+  info: |
+    «Гопник-2» - это продолжение культовой текстовой игры «Гопник»,
+    жанр которой наиболее близок к жанру Hack and Slash RPG.
+    Во второй части полностью сохранена изначальная концепция,
+    улучшен алгоритм генерирования противников в соответствии
+    с текущим состоянием главного героя, выровнен баланс прохождения
+    и прокачки, добавлено три уровня сложности.
+  screencast: https://asciinema.org/a/631712
+
 - name: gorched
   url: https://github.com/zladovan/gorched
   info: is a a clone of "Scorched Earth" game.
