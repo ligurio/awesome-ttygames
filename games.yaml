@@ -874,6 +874,13 @@
   play: https://lunar69.uber.space/
   screencast: https://asciinema.org/a/605229
 
+- name: landing-rust
+  url: https://github.com/sergev/landing-rust
+  info: |
+    The game where your mission is to safely maneuver your lunar
+    module onto the moon's surface. This is a port to BESM-6,
+    rewritten from Pascal into C++ into Rust module onto the moon's surface.
+
 - name: katamascii
   url: https://github.com/taviso/katamascii
   info: |
