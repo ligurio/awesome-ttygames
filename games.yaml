@@ -736,6 +736,15 @@
     is one of the earliest computer games.
   wikipedia: https://en.wikipedia.org/wiki/Hamurabi
 
+- name: hammurabi
+  url: https://github.com/wzhishen/hammurabi
+  info: |
+    is a very old computer game, in which you are the ruler of
+    ancient Samaria, trying to increase the wealth of your country.
+    Here is the 21st century version of it, which is implemented
+    in Python!
+  wikipedia: https://en.wikipedia.org/wiki/Hamurabi
+
 - name: hangman
   url: https://man.openbsd.org/hangman.6
   info: is a computer version of the game hangman. It's a BSD game.
