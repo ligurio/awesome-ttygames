@@ -175,7 +175,7 @@
 
 - name: bashmaze
   url: https://github.com/phoemur/bashmaze
-  info: A maze game writen completely in shell-script.
+  info: A maze game written completely in shell-script.
   screencast: https://asciinema.org/a/486297
 
 - name: bastet
