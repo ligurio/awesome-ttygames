@@ -23,9 +23,9 @@ for entry in ttygames:
         else:
             header = header + " [Screencast](%s)" % entry['screencast']
 
-    print(header, "\n")
+    print(header + "\n")
     if screencast:
-        print(screencast, "\n")
+        print(screencast + "\n")
 
     if 'info' in entry:
         print("%s" % entry['info'])
