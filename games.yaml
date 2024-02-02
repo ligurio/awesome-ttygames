@@ -4,7 +4,7 @@
   url: https://github.com/hackndev/0verkill
   screencast: https://asciinema.org/a/486195
 
-- name: 2048
+- name: "2048"
   url: https://github.com/mevdschee/2048.c
   info: is a clone of 2048 game.
   # shot: https://raw.githubusercontent.com/mevdschee/2048.c/main/screenshot.png
