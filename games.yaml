@@ -1245,6 +1245,11 @@
   screencast: https://www.youtube.com/watch?v=ALBgsXOq11o
   # shot: https://raw.githubusercontent.com/nanochess/Pillman/master/pillman.png
 
+- name: Ping-Pong-like
+  url: https://github.com/tsoding/pinpog
+  info: is game in Assembly that works without OS.
+  # screencast: https://i.imgur.com/AKEjIKw.gif
+
 - name: pinochle
   info: is a three-player card game.
   play: telnet mud.darkerrealms.org 2000
