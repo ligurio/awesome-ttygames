@@ -36,7 +36,7 @@
   url: http://ascii-patrol.com/
   info: is a clone of "Moon Patrol" game.
   play: http://ascii-patrol.com/area51/ascii-patrol-html5.html
-  # shot: http://ascii-patrol.com/ascii-patrol.gif
+  screencast: http://ascii-patrol.com/ascii-patrol.gif
   # screenshots http://ascii-patrol.com/gallery.html
 
 - name: aburatan
@@ -51,7 +51,7 @@
   url: https://www.adom.de/
   info: is a roguelike game ADOM (Ancient Domains of Mystery).
   wikipedia: https://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery
-  # shot: https://upload.wikimedia.org/wikipedia/ru/6/69/Adom_big.gif
+  screencast: https://upload.wikimedia.org/wikipedia/ru/6/69/Adom_big.gif
 
 # ftp://ftp.simtreas.ru/pub/download/add/adventur.tgz
 - name: adventure
@@ -73,7 +73,7 @@
 - name: allureofthestars
   url: http://www.allureofthestars.com/
   info: is a roguelike and tactical squad combat game.
-  screencast: http://www.allureofthestars.com/play
+  play: http://www.allureofthestars.com/play
 
 - name: angband
   url: https://rephial.org/
@@ -240,7 +240,7 @@
   url: https://github.com/io12/BootMine
   info: Bootable minesweeper game in a 512-byte boot sector.
   wikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
-  # shot: https://raw.githubusercontent.com/io12/BootMine/master/demo.gif
+  screencast: https://raw.githubusercontent.com/io12/BootMine/master/demo.gif
 
 - name: BootRogue
   url: https://github.com/nanochess/bootRogue
@@ -1248,7 +1248,7 @@
 - name: Ping-Pong-like
   url: https://github.com/tsoding/pinpog
   info: is game in Assembly that works without OS.
-  # screencast: https://i.imgur.com/AKEjIKw.gif
+  screencast: https://i.imgur.com/AKEjIKw.gif
 
 - name: pinochle
   info: is a three-player card game.
@@ -1622,15 +1622,15 @@
 - name: terminal-phase
   url: https://gitlab.com/dustyweb/terminal-phase
   info: is a space shooter game.
-  # screencast: https://dustycloud.org/gfx/goodies/terminal-phase-parallax-starfield.gif
+  screencast: https://dustycloud.org/gfx/goodies/terminal-phase-parallax-starfield.gif
 
 - name: tinytetris
   url: https://github.com/taylorconor/tinytetris
   info: is a 80x23 terminal tetris
   wikipedia: https://en.wikipedia.org/wiki/Tetris
   screencast: https://asciinema.org/a/485499
+  # screencast: https://raw.githubusercontent.com/taylorconor/tinytetris/master/animation.gif
   # https://vadim.oversigma.com/Tetris.htm
-  # https://raw.githubusercontent.com/taylorconor/tinytetris/master/animation.gif
 
 - name: tetris
   url: https://man.openbsd.org/tetris.6
