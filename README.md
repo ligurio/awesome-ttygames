@@ -70,7 +70,7 @@ Website: https://git.causal.agency/play
 
 Wikipedia: https://en.wikipedia.org/wiki/2048_(video_game)
 
-**Play**: ```ssh play@ascii.town```
+**Play**: `ssh play@ascii.town`
 
 ### n2048
 
@@ -87,11 +87,13 @@ Wikipedia: https://en.wikipedia.org/wiki/2048_(video_game)
 
 ### ASCII patrol
 
+![Alt Text](http://ascii-patrol.com/ascii-patrol.gif)
+
 is a clone of "Moon Patrol" game.
 
 Website: http://ascii-patrol.com/
 
-**Play**: ```http://ascii-patrol.com/area51/ascii-patrol-html5.html```
+**Play**: `http://ascii-patrol.com/area51/ascii-patrol-html5.html`
 
 ### aburatan
 
@@ -107,6 +109,8 @@ Website: https://code.google.com/archive/p/ad-astra-game/
 
 ### adom
 
+![Alt Text](https://upload.wikimedia.org/wikipedia/ru/6/69/Adom_big.gif)
+
 is a roguelike game ADOM (Ancient Domains of Mystery).
 
 Website: https://www.adom.de/
@@ -121,7 +125,7 @@ Website: https://man.openbsd.org/adventure.6
 
 Wikipedia: https://en.wikipedia.org/wiki/Colossal_Cave_Adventure
 
-**Play**: ```https://grack.com/demos/adventure/```
+**Play**: `https://grack.com/demos/adventure/`
 
 ### alienrl
 
@@ -139,11 +143,13 @@ Website: https://www.alessandropira.org/alienwave/aw.html
 
 Wikipedia: https://en.wikipedia.org/wiki/Space_Invaders
 
-### allureofthestars [Screencast](http://www.allureofthestars.com/play)
+### allureofthestars
 
 is a roguelike and tactical squad combat game.
 
 Website: http://www.allureofthestars.com/
+
+**Play**: `http://www.allureofthestars.com/play`
 
 ### angband
 
@@ -163,7 +169,7 @@ and the only with von Neumann neighbourhoods.
 
 Website: https://oskog97.com/projects/anonymine/
 
-**Play**: ```ssh play@anonymine-demo.oskog97.com -p 2222; Password is "play"```
+**Play**: `ssh play@anonymine-demo.oskog97.com -p 2222; Password is "play"`
 
 ### aop
 
@@ -363,7 +369,7 @@ concepts and mathematical entities as if they were tangible.
 
 Website: https://www.wurb.com/if.php/game/211
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### blocks
 
@@ -381,9 +387,11 @@ Website: http://www.catb.org/~esr/bluemoon/
 
 a black-jack card game.
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### BootMine
+
+![Alt Text](https://raw.githubusercontent.com/io12/BootMine/master/demo.gif)
 
 Bootable minesweeper game in a 512-byte boot sector.
 
@@ -407,7 +415,7 @@ Website: https://man.openbsd.org/boggle.6
 
 Wikipedia: https://en.wikipedia.org/wiki/Boggle
 
-**Play**: ```telnet mud.darkerrealms.org 2000```
+**Play**: `telnet mud.darkerrealms.org 2000`
 
 ### bombardier
 
@@ -494,7 +502,7 @@ Wikipedia: https://en.wikipedia.org/wiki/Canfield_%28solitaire%29
 
 a multi-player card game, written by Hero
 
-**Play**: ```telnet mud.darkerrealms.org 2000```
+**Play**: `telnet mud.darkerrealms.org 2000`
 
 ### cataclysm
 
@@ -526,7 +534,7 @@ Website: https://www.muppetlabs.com/~breadbox/software/cgames.html
 
 is a two-player board game.
 
-**Play**: ```telnet mud.darkerrealms.org 2000```
+**Play**: `telnet mud.darkerrealms.org 2000`
 
 ### chess
 
@@ -548,7 +556,7 @@ is a chess-playing program.
 
 Website: https://www.gnu.org/software/chess/
 
-**Play**: ```telnet freechess.org 5000 (login guest)```
+**Play**: `telnet freechess.org 5000 (login guest)`
 
 ### chs
 
@@ -570,7 +578,7 @@ is a challenging puzzle game.
 
 Website: http://www.level7.org.uk/chroma/
 
-**Play**: ```http://www.level7.org.uk/chroma/chroma.html```
+**Play**: `http://www.level7.org.uk/chroma/chroma.html`
 
 ### ckhet
 
@@ -578,7 +586,7 @@ is a clone of Khet laser board game.
 
 Website: https://mbays.freeshell.org/ckhet/
 
-**Play**: ```ssh ckhet@sshgames.thegonz.net; password: ckhet```
+**Play**: `ssh ckhet@sshgames.thegonz.net; password: ckhet`
 
 ### clines
 
@@ -624,7 +632,7 @@ Wikipedia: https://en.wikipedia.org/wiki/Nibbles_(video_game)
 
 is a two-player slot game.
 
-**Play**: ```telnet mud.darkerrealms.org 2000```
+**Play**: `telnet mud.darkerrealms.org 2000`
 
 ### connect4
 
@@ -648,7 +656,7 @@ is a real-time, multi-player space warfare game.
 
 Website: https://github.com/jtrulson/conquest/
 
-**Play**: ```telnet mud.darkerrealms.org 2000```
+**Play**: `telnet mud.darkerrealms.org 2000`
 
 ### gnu-conquest
 
@@ -762,7 +770,7 @@ is a multiplayer clone of Star Trek game.
 
 Wikipedia: https://en.wikipedia.org/wiki/Star_Trek_%28text_game%29
 
-**Play**: ```telnet decwars.com 1701```
+**Play**: `telnet decwars.com 1701`
 
 ### diablorl
 
@@ -799,7 +807,7 @@ Website: https://dopewars.sourceforge.io/
 
 Wikipedia: https://en.wikipedia.org/wiki/Drug_Wars_(video_game)
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### dsol
 
@@ -936,7 +944,7 @@ is a clone of the popular and addictive solitaire game.
 
 Website: https://www.linusakesson.net/software/freecell.php
 
-**Play**: ```telnet mud.darkerrealms.org 2000```
+**Play**: `telnet mud.darkerrealms.org 2000`
 
 ### freecell-ng
 
@@ -1007,7 +1015,7 @@ Website: http://www.catb.org/esr/galaxis/
 
 11 arcade games
 
-**Play**: ```ssh gameroom@bitreich.org```
+**Play**: `ssh gameroom@bitreich.org`
 
 ### gearhead
 
@@ -1106,7 +1114,7 @@ as you can according to the rules.
 
 Website: http://www.catb.org/~esr/greed/
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### hack
 
@@ -1114,7 +1122,7 @@ is an Exploring The Dungeons of Doom. It's a BSD game.
 
 Website: https://man.openbsd.org/hack.6
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### hack of life
 
@@ -1199,7 +1207,7 @@ shoot down walls and players. It's a BSD game.
 
 Website: https://man.openbsd.org/hunt.6
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### hunt-ng
 
@@ -1207,7 +1215,7 @@ is a fork of BSD hunt with colour and realtime processing.
 
 Website: http://mbays.sdf.org/hunt-ng/
 
-**Play**: ```ssh hunt@sshgames.thegonz.net; password: kalte```
+**Play**: `ssh hunt@sshgames.thegonz.net; password: kalte`
 
 ### hydra slayer
 
@@ -1233,7 +1241,7 @@ is a roguelike game.
 
 Website: http://www.dungeon.name
 
-**Play**: ```telnet dungeon.name 20028```
+**Play**: `telnet dungeon.name 20028`
 
 ### intricacy
 
@@ -1247,9 +1255,11 @@ secure that secret behind a lock of your own devising.
 
 Website: http://mbays.sdf.org/intricacy/
 
-**Play**: ```ssh intricacy@sshgames.thegonz.net; password: intricacy```
+**Play**: `ssh intricacy@sshgames.thegonz.net; password: intricacy`
 
-### Invaders [Screencast](https://www.youtube.com/watch?v=pC976eejfms)
+### Invaders
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/pC976eejfms/0.jpg)](http://www.youtube.com/watch?v=pC976eejfms "Screencast")
 
 is a clone of Space Invaders game in 512 bytes (boot sector).
 
@@ -1275,7 +1285,7 @@ Website: https://github.com/macdice/ascii-invaders
 
 Wikipedia: https://en.wikipedia.org/wiki/Space_Invaders
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### ninvaders
 
@@ -1285,7 +1295,7 @@ Website: http://ninvaders.sourceforge.net/
 
 Wikipedia: https://en.wikipedia.org/wiki/Space_Invaders
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### lagrogue
 
@@ -1295,7 +1305,7 @@ a few turns' delay.
 
 Website: http://mbays.sdf.org/lagrogue/
 
-**Play**: ```ssh lagrogue@sshgames.thegonz.net; password: lag```
+**Play**: `ssh lagrogue@sshgames.thegonz.net; password: lag`
 
 ### larn
 
@@ -1311,7 +1321,7 @@ Website: http://lord.lordlegacy.com/
 
 Wikipedia: https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon
 
-**Play**: ```telnet darkrealms.ca```
+**Play**: `telnet darkrealms.ca`
 
 ### LeTrain
 
@@ -1339,7 +1349,7 @@ module onto the moon's surface.
 
 Website: https://www.cs.brandeis.edu/~storer/LunarLander/LunarLander.html
 
-**Play**: ```https://lunar69.uber.space/```
+**Play**: `https://lunar69.uber.space/`
 
 ### landing-rust
 
@@ -1379,7 +1389,7 @@ Website: https://github.com/antoniovazquezaraujo/LeTrain
 
 is a multi-player card game.
 
-**Play**: ```telnet mud.darkerrealms.org 2000```
+**Play**: `telnet mud.darkerrealms.org 2000`
 
 ### lexter
 
@@ -1416,7 +1426,7 @@ Jinxter, Curruption, Fish!, Myth, and Wonderland
 
 Website: https://magneticscrolls.net/
 
-**Play**: ```ssh -p 8080 -l magnetic magneticscrolls.net```
+**Play**: `ssh -p 8080 -l magnetic magneticscrolls.net`
 
 ### mancala
 
@@ -1435,7 +1445,7 @@ Wikipedia: https://en.wikipedia.org/wiki/Angband_(video_game)
 ### manhunt
 
 
-**Play**: ```telnet on twenex.org```
+**Play**: `telnet on twenex.org`
 
 ### memwatch
 
@@ -1544,7 +1554,7 @@ is a game where you drive some kind of car across the moon's surface.
 
 Website: https://www.seehuhn.de/pages/moon-buggy
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### moria
 
@@ -1584,7 +1594,7 @@ is a game inspired by Star Trek.
 
 Wikipedia: https://en.wikipedia.org/wiki/Star_Trek_%28text_game%29
 
-**Play**: ```telnet mtrek.com 170```
+**Play**: `telnet mtrek.com 170`
 
 ### mutant aliens
 
@@ -1626,7 +1636,7 @@ is a single player dungeon exploration game.
 
 Website: https://www.nethack.org/
 
-**Play**: ```telnet on nethack.alt.org```
+**Play**: `telnet on nethack.alt.org`
 
 ### netris
 
@@ -1642,7 +1652,7 @@ Website: http://web.archive.org/web/20200112024309/https://git.sr.ht/~tslocum/ne
 
 Wikipedia: https://en.wikipedia.org/wiki/Tetris
 
-**Play**: ```ssh netris.rocketnine.space```
+**Play**: `ssh netris.rocketnine.space`
 
 ### c-netris
 
@@ -1792,7 +1802,7 @@ is a two-player board game.
 
 Website: https://web.archive.org/web/20130607084226/http://david.weekly.org/othello/index.php3
 
-**Play**: ```telnet mud.darkerrealms.org 2000```
+**Play**: `telnet mud.darkerrealms.org 2000`
 
 ### ox3d
 
@@ -1810,7 +1820,7 @@ is a clone of Pacman game.
 
 Website: http://slaout.linux62.org/pacman/index.html
 
-**Play**: ```https://www.google.com/doodles/30th-anniversary-of-pac-man```
+**Play**: `https://www.google.com/doodles/30th-anniversary-of-pac-man`
 
 ### pacman
 
@@ -1832,7 +1842,7 @@ is a clone of Pacman game.
 
 Website: http://antimirov.net/it/pacman/
 
-**Play**: ```ssh pacman:pacman@antimirov.net```
+**Play**: `ssh pacman:pacman@antimirov.net`
 
 ### PAG
 
@@ -1862,17 +1872,27 @@ is a interterminal fantasy game. It's a BSD game.
 
 Website: https://man.openbsd.org/phantasia.6
 
-### pillman [Screencast](https://www.youtube.com/watch?v=ALBgsXOq11o)
+### pillman
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ALBgsXOq11o/0.jpg)](http://www.youtube.com/watch?v=ALBgsXOq11o "Screencast")
 
 is a clone of Pacman game in 512 bytes (boot sector or COM file).
 
 Website: https://github.com/nanochess/pillman
 
+### Ping-Pong-like
+
+![Alt Text](https://i.imgur.com/AKEjIKw.gif)
+
+is game in Assembly that works without OS.
+
+Website: https://github.com/tsoding/pinpog
+
 ### pinochle
 
 is a three-player card game.
 
-**Play**: ```telnet mud.darkerrealms.org 2000```
+**Play**: `telnet mud.darkerrealms.org 2000`
 
 ### piskworks
 
@@ -1900,7 +1920,7 @@ Website: https://web.archive.org/web/20080704073046/http://bilious.homelinux.org
 
 is a multi-player five-card draw.
 
-**Play**: ```telnet mud.darkerrealms.org 2000```
+**Play**: `telnet mud.darkerrealms.org 2000`
 
 ### pong
 
@@ -1938,13 +1958,13 @@ Website: https://github.com/pravj/puzzl
 
 is a two-to-four-player board game.
 
-**Play**: ```telnet mud.darkerrealms.org 2000```
+**Play**: `telnet mud.darkerrealms.org 2000`
 
 ### Sgt. Major
 
 is a four-player card game.
 
-**Play**: ```telnet mud.darkerrealms.org 2000```
+**Play**: `telnet mud.darkerrealms.org 2000`
 
 ### shogi
 
@@ -1958,7 +1978,7 @@ is a multiplayer lightcycle game.
 
 Website: http://sshtron.zachlatta.com/
 
-**Play**: ```ssh sshtron.zachlatta.com```
+**Play**: `ssh sshtron.zachlatta.com`
 
 ### Starlanes
 
@@ -2006,7 +2026,7 @@ is a hexagonal map rogue-like.
 
 Website: https://github.com/dpc/rhex
 
-**Play**: ```ssh rhex:rhex123@rhex.dpc.pw```
+**Play**: `ssh rhex:rhex123@rhex.dpc.pw`
 
 ### robots
 
@@ -2018,7 +2038,7 @@ Website: https://man.openbsd.org/robots.6
 
 Wikipedia: https://en.wikipedia.org/wiki/Robots_%28BSD_game%29
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### gnu-robots
 
@@ -2048,7 +2068,7 @@ Exploring The Dungeons of Doom. It's a BSD game.
 
 Website: https://man.netbsd.org/rogue.6
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### roguelike gallery
 
@@ -2056,7 +2076,7 @@ A living museum of roguelike games
 
 Website: https://rlgallery.org
 
-**Play**: ```ssh rodney@rlgallery.org - password is yendor```
+**Play**: `ssh rodney@rlgallery.org - password is yendor`
 
 ### the rougelike!
 
@@ -2162,7 +2182,7 @@ is a simultaneous-move chess.
 
 Website: https://mbays.freeshell.org/simulchess/
 
-**Play**: ```ssh simulchess@sshgames.thegonz.net; password: simulchess```
+**Play**: `ssh simulchess@sshgames.thegonz.net; password: simulchess`
 
 ### singleplayer pong
 
@@ -2170,7 +2190,7 @@ is a dockerized pong for one.
 
 Website: https://github.com/Birkenstab/SSH-Pong
 
-**Play**: ```ssh pong.brk.st```
+**Play**: `ssh pong.brk.st`
 
 ### ski
 
@@ -2190,7 +2210,7 @@ Website: http://slashem.sourceforge.net/
 
 Variant of nethack and others
 
-**Play**: ```ssh slashem@slashem.me```
+**Play**: `ssh slashem@slashem.me`
 
 ### slider
 
@@ -2216,7 +2236,7 @@ Website: https://man.openbsd.org/snake.6
 
 Wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### snake
 
@@ -2226,7 +2246,7 @@ Website: ftp://ftp.simtreas.ru/pub/my/snake.c.gz
 
 Wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### snake
 
@@ -2270,7 +2290,7 @@ Website: ftp://ftp.simtreas.ru/pub/download/pusher.tar.gz
 
 Wikipedia: https://en.wikipedia.org/wiki/Sokoban
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### sokoban
 
@@ -2278,7 +2298,7 @@ is a clone of Sokoban game.
 
 Wikipedia: https://en.wikipedia.org/wiki/Sokoban
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### sokoban-bootsector
 
@@ -2393,7 +2413,7 @@ Several arcade games.
 
 Website: https://github.com/Milek7/telnet-games
 
-**Play**: ```telnet milek7.gq 23```
+**Play**: `telnet milek7.gq 23`
 
 ### terminal-frogger
 
@@ -2410,6 +2430,8 @@ A simple match 3 game in the terminal, using the ncurses library.
 Website: https://github.com/ATBennett/terminal_gem_match
 
 ### terminal-phase
+
+![Alt Text](https://dustycloud.org/gfx/goodies/terminal-phase-parallax-starfield.gif)
 
 is a space shooter game.
 
@@ -2545,7 +2567,7 @@ is a variant of the robots game.
 
 Website: ftp://ftp.nvg.org/pub/mirrors/metalab.unc.edu/games/arcade/torus-src.tar.gz
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### tossug-arena
 
@@ -2605,7 +2627,7 @@ is a clone of Klondike solitaire game.
 
 Website: https://github.com/mpereira/tty-solitaire
 
-**Play**: ```telnet mud.darkerrealms.org 2000```
+**Play**: `telnet mud.darkerrealms.org 2000`
 
 ### typespeed
 
@@ -2748,7 +2770,7 @@ what came to be known as a “text adventure”.
 
 Website: https://github.com/shmup/wander
 
-**Play**: ```https://s3.amazonaws.com/wander1974/wander.html```
+**Play**: `https://s3.amazonaws.com/wander1974/wander.html`
 
 ### wanderer
 
@@ -2756,7 +2778,7 @@ is a game similar to Boulderdash, Repton, XOR and others.
 
 Website: https://www.e271.net/~marina/wanderer.html
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### wargames
 
@@ -2782,7 +2804,7 @@ Website: https://man.openbsd.org/worm.6
 
 Wikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
-**Play**: ```telnet on twenex.org```
+**Play**: `telnet on twenex.org`
 
 ### clidle
 
@@ -2792,7 +2814,7 @@ is a clone of Wordle, Wordle over SSH.
 
 Website: https://github.com/ajeetdsouza/clidle
 
-**Play**: ```ssh clidle.ddns.net -p 3000```
+**Play**: `ssh clidle.ddns.net -p 3000`
 
 ### wordle-cli
 
@@ -2880,7 +2902,7 @@ Website: http://telehack.com/telehack.html
 
 Wikipedia: https://en.wikipedia.org/wiki/Z-machine
 
-**Play**: ```telnet telehack.com (or http://telehack.com/)```
+**Play**: `telnet telehack.com (or http://telehack.com/)`
 
 ### z-day
 
@@ -2910,7 +2932,7 @@ is a game in the same style as robots.
 
 Website: http://www.thistledown.com.au/software/
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### zombies
 
@@ -2930,7 +2952,7 @@ puzzles in the Great Underground Empire.
 
 Website: https://web.archive.org/web/20130121064934/http://www.csd.uwo.ca/Infocom/games.html
 
-**Play**: ```telnet or ssh on sdf.org```
+**Play**: `telnet or ssh on sdf.org`
 
 ### zracer
 
