@@ -1794,7 +1794,8 @@
 - name: unnethack
   url: https://sourceforge.net/projects/unnethack/
   info: |
-    is a fork of NetHack, originally based on the hugely popular
+    is a first game in this roundup is UnNetHack,
+    a fork of NetHack, originally based on the hugely popular
     roguelike game NetHack.
   screencast: https://asciinema.org/a/485489
 
