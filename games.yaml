@@ -60,6 +60,10 @@
   wikipedia: https://en.wikipedia.org/wiki/Colossal_Cave_Adventure
   play: https://grack.com/demos/adventure/
 
+- name: aliens
+  url: https://github.com/troglobit/aliens
+  info: The original UNIX aliens game (Space Invaders clone) by Jude Miller, Cambridge (1979) with curses support by Mark Horton (1981).
+
 - name: alienrl
   url: https://alien.chaosforge.org/
   info: is a tactical roguelike game, inspired by the "Aliens" movie.
@@ -173,16 +177,28 @@
     It's a BSD game.
   wikipedia: https://en.wikipedia.org/wiki/Backgammon
 
+- name: Bash Dungeon
+  url: https://github.com/wolandark/bash-dungeon
+  info: A dungeon crawler game in bash where the dungeons are directories.
+
 - name: bashmaze
   url: https://github.com/phoemur/bashmaze
   info: A maze game written completely in shell-script.
   screencast: https://asciinema.org/a/486297
+
+- name: basic-highnoon
+  url: https://github.com/mad4j/basic-highnoon
+  info: Early mainframe game originally written in 1970 by Christopher Gaylo.
 
 - name: bastet
   url: http://fph.altervista.org/prog/bastet.html
   info: Bastet (short for Bastard Tetris).
   screencast: https://asciinema.org/a/486931
   wikipedia: https://en.wikipedia.org/wiki/Tetris
+
+- name: batnum
+  url: https://github.com/kosaku-damashii/BASIC_Computer_Games-Batnum
+  info: Written in BASIC in 1970, Batnum is a "battle of numbers" against the computer.
 
 - name: battleships
   url: http://www.catb.org/~esr/bs/
@@ -1226,6 +1242,11 @@
     such as moving-platforms,enemies, rules to open/close doors,
     and items.
 
+- name: Penney's Game
+  url: https://github.com/sepandhaghighi/penney
+  info: A binary (head/tail) sequence generating game between two or more players.
+  wikipedia: https://en.wikipedia.org/wiki/Penney%27s_game
+
 - name: Petals Around The Rose
   url: http://tldp.org/LDP/abs/html/contributed-scripts.html#PETALS
   info: is a dice-based puzzle game.
@@ -1271,6 +1292,10 @@
 - name: Poker
   info: is a multi-player five-card draw.
   play: telnet mud.darkerrealms.org 2000
+
+- name: pokete
+  url: https://github.com/lxgr-linux/pokete
+  info: A terminal-based Pokemon-like game.
 
 - name: pong
   url: ftp://80.92.105.240/ftp.ibiblio.org/ibiblio_linux_archive/games/arcade/gnupong-0.14.tar.gz
@@ -1569,6 +1594,11 @@
   wikipedia: https://en.wikipedia.org/wiki/Star_Trek_%28text_game%29
   # shot: https://a.fsdn.com/con/app/proj/sst2k/screenshots/sst.png/max/max/1
 
+- name: st
+  url: https://github.com/mohd-akram/st
+  info: This is a C port of Ken Thompson's Space Travel, ported from PDP-7 assembly, which simulates travel in the Solar System.
+  wikipedia: https://en.wikipedia.org/wiki/Space_Travel_(video_game)
+
 - name: stardork
   url: http://stardork.sourceforge.net/
   info: is a maze game.
@@ -1585,6 +1615,11 @@
 - name: steamband
   url: http://angband.oook.cz/steamband/steamband.html
   info: is a roguelike dungeon exploration simulation game.
+
+- name: stugan
+  url: https://github.com/jhbaarnh/stugan
+  info: The Cottage ("Stugan" in Swedish) is an adventure video game that was initially made available in 1978 for the DEC-10 mainframe computer Oden in Stockholm.
+  wikipedia: https://en.wikipedia.org/wiki/The_Cottage_(video_game)
 
 - name: sumeria
   url: https://www.mipmip.org/C_games/
@@ -1609,6 +1644,10 @@
   url: https://github.com/Milek7/telnet-games
   info: Several arcade games.
   play: telnet milek7.gq 23
+
+- name: termAsteroids
+  url: https://github.com/NoiseByNorthwest/term-asteroids
+  info: A horizontal scrolling arcade shooter for the terminal featuring early 90s style 2D graphics
 
 - name: terminal-frogger
   url: https://github.com/mfey619/Terminal-Frogger
