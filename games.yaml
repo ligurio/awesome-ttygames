@@ -1719,6 +1719,10 @@
   info: is a clone of Threes! game.
   screencast: https://asciinema.org/a/18135
 
+  name: The Game Of Trusters
+  url: https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Game_Of_Trusters
+  info: This is a role-playing game system that is based on relationships, trust, and fusions, the likes seen in comic books/manga and fantasy TV shows, those are the main inspirations for this system. There is a text-based video game adaptation of this system.
+  
 - name: tictactoe
   url: ftp://ftp.ibiblio.org/pub/linux/games/strategy/tictac2-0.6.tgz
   info: is a clone of Tic Tac Toe game.
