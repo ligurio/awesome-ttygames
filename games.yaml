@@ -357,6 +357,11 @@
   url: https://www.muppetlabs.com/~breadbox/software/cgames.html
   info: is a set of sliding-block puzzles.
 
+- name: cemetery-escape
+  url: https://github.com/tom-on-the-internet/cemetery-escape
+  screencast: https://github-production-user-asset-6210df.s3.amazonaws.com/8356936/284032978-01447be1-7eb3-4e15-aa5f-79c662968d70.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250414%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250414T102720Z&X-Amz-Expires=300&X-Amz-Signature=e51a56821a25ef70e92bbf67e35c2e26a71b7e389289dbd3ec3eda4acab5caf1&X-Amz-SignedHeaders=host
+  info: You must escape the cemetery. Search tombstones to find the key. Then head for the door, but watch out for ghosts. Written in Go.
+
 - name: checkers
   info: is a two-player board game.
   play: telnet mud.darkerrealms.org 2000
