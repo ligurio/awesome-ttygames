@@ -48,10 +48,10 @@ for entry in ttygames:
         print(entry['info'])
 
     if 'url' in entry:
-        print("\nWebsite: {}".format(entry['url']))
+        print("\nWebsite: <{}>".format(entry['url']))
 
     if 'wikipedia' in entry:
-        print("\nWikipedia: {}".format(entry['wikipedia']))
+        print("\nWikipedia: <{}>".format(entry['wikipedia']))
 
     if 'play' in entry:
         print("\n**Play**: `{}`".format(entry['play']))
