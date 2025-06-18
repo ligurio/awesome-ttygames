@@ -1234,6 +1234,11 @@
   info: is a clone of Pacman game.
   play: ssh pacman:pacman@antimirov.net
 
+- name: ASCII Pacman
+  url: https://github.com/MarquisdeGeek/pacman
+  info: Yet another clone of Pacman, from back in 2002, written with ncurses (originally on HP-UX).
+  screencast: https://asciinema.org/a/34685
+
 - name: PAG
   url: https://pkgsrc.se/games/pag & http://ftp.lip6.fr/pub/minix/distfiles/local/3.3.0/pag-0.92.tar.gz
   info: |
