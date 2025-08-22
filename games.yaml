@@ -594,6 +594,11 @@
   info: is a text bootsector game.
   screencast: https://asciinema.org/a/487025
 
+- name: fearOfView
+  url: http://mbays.sdf.org/fov/
+  info: is a constrained roguelike (broughlike) about manipulating vision.
+  play: "ssh fov@sshgames.thegonz.net; password: fov"
+
 - name: Fifteen Puzzle
   url: http://tldp.org/LDP/abs/html/contributed-scripts.html#FIFTEEN
   info: |
