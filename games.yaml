@@ -695,6 +695,10 @@
   url: https://github.com/cyphar/ascii-snake
   screencast: https://asciinema.org/a/487004
 
+- name: GitType
+  url: https://github.com/unhappychoice/gittype
+  info: A CLI code-typing game that turns your source code into typing challenges
+  
 - name: gnugo
   url: https://www.gnu.org/software/gnugo/
   info: is the game of Go.
