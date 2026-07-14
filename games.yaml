@@ -395,6 +395,12 @@
   play: "ssh ckhet@sshgames.thegonz.net; password: ckhet"
   # shot: https://mbays.freeshell.org/ckhet/ckhet.png
 
+- name: cli.poker
+  url: https://www.cli.poker
+  info: is a multi-player Texas Hold'em poker game played over SSH.
+  play: ssh cli.poker
+  screencast: https://asciinema.org/a/n0mC6PWjX5hsE7DX
+
 - name: clines
   url: http://web.archive.org/web/20190327173340/http://manticore.2y.net/prj/clines-a.html
   info: is a clone of Color Lines game.
