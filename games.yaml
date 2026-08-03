@@ -242,6 +242,14 @@
 - name: blocks
   info: A block-based puzzle game.
 
+- name: blopotron
+  url: https://github.com/clort81/blopotron
+  info: |
+    Arcade game like Robotron 2048, but in terminal. 
+    UNIQUE FEATURE: Sub-character smooth animation.
+    UNIQUE FEATURE2: Double-size font in terminal.
+    Pure procedural 80s-style C, No ncurses or libs. 
+
 - name: bluemoon
   url: http://www.catb.org/~esr/bluemoon/
   info: The Blue Moon card solitaire.
