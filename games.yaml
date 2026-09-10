@@ -1864,6 +1864,11 @@
   info: is a platform/adventure game.
   screencast: https://asciinema.org/a/486868
 
+- name: VibeWorld
+  url: https://github.com/SorBalda/vibeworld
+  info: is a persistent cyberpunk multiplayer world in the terminal with shared cities, voice chat, and arcade games.
+  screencast: https://raw.githubusercontent.com/SorBalda/vibeworld/main/docs/screenshots/journey.gif
+
 - name: VIper
   url: https://gir.st/viper.html
   info: is a clone of Snake game with hjkl (vi) and cursor key control.
