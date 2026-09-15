@@ -1682,6 +1682,12 @@
   info: is a space shooter game.
   screencast: https://dustycloud.org/gfx/goodies/terminal-phase-parallax-starfield.gif
 
+- name: termon
+  url: https://termon.sh
+  info: is a multiplayer monster-battling game over SSH with original creatures and solo expeditions.
+  screencast: https://termon.sh/gameplay.gif
+  play: ssh termon.sh
+
 - name: tinytetris
   url: https://github.com/taylorconor/tinytetris
   info: is a 80x23 terminal tetris
