@@ -1377,6 +1377,11 @@
   url: http://tldp.org/LDP/abs/html/contributed-scripts.html#QKY
   info: is a Perquackey-type word game.
 
+- name: rdgeneric
+  url: https://github.com/pragyaangaur/Can-It-Run-Minecraft
+  info: is Minecraft rd-132211 rewritten as one freestanding C file, playable in a terminal with half-block truecolor, 256-colour or ASCII graphics and as a shared multiplayer world over telnet.
+  screencast: https://raw.githubusercontent.com/pragyaangaur/Can-It-Run-Minecraft/main/docs/rdgeneric.gif
+
 - name: reversi
   info: is a clone of Othello (Reversi) game.
 
